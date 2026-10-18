@@ -1,0 +1,98 @@
+# Fluently
+
+A responsive English learning website with a beginner-to-advanced study path, practical exercises, and a personal progress dashboard. It runs entirely in the browser and can be hosted on GitHub Pages for free in a public repository.
+
+## Learning features
+
+- 180 guided lessons across A0–C2 and Business English, covering grammar, vocabulary, reading, listening, speaking, and writing.
+- 540 explained lesson questions and 152 vocabulary cards, with chapter search and completion filters.
+- Original reading passages, playable listening scripts, pronunciation practice, and saved notes for every lesson.
+- Short lessons with explanations, examples, exercises, and immediate answer feedback.
+- Writing prompts, word counts, and a simple editing checklist.
+- Speaking practice with conversation scenarios and browser voice tools where supported.
+- Timed assessments and abbreviated IELTS-style practice.
+- Progress tracking saved on the current browser, with a dashboard for study activity.
+- Responsive layouts for phones, tablets, and larger screens.
+
+The progress percentage measures completion of the learning path, including the specialist Business English chapter. Practice activities earn XP and contribute to streaks; study minutes are estimates based on completed activities. It is not a language proficiency certificate or a guarantee of fluency. The curriculum can be expanded through the data files in `curriculum/`.
+
+## Run locally
+
+Requirements: Node.js 20 or newer for building/testing, and Python 3 for the example local server. No packages, API keys, or `npm install` are needed.
+
+From this folder:
+
+```bash
+python3 scripts/serve.py
+```
+
+Open `http://localhost:4173` in your browser. The local server always serves current files without a browser cache. Use a local HTTP server rather than opening `index.html` directly, so JavaScript modules load correctly.
+
+To test and produce a deployment folder:
+
+```bash
+node scripts/compile-curriculum.mjs
+node --test tests/*.test.mjs
+node scripts/build.mjs
+python3 scripts/serve.py --directory dist
+```
+
+The same commands are available as `npm test`, `npm run build`, and `npm run preview` if npm is installed.
+
+## Deploy with GitHub Pages
+
+The code can stay in a private repository. GitHub Pages hosting from a private repository requires a supported paid GitHub plan; GitHub Free supports Pages from public repositories. See [GitHub's Pages requirements](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site). The workflow always tests and builds the website, and deploys only after Pages is configured to use GitHub Actions.
+
+1. Create a new GitHub repository, for example `fluently`. A public repository can use GitHub Pages on GitHub Free.
+2. Upload the **contents of this folder** into the repository root. Include `.github/workflows/deploy.yml`; files beginning with a dot can be hidden in your file manager. Do not upload `dist` or nest all the files inside another `fluently` folder.
+3. Use the branch name `main`. In the repository, open **Settings → Pages → Build and deployment → Source** and select **GitHub Actions**.
+4. Open **Actions → Deploy Fluently to GitHub Pages → Run workflow**. Subsequent pushes to `main` test, build, and deploy automatically.
+5. When deployment finishes, open the website URL from **Settings → Pages** or the workflow's deployment summary. A project site normally uses `https://YOUR-USERNAME.github.io/REPOSITORY/`.
+
+If you prefer Git, create an empty GitHub repository, then run these commands in this folder after replacing the example URL:
+
+```bash
+git init -b main
+git add .
+git commit -m "Build Fluently English learning platform"
+git remote add origin https://github.com/YOUR-USERNAME/fluently.git
+git push -u origin main
+```
+
+Authenticate with GitHub when Git requests it, then complete the Pages settings above. If your repository already has Git history, connect and push that repository instead of running `git init` again. If you use a branch other than `main`, update the branch in `.github/workflows/deploy.yml`.
+
+All application and asset links are relative, so the site supports GitHub project URLs without a build-time base URL. Internal navigation uses URL hashes and does not require server rewrite rules. For Pages permissions and deployment requirements, see [GitHub's official custom workflow guide](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+## Data and browser support
+
+There is no account system, database, paid service, or server-side AI. Progress and saved writing use browser storage on the current device. Clearing site data, using a different browser, or changing the site origin starts a separate learning history. Avoid entering sensitive personal information into practice responses on a shared device.
+
+Audio uses browser speech synthesis; available voices and pronunciation vary by device. Speech recognition depends on browser support, microphone permission, and sometimes an internet connection. Some browsers may process speech through their provider's service. Text prompts remain available when voice tools are unavailable. Use HTTPS on a deployed site for microphone features.
+
+Writing feedback uses lightweight checks such as word count and structure. It does not fully evaluate grammar, meaning, pronunciation, or the quality of an argument. Review your work with a teacher or qualified assessor when you need a reliable assessment.
+
+## IELTS practice
+
+Fluently is an independent learning project and is not affiliated with or endorsed by IELTS. Its short practice activities are original, abbreviated exercises; they do not reproduce a complete official test, and results are practice scores rather than IELTS band scores.
+
+For the current test structure and official preparation material, use [IELTS Academic test information](https://ielts.org/take-a-test/test-types/ielts-academic-test), [official Academic sample questions](https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test), and the [Academic Writing format](https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing). Academic and General Training Reading and Writing differ, so check the test type you intend to take.
+
+## Project files
+
+```text
+index.html                    Page shell and metadata
+styles.css                    Responsive visual design
+src/boot.js                   Startup and loading recovery
+src/app.js                    Dashboard, navigation, lessons, and progress
+curriculum/*.json             Authored lessons, questions, and vocabulary
+src/content.js                Generated browser curriculum
+src/practice.js               Interactive practice tools
+assets/                       Local visual assets
+tests/                        Content integrity checks
+scripts/build.mjs             Dependency-free static build
+.github/workflows/deploy.yml   GitHub Pages deployment
+```
+
+To add lessons, edit `curriculum/core.json` or one of the foundation, intermediate, and advanced/business packs. Keep existing lesson IDs so learners retain completed lessons. Each lesson has a level, skill, teaching sections with examples, questions with explanations, and (for listening) a complete script. Run `node scripts/compile-curriculum.mjs` to regenerate `src/content.js`, then test and build. The compiler validates unique IDs, vocabulary, and answer keys before replacing the current browser curriculum.
+
+Push to `main` to update the hosted website. The GitHub workflow compiles and checks curriculum data before deployment.

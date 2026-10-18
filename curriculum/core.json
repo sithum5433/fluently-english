@@ -1,0 +1,3192 @@
+{
+  "levels": [
+    {
+      "id": "a0",
+      "name": "A0",
+      "title": "Start from zero",
+      "description": "Your first words, greetings, and simple sentences.",
+      "color": "#e99a3c",
+      "icon": "🌱"
+    },
+    {
+      "id": "a1",
+      "name": "A1",
+      "title": "Everyday foundations",
+      "description": "Handle familiar routines, messages, and conversations.",
+      "color": "#6bb98d",
+      "icon": "🌿"
+    },
+    {
+      "id": "a2",
+      "name": "A2",
+      "title": "Find your confidence",
+      "description": "Talk about experiences, travel, and what comes next.",
+      "color": "#58aab8",
+      "icon": "🧭"
+    },
+    {
+      "id": "b1",
+      "name": "B1",
+      "title": "Independent English",
+      "description": "Explain your views and connect ideas with confidence.",
+      "color": "#7a94d1",
+      "icon": "🪁"
+    },
+    {
+      "id": "b2",
+      "name": "B2",
+      "title": "Express yourself clearly",
+      "description": "Build persuasive arguments and begin IELTS-style work.",
+      "color": "#9f83c8",
+      "icon": "✨"
+    },
+    {
+      "id": "c1",
+      "name": "C1",
+      "title": "Advanced expression",
+      "description": "Understand nuance and develop academic communication.",
+      "color": "#c983a4",
+      "icon": "🎯"
+    },
+    {
+      "id": "c2",
+      "name": "C2",
+      "title": "Precision & mastery",
+      "description": "Refine your judgement, flexibility, and professional voice.",
+      "color": "#b49a58",
+      "icon": "🏆"
+    },
+    {
+      "id": "biz",
+      "name": "Biz",
+      "title": "Business English",
+      "description": "Professional communication for the modern workplace.",
+      "color": "#4a90e2",
+      "icon": "💼"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a0-grammar",
+      "level": "a0",
+      "skill": "grammar",
+      "title": "Hello, I am…",
+      "description": "Build your first English sentences with the verb be.",
+      "minutes": 8,
+      "content": [
+        {
+          "heading": "Meet the verb be",
+          "text": "Use be to give a name, describe a person, or say where someone is. The form changes with the subject: I am, you are, he is, she is, it is, we are, they are. A simple statement normally has a subject and a verb.",
+          "examples": [
+            "I am Maya.",
+            "You are a student.",
+            "She is at home."
+          ]
+        },
+        {
+          "heading": "Short forms and negatives",
+          "text": "In conversation, I am becomes I’m, you are becomes you’re, and she is becomes she’s. To make a negative statement, put not after be. Start a yes-or-no question with be, then the subject. Read each pair aloud to hear the change.",
+          "examples": [
+            "I’m happy. / I’m not tired.",
+            "You are ready. → Are you ready?",
+            "Is he a teacher? Yes, he is."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Choose the complete sentence.",
+          "options": [
+            "I are student.",
+            "Am student.",
+            "I a student.",
+            "I am a student."
+          ],
+          "answer": 3,
+          "explanation": "I takes am. A complete sentence includes the subject I and the verb am."
+        },
+        {
+          "prompt": "Maya and Ben ___ at home.",
+          "options": [
+            "is",
+            "am",
+            "are",
+            "be"
+          ],
+          "answer": 2,
+          "explanation": "Maya and Ben means they, so use are."
+        },
+        {
+          "prompt": "Which question is correct?",
+          "options": [
+            "Is you ready?",
+            "Are you ready?",
+            "You are ready?",
+            "Are ready you?"
+          ],
+          "answer": 1,
+          "explanation": "For a standard question with be, put the verb before the subject: Are you ready?"
+        }
+      ]
+    },
+    {
+      "id": "a0-vocabulary",
+      "level": "a0",
+      "skill": "vocabulary",
+      "title": "Words around you",
+      "description": "Name everyday things, people, and numbers.",
+      "minutes": 7,
+      "content": [
+        {
+          "heading": "People and things",
+          "text": "A noun names a person, place, or thing. Begin with words you can see around you: teacher, student, book, pen, door, and chair. Say the word, point to the thing, then use it in a short sentence. Use a before a consonant sound and an before a vowel sound.",
+          "examples": [
+            "a book / a teacher",
+            "an apple / an egg",
+            "This is a chair."
+          ]
+        },
+        {
+          "heading": "One or more than one",
+          "text": "One book is singular. Two books is plural. Most everyday nouns add s in the plural. Learn numbers from one to ten, then use them to count real objects. Some common nouns change differently: one person becomes two people.",
+          "examples": [
+            "one pen → three pens",
+            "one apple → five apples",
+            "one person → two people"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which word names something you can write with?",
+          "options": [
+            "Chair",
+            "Student",
+            "Door",
+            "Pen"
+          ],
+          "answer": 3,
+          "explanation": "A pen is a tool for writing."
+        },
+        {
+          "prompt": "Choose the correct phrase.",
+          "options": [
+            "a apple",
+            "an book",
+            "three book",
+            "an apple"
+          ],
+          "answer": 3,
+          "explanation": "Apple begins with a vowel sound, so use an."
+        },
+        {
+          "prompt": "What is the plural of person?",
+          "options": [
+            "Peoples",
+            "People",
+            "Persons only",
+            "Persones"
+          ],
+          "answer": 1,
+          "explanation": "The usual plural for individual human beings is people: two people."
+        }
+      ]
+    },
+    {
+      "id": "a0-reading",
+      "level": "a0",
+      "skill": "reading",
+      "title": "Read your first story",
+      "description": "Find names, places, and simple facts in a short text.",
+      "minutes": 8,
+      "content": [
+        {
+          "heading": "Read for the main idea",
+          "text": "Read this short introduction twice: “My name is Ali. I am a student. I live in Kandy. My friend is Sara. She is a teacher.” On your first reading, ask who the text is about. You do not need to translate every word to understand the main idea.",
+          "examples": [
+            "The text introduces Ali.",
+            "Ali is a student.",
+            "Sara is Ali’s friend."
+          ]
+        },
+        {
+          "heading": "Look for a specific fact",
+          "text": "On your second reading, look for one piece of information at a time. Who asks about a person; where asks about a place; what often asks about a thing or job. Go back to the text to check your answer instead of guessing from memory.",
+          "examples": [
+            "Who is a teacher? Sara.",
+            "Where does Ali live? In Kandy.",
+            "What is Ali? A student."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "According to the text, who is a student?",
+          "options": [
+            "Kandy",
+            "Ali",
+            "The teacher",
+            "Sara"
+          ],
+          "answer": 1,
+          "explanation": "The text says, “My name is Ali. I am a student.”"
+        },
+        {
+          "prompt": "Where does Ali live?",
+          "options": [
+            "Kandy",
+            "Colombo",
+            "London",
+            "The text does not say"
+          ],
+          "answer": 0,
+          "explanation": "Ali says, “I live in Kandy.”"
+        },
+        {
+          "prompt": "Which sentence matches the text?",
+          "options": [
+            "Ali is a teacher.",
+            "Sara is Ali’s sister.",
+            "Sara lives in London.",
+            "Sara is a teacher."
+          ],
+          "answer": 3,
+          "explanation": "The final sentence describes Sara: “She is a teacher.”"
+        }
+      ]
+    },
+    {
+      "id": "a0-listening",
+      "level": "a0",
+      "skill": "listening",
+      "title": "Listen: meet a new friend",
+      "description": "Hear a greeting and pick out a name and number.",
+      "minutes": 7,
+      "listeningText": "Hello! My name is Nina. I am a student. I am twenty years old. My class is in room four. Nice to meet you!",
+      "content": [
+        {
+          "heading": "Listen once for the situation",
+          "text": "Use the play button to hear Nina’s introduction. First listen without pausing. Is the speaker introducing herself, buying food, or asking for directions? Your first goal is to understand the situation. A greeting such as hello often tells you a conversation is beginning.",
+          "examples": [
+            "Hello! My name is Nina.",
+            "Nice to meet you.",
+            "Hi! I’m Ben."
+          ]
+        },
+        {
+          "heading": "Listen again for details",
+          "text": "On your second listen, focus on a name, age, or room number. Say the numbers four, fourteen, and forty slowly; they are different words. If you miss something in real life, ask the speaker to repeat it. Listening improves through repeated, focused practice.",
+          "examples": [
+            "My class is in room four.",
+            "Could you say that again, please?",
+            "How do you spell your name?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the speaker’s name?",
+          "options": [
+            "Nina",
+            "Sara",
+            "Tina",
+            "Mina"
+          ],
+          "answer": 0,
+          "explanation": "The introduction begins, “My name is Nina.”"
+        },
+        {
+          "prompt": "How old is Nina?",
+          "options": [
+            "Forty",
+            "Two",
+            "Twelve",
+            "Twenty"
+          ],
+          "answer": 3,
+          "explanation": "She says, “I am twenty years old.”"
+        },
+        {
+          "prompt": "Which room is her class in?",
+          "options": [
+            "Room four",
+            "Room fourteen",
+            "Room two",
+            "Room forty"
+          ],
+          "answer": 0,
+          "explanation": "The class is in room four. Listen for the whole number."
+        }
+      ]
+    },
+    {
+      "id": "a0-writing",
+      "level": "a0",
+      "skill": "writing",
+      "title": "Your first three sentences",
+      "description": "Use capitals, spaces, and full stops to introduce yourself.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Give every sentence a clear shape",
+          "text": "Start a sentence with a capital letter and end a statement with a full stop. Leave a space between words. The word I is always capitalized, even in the middle of a sentence. Names and places also begin with capitals. These small habits make your message easy to read.",
+          "examples": [
+            "My name is Ravi.",
+            "I am a student.",
+            "I live in Galle."
+          ]
+        },
+        {
+          "heading": "Write, read, and check",
+          "text": "Write three true sentences: your name, where you live, and one thing about yourself. Read each one aloud. Check that it has a subject and a verb, begins with a capital, and ends with punctuation. You can replace the examples with your own details.",
+          "examples": [
+            "My name is ___.",
+            "I live in ___.",
+            "I am happy to learn English."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence uses capitals correctly?",
+          "options": [
+            "my Name Is Maya.",
+            "my name is maya.",
+            "My name is maya.",
+            "My name is Maya."
+          ],
+          "answer": 3,
+          "explanation": "Capitalize the first word and the person’s name: My name is Maya."
+        },
+        {
+          "prompt": "Choose the best way to finish this statement: “I live in Galle”",
+          "options": [
+            "I live in Galle?",
+            "i live in galle",
+            "I live inGalle",
+            "I live in Galle."
+          ],
+          "answer": 3,
+          "explanation": "A statement ends with a full stop, and the words need spaces."
+        },
+        {
+          "prompt": "Which is a complete sentence?",
+          "options": [
+            "My friend.",
+            "In Colombo.",
+            "A new student.",
+            "I am a new student."
+          ],
+          "answer": 3,
+          "explanation": "I am a new student has a subject, I, and a verb, am."
+        }
+      ]
+    },
+    {
+      "id": "a0-speaking",
+      "level": "a0",
+      "skill": "speaking",
+      "title": "Say hello with confidence",
+      "description": "Practice a short, friendly introduction and take turns.",
+      "minutes": 8,
+      "content": [
+        {
+          "heading": "Learn a small conversation",
+          "text": "You can start speaking with a few useful chunks. A chunk is a group of words you remember together. Say hello, give your name, and ask the other person’s name. Practice slowly first, then say the conversation again with a natural pause after each sentence.",
+          "examples": [
+            "Hello, I’m Maya. What’s your name?",
+            "I’m Sam. Nice to meet you.",
+            "Nice to meet you, too."
+          ]
+        },
+        {
+          "heading": "Be clear and keep going",
+          "text": "You do not need a perfect accent to communicate. Speak at a comfortable speed and make your key words clear. If you do not understand, ask for repetition. Practice your introduction out loud three times, changing one detail each time. If recording is available, listen and notice one thing to improve.",
+          "examples": [
+            "Sorry, could you repeat that?",
+            "I’m from Sri Lanka.",
+            "And you?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Someone says, “Nice to meet you.” What is a natural reply?",
+          "options": [
+            "Where is the door?",
+            "I am twenty.",
+            "Nice to meet you, too.",
+            "It is a pen."
+          ],
+          "answer": 2,
+          "explanation": "Nice to meet you, too is a friendly response when meeting someone."
+        },
+        {
+          "prompt": "You did not understand a name. What can you say?",
+          "options": [
+            "Good night.",
+            "I know everything.",
+            "You are wrong.",
+            "Sorry, could you repeat that?"
+          ],
+          "answer": 3,
+          "explanation": "Politely ask the person to repeat the information."
+        },
+        {
+          "prompt": "Which question invites the other person to introduce themselves?",
+          "options": [
+            "My name is Sam.",
+            "What’s your name?",
+            "This is my bag.",
+            "I am here."
+          ],
+          "answer": 1,
+          "explanation": "What’s your name? asks the other person for their name."
+        }
+      ]
+    },
+    {
+      "id": "a1-grammar",
+      "level": "a1",
+      "skill": "grammar",
+      "title": "Talk about your routine",
+      "description": "Use the present simple for habits, facts, and questions.",
+      "minutes": 11,
+      "content": [
+        {
+          "heading": "Habits and everyday facts",
+          "text": "Use the present simple for regular activities and facts. Use the base verb with I, you, we, and they. Add s or es with he, she, and it. Frequency words such as usually and often normally go before the main verb, but after be.",
+          "examples": [
+            "I study every evening.",
+            "She studies every evening.",
+            "He is usually early."
+          ]
+        },
+        {
+          "heading": "Questions and negatives with do",
+          "text": "Use do or does to ask present simple questions. Use don’t or doesn’t for negatives. After does or doesn’t, the main verb returns to its base form. Ask about a partner’s routine and answer with a time or frequency to make your meaning more useful.",
+          "examples": [
+            "Do you work on Saturdays?",
+            "Does she live near here?",
+            "He doesn’t drink coffee."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "My sister ___ English every day.",
+          "options": [
+            "studies",
+            "is study",
+            "study",
+            "studying"
+          ],
+          "answer": 0,
+          "explanation": "My sister is she, so use studies in the present simple."
+        },
+        {
+          "prompt": "Choose the correct question.",
+          "options": [
+            "He does work here?",
+            "Does he work here?",
+            "Does he works here?",
+            "Do he work here?"
+          ],
+          "answer": 1,
+          "explanation": "Use does with he and the base verb work."
+        },
+        {
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "She doesn’t likes tea.",
+            "She not like tea.",
+            "She doesn’t like tea.",
+            "She don’t like tea."
+          ],
+          "answer": 2,
+          "explanation": "Doesn’t already marks the third person, so the main verb stays like."
+        }
+      ]
+    },
+    {
+      "id": "a1-vocabulary",
+      "level": "a1",
+      "skill": "vocabulary",
+      "title": "Food, home & your neighbourhood",
+      "description": "Use practical words and natural combinations every day.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Learn words in useful pairs",
+          "text": "Learn a word together with words that often go with it. We make breakfast, take a bus, and buy groceries. A supermarket sells food and household items; a pharmacy sells medicines; a library lends books. Imagine your own neighbourhood as you use each word.",
+          "examples": [
+            "I buy groceries at the supermarket.",
+            "The pharmacy is next to the bank.",
+            "I take a bus to work."
+          ]
+        },
+        {
+          "heading": "Countable and uncountable nouns",
+          "text": "You can count apples and eggs: one apple, two eggs. Words such as rice, water, and bread are usually uncountable when we describe food in general. Use some or a quantity phrase such as a bottle of water. In negative sentences and questions, any is often useful.",
+          "examples": [
+            "We have some rice.",
+            "Do you have any eggs?",
+            "I’d like a bottle of water."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Where would you normally borrow a book?",
+          "options": [
+            "A pharmacy",
+            "A library",
+            "A bank",
+            "A supermarket"
+          ],
+          "answer": 1,
+          "explanation": "A library lets people borrow books."
+        },
+        {
+          "prompt": "Choose the natural phrase.",
+          "options": [
+            "buy a groceries",
+            "do breakfast",
+            "make a bus",
+            "take a bus"
+          ],
+          "answer": 3,
+          "explanation": "Take a bus is a common combination for travelling by bus."
+        },
+        {
+          "prompt": "Which request is correct?",
+          "options": [
+            "Three breads of water, please.",
+            "A bottle of water, please.",
+            "Two waters of bottle, please.",
+            "A rice, please."
+          ],
+          "answer": 1,
+          "explanation": "A bottle of water uses a countable container to measure water."
+        }
+      ]
+    },
+    {
+      "id": "a1-reading",
+      "level": "a1",
+      "skill": "reading",
+      "title": "Read the message, find the plan",
+      "description": "Understand practical texts, opening times, and invitations.",
+      "minutes": 9,
+      "content": [
+        {
+          "heading": "Read a useful everyday message",
+          "text": "Read this message: “Hi Ana! Let’s meet at the library on Saturday at 10 a.m. Bring your English notebook. The café next door is closed, so we can have lunch at my house afterward. —Leo.” Look for the people, place, day, and time before you focus on smaller details.",
+          "examples": [
+            "Who is writing? Leo.",
+            "Where will they meet? At the library.",
+            "When? Saturday at 10 a.m."
+          ]
+        },
+        {
+          "heading": "Notice a change or a reason",
+          "text": "Small words connect important details. So often introduces a result; because gives a reason; but shows a contrast. In Leo’s message, the closed café explains why lunch is at home. Do not assume that a familiar place is the final meeting place: check the actual words.",
+          "examples": [
+            "The café is closed, so lunch is at Leo’s house.",
+            "Bring your English notebook.",
+            "Afterward means after the library visit."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Where will Ana and Leo first meet?",
+          "options": [
+            "At school",
+            "At Leo’s house",
+            "At the café",
+            "At the library"
+          ],
+          "answer": 3,
+          "explanation": "Leo says, “Let’s meet at the library.”"
+        },
+        {
+          "prompt": "What should Ana bring?",
+          "options": [
+            "A café menu",
+            "An English notebook",
+            "Lunch for everyone",
+            "A library sign"
+          ],
+          "answer": 1,
+          "explanation": "The message directly asks Ana to bring her English notebook."
+        },
+        {
+          "prompt": "Why will they have lunch at Leo’s house?",
+          "options": [
+            "The café next door is closed.",
+            "The library is closed.",
+            "Ana works there.",
+            "The café is too expensive."
+          ],
+          "answer": 0,
+          "explanation": "The word so links the closed café to their plan to eat at Leo’s house."
+        }
+      ]
+    },
+    {
+      "id": "a1-listening",
+      "level": "a1",
+      "skill": "listening",
+      "title": "Listen: a change of plan",
+      "description": "Understand times, days, and a simple corrected arrangement.",
+      "minutes": 9,
+      "listeningText": "Hi Eva, it is Tom. Our English class is usually on Tuesday, but this week it is on Thursday. It starts at half past five, not five o’clock. Please meet me outside the library at five fifteen. Bring your notebook. See you there!",
+      "content": [
+        {
+          "heading": "Listen for the final information",
+          "text": "Speakers sometimes mention an old plan before giving the new one. Listen for but, actually, or not: they can signal a correction. In this message, first identify what Tom is talking about. Then replay it and write the final day, class time, and meeting time.",
+          "examples": [
+            "usually on Tuesday, but this week on Thursday",
+            "half past five = 5:30",
+            "five fifteen = 5:15"
+          ]
+        },
+        {
+          "heading": "Separate meeting time and start time",
+          "text": "A message can contain more than one useful time. Label your notes: meet, start, and finish. This prevents you from choosing a correct number for the wrong event. After listening, repeat the plan in one sentence using your own words.",
+          "examples": [
+            "Meet: outside the library, 5:15.",
+            "Class starts: 5:30 on Thursday.",
+            "Tom asks Eva to bring a notebook."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which day is the class this week?",
+          "options": [
+            "Wednesday",
+            "Friday",
+            "Tuesday",
+            "Thursday"
+          ],
+          "answer": 3,
+          "explanation": "Tuesday is the usual day, but this week the class is on Thursday."
+        },
+        {
+          "prompt": "What time does the class start?",
+          "options": [
+            "5:00",
+            "5:15",
+            "5:30",
+            "6:30"
+          ],
+          "answer": 2,
+          "explanation": "Half past five means 5:30."
+        },
+        {
+          "prompt": "Where should Eva meet Tom?",
+          "options": [
+            "At the bus stop",
+            "Outside the library",
+            "Inside the classroom",
+            "At Tom’s house"
+          ],
+          "answer": 1,
+          "explanation": "Tom says, “Please meet me outside the library.”"
+        }
+      ]
+    },
+    {
+      "id": "a1-writing",
+      "level": "a1",
+      "skill": "writing",
+      "title": "Write a friendly message",
+      "description": "Make an invitation with a clear place, time, and question.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Give your reader the essentials",
+          "text": "A helpful invitation says what you want to do, where, and when. Begin with a greeting and use short sentences. Finish with a question so the reader knows how to reply. Your message can sound friendly without using complicated words.",
+          "examples": [
+            "Hi Amira! Would you like to study together?",
+            "Let’s meet at the library on Friday at 4 p.m.",
+            "Are you free then?"
+          ]
+        },
+        {
+          "heading": "Link ideas and check the details",
+          "text": "Use and to add information, but for a contrast, and because for a reason. Before sending your message, check the person’s name, day, time, and place. Write a 40–60 word invitation to a friend, including what they should bring and how they can reply.",
+          "examples": [
+            "Bring your notebook and a pen.",
+            "I can come on Friday, but I can’t come on Saturday.",
+            "Let’s go early because the library closes at six."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which invitation gives the clearest plan?",
+          "options": [
+            "Meet sometime.",
+            "Come there.",
+            "Let’s meet at the library on Friday at 4 p.m.",
+            "Maybe we study."
+          ],
+          "answer": 2,
+          "explanation": "The sentence gives an activity, a place, a day, and a time."
+        },
+        {
+          "prompt": "Choose the best connector: “I can come on Friday, ___ I can’t come on Saturday.”",
+          "options": [
+            "and then",
+            "so that",
+            "because",
+            "but"
+          ],
+          "answer": 3,
+          "explanation": "But joins two contrasting ideas."
+        },
+        {
+          "prompt": "Which ending invites a useful reply?",
+          "options": [
+            "Are you free at that time?",
+            "The end.",
+            "A notebook is blue.",
+            "Yesterday was Monday."
+          ],
+          "answer": 0,
+          "explanation": "The question lets your friend confirm whether the plan works."
+        }
+      ]
+    },
+    {
+      "id": "a1-speaking",
+      "level": "a1",
+      "skill": "speaking",
+      "title": "Order, ask & say thank you",
+      "description": "Practice polite requests in cafés and everyday places.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Ask politely and specifically",
+          "text": "Use I’d like to request something and could I to ask politely. Add please naturally. A short, clear request is enough. In a café, say the item and quantity; in a shop, name the item or ask where it is. Practice both the customer and assistant roles.",
+          "examples": [
+            "I’d like a tea, please.",
+            "Could I have two sandwiches?",
+            "Excuse me, where is the bus stop?"
+          ]
+        },
+        {
+          "heading": "Check that you understood",
+          "text": "Repeat important information to confirm it. If a price, size, or direction is unclear, ask a short follow-up question. Say thank you when the other person helps. Focus on communicating the request clearly; you can improve pronunciation by repeating the same conversation with different items.",
+          "examples": [
+            "Is that five pounds?",
+            "A small coffee, please.",
+            "Thank you for your help."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which is a polite café order?",
+          "options": [
+            "You have coffee? Me.",
+            "Give coffee now.",
+            "I’d like a coffee, please.",
+            "Coffee has a cup."
+          ],
+          "answer": 2,
+          "explanation": "I’d like… please is a standard polite request."
+        },
+        {
+          "prompt": "You did not hear the price. What is the best response?",
+          "options": [
+            "The shop is open.",
+            "Could you say the price again, please?",
+            "No names, thank you.",
+            "I am a student."
+          ],
+          "answer": 1,
+          "explanation": "Ask directly and politely for the missing information."
+        },
+        {
+          "prompt": "Which phrase politely gets a stranger’s attention?",
+          "options": [
+            "Go away.",
+            "Excuse me.",
+            "Yesterday!",
+            "What!"
+          ],
+          "answer": 1,
+          "explanation": "Excuse me is a useful way to begin a polite request for help."
+        }
+      ]
+    },
+    {
+      "id": "a2-grammar",
+      "level": "a2",
+      "skill": "grammar",
+      "title": "Yesterday, today, tomorrow",
+      "description": "Describe past events and future intentions clearly.",
+      "minutes": 13,
+      "content": [
+        {
+          "heading": "Finished actions in the past",
+          "text": "Use the past simple for a finished action at a finished time. Regular verbs often add ed; common irregular forms include went, saw, and bought. Use did for questions and didn’t for negatives, followed by the base verb. A time phrase helps your listener place the event.",
+          "examples": [
+            "We visited Galle last weekend.",
+            "She went by train.",
+            "Did you enjoy the journey?"
+          ]
+        },
+        {
+          "heading": "Plans and intentions",
+          "text": "Use be going to plus a base verb for an intention or a plan already made. Keep the form of be matched to the subject. Compare your last weekend with your next one. Time expressions such as yesterday and next Saturday make the change of tense easier to follow.",
+          "examples": [
+            "I’m going to study tonight.",
+            "They aren’t going to travel tomorrow.",
+            "Are you going to call her?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "We ___ to the beach last Sunday.",
+          "options": [
+            "went",
+            "going",
+            "go",
+            "are going"
+          ],
+          "answer": 0,
+          "explanation": "Last Sunday is a finished past time; the past of go is went."
+        },
+        {
+          "prompt": "Choose the correct past question.",
+          "options": [
+            "Did she buy a ticket?",
+            "Did she bought a ticket?",
+            "Does she bought a ticket?",
+            "Was she buy a ticket?"
+          ],
+          "answer": 0,
+          "explanation": "After did, use the base form buy."
+        },
+        {
+          "prompt": "Which sentence describes a future intention?",
+          "options": [
+            "I have a visitor.",
+            "I’m going to visit her tomorrow.",
+            "I visited her yesterday.",
+            "I visit her every week."
+          ],
+          "answer": 1,
+          "explanation": "Be going to plus visit describes a planned future action."
+        }
+      ]
+    },
+    {
+      "id": "a2-vocabulary",
+      "level": "a2",
+      "skill": "vocabulary",
+      "title": "Travel without getting lost",
+      "description": "Learn transport, accommodation, and travel problem vocabulary.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "From booking to arrival",
+          "text": "Travel words become easier when you learn them in order: book a ticket, pack a suitcase, check in, board the train, and arrive at your destination. A departure is when a service leaves; an arrival is when it reaches a place. Use the correct preposition with common destinations.",
+          "examples": [
+            "The train departs at nine.",
+            "We arrived at the station early.",
+            "They arrived in Paris yesterday."
+          ]
+        },
+        {
+          "heading": "Explain a small problem",
+          "text": "A delay means something happens later than planned; a cancellation means it will not happen. A reservation is an arrangement to keep a room or seat for you. State the problem, give an identifying detail, then ask for help. Learn complete phrases so you can use them quickly.",
+          "examples": [
+            "My train is delayed.",
+            "I have a reservation under the name Perera.",
+            "Could you help me find platform three?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "A train is delayed. What does that mean?",
+          "options": [
+            "It has no passengers.",
+            "It will never run again.",
+            "It has already arrived early.",
+            "It will leave or arrive later than planned."
+          ],
+          "answer": 3,
+          "explanation": "A delay changes the timing; it does not necessarily mean a cancellation."
+        },
+        {
+          "prompt": "Choose the natural phrase.",
+          "options": [
+            "arrive to Paris",
+            "do a suitcase",
+            "make the station",
+            "book a ticket"
+          ],
+          "answer": 3,
+          "explanation": "Book a ticket means reserve or buy a place for a journey."
+        },
+        {
+          "prompt": "Which sentence uses arrive correctly?",
+          "options": [
+            "We arrived on Paris.",
+            "We arrived in the platform.",
+            "We arrived at the station.",
+            "We arrived to the station."
+          ],
+          "answer": 2,
+          "explanation": "Use arrive at for a specific place such as a station; use arrive in for a city or country."
+        }
+      ]
+    },
+    {
+      "id": "a2-reading",
+      "level": "a2",
+      "skill": "reading",
+      "title": "Compare two useful options",
+      "description": "Read for conditions, prices, and the best fit.",
+      "minutes": 11,
+      "content": [
+        {
+          "heading": "Read the details that matter",
+          "text": "Compare these classes. “Morning English: Monday and Wednesday, 9–10 a.m., £40 per month. Beginners welcome. Online only. Evening English: Tuesday and Thursday, 6–7:30 p.m., £55 per month. Some English needed. Classroom lessons; materials included.” First decide what you need, then locate details that match.",
+          "examples": [
+            "Morning English is cheaper.",
+            "Evening English meets in a classroom.",
+            "Both classes meet twice a week."
+          ]
+        },
+        {
+          "heading": "Do not add information",
+          "text": "A text may not answer every question. Materials are explicitly included in the evening class, but the text does not say whether they are included in the morning class. Separate a stated fact from an assumption. When comparing choices, mention both your requirement and the supporting detail.",
+          "examples": [
+            "A complete beginner can choose Morning English.",
+            "The text does not name either teacher.",
+            "Someone working mornings may prefer the evening option."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which class explicitly welcomes complete beginners?",
+          "options": [
+            "Morning English",
+            "Neither class",
+            "Evening English",
+            "Both classes"
+          ],
+          "answer": 0,
+          "explanation": "Morning English says “Beginners welcome”; evening students need some English."
+        },
+        {
+          "prompt": "How much more does Evening English cost each month?",
+          "options": [
+            "£40",
+            "£55",
+            "£95",
+            "£15"
+          ],
+          "answer": 3,
+          "explanation": "£55 minus £40 is £15."
+        },
+        {
+          "prompt": "What can we say about materials for Morning English?",
+          "options": [
+            "They are definitely free.",
+            "They cost £15.",
+            "Students cannot use them.",
+            "The text does not say."
+          ],
+          "answer": 3,
+          "explanation": "Only the evening description mentions materials. Missing information is not the same as a negative fact."
+        }
+      ]
+    },
+    {
+      "id": "a2-listening",
+      "level": "a2",
+      "skill": "listening",
+      "title": "Listen: find your way",
+      "description": "Follow directions and notice a temporary change.",
+      "minutes": 10,
+      "listeningText": "To get to the museum, walk straight along King Street. Turn left at the bank, then take the second right. The museum is opposite the park. The main entrance is closed today, so use the side entrance beside the café. The museum closes at four thirty this afternoon, an hour earlier than usual.",
+      "content": [
+        {
+          "heading": "Turn words into a route",
+          "text": "For directions, listen for action words and landmarks. Straight, left, right, opposite, and beside tell you how places relate to each other. Sketch a simple route while listening. A landmark such as a bank is often easier to remember than a street number.",
+          "examples": [
+            "Go straight along King Street.",
+            "Turn left at the bank.",
+            "Opposite means on the other side, facing it."
+          ]
+        },
+        {
+          "heading": "Catch the practical change",
+          "text": "Announcements often add an exception after the main information. Listen for today, closed, instead, and earlier. These details can change what you need to do. Replay the final sentences and check the entrance and closing time separately.",
+          "examples": [
+            "Use the side entrance beside the café.",
+            "Today’s closing time: 4:30 p.m.",
+            "An hour earlier means one hour before the usual time."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Where should you turn left?",
+          "options": [
+            "At the bank",
+            "At the café",
+            "At the park gate",
+            "At the museum"
+          ],
+          "answer": 0,
+          "explanation": "The direction is “Turn left at the bank.”"
+        },
+        {
+          "prompt": "Which entrance should visitors use today?",
+          "options": [
+            "Any entrance on King Street",
+            "The main entrance",
+            "The entrance inside the park",
+            "The side entrance beside the café"
+          ],
+          "answer": 3,
+          "explanation": "The main entrance is closed, so visitors should use the side entrance."
+        },
+        {
+          "prompt": "What time does the museum close today?",
+          "options": [
+            "4:00 p.m.",
+            "4:30 p.m.",
+            "3:30 p.m.",
+            "5:30 p.m."
+          ],
+          "answer": 1,
+          "explanation": "The speaker says four thirty. The usual closing time is one hour later."
+        }
+      ]
+    },
+    {
+      "id": "a2-writing",
+      "level": "a2",
+      "skill": "writing",
+      "title": "Tell a short story",
+      "description": "Organize a real experience with a beginning, middle, and end.",
+      "minutes": 15,
+      "content": [
+        {
+          "heading": "Put events in a clear order",
+          "text": "A short personal story needs a setting, events, and a result. Begin with when and where. Use the past simple for the main finished events. Link them with first, then, after that, and finally. Choose only the details your reader needs to follow what happened.",
+          "examples": [
+            "Last Saturday, I visited a friend in Galle.",
+            "First, we explored the old town.",
+            "After that, we had lunch near the sea."
+          ]
+        },
+        {
+          "heading": "Add a feeling and revise",
+          "text": "A final sentence about your feelings gives the story a natural ending. Write 80–100 words about a journey, celebration, or surprising day. Then check the order of events, past verb forms, spelling, and punctuation. Replace repeated words only when another word keeps the same meaning.",
+          "examples": [
+            "We missed the bus, so we walked home.",
+            "I felt tired, but I was happy.",
+            "It was a day I will remember."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which is the strongest opening for a short past story?",
+          "options": [
+            "And then this.",
+            "Nice weather.",
+            "Last Sunday, my family visited the beach.",
+            "Finally, it ended."
+          ],
+          "answer": 2,
+          "explanation": "The opening establishes when, who, and where."
+        },
+        {
+          "prompt": "Choose the logical order.",
+          "options": [
+            "Then → finally → first",
+            "Finally → then → first",
+            "First → then → finally",
+            "Finally → first → then"
+          ],
+          "answer": 2,
+          "explanation": "First begins the sequence, then adds the next event, and finally introduces the last event."
+        },
+        {
+          "prompt": "Which ending adds a feeling about the experience?",
+          "options": [
+            "I felt proud because I tried something new.",
+            "The bus has four wheels.",
+            "Saturday is a day.",
+            "I have a bag."
+          ],
+          "answer": 0,
+          "explanation": "The sentence reflects on how the experience affected the writer."
+        }
+      ]
+    },
+    {
+      "id": "a2-speaking",
+      "level": "a2",
+      "skill": "speaking",
+      "title": "Describe it, compare it",
+      "description": "Talk about places and experiences with useful supporting details.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Give more than a one-word answer",
+          "text": "Answer the question directly, add a reason, and give a small example. This simple pattern helps a listener follow you. Practice describing your town, a favourite meal, or a recent trip for 30–45 seconds. Pause between ideas instead of rushing through one long sentence.",
+          "examples": [
+            "I like my town because it is peaceful.",
+            "For example, there is a quiet park near my house.",
+            "Last week, I went there with my sister."
+          ]
+        },
+        {
+          "heading": "Compare with a clear basis",
+          "text": "Use adjective plus er for many short adjectives and more plus adjective for many longer ones. Use than to introduce the second thing. Name the feature you are comparing: price, size, comfort, or speed. Remember common irregular forms: good becomes better and bad becomes worse.",
+          "examples": [
+            "The train is cheaper than a taxi.",
+            "This hotel is more comfortable.",
+            "The new route is better for me."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which answer develops “Do you like your town?” best?",
+          "options": [
+            "Yes.",
+            "Yes, because it is peaceful and I can walk to a lovely park.",
+            "Town.",
+            "I do. Yes. Yes."
+          ],
+          "answer": 1,
+          "explanation": "It answers directly and supports the answer with a reason and detail."
+        },
+        {
+          "prompt": "Choose the correct comparison.",
+          "options": [
+            "A train is cheapest than a taxi.",
+            "A train is cheaper than a taxi.",
+            "A train is cheap that a taxi.",
+            "A train is more cheap a taxi."
+          ],
+          "answer": 1,
+          "explanation": "Use the comparative cheaper followed by than."
+        },
+        {
+          "prompt": "What is the comparative form of good?",
+          "options": [
+            "Best than",
+            "Better",
+            "Gooder",
+            "More good"
+          ],
+          "answer": 1,
+          "explanation": "Better is the irregular comparative of good."
+        }
+      ]
+    },
+    {
+      "id": "b1-grammar",
+      "level": "b1",
+      "skill": "grammar",
+      "title": "Connect experience & possibility",
+      "description": "Distinguish the present perfect, past simple, and first conditional.",
+      "minutes": 15,
+      "content": [
+        {
+          "heading": "Experience and a finished past time",
+          "text": "Use the present perfect, have or has plus a past participle, for experience up to now or a past event connected to the present. Use the past simple with a finished past time such as yesterday or in 2022. Ever and never often ask about or describe life experience.",
+          "examples": [
+            "I have visited India twice.",
+            "I visited Delhi in 2022.",
+            "Have you ever spoken to a large audience?"
+          ]
+        },
+        {
+          "heading": "A real future possibility",
+          "text": "Use the first conditional for a possible future situation and its likely result: if plus present simple, then will plus base verb. The if-clause can come first or second. When it comes first, a comma normally separates the clauses. The present form after if can refer to the future.",
+          "examples": [
+            "If I finish early, I will call you.",
+            "We will walk if it doesn’t rain.",
+            "If you practise regularly, you will feel more confident."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Choose the correct sentence about a finished time.",
+          "options": [
+            "I meet her yesterday.",
+            "I met her yesterday.",
+            "I have meet her yesterday.",
+            "I have met her yesterday."
+          ],
+          "answer": 1,
+          "explanation": "Yesterday is a finished past time, so use the past simple met."
+        },
+        {
+          "prompt": "Which question asks about life experience up to now?",
+          "options": [
+            "Are you surfing now?",
+            "Have you ever tried surfing?",
+            "Did you surf at nine yesterday?",
+            "Will you surf tomorrow?"
+          ],
+          "answer": 1,
+          "explanation": "Have you ever… asks whether the experience has happened at any time before now."
+        },
+        {
+          "prompt": "If it rains tomorrow, we ___ at home.",
+          "options": [
+            "staying",
+            "will stay",
+            "stayed",
+            "would have stayed"
+          ],
+          "answer": 1,
+          "explanation": "A real future possibility normally uses if plus present simple and will plus base verb."
+        }
+      ]
+    },
+    {
+      "id": "b1-vocabulary",
+      "level": "b1",
+      "skill": "vocabulary",
+      "title": "Work smarter with words",
+      "description": "Use workplace collocations, word families, and phrasal verbs.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Remember the company a word keeps",
+          "text": "A collocation is a common word combination. At work or school, we meet a deadline, gain experience, make progress, and take responsibility. Learning whole combinations makes your English more natural and reduces the number of decisions you need to make while speaking.",
+          "examples": [
+            "We need to meet the deadline on Friday.",
+            "She gained experience as a volunteer.",
+            "You are making steady progress."
+          ]
+        },
+        {
+          "heading": "Build families and notice meaning",
+          "text": "Words in a family have different grammatical jobs: decide is a verb, decision is a noun, and decisive is an adjective. Phrasal verbs combine a verb with another word and can have a new meaning. Learn them in a sentence and check whether the situation is formal or informal.",
+          "examples": [
+            "We need to make a decision.",
+            "Please fill in this form.",
+            "Let’s find out why the website stopped working."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which phrase means finish work by the required date?",
+          "options": [
+            "do a deadline",
+            "lose a deadline",
+            "meet a deadline",
+            "take a deadline"
+          ],
+          "answer": 2,
+          "explanation": "Meet a deadline means complete the work on time."
+        },
+        {
+          "prompt": "Choose the noun: “We need to make a ___ today.”",
+          "options": [
+            "decision",
+            "decidingly",
+            "decide",
+            "decisive"
+          ],
+          "answer": 0,
+          "explanation": "After make a, the noun decision is needed."
+        },
+        {
+          "prompt": "“Please fill in this form” means…",
+          "options": [
+            "throw the form away.",
+            "read it silently only.",
+            "send it without writing.",
+            "write the requested information in it."
+          ],
+          "answer": 3,
+          "explanation": "Fill in a form means complete its empty spaces with information."
+        }
+      ]
+    },
+    {
+      "id": "b1-reading",
+      "level": "b1",
+      "skill": "reading",
+      "title": "Find the claim & the evidence",
+      "description": "Separate a writer’s opinion from the support offered for it.",
+      "minutes": 13,
+      "content": [
+        {
+          "heading": "Read a short argument",
+          "text": "Read this paragraph: “Our town should improve its bus service. In a recent survey of 200 residents, 120 said they would use buses more often if services ran after 8 p.m. A later service could help workers travel home without a car. However, the council must estimate the running costs before making a decision.” Identify the recommendation before examining its support.",
+          "examples": [
+            "Claim: improve the town’s bus service.",
+            "Evidence: 120 of 200 respondents said they would use later buses more often.",
+            "Limitation: running costs still need examination."
+          ]
+        },
+        {
+          "heading": "Keep the strength of the evidence in view",
+          "text": "A survey can tell us what respondents said; it does not prove what every resident will do. Could expresses a possibility, while will is stronger. However introduces a qualification. Good readers notice both the writer’s position and the limits acknowledged in the argument.",
+          "examples": [
+            "120 out of 200 is 60% of the respondents.",
+            "Could help does not mean will definitely help.",
+            "The writer supports improvement while recognizing a cost question."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the writer’s main recommendation?",
+          "options": [
+            "Improve the bus service.",
+            "Raise every bus fare.",
+            "Remove all cars from town.",
+            "Cancel the bus survey."
+          ],
+          "answer": 0,
+          "explanation": "The first sentence states that the town should improve its bus service."
+        },
+        {
+          "prompt": "What does the survey directly show?",
+          "options": [
+            "120 respondents said they would use later buses more often.",
+            "Every resident will use buses.",
+            "Later buses will make a profit.",
+            "Most residents work after 8 p.m."
+          ],
+          "answer": 0,
+          "explanation": "The survey reports the intentions of its respondents; the other claims go beyond the text."
+        },
+        {
+          "prompt": "Why does the writer use however?",
+          "options": [
+            "To introduce an unrelated story.",
+            "To say buses are impossible.",
+            "To add a concern about the costs.",
+            "To repeat the survey number."
+          ],
+          "answer": 2,
+          "explanation": "However marks a qualification: the cost needs to be assessed before a decision."
+        }
+      ]
+    },
+    {
+      "id": "b1-listening",
+      "level": "b1",
+      "skill": "listening",
+      "title": "Listen: what do they really prefer?",
+      "description": "Follow reasons, contrasts, and a final decision.",
+      "minutes": 12,
+      "listeningText": "I thought the online course would be easier because I would not have to travel. The recorded lessons were useful, especially when I wanted to review a difficult topic. Still, I missed being able to ask questions immediately. Next term, I am choosing a course that combines online materials with a weekly classroom session. It costs a little more, but the chance to discuss things with a teacher makes it worth it for me.",
+      "content": [
+        {
+          "heading": "Track a changing view",
+          "text": "A speaker’s first opinion may not be their final one. Listen to the full explanation before choosing an answer. In this account, the speaker begins with an expectation, describes an advantage and a problem, then explains a decision. Words such as still and but reveal contrasts.",
+          "examples": [
+            "Expectation: online study would be easier.",
+            "Benefit: recordings could be reviewed.",
+            "Problem: questions could not be asked immediately."
+          ]
+        },
+        {
+          "heading": "Connect preferences to reasons",
+          "text": "When taking notes, put a reason next to each opinion. This helps you distinguish the speaker’s actual preference from a detail mentioned in passing. Finally, summarize the decision in one sentence without repeating every example.",
+          "examples": [
+            "Choice: a course with online and classroom learning.",
+            "Reason: access to discussion with a teacher.",
+            "The higher price is acceptable to this speaker."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the speaker find useful about recorded lessons?",
+          "options": [
+            "They replaced all questions.",
+            "They were shorter than every class.",
+            "They were always free.",
+            "They could be reviewed."
+          ],
+          "answer": 3,
+          "explanation": "The speaker says recordings were useful for reviewing a difficult topic."
+        },
+        {
+          "prompt": "What was the main disadvantage mentioned?",
+          "options": [
+            "The speaker could not ask questions immediately.",
+            "The teacher cancelled every lesson.",
+            "The course required too much travel.",
+            "The recordings had no sound."
+          ],
+          "answer": 0,
+          "explanation": "The speaker missed being able to ask questions immediately."
+        },
+        {
+          "prompt": "What will the speaker choose next term?",
+          "options": [
+            "A course combining online materials and classroom sessions",
+            "Only private lessons",
+            "The cheapest online course",
+            "No course at all"
+          ],
+          "answer": 0,
+          "explanation": "The final decision is a combined format with a weekly classroom session."
+        }
+      ]
+    },
+    {
+      "id": "b1-writing",
+      "level": "b1",
+      "skill": "writing",
+      "title": "Build a convincing paragraph",
+      "description": "Connect a point, explanation, example, and final thought.",
+      "minutes": 16,
+      "content": [
+        {
+          "heading": "One paragraph, one main idea",
+          "text": "Start with a topic sentence that states your point. Explain why it matters, then add a specific example. Finish by linking the example to your point. The example may be a realistic illustration; do not present invented research or statistics as evidence. Clear development matters more than impressive words.",
+          "examples": [
+            "Point: Libraries provide important study spaces.",
+            "Explanation: Some students cannot find quiet space at home.",
+            "Example: A student sharing a small room can work at a library desk."
+          ]
+        },
+        {
+          "heading": "Make the connections visible",
+          "text": "Use because for reasons, for example for illustrations, and therefore for results. Avoid adding a connector to every sentence. Write 100–130 words about whether schools should offer more practical subjects. Then underline your topic sentence and check that every remaining sentence develops the same point.",
+          "examples": [
+            "Libraries are useful because they provide quiet work areas.",
+            "For example, students can prepare for exams there.",
+            "Therefore, extending opening hours could support local learners."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the main job of a topic sentence?",
+          "options": [
+            "To list every possible opinion",
+            "To introduce an unrelated quotation",
+            "To state the paragraph’s central point",
+            "To end the whole essay"
+          ],
+          "answer": 2,
+          "explanation": "A topic sentence gives the reader the main idea the paragraph will develop."
+        },
+        {
+          "prompt": "Which detail best supports “Libraries help students study”?",
+          "options": [
+            "Some library doors are blue.",
+            "My favourite food is rice.",
+            "A bus passes a different building.",
+            "They provide quiet desks for students with limited space at home."
+          ],
+          "answer": 3,
+          "explanation": "Quiet study space directly explains how a library helps students."
+        },
+        {
+          "prompt": "You have no source for a statistic. What should you do?",
+          "options": [
+            "Call it official research.",
+            "Repeat the number confidently.",
+            "Use a clearly framed example or find a reliable source.",
+            "Invent a precise number."
+          ],
+          "answer": 2,
+          "explanation": "An illustrative example can support an explanation without falsely claiming research evidence."
+        }
+      ]
+    },
+    {
+      "id": "b1-speaking",
+      "level": "b1",
+      "skill": "speaking",
+      "title": "Keep the conversation flowing",
+      "description": "Extend answers, repair mistakes, and ask useful follow-up questions.",
+      "minutes": 13,
+      "content": [
+        {
+          "heading": "Answer, explain, illustrate",
+          "text": "To develop an answer, make your point, explain it, and add an example. You can also compare past and present or describe a possible future. A brief pause is natural. Aim for understandable ideas at a steady pace rather than filling every second with words.",
+          "examples": [
+            "I prefer studying in the morning because I concentrate better.",
+            "For instance, I usually finish difficult reading before lunch.",
+            "When I was younger, I tended to study late at night."
+          ]
+        },
+        {
+          "heading": "Repair without restarting",
+          "text": "If you use the wrong word or lose your place, correct the important part and continue. If you do not know a word, describe its function or appearance. Ask a follow-up question to show interest in the other person. These strategies keep communication moving while you build vocabulary.",
+          "examples": [
+            "What I mean is…",
+            "It’s a device you use to measure temperature.",
+            "That sounds interesting. How did you get started?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which response develops an opinion most clearly?",
+          "options": [
+            "It is difficult to say anything.",
+            "Morning.",
+            "I prefer mornings because I concentrate better; for example, I do my reading before lunch.",
+            "Morning, morning, morning."
+          ],
+          "answer": 2,
+          "explanation": "The answer includes a preference, a reason, and an example."
+        },
+        {
+          "prompt": "You forget the word thermometer. What is a useful strategy?",
+          "options": [
+            "Describe it as a device for measuring temperature.",
+            "Say the listener must know.",
+            "Stop the conversation immediately.",
+            "Use any unrelated long word."
+          ],
+          "answer": 0,
+          "explanation": "Describing a word’s function is a useful paraphrasing strategy."
+        },
+        {
+          "prompt": "Which phrase helps you clarify your own meaning?",
+          "options": [
+            "That is all impossible.",
+            "No more questions.",
+            "What I mean is…",
+            "You never listen."
+          ],
+          "answer": 2,
+          "explanation": "What I mean is… signals a clarification or repair."
+        }
+      ]
+    },
+    {
+      "id": "b2-grammar",
+      "level": "b2",
+      "skill": "grammar",
+      "title": "Change the focus of a sentence",
+      "description": "Use the passive and reported speech with control.",
+      "minutes": 16,
+      "content": [
+        {
+          "heading": "Focus on the action or result",
+          "text": "The passive uses a form of be plus the past participle. Use it when the action or result matters more than the person doing it, or when that person is unknown. Keep the tense in the form of be. Include a by-phrase only when the agent is useful information.",
+          "examples": [
+            "Someone repaired the bridge. → The bridge was repaired.",
+            "The results will be published tomorrow.",
+            "The report has been reviewed by two specialists."
+          ]
+        },
+        {
+          "heading": "Report what someone said",
+          "text": "Reported speech gives someone’s message without reproducing the exact words. After a past reporting verb, a tense often moves back and pronouns or time expressions may change. Backshift depends on context: a fact still true can remain in the present. Tell normally needs a person; say does not.",
+          "examples": [
+            "“I am tired,” she said. → She said she was tired.",
+            "He told me the meeting had ended.",
+            "She said the office opens at nine."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Choose the passive of “They will publish the results tomorrow.”",
+          "options": [
+            "The results will be published tomorrow.",
+            "The results have publish tomorrow.",
+            "The results published tomorrow.",
+            "The results will published tomorrow."
+          ],
+          "answer": 0,
+          "explanation": "Future passive uses will be plus the past participle published."
+        },
+        {
+          "prompt": "Which report is grammatically correct?",
+          "options": [
+            "He said me the meeting had ended.",
+            "He tell me the meeting had ended.",
+            "He told me that the meeting had ended.",
+            "He told that the meeting had ended."
+          ],
+          "answer": 2,
+          "explanation": "Tell takes a person, such as me; the past form is told."
+        },
+        {
+          "prompt": "Why might a writer choose “The window was broken”?",
+          "options": [
+            "To avoid using any verb tense.",
+            "To focus on the event when the person responsible is unknown or unimportant.",
+            "To prove nobody caused it.",
+            "To describe an action that must happen tomorrow."
+          ],
+          "answer": 1,
+          "explanation": "The passive changes the focus; it does not prove the action had no agent."
+        }
+      ]
+    },
+    {
+      "id": "b2-vocabulary",
+      "level": "b2",
+      "skill": "vocabulary",
+      "title": "Choose the word that fits",
+      "description": "Use precise collocations and match the level of formality.",
+      "minutes": 13,
+      "content": [
+        {
+          "heading": "Precision beats unnecessary complexity",
+          "text": "Near-synonyms are not always interchangeable. Raise awareness is natural, while lift awareness is not a usual combination. A significant change is important or large in context; it does not always mean statistically significant. Check meaning, grammar, and collocation before replacing a familiar word with a sophisticated one.",
+          "examples": [
+            "raise awareness of road safety",
+            "conduct research into language learning",
+            "a significant improvement in clarity"
+          ]
+        },
+        {
+          "heading": "Match your reader and purpose",
+          "text": "Register is the level and style of language appropriate to a situation. A friendly message can use find out; a formal report may use investigate. Neither is automatically better. Avoid mixing very casual expressions into a formal request unless you have a clear reason.",
+          "examples": [
+            "Informal: Can you look into this?",
+            "Formal: Could you investigate this issue?",
+            "Neutral: Please let me know the result."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which is the natural collocation?",
+          "options": [
+            "lift awareness",
+            "raise awareness",
+            "grow an awareness campaign up",
+            "make awareness high up"
+          ],
+          "answer": 1,
+          "explanation": "Raise awareness is the conventional combination for increasing public understanding."
+        },
+        {
+          "prompt": "Which sentence best suits a formal report?",
+          "options": [
+            "Hey, the numbers are kind of wild.",
+            "The team investigated the cause of the decline.",
+            "The team did stuff to the numbers.",
+            "We checked the thing out and it was super weird."
+          ],
+          "answer": 1,
+          "explanation": "Investigated and cause of the decline are precise and appropriate for a formal report."
+        },
+        {
+          "prompt": "When is a less familiar synonym a good replacement?",
+          "options": [
+            "When its meaning, grammar, and usual combinations fit the context.",
+            "Whenever it is longer.",
+            "Whenever a dictionary lists it.",
+            "Whenever it sounds impressive."
+          ],
+          "answer": 0,
+          "explanation": "Vocabulary control depends on accurate use in context, not word length."
+        }
+      ]
+    },
+    {
+      "id": "b2-reading",
+      "level": "b2",
+      "skill": "reading",
+      "title": "IELTS-style reading: evidence first",
+      "description": "Practice skimming, scanning, and True/False/Not Given reasoning.",
+      "minutes": 16,
+      "content": [
+        {
+          "heading": "Skim, then locate the evidence",
+          "text": "Read this original practice passage: “A city pilot introduced rooftop gardens on five public buildings. Staff reported that the gardens made the buildings more pleasant. Sensors recorded lower roof-surface temperatures on hot afternoons. The pilot did not measure electricity use, and the council has not yet decided whether to extend the project.” Skim for the overall topic, then scan for the detail each question needs.",
+          "examples": [
+            "Main topic: a rooftop garden pilot.",
+            "Measured: roof-surface temperatures.",
+            "Not measured: electricity use."
+          ]
+        },
+        {
+          "heading": "False is different from missing",
+          "text": "In True/False/Not Given tasks, True agrees with the passage, False contradicts it, and Not Given means the passage does not provide enough information. Do not use your outside knowledge to fill gaps. A benefit that sounds plausible is still unconfirmed if the passage does not establish it.",
+          "examples": [
+            "“The pilot involved five buildings” agrees with the passage.",
+            "“Electricity use was measured” contradicts the passage.",
+            "“The gardens cost £50,000” is not established."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "“The pilot measured electricity use.” Which judgement is supported?",
+          "options": [
+            "Not Given",
+            "False",
+            "All three are possible",
+            "True"
+          ],
+          "answer": 1,
+          "explanation": "The passage explicitly says the pilot did not measure electricity use, so the statement is false."
+        },
+        {
+          "prompt": "“The gardens cost £50,000.” Which judgement is supported?",
+          "options": [
+            "True",
+            "False",
+            "True because gardens are expensive",
+            "Not Given"
+          ],
+          "answer": 3,
+          "explanation": "The passage provides no cost figure, so the statement is not given."
+        },
+        {
+          "prompt": "Which conclusion stays within the evidence?",
+          "options": [
+            "All city buildings now have gardens.",
+            "Staff disliked the gardens.",
+            "Roof-surface temperatures were lower on hot afternoons.",
+            "The project definitely cut energy bills."
+          ],
+          "answer": 2,
+          "explanation": "That is the measured result described in the passage. Electricity savings and expansion are not established."
+        }
+      ]
+    },
+    {
+      "id": "b2-listening",
+      "level": "b2",
+      "skill": "listening",
+      "title": "Listen: follow the signposts",
+      "description": "Identify a presentation’s purpose, qualification, and recommendation.",
+      "minutes": 14,
+      "listeningText": "Today I will outline our four-day working week trial. At first, managers worried that customers would receive slower replies. In fact, average response times stayed the same, while staff reported less stress. That said, the trial involved only one department during a relatively quiet period. We should therefore avoid assuming that every team would obtain the same results. My recommendation is to run a second trial during the busy season before introducing a permanent change.",
+      "content": [
+        {
+          "heading": "Use signposts to follow structure",
+          "text": "In presentations, phrases such as at first, in fact, that said, and therefore show how ideas relate. Note a few words under headings: concern, finding, limitation, and recommendation. You can often follow the argument even when an individual word is unfamiliar.",
+          "examples": [
+            "At first introduces the original concern.",
+            "In fact introduces a finding that challenges it.",
+            "That said introduces a qualification."
+          ]
+        },
+        {
+          "heading": "Hear the strength of a conclusion",
+          "text": "A careful speaker distinguishes an observation from a general claim. In this account, one department’s results do not automatically apply to every team. Listen for caution words such as relatively and avoid assuming. The final recommendation may be further investigation rather than immediate action.",
+          "examples": [
+            "Observation: average response times did not change.",
+            "Limitation: one department in a quiet period.",
+            "Recommendation: test the idea again during a busy season."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What happened to average customer response times?",
+          "options": [
+            "They became much slower.",
+            "They stayed the same.",
+            "They were not observed at all.",
+            "They improved in every department."
+          ],
+          "answer": 1,
+          "explanation": "The speaker explicitly says average response times stayed the same."
+        },
+        {
+          "prompt": "Why is the speaker cautious about the results?",
+          "options": [
+            "No employee took part.",
+            "The company has no customers.",
+            "The trial covered only one department in a quiet period.",
+            "All teams failed the trial."
+          ],
+          "answer": 2,
+          "explanation": "The limited setting makes generalization uncertain."
+        },
+        {
+          "prompt": "What does the speaker recommend?",
+          "options": [
+            "Ignoring response times",
+            "A second trial during the busy season",
+            "A permanent change immediately",
+            "Ending all flexible work"
+          ],
+          "answer": 1,
+          "explanation": "The final sentence recommends another trial before a permanent change."
+        }
+      ]
+    },
+    {
+      "id": "b2-writing",
+      "level": "b2",
+      "skill": "writing",
+      "title": "Make an essay easy to follow",
+      "description": "Plan a position, develop paragraphs, and link ideas naturally.",
+      "minutes": 20,
+      "content": [
+        {
+          "heading": "Answer the exact question",
+          "text": "Before writing an opinion essay, identify the topic, the task, and any limits in the question. A question asking whether the benefits outweigh the drawbacks needs an overall judgement, not just two lists. Plan an introduction with your position, focused body paragraphs, and a conclusion that answers the question consistently.",
+          "examples": [
+            "Question: Do the benefits of remote work outweigh the drawbacks?",
+            "Position: Overall, the flexibility is beneficial when teams maintain regular contact.",
+            "Body ideas: access and flexibility; communication problems and how to manage them."
+          ]
+        },
+        {
+          "heading": "Develop instead of decorating",
+          "text": "Explain how and why each point supports your position. Use a specific example and acknowledge a relevant limitation. Connect ideas by clear references and logical order; do not depend on a memorized connector at the start of every sentence. Write a short practice essay, then check whether each paragraph advances your answer.",
+          "examples": [
+            "This flexibility can help parents arrange their working day.",
+            "However, new employees may need more direct support.",
+            "Regular mentoring sessions can reduce that difficulty."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "An “outweigh” question requires you to…",
+          "options": [
+            "avoid expressing a position.",
+            "only define the topic.",
+            "give exactly five examples.",
+            "judge whether one side is more significant overall."
+          ],
+          "answer": 3,
+          "explanation": "Outweigh asks for a comparison and an overall judgement."
+        },
+        {
+          "prompt": "Which paragraph plan provides development?",
+          "options": [
+            "Four unrelated opinions → a long quotation",
+            "Connector → connector → connector",
+            "Introduction → repeated introduction",
+            "Point → explanation → specific example → link to the argument"
+          ],
+          "answer": 3,
+          "explanation": "Explaining and illustrating a point shows how it supports the argument."
+        },
+        {
+          "prompt": "What should the conclusion normally do?",
+          "options": [
+            "Introduce a major new argument.",
+            "Contradict the body paragraphs.",
+            "List unrelated vocabulary.",
+            "Restate the overall answer supported by the essay."
+          ],
+          "answer": 3,
+          "explanation": "A conclusion draws together the position developed in the body."
+        }
+      ]
+    },
+    {
+      "id": "b2-speaking",
+      "level": "b2",
+      "skill": "speaking",
+      "title": "Discuss both sides thoughtfully",
+      "description": "Develop IELTS-style discussion answers with reasons and nuance.",
+      "minutes": 16,
+      "content": [
+        {
+          "heading": "Move from personal to general",
+          "text": "Discussion questions often ask about society rather than only your own life. State a general view, explain a cause or effect, and use a relevant example. Qualify broad statements with many, some, often, or in certain situations. This makes your answer more precise and gives you room to consider exceptions.",
+          "examples": [
+            "Many people value flexible working because it reduces commuting.",
+            "For example, parents may find it easier to manage school pickups.",
+            "However, the benefits depend partly on the type of job."
+          ]
+        },
+        {
+          "heading": "Acknowledge another perspective",
+          "text": "You can recognize a reasonable opposing point without abandoning your position. Explain when that perspective applies, then state your own judgement. In an IELTS-style discussion, focus on relevant, developed answers and clear delivery. Memorized speeches can make it harder to respond to the actual question.",
+          "examples": [
+            "I can see why some employers prefer office work.",
+            "That may be true for tasks requiring close collaboration.",
+            "On balance, I think a flexible approach works best."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which answer makes the most careful generalization?",
+          "options": [
+            "Everyone hates travelling.",
+            "Many commuters would welcome shorter journeys.",
+            "No person enjoys any office.",
+            "All jobs can be done online."
+          ],
+          "answer": 1,
+          "explanation": "Many makes a supported, limited generalization rather than an absolute claim."
+        },
+        {
+          "prompt": "What does “I can see why some people disagree” do?",
+          "options": [
+            "It proves your own opinion is wrong.",
+            "It ends the discussion.",
+            "It acknowledges another reasonable perspective.",
+            "It changes the topic to eyesight."
+          ],
+          "answer": 2,
+          "explanation": "The phrase recognizes a contrasting view and can introduce a balanced discussion."
+        },
+        {
+          "prompt": "What is the best preparation for an unfamiliar discussion question?",
+          "options": [
+            "Avoid giving examples.",
+            "Practise giving a view, a reason, an example, and a qualification.",
+            "Recite a fixed speech regardless of the topic.",
+            "Use the longest words you know."
+          ],
+          "answer": 1,
+          "explanation": "A flexible answer structure helps you respond to the actual question."
+        }
+      ]
+    },
+    {
+      "id": "c1-grammar",
+      "level": "c1",
+      "skill": "grammar",
+      "title": "Control emphasis & uncertainty",
+      "description": "Use inversion, deduction, and cautious claims accurately.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Emphasize with controlled inversion",
+          "text": "After a negative or restrictive expression at the beginning of a clause, formal English often inverts the auxiliary and subject. If there is no auxiliary, use do, does, or did. Inversion adds emphasis; using it too often can sound unnatural. Keep the meaning clear before choosing a more complex structure.",
+          "examples": [
+            "Rarely do we see such consistent results.",
+            "Not until Friday did the team reach an agreement.",
+            "Only after reviewing the data did she change her view."
+          ]
+        },
+        {
+          "heading": "Calibrate a deduction",
+          "text": "Must have plus a past participle expresses a strong deduction about the past; might have expresses a possibility; can’t have expresses a deduction that something was impossible. These describe your reasoning, not certainty based on direct observation. In academic work, may, appears to, and is likely to can help match a claim to its evidence.",
+          "examples": [
+            "The lights were on; someone must have been inside.",
+            "The message might have gone to the wrong address.",
+            "The results appear to support the hypothesis."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Choose the correct inversion.",
+          "options": [
+            "Rarely we have seen such progress.",
+            "Rarely have seen we such progress.",
+            "Rarely have we seen such progress.",
+            "Rarely we seen have such progress."
+          ],
+          "answer": 2,
+          "explanation": "After initial rarely, put the auxiliary have before the subject we."
+        },
+        {
+          "prompt": "Which sentence expresses a possible past explanation rather than a strong deduction?",
+          "options": [
+            "She certainly missed the train.",
+            "I saw her miss the train.",
+            "She might have missed the train.",
+            "She must have missed the train."
+          ],
+          "answer": 2,
+          "explanation": "Might have expresses possibility; must have expresses a strong deduction."
+        },
+        {
+          "prompt": "A small preliminary study suggests a benefit. Which claim is best calibrated?",
+          "options": [
+            "There cannot be any other explanation.",
+            "The findings suggest a possible benefit that warrants further study.",
+            "The treatment always works for everyone.",
+            "The study proves that no further research is needed."
+          ],
+          "answer": 1,
+          "explanation": "A preliminary result supports a cautious claim rather than universal certainty."
+        }
+      ]
+    },
+    {
+      "id": "c1-vocabulary",
+      "level": "c1",
+      "skill": "vocabulary",
+      "title": "Express nuance without vagueness",
+      "description": "Use academic collocations, hedging, and precise word choice.",
+      "minutes": 15,
+      "content": [
+        {
+          "heading": "Choose the exact relationship",
+          "text": "Advanced vocabulary helps distinguish relationships. A correlation is an association between variables; it does not by itself establish causation. A feasible plan can be carried out in practice; an effective plan achieves its goal. Learn precise definitions alongside common combinations so your vocabulary strengthens the reasoning.",
+          "examples": [
+            "a strong correlation between two measures",
+            "a feasible alternative to the current system",
+            "an effective intervention that reduced waiting times"
+          ]
+        },
+        {
+          "heading": "Hedge with a purpose",
+          "text": "A hedge limits the strength or scope of a claim. Use tends to for a general pattern, to some extent for a partial truth, and arguably for a defensible interpretation. Avoid piling up hedges until your meaning disappears. Select the phrase that represents the actual uncertainty.",
+          "examples": [
+            "The policy tends to benefit larger organizations.",
+            "This is arguably the most practical option.",
+            "The results are broadly consistent with earlier findings."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "A feasible proposal is one that…",
+          "options": [
+            "has already solved every problem.",
+            "must be expensive.",
+            "is guaranteed to be popular.",
+            "can realistically be carried out."
+          ],
+          "answer": 3,
+          "explanation": "Feasible means possible and practical to implement."
+        },
+        {
+          "prompt": "A correlation between exercise and wellbeing establishes…",
+          "options": [
+            "that wellbeing cannot affect exercise.",
+            "an association, without proving causation by itself.",
+            "that no other variables exist.",
+            "that exercise is the only cause of wellbeing."
+          ],
+          "answer": 1,
+          "explanation": "Correlation describes an association; causal claims need additional evidence."
+        },
+        {
+          "prompt": "Which sentence states a cautious general pattern clearly?",
+          "options": [
+            "The policy maybe could possibly perhaps do something.",
+            "The policy always benefits every company.",
+            "The policy has no meaning.",
+            "The policy tends to benefit larger companies."
+          ],
+          "answer": 3,
+          "explanation": "Tends to expresses a general pattern while allowing exceptions."
+        }
+      ]
+    },
+    {
+      "id": "c1-reading",
+      "level": "c1",
+      "skill": "reading",
+      "title": "Read between the policy lines",
+      "description": "Identify assumptions, qualifications, and the limits of a claim.",
+      "minutes": 17,
+      "content": [
+        {
+          "heading": "Read a qualified recommendation",
+          "text": "Read this analysis: “A subsidy for electric bicycles may reduce short car journeys, provided it reaches people who would otherwise drive. Purchases by existing cyclists could increase sales without reducing traffic. The programme should therefore be evaluated against changes in travel behaviour rather than sales alone. A rise in sales would be encouraging, but insufficient evidence of environmental benefit.” Notice the condition attached to the potential benefit.",
+          "examples": [
+            "Desired outcome: fewer short car journeys.",
+            "Necessary condition in the argument: some purchasers would otherwise drive.",
+            "Sales are an intermediate measure, not the final outcome."
+          ]
+        },
+        {
+          "heading": "Test the link in the reasoning",
+          "text": "A writer may distinguish an indicator from the goal it is supposed to represent. Ask what would need to be true for the evidence to support the conclusion. Read conditional language carefully: may and provided do not promise an outcome. Summarize both the proposal and the limit in one sentence.",
+          "examples": [
+            "More bicycle sales do not automatically mean fewer car trips.",
+            "Travel behaviour is the recommended evaluation measure.",
+            "The writer supports evaluation rather than claiming certain success."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "According to the passage, why are sales alone an insufficient measure?",
+          "options": [
+            "No one wants an electric bicycle.",
+            "Sales cannot be counted.",
+            "All bicycles create more traffic.",
+            "Buyers may already cycle instead of drive."
+          ],
+          "answer": 3,
+          "explanation": "Purchases by existing cyclists could increase sales without replacing car trips."
+        },
+        {
+          "prompt": "What does “provided it reaches…” introduce?",
+          "options": [
+            "An established result of the programme",
+            "A completely unrelated fact",
+            "A guarantee that all drivers will change",
+            "A condition on the potential benefit"
+          ],
+          "answer": 3,
+          "explanation": "Provided means on the condition that; the benefit depends on reaching the relevant users."
+        },
+        {
+          "prompt": "Which summary best represents the writer’s stance?",
+          "options": [
+            "The subsidy should be judged only by sales.",
+            "Electric bicycles cannot ever benefit a city.",
+            "The subsidy may help, but evaluation must establish whether travel behaviour changes.",
+            "The subsidy will certainly eliminate traffic."
+          ],
+          "answer": 2,
+          "explanation": "This preserves both the possible benefit and the requirement for outcome-based evaluation."
+        }
+      ]
+    },
+    {
+      "id": "c1-listening",
+      "level": "c1",
+      "skill": "listening",
+      "title": "Listen: a lecture with a qualification",
+      "description": "Take efficient notes and distinguish findings from interpretation.",
+      "minutes": 17,
+      "listeningText": "A common assumption is that taking more notes always leads to better learning. Yet the amount written may be less important than the processing involved. In our classroom study, students who summarized ideas in their own words performed better on conceptual questions than students who copied sentences. I should stress, however, that the groups did not differ on simple factual recall. Moreover, the study took place in a single introductory course. The findings are therefore promising, but we should be cautious about extending them to all subjects or age groups.",
+      "content": [
+        {
+          "heading": "Build notes around relationships",
+          "text": "For academic listening, record the main claim, evidence, qualification, and implication. Use abbreviations or arrows rather than trying to transcribe the lecture. In this extract, the speaker contrasts the quantity of notes with the depth of processing. Pay attention when the speaker says yet or however.",
+          "examples": [
+            "Assumption: more notes → better learning.",
+            "Finding: own-word summaries → stronger conceptual answers.",
+            "No difference: simple factual recall."
+          ]
+        },
+        {
+          "heading": "Keep the boundary of the finding",
+          "text": "An observed difference on one kind of test is not a difference on every kind of test. A study in one course may not generalize to all learners. In IELTS-style listening practice, identify exactly what the speaker claims, not what you expect the lecture to say. Use the transcript only after a first independent listen.",
+          "examples": [
+            "Conceptual understanding and factual recall are different outcomes.",
+            "Single course = a limit on generalization.",
+            "Promising does not mean conclusive."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did own-word summaries improve in the study?",
+          "options": [
+            "Performance on conceptual questions",
+            "Only handwriting speed",
+            "Simple factual recall only",
+            "Every learning outcome equally"
+          ],
+          "answer": 0,
+          "explanation": "The reported advantage was on conceptual questions."
+        },
+        {
+          "prompt": "What did the speaker say about simple factual recall?",
+          "options": [
+            "The groups did not differ.",
+            "Every student failed.",
+            "It was not tested.",
+            "Copying was much better."
+          ],
+          "answer": 0,
+          "explanation": "The qualification explicitly says there was no difference on factual recall."
+        },
+        {
+          "prompt": "Why should the findings be generalized cautiously?",
+          "options": [
+            "The results were already disproved.",
+            "Conceptual questions never matter.",
+            "The study was conducted in a single introductory course.",
+            "Students were not allowed to take notes."
+          ],
+          "answer": 2,
+          "explanation": "A study in one course does not establish the same effect across all subjects and age groups."
+        }
+      ]
+    },
+    {
+      "id": "c1-writing",
+      "level": "c1",
+      "skill": "writing",
+      "title": "IELTS Writing Task 2: a clear position",
+      "description": "Respond fully, sustain an argument, and revise for clarity.",
+      "minutes": 25,
+      "content": [
+        {
+          "heading": "Analyze and plan before you draft",
+          "text": "In IELTS Academic Writing Task 2, write at least 250 words and allow about 40 of the writing test’s 60 minutes. Read every part of the prompt. For “Discuss both views and give your opinion,” explain both positions and make your own judgement clear. A fixed paragraph count is less important than a complete, logically developed answer.",
+          "examples": [
+            "Prompt: Some favour university funding; others prefer vocational training. Discuss both views and give your opinion.",
+            "Plan both views before deciding how to organize them.",
+            "Position: Public funding should support both routes according to local needs."
+          ]
+        },
+        {
+          "heading": "Develop and qualify your reasoning",
+          "text": "Support each main idea with an explanation and a relevant example, then relate it to the question. Consider a limitation when it improves the argument. Avoid unsupported sweeping claims and memorized introductions that could fit any topic. Review your response for task coverage, paragraph progression, precise vocabulary, grammar, and punctuation.",
+          "examples": [
+            "University research can benefit industries beyond the campus.",
+            "Vocational programmes can address immediate shortages in skilled trades.",
+            "The appropriate balance may vary with regional employment needs."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does “Discuss both views and give your opinion” require?",
+          "options": [
+            "Explain only the view you agree with.",
+            "List examples without a conclusion.",
+            "Explain both views and give your own clear judgement.",
+            "Avoid expressing a personal position."
+          ],
+          "answer": 2,
+          "explanation": "All three elements are part of the task: both views and your opinion."
+        },
+        {
+          "prompt": "What is the minimum word requirement for IELTS Academic Writing Task 2?",
+          "options": [
+            "Exactly 500 words",
+            "250 words",
+            "150 words",
+            "100 words"
+          ],
+          "answer": 1,
+          "explanation": "Task 2 requires at least 250 words; about 40 minutes is the recommended allocation."
+        },
+        {
+          "prompt": "Which claim is best suited to a careful academic argument?",
+          "options": [
+            "All countries need precisely the same funding policy.",
+            "The balance of funding should reflect educational goals and local employment needs.",
+            "University is useless for every student.",
+            "Vocational training always solves unemployment."
+          ],
+          "answer": 1,
+          "explanation": "The final claim is specific, qualified, and open to reasoned support."
+        }
+      ]
+    },
+    {
+      "id": "c1-speaking",
+      "level": "c1",
+      "skill": "speaking",
+      "title": "Speak with range & control",
+      "description": "Develop a long turn and handle abstract follow-up questions.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Prepare a flexible long turn",
+          "text": "For an IELTS-style long turn, make brief notes that help you cover the topic: context, key details, significance, and reflection. Speak from the notes instead of writing a script. A small specific event is often easier to develop than a grand but vague story. Use time references and linking phrases to guide the listener.",
+          "examples": [
+            "Topic: a person who taught you something useful.",
+            "Context: my first week at a new job.",
+            "Reflection: I learned that asking questions can prevent mistakes."
+          ]
+        },
+        {
+          "heading": "Think aloud with a clear direction",
+          "text": "Abstract follow-up questions may ask about causes, social effects, or future change. Give a provisional view, develop it, and qualify it when needed. It is acceptable to take a brief thinking pause. Use complex language where it helps, while preserving clear rhythm, intelligible pronunciation, and a direct answer.",
+          "examples": [
+            "My initial view is that practical experience is essential.",
+            "That said, some skills need a strong theoretical foundation.",
+            "The balance probably depends on the profession."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which set of notes best supports a flexible long turn?",
+          "options": [
+            "A full essay to read word for word",
+            "Context, key event, useful details, personal reflection",
+            "Only five difficult idioms",
+            "A list of unrelated topics"
+          ],
+          "answer": 1,
+          "explanation": "Brief content notes support organization while allowing natural speech."
+        },
+        {
+          "prompt": "How can you respond to an abstract follow-up question?",
+          "options": [
+            "Say a memorized introduction for every topic.",
+            "Give a view, develop its reasoning, and acknowledge a relevant limit.",
+            "Avoid any general ideas.",
+            "Repeat your previous story regardless of the question."
+          ],
+          "answer": 1,
+          "explanation": "This structure develops an answer while maintaining relevance and nuance."
+        },
+        {
+          "prompt": "Which use of sophisticated language is most effective?",
+          "options": [
+            "Choosing precise expressions and structures that make your ideas easier to follow",
+            "Using every complex structure in every sentence",
+            "Using unfamiliar idioms even when the meaning is uncertain",
+            "Speaking so quickly that details are unclear"
+          ],
+          "answer": 0,
+          "explanation": "Range is useful when it supports accurate and intelligible communication."
+        }
+      ]
+    },
+    {
+      "id": "c2-grammar",
+      "level": "c2",
+      "skill": "grammar",
+      "title": "Fine-tune time, stance & implication",
+      "description": "Use mixed conditionals and aspect to express exact meanings.",
+      "minutes": 20,
+      "content": [
+        {
+          "heading": "Connect an unreal past to the present",
+          "text": "A mixed conditional can link a counterfactual past situation to a present consequence. Use if plus past perfect for the unreal past condition, and would plus base verb for a present result. The time relationship determines the structure; do not force every conditional into a single memorized pattern.",
+          "examples": [
+            "If I had accepted that job, I would live abroad now.",
+            "If we had invested in training, the team would be more confident today.",
+            "Had I known about the delay, I would not be waiting here now."
+          ]
+        },
+        {
+          "heading": "Let aspect express your focus",
+          "text": "Compare a completed result with an activity continuing up to a reference point. The present perfect simple can foreground an achieved amount; the continuous often foregrounds duration or ongoing effort. Context, the verb’s meaning, and the intended focus all matter. Some verbs describing states do not normally use the continuous.",
+          "examples": [
+            "I have written three reports. → completed amount",
+            "I have been writing reports all morning. → activity and duration",
+            "I have known her for years. → state, normally not continuous"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence links an unreal past choice to a present situation?",
+          "options": [
+            "If I had taken the job, I would live in London now.",
+            "If I had taken the job, I would have moved then.",
+            "If I study tomorrow, I will pass.",
+            "If I were free now, I would help."
+          ],
+          "answer": 0,
+          "explanation": "Had taken describes the unreal past; would live now describes its imagined present result."
+        },
+        {
+          "prompt": "Which sentence foregrounds a completed quantity?",
+          "options": [
+            "I have written three reports.",
+            "I have been writing reports all morning.",
+            "I was writing when you called.",
+            "I will be writing later."
+          ],
+          "answer": 0,
+          "explanation": "The present perfect simple with three reports emphasizes the achieved amount."
+        },
+        {
+          "prompt": "Which is the most natural neutral statement about a continuing state?",
+          "options": [
+            "I have known her for years.",
+            "I have been knowing her for years.",
+            "I am knowing her since 2020.",
+            "I know her since years."
+          ],
+          "answer": 0,
+          "explanation": "Know is normally a state verb, so the present perfect simple is natural here."
+        }
+      ]
+    },
+    {
+      "id": "c2-vocabulary",
+      "level": "c2",
+      "skill": "vocabulary",
+      "title": "Connotation, register & exact intent",
+      "description": "Choose language for its implications as well as its definition.",
+      "minutes": 17,
+      "content": [
+        {
+          "heading": "Hear the judgement inside the word",
+          "text": "Words can share a basic meaning while expressing a different attitude. Economical suggests sensible use of money; stingy criticizes an unwillingness to spend. Assertive can be positive; aggressive often suggests excessive force. Before choosing a synonym, consider what judgement it implies about the person or action.",
+          "examples": [
+            "She is economical with resources. → approving efficiency",
+            "He is stingy with his time. → criticism",
+            "The proposal is ambitious. → potentially admiring, depending on context"
+          ]
+        },
+        {
+          "heading": "Use plain precision when it serves best",
+          "text": "Mastery includes knowing when a simple expression is the most exact one. Avoid idioms that create ambiguity in international or technical communication. In sensitive feedback, describe observable behaviour and its effect instead of assigning a hostile label. Match the strength of your word to the strength of the evidence.",
+          "examples": [
+            "Instead of “You are careless”: “The report omitted two required figures.”",
+            "Instead of “Get the ball rolling”: “Start the review on Monday.”",
+            "“Inconsistent” is more precise than “terrible” when results vary."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which word usually expresses a negative judgement about unwillingness to spend?",
+          "options": [
+            "Resourceful",
+            "Practical",
+            "Economical",
+            "Stingy"
+          ],
+          "answer": 3,
+          "explanation": "Stingy is generally disapproving, while economical often praises sensible use of resources."
+        },
+        {
+          "prompt": "Which feedback is the most specific and actionable?",
+          "options": [
+            "You are always careless.",
+            "The report omits the two figures requested in the brief.",
+            "Everything you do is wrong.",
+            "Your report is awful."
+          ],
+          "answer": 1,
+          "explanation": "It identifies an observable issue that the writer can correct."
+        },
+        {
+          "prompt": "Why might “Start the review on Monday” be preferable to “Get the ball rolling”?",
+          "options": [
+            "It states the action and timing clearly for an international audience.",
+            "Plain language is always less advanced.",
+            "Idioms are never grammatical.",
+            "It hides the required action."
+          ],
+          "answer": 0,
+          "explanation": "The direct wording reduces ambiguity while preserving the intended meaning."
+        }
+      ]
+    },
+    {
+      "id": "c2-reading",
+      "level": "c2",
+      "skill": "reading",
+      "title": "Read a sophisticated argument critically",
+      "description": "Analyze framing, counterarguments, and conclusions across a text.",
+      "minutes": 20,
+      "content": [
+        {
+          "heading": "Track what the writer accepts and rejects",
+          "text": "Read this commentary: “It would be convenient to treat every increase in productivity as a rise in wellbeing. Yet a measure of output says little about how gains are distributed or whether workers have more control over their time. This is not an argument against productivity growth; it is a warning against treating one indicator as a complete account of social progress. The question is how growth translates into better lives, and for whom.” Identify the distinction that drives the argument.",
+          "examples": [
+            "Accepted: productivity growth may be valuable.",
+            "Rejected: productivity alone fully measures social progress.",
+            "Central questions: distribution, control, and lived outcomes."
+          ]
+        },
+        {
+          "heading": "Preserve the scope when summarizing",
+          "text": "A strong summary captures the writer’s position without converting a qualification into a rejection. Pay attention to not every, little, alone, and complete: these words control the scope of a claim. Ask which conclusion follows from the text and which would require additional evidence.",
+          "examples": [
+            "“Output says little about distribution” does not mean output has no value.",
+            "The writer questions the adequacy of a measure.",
+            "The passage does not establish that productivity growth always harms workers."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the writer primarily challenging?",
+          "options": [
+            "Every possible benefit of growth",
+            "The use of productivity as a complete measure of social progress",
+            "The importance of workers’ lives",
+            "The existence of productivity measurements"
+          ],
+          "answer": 1,
+          "explanation": "The target is treating one indicator as a complete account, not productivity growth itself."
+        },
+        {
+          "prompt": "Which claim would misrepresent the passage?",
+          "options": [
+            "Control over time is relevant to workers’ lives.",
+            "The writer believes productivity growth should always be opposed.",
+            "Distribution affects how growth benefits people.",
+            "Output alone may not describe wellbeing adequately."
+          ],
+          "answer": 1,
+          "explanation": "The writer explicitly says this is not an argument against productivity growth."
+        },
+        {
+          "prompt": "Which question best extends the writer’s reasoning?",
+          "options": [
+            "Why should workers have no leisure?",
+            "Who receives the gains from increased output, and how do their lives change?",
+            "How can output figures be printed in a larger font?",
+            "Can every other measure be removed?"
+          ],
+          "answer": 1,
+          "explanation": "This follows the passage’s focus on distribution and the translation of growth into wellbeing."
+        }
+      ]
+    },
+    {
+      "id": "c2-listening",
+      "level": "c2",
+      "skill": "listening",
+      "title": "Listen: the meaning beyond the words",
+      "description": "Interpret diplomatic disagreement and distinguish inference from fact.",
+      "minutes": 18,
+      "listeningText": "The proposed launch date is certainly ambitious. I appreciate why the sales team would like to announce the product before the conference. My concern is that the accessibility review has not yet been completed, and rushing it could leave us fixing avoidable problems after release. If the review comes back clear next week, the timetable may still be achievable. Until then, I would be reluctant to promise that date publicly. Perhaps we could prepare the announcement now while keeping the release date provisional.",
+      "content": [
+        {
+          "heading": "Recognize a diplomatic objection",
+          "text": "In professional discussion, a speaker may acknowledge another team’s goal before raising a concern. Listen to the whole turn rather than interpreting a positive opening as agreement. Here, certainly ambitious is followed by a concrete risk and a condition. The speaker proposes a way forward without making an unconditional commitment.",
+          "examples": [
+            "Acknowledgement: the sales team has a reason for the timing.",
+            "Concern: the accessibility review is incomplete.",
+            "Stance: avoid a public promise until the risk is clearer."
+          ]
+        },
+        {
+          "heading": "Separate intended meaning from invented detail",
+          "text": "A reasonable inference is supported by the speaker’s words and context. It is not permission to invent motives or facts. The speaker is cautious about the date, but does not say the product has already failed a review. Track what is conditional, what is established, and what remains unknown.",
+          "examples": [
+            "Established: the review has not finished.",
+            "Conditional: the timetable may work if the review is clear.",
+            "Proposed compromise: prepare the announcement with a provisional date."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the speaker’s overall stance toward the launch date?",
+          "options": [
+            "Unconditional approval",
+            "Cautious acceptance only if the unresolved review permits it",
+            "A demand to cancel the product permanently",
+            "No interest in the timetable"
+          ],
+          "answer": 1,
+          "explanation": "The speaker allows that the date may be achievable but does not want to promise it before the review."
+        },
+        {
+          "prompt": "Which statement is established by the recording?",
+          "options": [
+            "The product has failed the accessibility review.",
+            "The conference has been cancelled.",
+            "The accessibility review is not yet complete.",
+            "The sales team refuses any compromise."
+          ],
+          "answer": 2,
+          "explanation": "The speaker explicitly says the review has not yet been completed."
+        },
+        {
+          "prompt": "What compromise does the speaker propose?",
+          "options": [
+            "Publish a firm date immediately.",
+            "Stop preparing all communication.",
+            "Skip the accessibility review.",
+            "Prepare the announcement while keeping the release date provisional."
+          ],
+          "answer": 3,
+          "explanation": "This preserves useful preparation without making an unsupported public commitment."
+        }
+      ]
+    },
+    {
+      "id": "c2-writing",
+      "level": "c2",
+      "skill": "writing",
+      "title": "IELTS Task 1: make the overview count",
+      "description": "Select key features, compare data accurately, and edit with purpose.",
+      "minutes": 25,
+      "content": [
+        {
+          "heading": "Summarize rather than list",
+          "text": "IELTS Academic Writing Task 1 asks for at least 150 words, with about 20 minutes recommended. For a chart, identify the main trends, largest differences, and meaningful exceptions. Include an overview and select figures that support it. Describe what the information shows; avoid inventing reasons that the chart does not establish.",
+          "examples": [
+            "Practice data: cycling to work, 2010 → 2020: Town A 10% → 25%; Town B 20% → 22%; Town C 30% → 28%.",
+            "Overview: A rose sharply, B changed little, and C declined slightly.",
+            "Town C remained the highest of the three in 2020."
+          ]
+        },
+        {
+          "heading": "Compare accurately and revise ruthlessly",
+          "text": "Distinguish a percentage-point change from a relative percentage change. Moving from 10% to 25% is a rise of 15 percentage points, not 15 percent. Group related figures instead of writing a separate isolated sentence for every value. During revision, remove repetition, verify comparisons, and make each reference unambiguous.",
+          "examples": [
+            "Town A increased by 15 percentage points.",
+            "By contrast, Town C fell from 30% to 28%.",
+            "Town B rose only slightly, from 20% to 22%."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which overview accurately describes the practice data?",
+          "options": [
+            "All three towns declined sharply.",
+            "Town A remained the lowest in 2020.",
+            "Town A rose substantially, B rose slightly, and C fell slightly.",
+            "Town B overtook every other town."
+          ],
+          "answer": 2,
+          "explanation": "The overview correctly captures the direction and relative scale of each change."
+        },
+        {
+          "prompt": "How much did Town A’s cycling share rise, from 10% to 25%?",
+          "options": [
+            "25 percentage points",
+            "10 percentage points",
+            "15 percentage points",
+            "15% relative to its starting value"
+          ],
+          "answer": 2,
+          "explanation": "25 minus 10 is 15 percentage points. The relative increase is 150%, a different calculation."
+        },
+        {
+          "prompt": "Which sentence should be excluded unless further evidence is supplied?",
+          "options": [
+            "Town A’s increase was caused by a new cycle lane.",
+            "Town C had the highest share in 2020.",
+            "Town B increased from 20% to 22%.",
+            "Town A recorded the largest increase."
+          ],
+          "answer": 0,
+          "explanation": "The figures establish a change, but provide no evidence about its cause."
+        }
+      ]
+    },
+    {
+      "id": "c2-speaking",
+      "level": "c2",
+      "skill": "speaking",
+      "title": "Respond with precision & flexibility",
+      "description": "Handle challenging questions and adapt your message to the listener.",
+      "minutes": 20,
+      "content": [
+        {
+          "heading": "Define the issue before judging it",
+          "text": "A broad question may contain an unclear term or a false choice. Briefly explain how you understand the issue, then answer directly. Distinguish contexts instead of forcing a simple yes or no. This is especially useful in advanced discussion and IELTS-style follow-up questions, where the quality of your reasoning supports a developed answer.",
+          "examples": [
+            "If by success we mean long-term wellbeing, income is only one factor.",
+            "For routine tasks, automation can help; in sensitive decisions, human oversight remains important.",
+            "I would distinguish access to information from the ability to evaluate it."
+          ]
+        },
+        {
+          "heading": "Adapt without losing precision",
+          "text": "Explain the same idea to a friend, a colleague, and a non-specialist. Change the terminology and detail while preserving the meaning. Use stress and pauses to highlight the contrast that matters. End with a clear judgement when the question asks for one, rather than continuing until the main point disappears.",
+          "examples": [
+            "Technical: The sample may not be representative.",
+            "Plain: The people surveyed may not reflect the wider population.",
+            "Judgement: I support the proposal, provided the evaluation includes those most affected."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which response handles a broad question about success most thoughtfully?",
+          "options": [
+            "If success means long-term wellbeing, income matters but is not the only factor.",
+            "Success is success because it is successful.",
+            "There is no way to discuss the topic.",
+            "Success has exactly the same meaning for everyone."
+          ],
+          "answer": 0,
+          "explanation": "It defines the key term and gives a qualified, relevant position."
+        },
+        {
+          "prompt": "What does adapting an explanation to a non-specialist involve?",
+          "options": [
+            "Adding more unexplained jargon",
+            "Changing the facts to make them entertaining",
+            "Using accessible wording while preserving the precise meaning",
+            "Removing every important qualification"
+          ],
+          "answer": 2,
+          "explanation": "Adaptation changes presentation, not the underlying accuracy."
+        },
+        {
+          "prompt": "Which ending gives a clear but qualified judgement?",
+          "options": [
+            "Everything is impossible to judge.",
+            "I have no conclusion after all.",
+            "Overall, I support the proposal if the evaluation includes those most affected.",
+            "There are words and more words."
+          ],
+          "answer": 2,
+          "explanation": "The ending states a position and the condition attached to it."
+        }
+      ]
+    },
+    {
+      "id": "biz-grammar",
+      "level": "biz",
+      "skill": "grammar",
+      "title": "Professional Correspondence",
+      "description": "Master the tone and structure of formal business emails.",
+      "minutes": 15,
+      "content": [
+        {
+          "heading": "Formal vs Informal Tone",
+          "text": "In business, the tone depends on your relationship with the reader. Use \"Dear [Name]\" for formal first contacts and \"Hi [Name]\" for established colleagues. Avoid contractions like \"don’t\" or \"can’t\" in high-level formal reports, but use them in internal team emails to sound natural.",
+          "examples": [
+            "Formal: I would appreciate it if you could respond.",
+            "Informal: Let me know what you think.",
+            "Semi-formal: Could you please check the file?"
+          ]
+        },
+        {
+          "heading": "The Structure of a Request",
+          "text": "A professional request follows a clear path: Greeting → Context → The Request → Call to Action → Closing. Be direct but polite. Use modal verbs like \"could\" and \"would\" to soften requests so they do not sound like orders.",
+          "examples": [
+            "I am writing to follow up on...",
+            "Would it be possible to reschedule?",
+            "I look forward to hearing from you."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which greeting is most appropriate for a first-time formal email to a CEO?",
+          "options": [
+            "Hey there!",
+            "Dear Mr. Smith,",
+            "Hi Smith,",
+            "To whom it may concern (without a name)"
+          ],
+          "answer": 1,
+          "explanation": "Dear [Title] [Surname] is the standard for formal first contacts."
+        },
+        {
+          "prompt": "Change this to be more professional: “Send me the report now.”",
+          "options": [
+            "I need the report now.",
+            "Could you please send me the report at your earliest convenience?",
+            "Send the report, please.",
+            "Give me the report quickly."
+          ],
+          "answer": 1,
+          "explanation": "Using “Could you please” and “at your earliest convenience” creates a polite, professional request."
+        },
+        {
+          "prompt": "Which closing is best for a formal business letter?",
+          "options": [
+            "Cheers,",
+            "See ya,",
+            "Sincerely,",
+            "Besties,"
+          ],
+          "answer": 2,
+          "explanation": "Sincerely or Yours faithfully are the standard formal closings."
+        }
+      ]
+    },
+    {
+      "id": "biz-speaking",
+      "level": "biz",
+      "skill": "speaking",
+      "title": "Effective Meeting Leadership",
+      "description": "Manage discussions, interrupt politely, and summarize agreements.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Opening and Setting the Agenda",
+          "text": "A good meeting starts with a clear purpose. Use \"signposting\" phrases to tell listeners where the conversation is going. Instead of just starting, say \"The goal of today’s meeting is to...\" or \"First, we will look at...\". This keeps the team focused and professional.",
+          "examples": [
+            "Our main objective today is...",
+            "I’ve divided the agenda into three parts.",
+            "Let’s start by reviewing the previous minutes."
+          ]
+        },
+        {
+          "heading": "Polite Interruption and Steering",
+          "text": "In a meeting, you may need to stop someone or move the topic. Use \"softeners\" to avoid sounding rude. Phrases like \"If I could just jump in here\" or \"That’s a great point, but moving back to the main topic...\" allow you to maintain control while respecting others.",
+          "examples": [
+            "Sorry to interrupt, but...",
+            "Could we just clarify one point before moving on?",
+            "I think we’ve covered this; let’s move to the next item."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the best way to start a meeting professionally?",
+          "options": [
+            "Why are we here?",
+            "Let’s just start talking.",
+            "The goal of today’s meeting is to decide on the budget.",
+            "Stop talking and listen to me."
+          ],
+          "answer": 2,
+          "explanation": "Clearly stating the objective (goal) sets a professional tone."
+        },
+        {
+          "prompt": "How do you politely interrupt a colleague who is talking too long?",
+          "options": [
+            "Stop talking now.",
+            "Sorry to interrupt, but could we just clarify this point?",
+            "Wait your turn.",
+            "Be quiet, please."
+          ],
+          "answer": 1,
+          "explanation": "Apologizing first and asking to clarify is a professional way to steer the conversation."
+        },
+        {
+          "prompt": "Which phrase is used for “signposting” the agenda?",
+          "options": [
+            "I am tired.",
+            "The weather is nice.",
+            "First, we will review the results, then we will discuss the plan.",
+            "I don’t like this plan."
+          ],
+          "answer": 2,
+          "explanation": "Signposting tells the listener the sequence of events (First... then...)."
+        }
+      ]
+    },
+    {
+      "id": "biz-writing",
+      "level": "biz",
+      "skill": "writing",
+      "title": "Writing a Project Proposal",
+      "description": "Structure a persuasive business case with a clear ROI.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "The Executive Summary",
+          "text": "The most important part of a proposal is the summary. Busy managers often read only this section. It must contain the Problem, the Solution, and the Result (ROI - Return on Investment). Keep it to one page and use bullet points for key benefits to make it scannable.",
+          "examples": [
+            "Problem: Current shipping costs are too high.",
+            "Solution: Switch to a regional logistics partner.",
+            "Result: Estimated 15% reduction in monthly costs."
+          ]
+        },
+        {
+          "heading": "Justifying the Cost",
+          "text": "Do not just ask for money; explain why it is an investment. Use data-driven language. Instead of \"It will be better,\" use \"It will increase efficiency by 20%.\" Contrast the cost of the solution with the cost of doing nothing (the cost of inaction).",
+          "examples": [
+            "Investment: £5,000 for new software.",
+            "Gain: 10 hours of saved labor per week.",
+            "Risk of inaction: Continued data errors and lost revenue."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the primary purpose of an Executive Summary?",
+          "options": [
+            "To list every single detail of the project.",
+            "To provide a high-level overview of the problem, solution, and result.",
+            "To introduce the team members.",
+            "To explain the history of the company."
+          ],
+          "answer": 1,
+          "explanation": "The summary is for busy decision-makers to see the core value quickly."
+        },
+        {
+          "prompt": "Which statement is more persuasive in a proposal?",
+          "options": [
+            "This software is really good and we like it.",
+            "This software will reduce manual entry errors by 30%.",
+            "We think the software might help us.",
+            "The software is very expensive but nice."
+          ],
+          "answer": 1,
+          "explanation": "Data-driven claims (30% reduction) are more persuasive than subjective opinions."
+        },
+        {
+          "prompt": "What does “ROI” stand for in a business context?",
+          "options": [
+            "Return on Investment",
+            "Rate of Interest",
+            "Real Opportunity Index",
+            "Return of Income"
+          ],
+          "answer": 0,
+          "explanation": "Return on Investment measures the gain or loss generated on an investment relative to the amount of money invested."
+        }
+      ]
+    }
+  ],
+  "placementQuestions": [
+    {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Am a student I.",
+        "I a student.",
+        "I am a student.",
+        "I is student."
+      ],
+      "answer": 2,
+      "explanation": "Use I am to describe yourself."
+    },
+    {
+      "prompt": "There are three ___ on the table.",
+      "options": [
+        "booking",
+        "book",
+        "bookes",
+        "books"
+      ],
+      "answer": 3,
+      "explanation": "After three, use the plural books."
+    },
+    {
+      "prompt": "She ___ to school every morning.",
+      "options": [
+        "walks",
+        "walk",
+        "walking",
+        "is walk"
+      ],
+      "answer": 0,
+      "explanation": "The present simple takes s with she: walks."
+    },
+    {
+      "prompt": "We ___ our grandparents last Sunday.",
+      "options": [
+        "visit",
+        "have visit",
+        "are visiting",
+        "visited"
+      ],
+      "answer": 3,
+      "explanation": "Last Sunday is a finished past time, so use visited."
+    },
+    {
+      "prompt": "Choose the correct comparison.",
+      "options": [
+        "This bag is lighter than mine.",
+        "This bag is lightest mine.",
+        "This bag is lighter as mine.",
+        "This bag is more light than mine."
+      ],
+      "answer": 0,
+      "explanation": "Use lighter than to compare the weight of two bags."
+    },
+    {
+      "prompt": "I ___ here since 2020, and I still live here.",
+      "options": [
+        "lived yesterday",
+        "live",
+        "am living",
+        "have lived"
+      ],
+      "answer": 3,
+      "explanation": "The present perfect with since connects a starting point in the past to now."
+    },
+    {
+      "prompt": "If I finish my work early tomorrow, I ___ you.",
+      "options": [
+        "calling",
+        "will call",
+        "called",
+        "would have called"
+      ],
+      "answer": 1,
+      "explanation": "For a real future possibility, use if plus present simple and will plus base verb."
+    },
+    {
+      "prompt": "The report ___ by two experts before it was published.",
+      "options": [
+        "had been reviewed",
+        "has review",
+        "had reviewing",
+        "was review"
+      ],
+      "answer": 0,
+      "explanation": "Had been reviewed is the past perfect passive: the review preceded publication."
+    },
+    {
+      "prompt": "A study finds an association between two variables. What can it establish by itself?",
+      "options": [
+        "One must cause the other.",
+        "The variables are related in the observed data.",
+        "No other explanation exists.",
+        "The relationship applies to every person."
+      ],
+      "answer": 1,
+      "explanation": "An association alone does not establish causation or universal applicability."
+    },
+    {
+      "prompt": "Choose the correct formal inversion.",
+      "options": [
+        "Only then she understood the problem.",
+        "Only then understood she the problem.",
+        "Only then did she understand the problem.",
+        "Only then did she understood the problem."
+      ],
+      "answer": 2,
+      "explanation": "Initial only then triggers auxiliary-subject inversion; after did, use understand."
+    },
+    {
+      "prompt": "Which sentence links an unreal past event with a present consequence?",
+      "options": [
+        "If she calls tomorrow, I will answer.",
+        "If she had called, I would have answered then.",
+        "If she calls, answer politely.",
+        "If she had accepted the post, she would be living abroad now."
+      ],
+      "answer": 3,
+      "explanation": "The past perfect condition combines with a present imagined result: would be living now."
+    },
+    {
+      "prompt": "An author says, “These findings are promising, though the sample is narrow.” Which paraphrase preserves the stance?",
+      "options": [
+        "The author rejects the findings entirely.",
+        "The sample makes any observation impossible.",
+        "The results are encouraging, but their wider applicability remains uncertain.",
+        "The findings prove the theory for everyone."
+      ],
+      "answer": 2,
+      "explanation": "The author expresses cautious optimism while limiting generalization."
+    }
+  ],
+  "words": [
+    {
+      "word": "hello",
+      "meaning": "A greeting used when you meet someone or begin a conversation.",
+      "example": "Hello, my name is Maya.",
+      "level": "a0"
+    },
+    {
+      "word": "student",
+      "meaning": "A person who studies at a school, college, or in another learning setting.",
+      "example": "I am an English student.",
+      "level": "a0"
+    },
+    {
+      "word": "friend",
+      "meaning": "Someone you know well and like spending time with.",
+      "example": "My friend and I read together.",
+      "level": "a0"
+    },
+    {
+      "word": "usually",
+      "meaning": "On most occasions; as a normal habit.",
+      "example": "I usually study after breakfast.",
+      "level": "a1"
+    },
+    {
+      "word": "neighbourhood",
+      "meaning": "The area around your home or a particular part of a town.",
+      "example": "There is a library in my neighbourhood.",
+      "level": "a1"
+    },
+    {
+      "word": "borrow",
+      "meaning": "To take and use something with permission, intending to return it.",
+      "example": "May I borrow your pen for a minute?",
+      "level": "a1"
+    },
+    {
+      "word": "reservation",
+      "meaning": "An arrangement to keep a seat, room, or table for someone.",
+      "example": "I have a reservation for two nights.",
+      "level": "a2"
+    },
+    {
+      "word": "delayed",
+      "meaning": "Happening or arriving later than planned.",
+      "example": "Our train is delayed by twenty minutes.",
+      "level": "a2"
+    },
+    {
+      "word": "comfortable",
+      "meaning": "Physically relaxed or free from discomfort.",
+      "example": "This chair is more comfortable than that one.",
+      "level": "a2"
+    },
+    {
+      "word": "deadline",
+      "meaning": "The latest time or date by which something must be completed.",
+      "example": "We need to meet the deadline on Friday.",
+      "level": "b1"
+    },
+    {
+      "word": "evidence",
+      "meaning": "Information or observations that support a belief or conclusion.",
+      "example": "Look for evidence before accepting the claim.",
+      "level": "b1"
+    },
+    {
+      "word": "responsibility",
+      "meaning": "A duty to deal with something or be accountable for it.",
+      "example": "She took responsibility for organizing the event.",
+      "level": "b1"
+    },
+    {
+      "word": "significant",
+      "meaning": "Important or large enough to deserve attention in a particular context.",
+      "example": "The new timetable made a significant difference to commuters.",
+      "level": "b2"
+    },
+    {
+      "word": "qualification",
+      "meaning": "A detail that limits or modifies a claim; also a credential showing training.",
+      "example": "The speaker added a qualification: the trial involved only one team.",
+      "level": "b2"
+    },
+    {
+      "word": "provisional",
+      "meaning": "Temporary or arranged for now, and subject to later confirmation.",
+      "example": "The release date is provisional until the review is complete.",
+      "level": "b2"
+    },
+    {
+      "word": "feasible",
+      "meaning": "Possible and practical to carry out.",
+      "example": "We need a feasible plan that fits our budget.",
+      "level": "c1"
+    },
+    {
+      "word": "correlation",
+      "meaning": "An association between variables, which alone does not prove a causal relationship.",
+      "example": "The study found a correlation between the two measures.",
+      "level": "c1"
+    },
+    {
+      "word": "substantiate",
+      "meaning": "To support a statement with evidence or facts.",
+      "example": "The report needs data to substantiate its main claim.",
+      "level": "c1"
+    },
+    {
+      "word": "nuance",
+      "meaning": "A small but meaningful difference in meaning, feeling, or expression.",
+      "example": "Her explanation captured the nuance of the disagreement.",
+      "level": "c1"
+    },
+    {
+      "word": "connotation",
+      "meaning": "An additional feeling or judgement suggested by a word beyond its basic definition.",
+      "example": "Stingy has a more negative connotation than economical.",
+      "level": "c2"
+    },
+    {
+      "word": "counterfactual",
+      "meaning": "Describing an imagined situation that differs from what actually happened.",
+      "example": "The counterfactual question considers what would have happened without the policy.",
+      "level": "c2"
+    },
+    {
+      "word": "equivocal",
+      "meaning": "Open to more than one interpretation, or not clearly supporting one conclusion.",
+      "example": "The evidence was equivocal, so the team avoided a firm conclusion.",
+      "level": "c2"
+    },
+    {
+      "word": "discerning",
+      "meaning": "Showing careful judgement in noticing differences and evaluating quality.",
+      "example": "A discerning reader checks the strength of the supporting evidence.",
+      "level": "c2"
+    },
+    {
+      "word": "succinct",
+      "meaning": "Expressed clearly in few words, without unnecessary detail.",
+      "example": "She gave a succinct summary of a complex argument.",
+      "level": "c2"
+    }
+  ]
+}

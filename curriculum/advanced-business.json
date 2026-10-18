@@ -1,0 +1,3408 @@
+{
+  "lessons": [
+    {
+      "id": "c1-relative-precision",
+      "level": "c1",
+      "skill": "grammar",
+      "title": "Relative clauses that control meaning",
+      "description": "Distinguish identifying information from an added comment.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Identify or add a comment",
+          "text": "A defining relative clause identifies which person or thing you mean. A non-defining clause adds information about an already identified referent and is set off by commas. The punctuation changes the claim: it can distinguish a selected group from a comment about the whole group.",
+          "examples": [
+            "Employees who work remotely need secure access.",
+            "The employees, who work remotely, need secure access."
+          ]
+        },
+        {
+          "heading": "Choose the reference carefully",
+          "text": "Use whose for possession, including possession by organizations. In formal writing, a preposition may come before which or whom. Do not use that after a comma in a non-defining relative clause. Which can also refer to a whole preceding proposition, so check what your reader will understand.",
+          "examples": [
+            "The charity, whose offices flooded, needs temporary space.",
+            "The deadline moved, which surprised the team."
+          ]
+        },
+        {
+          "heading": "Apply and test the interpretation",
+          "text": "Write two versions of a notice about researchers receiving a grant. In one version, identify only the researchers studying rivers; in the other, explain that all the researchers study rivers. Read each aloud with its pauses, then ask whether a reader could infer the existence of a second group.",
+          "examples": [
+            "Researchers who study rivers received funding.",
+            "The researchers, who study rivers, received funding."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence identifies only the managers with budget responsibility?",
+          "options": [
+            "Managers who control budgets must attend.",
+            "Managers, who control budgets, must attend.",
+            "All managers must attend, regardless of responsibility.",
+            "Managers must attend, which controls budgets."
+          ],
+          "answer": 0,
+          "explanation": "Without commas, who control budgets restricts the group to the managers with that responsibility."
+        },
+        {
+          "prompt": "Complete: The foundation, ___ director resigned, appointed an interim leader.",
+          "options": [
+            "which",
+            "whose",
+            "that",
+            "whom"
+          ],
+          "answer": 1,
+          "explanation": "Whose expresses the relationship between the foundation and its director."
+        },
+        {
+          "prompt": "In “The deadline moved, which surprised the team,” what does which refer to?",
+          "options": [
+            "Only the noun team",
+            "An unnamed person",
+            "The fact that the deadline moved",
+            "A particular kind of deadline"
+          ],
+          "answer": 2,
+          "explanation": "Here which comments on the whole preceding event, rather than identifying a noun."
+        }
+      ]
+    },
+    {
+      "id": "c1-reporting-stance",
+      "level": "c1",
+      "skill": "grammar",
+      "title": "Report claims without endorsing them",
+      "description": "Control attribution, reporting verbs, and cautious passive structures.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Separate a claim from your commitment",
+          "text": "Reporting language tells a reader who holds a view and how strongly you endorse it. Say the author argues when presenting a reasoned position, suggests for a tentative interpretation, and demonstrates only when the supporting evidence justifies that strength. Reporting a statement does not automatically establish its truth.",
+          "examples": [
+            "The researcher suggests that access affects participation.",
+            "The editorial argues for longer opening hours."
+          ]
+        },
+        {
+          "heading": "Place the reporting time correctly",
+          "text": "Formal reporting passives include it is believed that and the subject is believed to. Use a perfect infinitive when the reported event precedes the reporting situation. Keep the original level of uncertainty: a report that someone may have left should not become a confident statement that they left.",
+          "examples": [
+            "The building is believed to have opened in 1910.",
+            "It is reported that the team may withdraw."
+          ]
+        },
+        {
+          "heading": "Revise an overconfident summary",
+          "text": "Take the claim “The campaign caused sales to rise” and imagine that your only source is an interview with the campaign manager. Attribute the interpretation, distinguish it from independently verified figures, and retain uncertainty. Compare the result with your original sentence and underline the words that protect the source boundary.",
+          "examples": [
+            "The manager attributes the rise in sales to the campaign.",
+            "Sales rose, but the interview alone cannot establish the cause."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which reporting verb is most cautious for a possible interpretation?",
+          "options": [
+            "Proves conclusively",
+            "Guarantees",
+            "Settles beyond doubt",
+            "Suggests"
+          ],
+          "answer": 3,
+          "explanation": "Suggests presents an interpretation as tentative rather than as established proof."
+        },
+        {
+          "prompt": "Choose the form showing that the opening happened before the current belief.",
+          "options": [
+            "The library is believed to have opened in 1910.",
+            "The library is believed opening in 1910.",
+            "The library believes to open in 1910.",
+            "The library is believed to opening in 1910."
+          ],
+          "answer": 0,
+          "explanation": "To have opened is a perfect infinitive placing the opening before the present reporting situation."
+        },
+        {
+          "prompt": "A manager says advertising caused a rise. Which summary accurately attributes the claim?",
+          "options": [
+            "Advertising certainly caused the rise.",
+            "The manager attributes the rise to advertising.",
+            "The figures prove advertising was the only cause.",
+            "Everyone agrees advertising caused the rise."
+          ],
+          "answer": 1,
+          "explanation": "The answer identifies the source of the causal interpretation without endorsing it as independently established."
+        }
+      ]
+    },
+    {
+      "id": "c1-participle-control",
+      "level": "c1",
+      "skill": "grammar",
+      "title": "Use participle clauses safely",
+      "description": "Compress ideas while keeping subjects and time relationships clear.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Keep the understood subject stable",
+          "text": "An introductory participle clause usually shares its understood subject with the main clause. In “Walking home, I noticed the sign,” I was walking. If the main subject is a sign, the sentence may accidentally imply that the sign was walking. Rewrite the clause when the subject connection becomes unclear.",
+          "examples": [
+            "Walking home, I noticed the sign.",
+            "As I walked home, the sign caught my attention."
+          ]
+        },
+        {
+          "heading": "Express sequence and voice",
+          "text": "An ing clause often presents an accompanying action or reason. Having plus a past participle can make an earlier action explicit. A past participle can express a passive meaning. Compression is useful only when the logical relationship remains clear; a full clause may be better for a complex contrast or condition.",
+          "examples": [
+            "Having checked the figures, Jo submitted the report.",
+            "Written for beginners, the guide avoids specialist terms."
+          ]
+        },
+        {
+          "heading": "Run a subject check",
+          "text": "Revise “Having reviewed the contract, several errors became clear.” Ask who reviewed it, then make that person the subject or restore a full clause. Finally write a sentence about your own learning using having plus a past participle. Name the earlier action and the later result before you compress them.",
+          "examples": [
+            "Having reviewed the contract, we identified several errors.",
+            "After we reviewed the contract, several errors became clear."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which introductory clause has a clear matching subject?",
+          "options": [
+            "Having checked the map, the route looked shorter.",
+            "Walking to class, the rain started.",
+            "Having checked the map, Leena chose the shorter route.",
+            "Written by an expert, I enjoyed the guide."
+          ],
+          "answer": 2,
+          "explanation": "Leena is both the person who checked the map and the person who chose the route."
+        },
+        {
+          "prompt": "What does having checked emphasize in “Having checked the figures, Jo submitted the report”?",
+          "options": [
+            "The check will happen tomorrow.",
+            "The report checked Jo.",
+            "Submission and checking are always identical actions.",
+            "The check occurred before submission."
+          ],
+          "answer": 3,
+          "explanation": "Having plus past participle explicitly marks an action completed before the main event."
+        },
+        {
+          "prompt": "Which revision fixes “Having reviewed the contract, several errors became clear”?",
+          "options": [
+            "Having reviewed the contract, we identified several errors.",
+            "Having reviewed the contract, several errors were reviewing.",
+            "Having reviewed the contract, the errors reviewed us.",
+            "Having reviewing the contract, errors were clear."
+          ],
+          "answer": 0,
+          "explanation": "Making we the main subject gives the participle clause a logical human reviewer."
+        }
+      ]
+    },
+    {
+      "id": "c1-academic-verb-patterns",
+      "level": "c1",
+      "skill": "vocabulary",
+      "title": "Academic verbs and their partners",
+      "description": "Use argument verbs with the complements they naturally take.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Learn the grammatical partner",
+          "text": "An advanced word is useful only when you can fit it into a sentence. Distinguish attribute something to a cause from result in an outcome and result from a cause. Treat the preposition as part of the expression. Reversing it can reverse the relationship you intend to describe.",
+          "examples": [
+            "The team attributed the delay to a missing permit.",
+            "The missing permit resulted in a delay."
+          ]
+        },
+        {
+          "heading": "Distinguish argument functions",
+          "text": "Challenge questions a claim; corroborate supplies supporting evidence; reconcile explains how apparently conflicting observations can fit together. These verbs describe different intellectual actions. Do not replace them mechanically with show. Choose a verb by asking what the evidence actually does in relation to an existing argument.",
+          "examples": [
+            "The second survey corroborates the earlier finding.",
+            "The new model reconciles the two estimates."
+          ]
+        },
+        {
+          "heading": "Build a precise mini-summary",
+          "text": "Write three sentences about an imagined study: one explaining an outcome, one describing supporting evidence, and one acknowledging a conflicting result. Circle each verb and its following preposition or clause. Replace a verb if it exaggerates the certainty of the evidence, then read the summary as a connected argument.",
+          "examples": [
+            "The authors attribute lower attendance to transport costs.",
+            "A later interview study supports, but does not prove, that explanation."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Complete: The delay resulted ___ a missing permit.",
+          "options": [
+            "at",
+            "from",
+            "for",
+            "by"
+          ],
+          "answer": 1,
+          "explanation": "Result from introduces the cause; result in introduces the consequence."
+        },
+        {
+          "prompt": "A new independent dataset supports an earlier finding. Which verb fits?",
+          "options": [
+            "Contradicts",
+            "Evades",
+            "Corroborates",
+            "Withholds"
+          ],
+          "answer": 2,
+          "explanation": "Corroborate means supply additional support for an existing statement or finding."
+        },
+        {
+          "prompt": "What does it mean to reconcile two apparently conflicting observations?",
+          "options": [
+            "Delete one without explanation",
+            "Prove both observations false automatically",
+            "Repeat them in capital letters",
+            "Explain how they can be compatible"
+          ],
+          "answer": 3,
+          "explanation": "Reconciling observations accounts for their apparent conflict rather than merely ignoring one."
+        }
+      ]
+    },
+    {
+      "id": "c1-idioms-and-audience",
+      "level": "c1",
+      "skill": "vocabulary",
+      "title": "Idioms, literal meaning, and audience",
+      "description": "Recognize common figurative language and choose when to paraphrase.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Understand the figurative image",
+          "text": "An idiom has a conventional meaning that may not follow directly from its individual words. A stumbling block is an obstacle; on the fence means undecided; a long shot is an attempt with a low chance of success. Learn each expression through a situation and a complete example, rather than translating each word.",
+          "examples": [
+            "Funding remains the main stumbling block.",
+            "I am on the fence about moving."
+          ]
+        },
+        {
+          "heading": "Match the audience and purpose",
+          "text": "An idiom can make an informal conversation vivid, but unfamiliar imagery may obscure instructions for an international audience. Understand it when you hear it, and choose a plain equivalent when clarity matters. Register is contextual: neither a figurative expression nor its formal alternative is automatically superior.",
+          "examples": [
+            "Informal: Let us touch base on Tuesday.",
+            "Clear scheduling: Let us discuss progress on Tuesday."
+          ]
+        },
+        {
+          "heading": "Practise a two-version message",
+          "text": "Write a friendly update using two familiar idioms, then rewrite it for a new colleague who is learning English. Preserve the action, uncertainty, and timing. Check that your plain version does not accidentally turn a low probability into an impossibility, or an undecided opinion into a rejection.",
+          "examples": [
+            "It is a long shot, but we will apply.",
+            "Success is unlikely, but we will apply."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "“I am on the fence about the offer” most likely means what?",
+          "options": [
+            "I have not decided whether to accept.",
+            "I have already rejected it.",
+            "I am repairing outdoor furniture.",
+            "I have accepted without hesitation."
+          ],
+          "answer": 0,
+          "explanation": "On the fence conventionally describes an undecided position."
+        },
+        {
+          "prompt": "Which paraphrase preserves “It is a long shot”?",
+          "options": [
+            "It is certain to fail.",
+            "It has a low chance of succeeding.",
+            "It is guaranteed to succeed.",
+            "It requires a camera."
+          ],
+          "answer": 1,
+          "explanation": "A long shot is unlikely to succeed, but success remains possible."
+        },
+        {
+          "prompt": "Which instruction is clearest for an audience unfamiliar with workplace idioms?",
+          "options": [
+            "Please touch base and circle back at some point.",
+            "Keep your ear to the ground and run with it.",
+            "Please discuss progress with me on Tuesday.",
+            "Move the needle when the ball is in your court."
+          ],
+          "answer": 2,
+          "explanation": "The plain instruction names both the action and time without requiring knowledge of several idioms."
+        }
+      ]
+    },
+    {
+      "id": "c1-word-families",
+      "level": "c1",
+      "skill": "vocabulary",
+      "title": "Word families and precise collocations",
+      "description": "Choose the right form without relying on suffixes alone.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Connect meaning and sentence role",
+          "text": "A word family links related forms such as analysis, analyse, analytical, and analytically. The form depends on the sentence role: a noun can name a process, a verb describes the action, and an adjective modifies a noun. Learn a short phrase with each form instead of assuming every ending is interchangeable.",
+          "examples": [
+            "We analyse the responses.",
+            "The analysis reveals a pattern.",
+            "She takes an analytical approach."
+          ]
+        },
+        {
+          "heading": "Notice natural combinations",
+          "text": "Collocations are conventional word combinations. We draw a distinction, reach a consensus, and pose a question. Alternatives may be understandable but less natural. Record the complete combination, including articles or prepositions where useful. Watch meaning too: reach a consensus describes agreement, whereas establish a fact concerns supporting its truth.",
+          "examples": [
+            "Draw a distinction between access and use.",
+            "The panel reached a consensus on the criteria."
+          ]
+        },
+        {
+          "heading": "Revise through a substitution test",
+          "text": "Write a paragraph about a community survey using one word family and two collocations. Replace a noun with a verb only after rebuilding the sentence around it. Check a trusted dictionary when unsure of a form. Finish by explaining why a natural combination fits the intended action rather than merely sounding impressive.",
+          "examples": [
+            "Our evaluation identified a problem.",
+            "We evaluated the service and identified a problem."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Complete: The team took an ___ approach to the data.",
+          "options": [
+            "analysis",
+            "analyse",
+            "analytically",
+            "analytical"
+          ],
+          "answer": 3,
+          "explanation": "Approach is a noun modified by the adjective analytical."
+        },
+        {
+          "prompt": "Which is a natural collocation for making a conceptual difference clear?",
+          "options": [
+            "Draw a distinction",
+            "Do a distinction",
+            "Spend a distinction",
+            "Arrive a distinction"
+          ],
+          "answer": 0,
+          "explanation": "Draw a distinction is the conventional combination for identifying a meaningful difference."
+        },
+        {
+          "prompt": "Which sentence correctly changes the noun evaluation into a verb construction?",
+          "options": [
+            "We evaluation the service carefully.",
+            "We evaluated the service carefully.",
+            "We were evaluate of the service.",
+            "We did evaluative the service."
+          ],
+          "answer": 1,
+          "explanation": "Evaluated is the past-tense verb, with the service as its direct object."
+        }
+      ]
+    },
+    {
+      "id": "c1-reading-public-trial",
+      "level": "c1",
+      "skill": "reading",
+      "title": "Read a pilot scheme with caution",
+      "description": "Distinguish a result, an explanation, and a missing comparison.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: an evening library trial",
+          "text": "For six weeks, Northbank Library stayed open until nine on Wednesdays. Evening visits rose from an average of forty to seventy per week. A council newsletter described the trial as proof that extended hours brought new readers into the library. Yet the registration count changed little, and staff reported that some regular visitors had shifted their visits from afternoons to evenings. The trial also coincided with examinations at a nearby college. Students welcomed the quieter study space, while parents requested later openings on Fridays instead. The librarian recommended continuing Wednesday evenings for another term, alongside a survey asking visitors when they would otherwise have come. She also proposed comparing attendance with a similar branch that retained its usual hours. The aim, she explained, was to learn whether the change expanded access or mainly redistributed existing use.",
+          "examples": [
+            "Reported evening average: forty before, seventy during.",
+            "Alternative explanations: shifted visits and examination demand."
+          ]
+        },
+        {
+          "heading": "Separate outcome from interpretation",
+          "text": "The passage reports a rise in evening visits, but the newsletter adds an interpretation about new readers. Registration figures and staff observations complicate that interpretation. Identify the precise outcome measured and ask whether it establishes the claimed benefit. A plausible explanation is not necessarily the only explanation supported by the situation.",
+          "examples": [
+            "More evening visits does not by itself establish more unique readers.",
+            "The registration count changed little despite increased evening visits."
+          ]
+        },
+        {
+          "heading": "Produce a qualified summary",
+          "text": "Summarize the result in one sentence and the uncertainty in a second. Then explain why a comparison branch could help, while acknowledging that branches may differ. For unofficial IELTS-style practice, justify each answer with a phrase from the passage before checking the explanation.",
+          "examples": [
+            "Evening attendance increased; its effect on total access remains unclear.",
+            "A survey can ask whether an evening visit replaced an afternoon one."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the reported figures directly show?",
+          "options": [
+            "A comparable increase in unique library members",
+            "An increase in total weekly visits across all opening hours",
+            "An increase in Wednesday evening visits",
+            "A rise of thirty new registrations per week"
+          ],
+          "answer": 2,
+          "explanation": "The stated change is from forty to seventy evening visits, not a verified increase in unique readers."
+        },
+        {
+          "prompt": "Why does the nearby college matter to the argument?",
+          "options": [
+            "Its examinations prove that every additional visitor was a student.",
+            "Its calendar explains why existing readers registered again.",
+            "Its examination schedule makes a comparison branch unnecessary.",
+            "Its examinations offer another explanation for study-space demand."
+          ],
+          "answer": 3,
+          "explanation": "The timing of examinations could influence attendance independently of the new opening hours."
+        },
+        {
+          "prompt": "What does the librarian recommend?",
+          "options": [
+            "Continue the trial while gathering information about displaced visits and a comparison branch.",
+            "Continue the trial and use evening attendance alone as the success measure.",
+            "Replace Wednesday evenings with Friday openings because parents requested them.",
+            "Complete the branch comparison before allowing any further evening visits."
+          ],
+          "answer": 0,
+          "explanation": "The recommendation combines continued Wednesday access with a visitor survey and branch comparison."
+        }
+      ]
+    },
+    {
+      "id": "c1-reading-source-synthesis",
+      "level": "c1",
+      "skill": "reading",
+      "title": "Synthesize two views fairly",
+      "description": "Find agreement beneath different emphases.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passages: local food policy",
+          "text": "Source A: A council should support local food markets because direct contact can help small growers explain their methods and build customer trust. Local origin alone, however, does not establish a low environmental impact. Production methods and transport efficiency matter too. Buyers need clear information rather than a reassuring label. Source B: Public purchasing can strengthen regional farms, provided contracts remain accessible to smaller suppliers. Requiring every ingredient to come from nearby would create difficulties when seasonal supplies are limited. A flexible policy could prioritize regional produce when suitable alternatives exist, while publishing its selection criteria. Neither source claims that geography is irrelevant. Both argue that a useful policy needs more detail than a simple local-versus-imported divide, although A emphasizes consumers and B emphasizes institutional purchasing.",
+          "examples": [
+            "A prioritizes buyer information.",
+            "B prioritizes accessible contracts and flexible procurement."
+          ]
+        },
+        {
+          "heading": "Separate shared ground from emphasis",
+          "text": "A synthesis organizes sources around an issue rather than retelling each text in isolation. Identify where they agree, where they differ, and whether an apparent conflict concerns a different audience or situation. Preserve conditions such as provided and when suitable alternatives exist, because they define the scope of support.",
+          "examples": [
+            "Both sources resist treating local origin as a sufficient rule.",
+            "A discusses consumer trust, whereas B examines procurement access."
+          ]
+        },
+        {
+          "heading": "Draft a synthesis statement",
+          "text": "Write a short combined summary naming one shared principle and one difference of emphasis. Attribute distinct recommendations to their sources. Avoid creating a consensus that neither author states, and do not convert a conditional preference into a universal prohibition.",
+          "examples": [
+            "Both favour informed, flexible decisions; A focuses on consumers, whereas B examines public contracts.",
+            "Neither text treats every imported product as unacceptable."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which principle do both sources support?",
+          "options": [
+            "Local origin provides sufficient evidence of environmental benefit.",
+            "Local-food decisions require more than a simple geographic label.",
+            "Public purchasing should use an inflexible geographic rule.",
+            "Direct consumer contact resolves the difficulties of institutional contracts."
+          ],
+          "answer": 1,
+          "explanation": "A discusses production and information; B discusses flexibility and contract access. Both reject an absolute geographic rule."
+        },
+        {
+          "prompt": "Which recommendation belongs specifically to Source B?",
+          "options": [
+            "Let consumers assess growers through direct conversations.",
+            "Treat production method as irrelevant if the origin is nearby.",
+            "Keep public contracts accessible to smaller suppliers.",
+            "Require regional ingredients even when seasonal alternatives are unavailable."
+          ],
+          "answer": 2,
+          "explanation": "Source B explicitly discusses the design of public purchasing contracts."
+        },
+        {
+          "prompt": "Which summary overstates the sources?",
+          "options": [
+            "Both favour qualified approaches to local-food decisions.",
+            "A treats information for buyers as important.",
+            "B argues for flexibility when regional supply is unsuitable.",
+            "Both insist that every ingredient must be local."
+          ],
+          "answer": 3,
+          "explanation": "B expressly warns that requiring every ingredient to be nearby would create difficulties, and A makes no universal requirement."
+        }
+      ]
+    },
+    {
+      "id": "c1-reading-voice",
+      "level": "c1",
+      "skill": "reading",
+      "title": "Identify a writer’s reservations",
+      "description": "Read concession, evaluative wording, and a measured conclusion.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: the frictionless museum",
+          "text": "The museum’s new app promises a frictionless visit. Visitors can reserve a route, receive descriptions beside each object, and avoid the information desk entirely. These features will undoubtedly help some people, particularly those planning a short visit. Whether a museum should remove every moment of uncertainty is another question. An unexpected conversation with a guide or a wrong turn into an unfamiliar room can become the most memorable part of a visit. There is also the matter of visitors who prefer a printed map or cannot comfortably use a phone. The app deserves a place among the museum’s tools, but presenting it as the natural replacement for human assistance seems premature. A successful design might offer confident navigation without assuming that all wandering is wasted time. Convenience is valuable; it need not become the only measure of a cultural experience.",
+          "examples": [
+            "Concession: the app will help some visitors.",
+            "Reservation: convenience is not the only value."
+          ]
+        },
+        {
+          "heading": "Follow the rhetorical turn",
+          "text": "A concession grants a reasonable benefit before introducing a reservation. Words such as undoubtedly do not establish that the writer supports every feature. Locate the turning question and the final recommendation. Notice how seems premature expresses caution about replacement without requiring rejection of the technology itself.",
+          "examples": [
+            "The writer accepts an app as one useful tool.",
+            "The writer questions replacement, rather than the existence of the app."
+          ]
+        },
+        {
+          "heading": "Support an interpretation",
+          "text": "Describe the writer’s attitude using two elements: a recognized advantage and a proposed limit. Quote only a brief phrase when practising, then explain its role in your own words. Test your interpretation against the conclusion rather than selecting a single approving or critical adjective from the opening.",
+          "examples": [
+            "The app should complement assistance and preserve choice.",
+            "Printed maps remain useful for visitors who do not use a phone."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which best describes the writer’s position?",
+          "options": [
+            "The app is useful but should preserve alternatives and human assistance.",
+            "The app is a reasonable replacement once its route descriptions are improved.",
+            "The app is convenient mainly because human assistance has become unnecessary.",
+            "The app should remain secondary because unplanned visits are always more valuable."
+          ],
+          "answer": 0,
+          "explanation": "The writer grants convenience while questioning replacement and the assumption that all wandering is wasteful."
+        },
+        {
+          "prompt": "Why does the writer mention a wrong turn?",
+          "options": [
+            "To establish that the museum’s routes are too poorly marked to use",
+            "To illustrate how an unplanned experience can have value.",
+            "To suggest that guides should lead visitors away from their chosen objects",
+            "To argue that navigation should be removed from the app"
+          ],
+          "answer": 1,
+          "explanation": "The example supports the argument that uncertainty is not always a defect in a museum visit."
+        },
+        {
+          "prompt": "What does “seems premature” signal?",
+          "options": [
+            "A prediction that the app will eventually fail altogether",
+            "An endorsement of replacement once visitors stop requesting printed maps",
+            "A cautious objection to replacing human assistance now",
+            "An admission that digital assistance has already become the only practical option"
+          ],
+          "answer": 2,
+          "explanation": "Premature suggests the conclusion or action is being adopted before it is justified."
+        }
+      ]
+    },
+    {
+      "id": "c1-listening-study-design",
+      "level": "c1",
+      "skill": "listening",
+      "title": "Listen for methods and limits",
+      "description": "Track the measured outcome and the design cautions in a lecture.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Prepare a four-part note frame",
+          "text": "Before playing this original lecture extract, make headings for procedure, observed difference, unchanged outcome, and limitations. Predict useful grammatical signals rather than an answer: before often marks a stage, whereas however introduces a qualification. Listen once without trying to write every sentence, then fill gaps on a second play.",
+          "examples": [
+            "Procedure → questions or rereading; same reading and preparation time.",
+            "Outcome notes: specific examples increased; speaker numbers did not."
+          ]
+        },
+        {
+          "heading": "Distinguish detail from participation",
+          "text": "The speaker compares how specifically students contributed with how many students spoke. Those are separate outcomes, so improved discussion detail does not establish that more students participated. Keep this distinction when summarizing, and note whether the speaker treats the result as tentative or conclusive.",
+          "examples": [
+            "More examples ≠ more speakers.",
+            "No random assignment limits causal interpretation."
+          ]
+        },
+        {
+          "heading": "Apply a claim audit",
+          "text": "After listening, write one sentence beginning the activity may, followed by a specific observed benefit. Add one design limitation and the proposed improvement. Replay only the segment that supports each note. Check the transcript last so that reading does not replace listening during your first attempt.",
+          "examples": [
+            "The plan adds alternating activities and an independent observer.",
+            "The benefit concerns discussion detail, not an increase in participants."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What difference was observed?",
+          "options": [
+            "The question group had more students contributing to discussion.",
+            "The question group recalled more simple facts from its reading.",
+            "The rereading group used more specific examples a week later.",
+            "The question group used more specific examples."
+          ],
+          "answer": 3,
+          "explanation": "The speaker reports greater specificity; materials and preparation time were matched."
+        },
+        {
+          "prompt": "Which outcome did not differ?",
+          "options": [
+            "The number of students who spoke",
+            "The detail in students’ discussion contributions",
+            "The usefulness of the preparation reported by teachers",
+            "The number of specific examples used a week later"
+          ],
+          "answer": 0,
+          "explanation": "The speaker explicitly states no difference in the number of speakers."
+        },
+        {
+          "prompt": "Why is an independent observer proposed?",
+          "options": [
+            "Students had been randomly assigned but refused to follow instructions.",
+            "The instructor knew which exercise each group completed.",
+            "The previous observer had assessed discussion without knowing the exercises.",
+            "The rereading exercise took longer than the question exercise."
+          ],
+          "answer": 1,
+          "explanation": "Independent assessment would address a concern related to the instructor’s knowledge of group conditions."
+        }
+      ],
+      "listeningText": "Before we move to the results, let me explain what we actually changed. Students in two seminar groups received the same reading material. One group answered brief questions before the discussion; the other simply reread the text for the same amount of time. In the following discussion, the question group referred to more specific examples. That difference was still present a week later, when students discussed a related topic without preparation. We did not find a difference in the number of students who spoke, however, so the exercise seems to have affected the detail of contributions rather than participation itself. There are two cautions. The groups already existed, and we could not randomly assign students. Also, the instructor knew which exercise each group completed. Next term, we plan to alternate the exercises across several groups and ask an independent observer to assess the discussions. For now, I would describe the activity as a useful possibility, not an established solution."
+    },
+    {
+      "id": "c1-listening-disagreement",
+      "level": "c1",
+      "skill": "listening",
+      "title": "Listen for the actual disagreement",
+      "description": "Separate shared goals from competing sequences of action.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Listen for common ground",
+          "text": "The speaker begins by naming areas of agreement before identifying a narrower disagreement. Draw two columns, shared goals and contested decision. This helps you resist the assumption that opposing groups disagree about everything. Listen for nobody, also, and concerns, which help mark the boundaries of the dispute.",
+          "examples": [
+            "Common goal: reuse the warehouses and retain public river access.",
+            "Contested decision: appointing a builder before the study is complete."
+          ]
+        },
+        {
+          "heading": "Follow the conditional consequence",
+          "text": "A conditional risk is not a prediction that the worst outcome will certainly occur. Here, one possible finding could force changes to a design. Record the condition and consequence separately, then identify which action the speaker wants to delay and which activities can continue.",
+          "examples": [
+            "If road capacity is inadequate → substantial design changes may be needed.",
+            "If capacity is adequate, this particular constraint may not require redesign."
+          ]
+        },
+        {
+          "heading": "Reconstruct the proposed sequence",
+          "text": "After two listens, explain the proposal as a sequence of three practical steps. Include one activity that can proceed immediately and the commitment that should wait. Check your summary for an accidental claim that the whole project should stop; the recording explicitly distinguishes preparation from a major commitment.",
+          "examples": [
+            "Continue preliminary work; complete the study; then commit to a layout.",
+            "The speaker permits maintenance while opposing an early budget commitment."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What do both groups support?",
+          "options": [
+            "Selecting a builder before transport evidence is available",
+            "Using the existing warehouse layout without revision",
+            "Reusing the warehouses and retaining public river access",
+            "Prioritizing the construction schedule over public access"
+          ],
+          "answer": 2,
+          "explanation": "The opening identifies these as agreed goals."
+        },
+        {
+          "prompt": "What is the central disagreement?",
+          "options": [
+            "Whether a preliminary design should be prepared at all",
+            "Whether public river access should be included in the design",
+            "Whether every maintenance task should wait for a builder",
+            "Whether to select a builder before the transport study is complete"
+          ],
+          "answer": 3,
+          "explanation": "The speaker explicitly says the disagreement concerns the sequence of decisions."
+        },
+        {
+          "prompt": "Which activity does the speaker say can continue immediately?",
+          "options": [
+            "Surveys and community meetings",
+            "Committing most of the budget to the preferred layout",
+            "Appointing a builder before the transport study ends",
+            "Implementing a final road design before capacity is known"
+          ],
+          "answer": 0,
+          "explanation": "The speaker lists surveys, community meetings, and maintenance as work that need not wait."
+        }
+      ],
+      "listeningText": "You have heard both teams describe the riverside proposal, so I want to clarify where we agree. Nobody is suggesting that the old warehouses should remain empty indefinitely. We also agree that the public should retain access to the river. The disagreement concerns the sequence of decisions. The development group would like to select a builder before the transport study is complete, arguing that an early appointment would protect the schedule. Our group thinks that would narrow the options too soon. If the study shows that the existing road cannot handle additional traffic, the design may need substantial changes. We therefore propose completing the study first, while allowing potential builders to comment on several preliminary designs. That is not a request to postpone all work. Surveys, community meetings, and basic maintenance can continue immediately. What we want to avoid is committing most of the budget to one layout before we understand a constraint that could reshape it."
+    },
+    {
+      "id": "c1-listening-reframing",
+      "level": "c1",
+      "skill": "listening",
+      "title": "Listen when a researcher changes focus",
+      "description": "Recognize a revised interpretation without inventing a contradiction.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Map the original and revised question",
+          "text": "In an extended explanation, speakers may retain earlier measurements while changing how they interpret them. Listen for the original questionnaire, the unexpected issue, and the revised scope. Write a simple before-and-after note, preserving the distinction between disliking a place and facing difficulty reaching it.",
+          "examples": [
+            "Original measures: visit frequency and satisfaction.",
+            "Revised scope: ask how people reach the park."
+          ]
+        },
+        {
+          "heading": "Notice what is retained",
+          "text": "A revised interpretation does not necessarily mean that previous data were useless. The speaker explicitly retains satisfaction questions, but rejects treating them as a complete explanation. Listen for still and simply: small words can show continuity as well as change in academic arguments.",
+          "examples": [
+            "New focus: the journey as well as facilities inside the park.",
+            "Satisfaction remains useful, but it cannot explain every attendance pattern."
+          ]
+        },
+        {
+          "heading": "Practise a faithful paraphrase",
+          "text": "Summarize the change using both and rather than replacing one measure with another. Then imagine a follow-up question that would distinguish low interest from poor access. Replay the conclusion and check whether your summary preserves the relationship between numerical findings and personal accounts.",
+          "examples": [
+            "The report will combine figures with residents’ journey descriptions.",
+            "How easy is it for you to cross the road near the entrance?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the original questionnaire ask about?",
+          "options": [
+            "Residents’ road-crossing behaviour and entrance preferences",
+            "Visit frequency and satisfaction",
+            "How satisfied residents were with the route to the park",
+            "The relationship between activity costs and park attendance"
+          ],
+          "answer": 1,
+          "explanation": "The opening identifies how often residents visited and how satisfied they were."
+        },
+        {
+          "prompt": "Why might more activities inside the park be insufficient?",
+          "options": [
+            "The interviews established that residents preferred fewer facilities.",
+            "Residents reported satisfaction only after new activities were offered.",
+            "Some barriers concern the journey to the park.",
+            "Low attendance was caused entirely by a lack of internal facilities."
+          ],
+          "answer": 2,
+          "explanation": "Road crossing and hard-to-find entrances are access issues that new internal activities may leave unresolved."
+        },
+        {
+          "prompt": "How will the next report present evidence?",
+          "options": [
+            "By replacing satisfaction data with journey descriptions",
+            "By reporting satisfaction figures without the access concerns",
+            "By treating interview accounts as an alternative to all numerical data",
+            "By combining figures with short accounts of residents’ journeys"
+          ],
+          "answer": 3,
+          "explanation": "The conclusion explicitly brings numbers and experiences together."
+        }
+      ],
+      "listeningText": "When we began interviewing residents about the new park, our questionnaire asked how often they visited and how satisfied they were. Those questions produced tidy numbers, but the interviews soon revealed a missing issue. Several residents enjoyed the park yet felt uneasy crossing the busy road beside it. Others said they rarely visited because the entrances were difficult to find, not because they disliked the facilities. We therefore added questions about the journey to the park. This changed our interpretation of low attendance. It would have been easy to recommend more activities inside the park, but that would not necessarily address problems outside its boundaries. We are keeping the satisfaction questions because they still tell us something useful. We are simply no longer treating them as a complete explanation of use. Our next report will present the figures together with short accounts of residents’ journeys, so that the numbers and experiences can inform each other rather than compete for attention."
+    },
+    {
+      "id": "c1-writing-synthesis",
+      "level": "c1",
+      "skill": "writing",
+      "title": "Build a synthesis paragraph",
+      "description": "Combine sources around a claim and mark the limits of agreement.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Organize by the shared issue",
+          "text": "A synthesis paragraph uses several sources to develop one point. Start with the issue you want to explain, then select relevant evidence from each source. Avoid a sequence of disconnected summaries. Attribute ideas clearly, especially when sources disagree or examine different groups, time periods, or outcomes.",
+          "examples": [
+            "A finds better access among commuters; B identifies costs for shift workers.",
+            "A combined paragraph can compare how access differs across work schedules."
+          ]
+        },
+        {
+          "heading": "Show the relationship between sources",
+          "text": "Use similarly for a genuine parallel, whereas for a contrast, and extends when one source develops another. The connector must describe the evidence rather than manufacture agreement. If two studies measure different outcomes, explain that difference before combining them into a general conclusion.",
+          "examples": [
+            "Both address access, but they examine different schedules.",
+            "The findings suggest benefits may depend on working patterns."
+          ]
+        },
+        {
+          "heading": "Draft and revise a compact argument",
+          "text": "Practise with two invented notes: Survey A reports shorter journeys for daytime commuters; Interview B records fewer services after ten at night. Write a paragraph that acknowledges both outcomes and gives a bounded conclusion. Then underline attribution, circle the connector, and remove any claim about all travellers.",
+          "examples": [
+            "The timetable appears helpful for daytime commuters, while late workers may still face poor access.",
+            "The evidence concerns the surveyed groups, rather than every possible traveller."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which opening best supports synthesis?",
+          "options": [
+            "The revised timetable affects daytime and late-night travellers differently.",
+            "Source A exists. Source B exists.",
+            "Every source proves the timetable is perfect.",
+            "Transport has always been interesting."
+          ],
+          "answer": 0,
+          "explanation": "The opening creates an issue around which evidence from both sources can be organized."
+        },
+        {
+          "prompt": "Which connector accurately relates shorter daytime journeys and fewer late-night services?",
+          "options": [
+            "Identically",
+            "Whereas",
+            "For the same reason in every case",
+            "As an exact equivalent"
+          ],
+          "answer": 1,
+          "explanation": "Whereas marks a relevant contrast between outcomes for different travellers."
+        },
+        {
+          "prompt": "What should the paragraph avoid claiming from these notes?",
+          "options": [
+            "Daytime commuters reported shorter journeys.",
+            "Late-night services remain a concern.",
+            "Every traveller benefits equally.",
+            "The effect may depend on working patterns."
+          ],
+          "answer": 2,
+          "explanation": "The evidence explicitly differs by schedule, so equal universal benefit is unsupported."
+        }
+      ]
+    },
+    {
+      "id": "c1-writing-feedback",
+      "level": "c1",
+      "skill": "writing",
+      "title": "Write constructive, specific feedback",
+      "description": "Turn evaluation into evidence, impact, and a useful next step.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Describe what a reader can locate",
+          "text": "Useful feedback identifies a feature of the work rather than assigning a fixed trait to its author. Name the relevant section, sentence, or omission. Explain the effect on a reader so that revision has a purpose. Specific praise is useful too because it shows what should be retained.",
+          "examples": [
+            "The opening defines the problem clearly.",
+            "The second paragraph introduces a new term without explaining it."
+          ]
+        },
+        {
+          "heading": "Make the next step achievable",
+          "text": "Separate essential corrections from optional suggestions. A request such as add the missing comparison is clearer than make it better. Calibrate your tone to the relationship and consequences, while avoiding vague hedges that hide a required action. Explain uncertainty when you are unsure of the intended meaning.",
+          "examples": [
+            "Please add the comparison required by the brief.",
+            "If you mean annual income, label the axis accordingly."
+          ]
+        },
+        {
+          "heading": "Practise a three-part comment",
+          "text": "Choose a paragraph from your own writing. Write feedback that identifies one feature, explains its impact, and suggests a revision. Limit the comment to the most useful change rather than listing every possible improvement. Apply the revision yourself and check whether the reader now has the missing information.",
+          "examples": [
+            "The pronoun this has two possible referents; replace it with the specific policy name.",
+            "The conclusion introduces a new claim; develop it earlier or remove it."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which feedback is most actionable?",
+          "options": [
+            "You are bad at clarity.",
+            "Improve absolutely everything.",
+            "This is confusing somehow.",
+            "Paragraph two uses this ambiguously; name the policy it refers to."
+          ],
+          "answer": 3,
+          "explanation": "The comment locates a specific issue and gives a concrete revision."
+        },
+        {
+          "prompt": "Why distinguish required changes from optional suggestions?",
+          "options": [
+            "So the writer can prioritize and understand what must be corrected.",
+            "So the writer can ignore the brief.",
+            "So the feedback can avoid all detail.",
+            "So every personal preference becomes a rule."
+          ],
+          "answer": 0,
+          "explanation": "Priority helps the writer direct effort toward the task requirements."
+        },
+        {
+          "prompt": "Which comment explains the reader impact?",
+          "options": [
+            "Use better English.",
+            "Define the term before using it so new readers can follow the comparison.",
+            "This paragraph exists.",
+            "Write something sophisticated."
+          ],
+          "answer": 1,
+          "explanation": "The comment connects a specific revision with the reader’s ability to understand the comparison."
+        }
+      ]
+    },
+    {
+      "id": "c1-writing-general-letter",
+      "level": "c1",
+      "skill": "writing",
+      "title": "Plan a purposeful formal letter",
+      "description": "Practise an unofficial IELTS General Training style response.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Identify relationship and purpose",
+          "text": "This unofficial practice lesson uses a letter about a disrupted course. Before drafting, identify the recipient, your relationship, and the outcome you want. A letter to an administrator needs enough context to locate the issue, but a long personal history can bury the request. Choose a greeting appropriate to the known name and local convention.",
+          "examples": [
+            "Purpose: explain cancelled sessions and request a replacement arrangement.",
+            "Recipient: the administrator responsible for the evening course."
+          ]
+        },
+        {
+          "heading": "Give every requested point a role",
+          "text": "Practice prompt: Write to a course administrator. Explain which sessions were cancelled, describe how this affected your study, and suggest a solution. Plan one clear function for each part. Use accurate dates and neutral descriptions, then make a practical request instead of relying on anger to communicate urgency.",
+          "examples": [
+            "Two evening sessions were cancelled without replacement.",
+            "Could you offer an alternative session or access to a tutor?"
+          ]
+        },
+        {
+          "heading": "Review for task coverage and tone",
+          "text": "Draft the letter, then label the sentence that addresses each requested point. Check whether the administrator can identify the course and act on your request. Remove exaggerated accusations and unsupported motives. End with a clear expectation for a reply, choosing a reasonable date if the situation requires one.",
+          "examples": [
+            "Please let me know what arrangements are available before the next unit begins.",
+            "Please confirm whether a tutor session can replace the cancelled lessons."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which plan covers the practice prompt fully?",
+          "options": [
+            "Greeting, childhood story, goodbye",
+            "Only a refund demand without context",
+            "Cancelled sessions, study impact, proposed solution",
+            "A list of unrelated courses"
+          ],
+          "answer": 2,
+          "explanation": "The plan directly addresses all three requested points."
+        },
+        {
+          "prompt": "Which sentence best states an actionable request?",
+          "options": [
+            "The situation is unbelievable.",
+            "Everything about the course is terrible.",
+            "I have many feelings about studying.",
+            "Could you arrange a replacement session before the next unit?"
+          ],
+          "answer": 3,
+          "explanation": "The recipient can understand the specific action and relevant time frame."
+        },
+        {
+          "prompt": "What is the best final review question?",
+          "options": [
+            "Can the recipient identify the issue and understand the requested response?",
+            "Have I used as many rare words as possible?",
+            "Have I accused the recipient of hidden motives?",
+            "Have I removed all course details?"
+          ],
+          "answer": 0,
+          "explanation": "A purposeful letter supplies enough information for the recipient to act."
+        }
+      ]
+    },
+    {
+      "id": "c1-speaking-academic-turns",
+      "level": "c1",
+      "skill": "speaking",
+      "title": "Join an academic discussion",
+      "description": "Build on another contribution and ask a focused question.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Connect before extending",
+          "text": "An effective seminar contribution shows its relationship to the discussion. Briefly identify the previous point, then add a reason, example, or qualification. Repeating another person’s whole argument wastes time; introducing an unrelated speech breaks the thread. Name the idea accurately before agreeing with or challenging it.",
+          "examples": [
+            "Building on your point about access, transport costs may matter too.",
+            "Your example concerns universities; would the same reasoning apply to schools?"
+          ]
+        },
+        {
+          "heading": "Clarify without pretending agreement",
+          "text": "A question can test the meaning or evidence behind a claim. Ask what a key term includes or how a conclusion follows from a finding. Use a neutral tone and give the speaker space to answer. A clarification question is especially useful when disagreement may depend on different definitions.",
+          "examples": [
+            "When you say participation, do you mean attendance or speaking in class?",
+            "What evidence links the change in attendance to the new timetable?"
+          ]
+        },
+        {
+          "heading": "Record a connected contribution",
+          "text": "Imagine a classmate says online classes improve participation. Record a short reply that acknowledges the possibility, defines one relevant outcome, and asks a specific follow-up question. Listen for a clear link to the original claim. Replace filler phrases with a brief pause when you need time to choose a word.",
+          "examples": [
+            "Attendance might rise, but do we know whether more students contribute to discussion?",
+            "Perhaps access improved, although the quality of interaction needs separate evidence."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which contribution clearly builds on an existing idea?",
+          "options": [
+            "I prepared an unrelated speech yesterday.",
+            "Your point about access also raises a question about transport costs.",
+            "There is nothing to discuss.",
+            "Let us ignore everything already said."
+          ],
+          "answer": 1,
+          "explanation": "It names the previous idea and extends it with a relevant factor."
+        },
+        {
+          "prompt": "Which question clarifies the meaning of participation?",
+          "options": [
+            "Why are you always wrong?",
+            "Can I read my whole essay?",
+            "Do you mean attending sessions or contributing during them?",
+            "Is education a word?"
+          ],
+          "answer": 2,
+          "explanation": "The question distinguishes two plausible meanings that could affect the argument."
+        },
+        {
+          "prompt": "What should a useful follow-up question target?",
+          "options": [
+            "The speaker’s personality",
+            "Any unrelated topic",
+            "Only vocabulary that sounds impressive",
+            "A particular definition, reason, or evidence gap"
+          ],
+          "answer": 3,
+          "explanation": "Focused follow-up questions advance the discussion by addressing the substance of the contribution."
+        }
+      ]
+    },
+    {
+      "id": "c1-speaking-focus-stress",
+      "level": "c1",
+      "skill": "speaking",
+      "title": "Use sentence stress to show contrast",
+      "description": "Make the important correction audible without speeding up.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Stress changes the intended contrast",
+          "text": "English speakers often emphasize a word to signal what is new, corrected, or contrasted. In “I wanted the BLUE folder,” the focus distinguishes colour; in “I WANTED the blue folder,” it can contrast wanting with receiving. Capitals here mark practice emphasis, not a requirement to shout or use one fixed pitch.",
+          "examples": [
+            "I requested THREE copies, not two.",
+            "Maya reviewed the draft; she did not WRITE it."
+          ]
+        },
+        {
+          "heading": "Group ideas into thought units",
+          "text": "Pause where an idea can be understood, especially before a contrast or after a long introductory phrase. Keep important grammatical connections together. A slower, well-grouped explanation can sound clearer than a fast uninterrupted sentence. Intonation varies across speakers and settings, so aim for intelligible meaning rather than imitation of one accent.",
+          "examples": [
+            "If the figures are accurate / we can proceed / but we still need approval.",
+            "The first option is cheaper / whereas the second includes support."
+          ]
+        },
+        {
+          "heading": "Practise two interpretations",
+          "text": "Record the sentence “We need the final version today” twice. First emphasize final to contrast it with a draft; then emphasize today to contrast it with tomorrow. Add a short explanation after each recording and check whether the audible focus matches that explanation. Ask a listener to identify the intended correction if possible.",
+          "examples": [
+            "We need the FINAL version today, rather than another draft.",
+            "We need the final version TODAY, rather than tomorrow."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "In “I requested THREE copies, not two,” what does the emphasis correct?",
+          "options": [
+            "The quantity",
+            "The identity of the requester",
+            "The delivery address",
+            "The colour of the paper"
+          ],
+          "answer": 0,
+          "explanation": "Three contrasts directly with two, making quantity the focus."
+        },
+        {
+          "prompt": "Which grouping best preserves a conditional idea?",
+          "options": [
+            "If the / figures are / accurate we can / proceed.",
+            "If the figures are accurate / we can proceed.",
+            "If / the figures are accurate we / can proceed.",
+            "If the figures / are accurate we can / proceed."
+          ],
+          "answer": 1,
+          "explanation": "The pause follows the complete condition and separates it from the main consequence."
+        },
+        {
+          "prompt": "You mean a final version rather than a draft. Which word is the best focus?",
+          "options": [
+            "We",
+            "Need in every possible context",
+            "Final",
+            "Today"
+          ],
+          "answer": 2,
+          "explanation": "Final carries the specific contrast between the completed version and a draft."
+        }
+      ]
+    },
+    {
+      "id": "c1-speaking-interview-evidence",
+      "level": "c1",
+      "skill": "speaking",
+      "title": "Answer an interview with evidence",
+      "description": "Use a concrete event, your action, and a bounded result.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Choose an event with a clear role",
+          "text": "For a question about solving a problem, choose one situation you can explain accurately. Give enough context to show the challenge, then distinguish your own action from the team’s work. A specific example is more credible than a list of flattering adjectives that any candidate could use.",
+          "examples": [
+            "Our team missed updates because requests arrived through three channels.",
+            "I was responsible for tracking requests and noticed repeated omissions."
+          ]
+        },
+        {
+          "heading": "Explain the result honestly",
+          "text": "Describe what changed and how you know. Use a number only if it is accurate and you can explain its basis. If several factors contributed, avoid claiming sole credit. Mention a useful lesson or remaining limit when it helps show judgement rather than weakening every statement with unnecessary uncertainty.",
+          "examples": [
+            "I introduced a shared request log; the team then tracked outstanding work more consistently.",
+            "Several changes helped, so I would not attribute the improvement to the log alone."
+          ]
+        },
+        {
+          "heading": "Practise and adapt the answer",
+          "text": "Record a concise response to “Tell me about a time you improved a process.” Include context, your action, an observed result, and reflection. Replay it to remove unrelated history. Practise a follow-up about what you would change next time, keeping your account consistent rather than memorizing a rigid script.",
+          "examples": [
+            "Next time, I would involve support staff earlier when choosing the categories.",
+            "I would also check whether the system still works during busy periods."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which detail best demonstrates personal contribution?",
+          "options": [
+            "We were all amazing.",
+            "The company has many employees.",
+            "Everyone knows I am organized.",
+            "I designed a shared log and tested it with two colleagues."
+          ],
+          "answer": 3,
+          "explanation": "The detail identifies an observable action performed by the candidate."
+        },
+        {
+          "prompt": "When is a numerical result appropriate?",
+          "options": [
+            "When it is accurate and its basis can be explained",
+            "Whenever a large number sounds impressive",
+            "Only when it guarantees future success",
+            "When it conceals other contributors"
+          ],
+          "answer": 0,
+          "explanation": "Evidence should support the claim; an invented or unexplained number undermines credibility."
+        },
+        {
+          "prompt": "Which reflection shows practical learning?",
+          "options": [
+            "I would never change anything regardless of evidence.",
+            "Next time I would involve support staff before finalizing the categories.",
+            "The only lesson is that I am perfect.",
+            "I would use a larger invented percentage."
+          ],
+          "answer": 1,
+          "explanation": "The reflection identifies a concrete improvement linked to the process described."
+        }
+      ]
+    },
+    {
+      "id": "c2-subjunctive-and-remoteness",
+      "level": "c2",
+      "skill": "grammar",
+      "title": "Distinguish formal demands from facts",
+      "description": "Use mandative clauses and remote forms with exact intent.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "A recommendation is not a report",
+          "text": "After verbs such as recommend, insist, and require, a that-clause can express a desired action. In a formal mandative construction, the base form remains unchanged even with a singular subject. A should construction is also possible in many varieties. Compare this with a statement describing what actually happens.",
+          "examples": [
+            "The panel recommends that she be appointed.",
+            "The panel reports that she is appointed each year."
+          ]
+        },
+        {
+          "heading": "Read the meaning of insist",
+          "text": "Insist can express a demand or a firm assertion, so the surrounding grammar and context matter. “He insists that she leave” presents a requested action; “He insists that she left” reports his firm claim about a past event. Do not treat every clause after insist as a demand.",
+          "examples": [
+            "They insisted that the file be removed.",
+            "They insisted that the file had already disappeared."
+          ]
+        },
+        {
+          "heading": "Practise intention and evidence",
+          "text": "Write one sentence proposing that a named person take responsibility, then a second reporting that the person already has responsibility. Explain the difference aloud. Finally revise a demand into a polite request for a colleague, keeping the desired action clear while adapting its interpersonal force.",
+          "examples": [
+            "The committee recommends that Arun lead the review.",
+            "Could Arun lead the review, subject to his availability?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence uses a formal mandative base form?",
+          "options": [
+            "The board requires that each applicant is being yesterday.",
+            "The board requires each applicant be to notified.",
+            "The board requires that each applicant be notified.",
+            "The board requires that each applicant being notified."
+          ],
+          "answer": 2,
+          "explanation": "Be is the unchanged base form in the that-clause expressing a requirement."
+        },
+        {
+          "prompt": "“He insists that she left yesterday” most naturally reports what?",
+          "options": [
+            "A demand that she leave tomorrow",
+            "An instruction to change the calendar",
+            "A question about her plans",
+            "A firm assertion about a past event"
+          ],
+          "answer": 3,
+          "explanation": "Left yesterday presents an asserted past event rather than a desired future action."
+        },
+        {
+          "prompt": "Which pair distinguishes a recommendation from an established fact?",
+          "options": [
+            "They recommend that she lead; they confirm that she leads.",
+            "She leads; she leads.",
+            "They recommend she leading; they confirm she leaded.",
+            "They lead her; they lead her again."
+          ],
+          "answer": 0,
+          "explanation": "The base-form mandative expresses desired action; the indicative leads reports the stated situation."
+        }
+      ]
+    },
+    {
+      "id": "c2-ellipsis-and-reference",
+      "level": "c2",
+      "skill": "grammar",
+      "title": "Use ellipsis without losing the meaning",
+      "description": "Avoid repetition while keeping missing material recoverable.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Let context supply the missing words",
+          "text": "Ellipsis omits language that a reader can recover from the context. “Mira can attend, and Jo can too” avoids repeating attend. In comparative and coordinated structures, omission can create elegant economy, but it also creates ambiguity if two different antecedents are equally plausible. Brevity is valuable only when interpretation stays stable.",
+          "examples": [
+            "Mira has finished, but Jo has not.",
+            "Some chose the train; others, the bus."
+          ]
+        },
+        {
+          "heading": "Choose a suitable substitute",
+          "text": "So can substitute for a proposition after verbs such as think and hope: “Will it work? I think so.” Do so can replace a previously mentioned action, especially in formal writing. Make sure the substitute refers to the intended claim or action, rather than to a nearby noun or a different event.",
+          "examples": [
+            "Jo promised to check the attachment; she will do so today.",
+            "Will they agree? I hope so."
+          ]
+        },
+        {
+          "heading": "Restore before compressing",
+          "text": "Take a paragraph with repeated verbs and identify two places where omission would help. Rewrite the full versions first so the intended meaning is explicit. Then compress them and ask whether another interpretation has appeared. Restore the noun or verb when economy creates uncertainty about who did what.",
+          "examples": [
+            "Rina reviewed the draft, and Omar reviewed it too.",
+            "Rina reviewed the draft, and Omar did too."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "In “Mira has finished, but Jo has not,” what is omitted after not?",
+          "options": [
+            "Mira",
+            "Finished",
+            "Has",
+            "But"
+          ],
+          "answer": 1,
+          "explanation": "The prior clause supplies the repeated past participle finished."
+        },
+        {
+          "prompt": "What does so represent in “Will they agree? I hope so”?",
+          "options": [
+            "Only the noun they",
+            "An instruction to leave",
+            "The proposition that they will agree",
+            "The opposite of agreement"
+          ],
+          "answer": 2,
+          "explanation": "So substitutes for the positive proposition in the preceding question."
+        },
+        {
+          "prompt": "When should repeated wording be restored?",
+          "options": [
+            "Whenever a sentence contains two people",
+            "Whenever a paragraph is formal",
+            "Only when a reader requests more adjectives",
+            "When its omission leaves the intended reference ambiguous"
+          ],
+          "answer": 3,
+          "explanation": "Recoverability is the condition that makes ellipsis clear and useful."
+        }
+      ]
+    },
+    {
+      "id": "c2-information-packaging",
+      "level": "c2",
+      "skill": "grammar",
+      "title": "Place information where readers need it",
+      "description": "Use clefts and end focus without changing the underlying claim.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Separate the message from its packaging",
+          "text": "Different grammatical structures can foreground different parts of the same event. A cleft such as “It was Priya who corrected the file” focuses attention on the person. A pseudo-cleft such as “What we need is a reliable backup” foregrounds the required item. Use these structures when the contrast matters, not as decoration.",
+          "examples": [
+            "It was Priya who corrected the file, not Alex.",
+            "What the team needs is a reliable backup."
+          ]
+        },
+        {
+          "heading": "Build from known information",
+          "text": "Readers often follow a sentence more easily when it begins with an established topic and moves toward important new information. This is a tendency rather than an absolute rule. In a paragraph about a report, “The report was reviewed by two independent specialists” can connect more smoothly than suddenly beginning with the specialists.",
+          "examples": [
+            "We commissioned a report. The report was reviewed independently.",
+            "The independent review identified a missing comparison."
+          ]
+        },
+        {
+          "heading": "Revise for a deliberate focus",
+          "text": "Write a neutral sentence about a successful change. Rewrite it to highlight the person responsible, then the action that mattered. Check that your versions do not accidentally imply an exclusive claim unsupported by the evidence. Read the paragraph around each version to judge which transition serves the reader best.",
+          "examples": [
+            "Nila improved the process by simplifying the form.",
+            "What Nila changed was the form itself."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does “It was Priya who corrected the file” foreground?",
+          "options": [
+            "The identity of the person who corrected it",
+            "The file’s colour",
+            "The date of a future review",
+            "The number of corrections"
+          ],
+          "answer": 0,
+          "explanation": "The cleft focuses attention on Priya, often contrasting her with another possible person."
+        },
+        {
+          "prompt": "Which sentence uses a pseudo-cleft?",
+          "options": [
+            "We need a reliable backup.",
+            "What we need is a reliable backup.",
+            "A backup is reliable.",
+            "We will back up the file."
+          ],
+          "answer": 1,
+          "explanation": "The what-clause identifies a variable and the following clause supplies the focused answer."
+        },
+        {
+          "prompt": "Why might a passive suit a paragraph already discussing a report?",
+          "options": [
+            "It automatically makes any claim true.",
+            "It always removes all responsibility.",
+            "It can keep the report as the established topic.",
+            "It prevents mention of the reviewer."
+          ],
+          "answer": 2,
+          "explanation": "Information packaging can preserve a topic while placing the reviewer or finding later in the sentence."
+        }
+      ]
+    },
+    {
+      "id": "c2-scope-and-strength",
+      "level": "c2",
+      "skill": "vocabulary",
+      "title": "Choose the exact strength of a claim",
+      "description": "Distinguish plausible, compelling, conclusive, and inevitable.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Separate possibility from justification",
+          "text": "Plausible describes an account that appears reasonable; compelling suggests strong persuasive force; conclusive describes evidence sufficient to settle a question in context. These words are not interchangeable upgrades. The appropriate strength depends on the quality of support and the alternatives that remain open, rather than the writer’s enthusiasm.",
+          "examples": [
+            "The explanation is plausible, but competing accounts remain.",
+            "The test supplied compelling evidence, although replication is needed."
+          ]
+        },
+        {
+          "heading": "Distinguish tendency from necessity",
+          "text": "Likely concerns probability; inevitable implies an outcome cannot be avoided; prevalent describes how widespread something is. A widespread practice is not necessarily desirable or unavoidable. Words controlling scope matter too: some, many, and all make substantially different commitments even when the rest of the sentence is identical.",
+          "examples": [
+            "The practice is prevalent in this sample.",
+            "A delay is likely, but not inevitable."
+          ]
+        },
+        {
+          "heading": "Revise an inflated paragraph",
+          "text": "Write a short claim about a training programme using likely, then list what evidence would justify that judgement. Replace any accidental universal statement with a bounded one. Compare plausible and conclusive in your revision and explain why the available observation supports one strength rather than the other.",
+          "examples": [
+            "The pilot makes a benefit plausible; it does not establish that all teams will improve.",
+            "Most respondents reported progress, rather than all employees."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which word suggests an explanation is reasonable without settling the issue?",
+          "options": [
+            "Conclusive",
+            "Inevitable",
+            "Unavoidable",
+            "Plausible"
+          ],
+          "answer": 3,
+          "explanation": "Plausible indicates credible possibility, leaving room for alternative explanations."
+        },
+        {
+          "prompt": "What does prevalent describe?",
+          "options": [
+            "How widespread something is",
+            "Whether it is morally right",
+            "Whether it cannot be avoided",
+            "Whether it has been causally proved"
+          ],
+          "answer": 0,
+          "explanation": "Prevalent concerns frequency or spread, not desirability or necessity."
+        },
+        {
+          "prompt": "Which statement makes the weakest commitment?",
+          "options": [
+            "Every participant will benefit.",
+            "Some participants may benefit.",
+            "Benefit is inevitable for all.",
+            "No participant can fail to benefit."
+          ],
+          "answer": 1,
+          "explanation": "Some and may restrict both the group and the certainty of the claim."
+        }
+      ]
+    },
+    {
+      "id": "c2-understatement-and-politeness",
+      "level": "c2",
+      "skill": "vocabulary",
+      "title": "Interpret understatement with care",
+      "description": "Read softened criticism without inventing a hidden message.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Recognize a possible interpersonal function",
+          "text": "Understatement deliberately expresses less intensity than a situation might suggest. “The timetable is a little ambitious” may soften a concern that the schedule is unrealistic. Interpretation depends on context, relationship, and delivery. Do not assume a polite phrase always has one secret meaning or that a cultural stereotype predicts every speaker.",
+          "examples": [
+            "That may be difficult by Friday.",
+            "I have a few reservations about the proposed sequence."
+          ]
+        },
+        {
+          "heading": "Check an inference against evidence",
+          "text": "A softened objection becomes clearer when it is followed by a reason, condition, or alternative. “We still need approval” is a concrete constraint. If the implication matters, ask a neutral clarification question instead of acting on a guess. Distinguish recognizing indirectness from attributing hostility that the speaker has not expressed.",
+          "examples": [
+            "Do you mean Friday is unlikely, or that you need another resource?",
+            "Would Monday be a more workable date?"
+          ]
+        },
+        {
+          "heading": "Practise both sides of a repair",
+          "text": "Role-play a colleague expressing concern indirectly, then a listener checking the intended action. Make the final agreement explicit so politeness does not leave responsibility unclear. Repeat with a direct but respectful version and compare which wording suits an urgent operational decision.",
+          "examples": [
+            "Indirect concern: The scope is rather broad for one week.",
+            "Confirmed action: We will reduce the first release to two features."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "“The timetable is a little ambitious” may function as what?",
+          "options": [
+            "A guaranteed promise to meet it",
+            "A declaration that no work is required",
+            "A softened concern about feasibility",
+            "Proof of personal hostility"
+          ],
+          "answer": 2,
+          "explanation": "In the right context, the phrase raises a feasibility concern indirectly; context is still needed."
+        },
+        {
+          "prompt": "What is the best response when the practical implication is unclear?",
+          "options": [
+            "Assume the colleague secretly hates the project.",
+            "Treat the phrase as unconditional agreement.",
+            "Ignore the concern because it is polite.",
+            "Ask whether the date is unlikely and what change would help."
+          ],
+          "answer": 3,
+          "explanation": "A clarification question checks the inference and moves toward an actionable understanding."
+        },
+        {
+          "prompt": "Why make the final agreement explicit?",
+          "options": [
+            "Polite indirectness can otherwise leave action and responsibility unclear.",
+            "Indirect speech has no meaning.",
+            "Every speaker uses the same code.",
+            "Explicit actions prevent all future changes."
+          ],
+          "answer": 0,
+          "explanation": "An explicit agreement establishes what people will do while preserving respectful tone."
+        }
+      ]
+    },
+    {
+      "id": "c2-metaphor-and-framing",
+      "level": "c2",
+      "skill": "vocabulary",
+      "title": "Notice how metaphors frame an issue",
+      "description": "Compare useful images with their hidden assumptions.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "A metaphor highlights selected features",
+          "text": "Calling a policy a safety net emphasizes protection against a fall; calling it a springboard emphasizes movement toward opportunity. Both images can be useful, but neither describes every feature of the policy. Ask what the image draws attention to and what it makes easier to overlook.",
+          "examples": [
+            "A safety net highlights protection.",
+            "A springboard highlights a route toward further action."
+          ]
+        },
+        {
+          "heading": "Avoid treating an image as proof",
+          "text": "A metaphor organizes thought; it is not evidence that the comparison holds in every respect. Language describing a debate as a battle may imply winners and losers where cooperation is possible. In analytical writing, explain the literal claim and assess that claim using relevant information.",
+          "examples": [
+            "The initiative is a bridge between training and employment.",
+            "Literal question: Does it help participants move into suitable work?"
+          ]
+        },
+        {
+          "heading": "Reframe and test the consequence",
+          "text": "Choose an education policy and describe it with two different images. Write the practical assumptions each image invites. Then produce a neutral explanation that names the actual mechanism and intended outcome. Compare which details disappear when your description relies entirely on the image.",
+          "examples": [
+            "A ladder suggests upward stages; a network suggests several possible routes.",
+            "The programme offers different entry points rather than one compulsory sequence."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What aspect does the metaphor safety net foreground?",
+          "options": [
+            "Guaranteed upward promotion",
+            "Protection against a harmful fall or setback",
+            "The exact cost of a policy",
+            "Proof that every participant benefits equally"
+          ],
+          "answer": 1,
+          "explanation": "The image emphasizes support when someone faces a setback."
+        },
+        {
+          "prompt": "Why is a metaphor insufficient as evidence?",
+          "options": [
+            "Metaphors cannot communicate ideas.",
+            "All figurative language is ungrammatical.",
+            "An image selects a comparison but does not establish its factual accuracy.",
+            "An image automatically includes every mechanism."
+          ],
+          "answer": 2,
+          "explanation": "The literal claim still needs relevant evidence beyond the persuasive comparison."
+        },
+        {
+          "prompt": "Which literal question tests “a bridge between training and employment”?",
+          "options": [
+            "What colour is the imaginary bridge?",
+            "Are all classrooms made from concrete?",
+            "How can every other policy be ignored?",
+            "Does the initiative help participants move into suitable work?"
+          ],
+          "answer": 3,
+          "explanation": "The question translates the image into the intended mechanism and outcome."
+        }
+      ]
+    },
+    {
+      "id": "c2-reading-category-error",
+      "level": "c2",
+      "skill": "reading",
+      "title": "Detect a misleading comparison",
+      "description": "Check units, group composition, and the level of a conclusion.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: the efficiency league table",
+          "text": "A magazine ranked community clinics by the average time spent with each visitor. The clinic with the shortest appointments was labelled the most efficient. Its director welcomed the attention but questioned the comparison. Her clinic handled many routine vaccinations, while another served people with several long-term conditions. A short appointment could reflect a straightforward task rather than better organization. Conversely, a longer consultation might prevent repeated visits, a benefit the table did not measure. The magazine replied that readers wanted a simple guide and that appointment length was at least easy to compare. Simplicity, the director argued, did not solve the mismatch between the measure and the judgement. She proposed reporting several indicators, including follow-up needs and patient understanding, with explanations of the services each clinic provided. The issue was not whether time mattered, but whether one average could fairly rank unlike activities.",
+          "examples": [
+            "Measured indicator: average appointment duration.",
+            "Unmeasured possibilities: task complexity and prevented repeat visits."
+          ]
+        },
+        {
+          "heading": "Inspect the comparison before the ranking",
+          "text": "A common unit does not guarantee comparable underlying tasks. Identify what the metric measures directly and what the label most efficient adds. The passage supplies reasons why appointment length may vary, but it does not prove that any particular clinic is better or worse overall.",
+          "examples": [
+            "Shorter average time can reflect simpler appointments.",
+            "A routine vaccination and a complex consultation may require different time."
+          ]
+        },
+        {
+          "heading": "Write a bounded evaluation",
+          "text": "State the strongest conclusion the table supports and one conclusion it cannot support by itself. Then propose an additional indicator and explain why it matters. Avoid reversing the magazine’s mistake by assuming that longer appointments always demonstrate better care.",
+          "examples": [
+            "The table compares duration; a fair efficiency judgement requires further context.",
+            "Lower follow-up demand could be relevant to an overall efficiency judgement."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the director’s main objection?",
+          "options": [
+            "The ranking treats unlike activities as though one time average captured efficiency.",
+            "The ranking does not account for the absolute number of staff at each clinic.",
+            "The magazine should rank clinics only by patient satisfaction instead.",
+            "Long consultations are necessarily more efficient than short ones."
+          ],
+          "answer": 0,
+          "explanation": "The director challenges the match between the measure and an overall efficiency ranking across different services."
+        },
+        {
+          "prompt": "Which possible benefit of longer consultations is absent from the table?",
+          "options": [
+            "Reducing the complexity of the patients’ existing conditions",
+            "Avoiding repeated visits",
+            "Improving the accuracy of the magazine’s attendance count",
+            "Guaranteeing that every patient understands the consultation"
+          ],
+          "answer": 1,
+          "explanation": "The passage explicitly notes that a longer consultation might prevent repeated visits."
+        },
+        {
+          "prompt": "Which conclusion would repeat the same oversimplification in reverse?",
+          "options": [
+            "The services included in each average differ.",
+            "Time is relevant but cannot capture every consequence.",
+            "The clinic with the longest appointments must be the best.",
+            "Additional indicators could improve the comparison."
+          ],
+          "answer": 2,
+          "explanation": "Assuming longest is best still turns one incomplete measure into an overall judgement."
+        }
+      ]
+    },
+    {
+      "id": "c2-reading-qualified-counterargument",
+      "level": "c2",
+      "skill": "reading",
+      "title": "Follow a counterargument precisely",
+      "description": "Distinguish rejecting a principle from limiting its application.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: open meetings",
+          "text": "Publishing every committee discussion sounds like an uncomplicated victory for accountability. Citizens should certainly be able to inspect decisions that affect them, and secrecy can protect poor judgement. Yet a public record of every preliminary remark may encourage participants to arrive with rehearsed positions and avoid exploring uncertain alternatives. That possibility does not justify private decision-making as a general rule. It suggests a distinction between the evidence and reasons that must accompany a final decision and the provisional conversation through which those reasons develop. Any limited private session would need a stated purpose, an expiry point, and a subsequent explanation of what was decided. Otherwise, the exception could swallow the principle. The choice is therefore not between total exposure and unreviewable secrecy. It is between arrangements that make power answerable while allowing thought to develop, and arrangements that fail one of those responsibilities.",
+          "examples": [
+            "The writer endorses accountability.",
+            "The proposed exception includes purpose, expiry, and later explanation."
+          ]
+        },
+        {
+          "heading": "Track the boundary words",
+          "text": "Certainly concedes an important principle, while yet introduces a complication. The warning that an exception could swallow the principle limits the writer’s own proposal. Follow the full sequence before assigning a position. A counterargument can refine a principle’s implementation rather than reject the principle itself.",
+          "examples": [
+            "Private exploration is not presented as permission for unreviewable decisions.",
+            "A stated expiry point prevents an exception from becoming indefinite."
+          ]
+        },
+        {
+          "heading": "Test a faithful paraphrase",
+          "text": "Write a summary that includes both accountability and the danger of rehearsed discussion. Name two safeguards attached to any private session. Then test your summary against an extreme alternative: would a reader mistakenly think the writer supports permanent secrecy or publication of every tentative comment?",
+          "examples": [
+            "The writer proposes limited space for exploration under explicit accountability safeguards.",
+            "The passage rejects both unreviewable secrecy and an unqualified exposure rule."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What principle does the writer retain?",
+          "options": [
+            "Every preliminary remark should remain private indefinitely.",
+            "Preliminary conversations and final decisions require identical publication rules.",
+            "The public should inspect final choices only when committees volunteer reasons.",
+            "Public power must remain accountable."
+          ],
+          "answer": 3,
+          "explanation": "The passage explicitly supports inspection of decisions and requires explanations and safeguards."
+        },
+        {
+          "prompt": "What concern motivates a limited exception?",
+          "options": [
+            "Total exposure may discourage uncertain exploration and encourage rehearsed positions.",
+            "Public records are inherently less accurate than private recollections.",
+            "Publication prevents citizens from understanding the final decision.",
+            "Uncertain ideas cannot be explained in a later public account."
+          ],
+          "answer": 0,
+          "explanation": "The concern is about how unrestricted publication might shape preliminary discussion."
+        },
+        {
+          "prompt": "What does “the exception could swallow the principle” warn against?",
+          "options": [
+            "Any private exploration is automatically equivalent to permanent secrecy.",
+            "A limited permission expanding until it undermines accountability",
+            "A later explanation can replace the need for any stated limit.",
+            "An expiry point would make preliminary discussion impossible."
+          ],
+          "answer": 1,
+          "explanation": "The metaphor warns that an exception without controls could defeat the broader rule it qualifies."
+        }
+      ]
+    },
+    {
+      "id": "c2-reading-rhetorical-synthesis",
+      "level": "c2",
+      "skill": "reading",
+      "title": "Read rhetoric and evidence together",
+      "description": "Separate an attractive conclusion from the support it receives.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: the smart city slogan",
+          "text": "The city’s campaign calls its sensor network “a listening city.” The phrase is appealing: traffic signals adapt, water leaks are flagged, and waste collections follow measured demand. Such systems can improve services, but listening usually implies more than detecting a signal. Residents may tell officials that a quiet street needs a crossing even when few recorded journeys reveal the need. A parent who avoids the route because it feels unsafe leaves little traffic data behind. The campaign’s metaphor risks treating measured activity as the whole public voice. This does not make the sensors useless, nor does a personal account automatically outweigh every measurement. It means that officials must examine what each kind of evidence can reveal and what it can miss. A city listens more fully when it creates ways for unrecorded needs to enter a decision, rather than merely giving its devices a sympathetic name.",
+          "examples": [
+            "Sensor data describe detected activity.",
+            "Avoided routes can conceal unmet needs."
+          ]
+        },
+        {
+          "heading": "Identify the rhetorical target",
+          "text": "The writer questions the completeness suggested by a slogan while accepting potential practical benefits. Distinguish criticism of a framing device from rejection of the technology. The parent example introduces missing activity: absence from the data may reflect avoidance rather than lack of need.",
+          "examples": [
+            "The criticism concerns equating measurement with the entire public voice.",
+            "The writer accepts service benefits while challenging the slogan’s completeness."
+          ]
+        },
+        {
+          "heading": "Synthesize the evidence principle",
+          "text": "Write a two-sentence conclusion explaining why both measurements and accounts matter. Preserve the statement that neither form automatically outranks the other. For advanced reading practice, identify the sentence that prevents a simplistic pro-technology or anti-technology interpretation.",
+          "examples": [
+            "Different evidence can reveal different aspects of a public need.",
+            "A personal account can reveal avoidance that low traffic counts leave unexplained."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does the avoided-route example demonstrate?",
+          "options": [
+            "Traffic counts are irrelevant to the decision about a crossing.",
+            "Personal accounts always provide a more reliable measure than devices.",
+            "Recorded activity may miss a need suppressed by unsafe conditions.",
+            "Low traffic establishes that residents have no interest in the route."
+          ],
+          "answer": 2,
+          "explanation": "Avoidance reduces recorded journeys, so low traffic may conceal demand for a safer crossing."
+        },
+        {
+          "prompt": "Which position accurately represents the writer?",
+          "options": [
+            "Treat personal accounts as decisive whenever they conflict with measurements.",
+            "Let measured activity determine priorities before hearing about unrecorded needs.",
+            "Use the network’s practical benefits to validate the campaign’s full claim.",
+            "Assess the strengths and limits of both measurements and personal accounts."
+          ],
+          "answer": 3,
+          "explanation": "The passage explicitly rejects automatically privileging either source."
+        },
+        {
+          "prompt": "What is the main objection to “a listening city”?",
+          "options": [
+            "The metaphor may imply that detected activity captures the full public voice.",
+            "It suggests that the network has already failed to improve basic services.",
+            "It gives residents more confidence than any practical improvements could justify.",
+            "It implies that individual accounts should replace technical measurements."
+          ],
+          "answer": 0,
+          "explanation": "The criticism targets the metaphor’s implication of comprehensive representation."
+        }
+      ]
+    },
+    {
+      "id": "c2-listening-claim-boundaries",
+      "level": "c2",
+      "skill": "listening",
+      "title": "Listen for an argument’s exact boundary",
+      "description": "Separate a direct benefit from a broader unsupported conclusion.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Identify two different propositions",
+          "text": "The extract separates a travel claim from a collaboration claim. Before listening, create one line for each and leave room for qualifications. A benefit established for one outcome cannot automatically justify a conclusion about another. Listen for first, second, and broader, which announce the structure of the argument.",
+          "examples": [
+            "Reduced travel concerns a journey avoided.",
+            "Improved collaboration concerns how people work together."
+          ]
+        },
+        {
+          "heading": "Follow the narrowed explanation",
+          "text": "The speaker contrasts established and newly formed teams, then distinguishes communication norms from connection quality. Keep those distinctions separate in your notes. A proposed remedy is not a reported successful result, so label suggestions as suggestions rather than recording them as proven solutions.",
+          "examples": [
+            "Shared norms may matter even with excellent connections.",
+            "Structured introductions are proposed remedies, not tested results here."
+          ]
+        },
+        {
+          "heading": "Paraphrase the final position",
+          "text": "After listening, summarize the speaker’s judgement with a bounded sentence about matching format to circumstances. Include one group difference and one proposed adaptation. Check whether you accidentally converted an interview finding into a universal requirement for face-to-face meetings. Replay the closing qualification to verify the scope.",
+          "examples": [
+            "Choose the format according to the task and team relationships.",
+            "An established team’s routine task may differ from a new team’s exploratory work."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which claim does the speaker treat as broader than reduced travel?",
+          "options": [
+            "Remote attendance reduces travel for people who would otherwise commute.",
+            "Video meetings necessarily improve collaboration.",
+            "Established teams can sometimes manage routine coordination online.",
+            "New teams may need explicit guidance about communication norms."
+          ],
+          "answer": 1,
+          "explanation": "The speaker explicitly labels the necessary improvement in collaboration as the broader second claim."
+        },
+        {
+          "prompt": "What difficulty did newly formed teams report?",
+          "options": [
+            "Lacking a reliable connection even after technical support",
+            "Completing established routines without a shared agenda",
+            "Knowing when to ask informal questions",
+            "Choosing a meeting location that reduced commuting time"
+          ],
+          "answer": 2,
+          "explanation": "The interviews concern informal communication norms, not simply connection quality."
+        },
+        {
+          "prompt": "What is the speaker’s final recommendation?",
+          "options": [
+            "Give new teams face-to-face meetings for all work until they become established.",
+            "Prefer remote formats whenever they reduce commuting.",
+            "Choose a standard format and solve collaboration differences through equipment.",
+            "Match meeting format to the work and relationships involved."
+          ],
+          "answer": 3,
+          "explanation": "The conclusion is conditional and contextual, preserving the distinction between outcomes."
+        }
+      ],
+      "listeningText": "Let me distinguish two claims that have become tangled in this debate. The first is that remote meetings reduce travel. For staff who would otherwise commute to a meeting, that is straightforward. The second is that replacing meetings with video necessarily improves collaboration. That is a much broader claim. Our interviews suggest that established teams often manage routine coordination effectively online. Newly formed teams, however, described difficulty knowing when to ask informal questions. Notice that this is not simply a complaint about poor video quality. Several participants had excellent connections but lacked a shared understanding of how to interrupt or seek help. We should not conclude that new teams must always meet in person. A structured introduction, explicit communication norms, and designated informal contact could address part of the problem. My argument is narrower: decisions about meeting format should reflect the work and the relationships involved, rather than treating reduced travel as evidence that every aspect of collaboration has improved."
+    },
+    {
+      "id": "c2-listening-pragmatic-repair",
+      "level": "c2",
+      "skill": "listening",
+      "title": "Listen to a definition being repaired",
+      "description": "Hear a speaker preserve an achievement while challenging its label.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Listen for a contested term",
+          "text": "The speaker begins by redefining the disagreement around success. Note which outcomes count under the narrow definition and which costs it excludes. A speaker can accept recorded achievements while challenging the conclusion drawn from them; do not treat every objection as a denial of the figures.",
+          "examples": [
+            "Narrow achievement: on-time opening and higher-than-estimated attendance.",
+            "Broader evaluation: include the permanent staff’s additional workload."
+          ]
+        },
+        {
+          "heading": "Distinguish denial from qualification",
+          "text": "The speaker explicitly rejects two interpretations of the objection. Such repair sequences clarify intended meaning after a potential misunderstanding. Write down what is accepted, what is missing, and what should change in a future proposal. Notice the difference between exceptional effort and a sustainable routine.",
+          "examples": [
+            "Accepted: the exhibition happened and attracted visitors.",
+            "Missing: the workload cost of the delivery method."
+          ]
+        },
+        {
+          "heading": "Formulate the implied evaluation question",
+          "text": "After listening, explain why the speaker wants a broader evaluation. Then draft a neutral question a chair could ask to move the discussion forward. Preserve both the achievement and the concern, rather than choosing one side of an invented opposition between visitors and staff.",
+          "examples": [
+            "Can we repeat the result within a reasonable staffing plan?",
+            "What staffing resources would allow the next exhibition to use the same schedule?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does the speaker accept?",
+          "options": [
+            "The exhibition opened on time and exceeded the visitor estimate.",
+            "The original staffing plan was adequate for the installation.",
+            "The attendance outcome validates the entire delivery method.",
+            "The project’s achievements remove the need to review staffing."
+          ],
+          "answer": 0,
+          "explanation": "The recording explicitly preserves the on-time opening and strong attendance."
+        },
+        {
+          "prompt": "Which cost is missing from the headline figures?",
+          "options": [
+            "The full cost of hiring the temporary installation team",
+            "Permanent staff working extra evenings without usual recovery time",
+            "A lower visitor count than the headline estimate suggested",
+            "The cost of postponing the exhibition to meet recovery needs"
+          ],
+          "answer": 1,
+          "explanation": "The concern is an uncounted workload cost, not falsified attendance."
+        },
+        {
+          "prompt": "Why could unqualified success language be risky?",
+          "options": [
+            "It would make the reported attendance figures unreliable.",
+            "It could imply that the exhibition offered no public benefit.",
+            "It may normalize reliance on exceptional staff effort.",
+            "It would require the next exhibition to use exactly the same budget."
+          ],
+          "answer": 2,
+          "explanation": "The speaker warns that extraordinary effort could become the default expectation without being planned or acknowledged."
+        }
+      ],
+      "listeningText": "I am not sure we are disagreeing about the result so much as the word success. If success means delivering the exhibition by the announced date, then yes, the project succeeded. The doors opened on time, and visitor numbers exceeded the initial estimate. But the budget assumed that temporary staff could cover the final installation. In practice, permanent staff worked several evenings without their usual recovery time. That cost is absent from the headline figures. I am not suggesting that the visitor numbers are false, or that the exhibition should not have happened. I am suggesting that the next proposal should make the staffing requirement visible before approval. If we continue to describe this delivery method as successful without qualification, we may quietly make exceptional effort the normal expectation. A fuller evaluation would preserve the achievement while asking whether the same approach can be repeated without depending on people repeatedly exceeding a reasonable workload."
+    },
+    {
+      "id": "c2-listening-evidence-synthesis",
+      "level": "c2",
+      "skill": "listening",
+      "title": "Integrate different kinds of evidence",
+      "description": "Hear the value and limits of observations in the same argument.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Separate enthusiasm from attribution",
+          "text": "The speaker reports positive early indicators, then identifies why attributing all improvement to the programme would be difficult. Record both the observed change and the selection issue. Volunteer groups may differ before an intervention, so an apparent gain does not automatically isolate the effect of the materials.",
+          "examples": [
+            "Indicators: more borrowing and livelier discussion.",
+            "Selection issue: volunteer classes with already active teachers."
+          ]
+        },
+        {
+          "heading": "Avoid a false evidence hierarchy",
+          "text": "The absence of a controlled experiment does not make every interview useless. The speaker assigns teacher accounts a different role: understanding use and engagement. Listen for nor, which rejects an overly dismissive conclusion, and combine, which signals a proposed relationship between evidence sources.",
+          "examples": [
+            "Teacher accounts can illuminate implementation.",
+            "A broader comparison could strengthen evaluation of the effect."
+          ]
+        },
+        {
+          "heading": "Write a balanced research brief",
+          "text": "Summarize the evidence in three notes: an encouraging observation, a limit on attribution, and a useful next measure. Check that you distinguish borrowing from sustained reading. Then state the speaker’s overall attitude without reducing it to either unconditional celebration or complete rejection.",
+          "examples": [
+            "Measure whether increased borrowing is followed by sustained reading.",
+            "Encouraging indicators justify further investigation, not an automatic universal claim."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why is the current comparison limited?",
+          "options": [
+            "The comparison excluded all classes with existing reading activities.",
+            "The volunteering teachers used different measures from the other teachers.",
+            "The borrowing records show that the programme began after the gains.",
+            "The classes volunteered and teachers were already developing reading activities."
+          ],
+          "answer": 3,
+          "explanation": "Pre-existing motivation and activity could contribute to the reported difference."
+        },
+        {
+          "prompt": "What useful role does the speaker give teacher accounts?",
+          "options": [
+            "Explaining how materials were used and what pupils found engaging",
+            "Establishing the programme’s independent effect on reading",
+            "Showing that all pupils read every book they borrowed",
+            "Demonstrating that a broader comparison would add no insight"
+          ],
+          "answer": 0,
+          "explanation": "The accounts provide implementation insight, without settling causal attribution."
+        },
+        {
+          "prompt": "Which next measure does the speaker propose?",
+          "options": [
+            "Whether enthusiastic teachers can be removed from the accounts",
+            "Whether borrowing develops into sustained reading",
+            "Whether borrowing figures alone justify a full rollout",
+            "Whether interview reports can be replaced by a single borrowing total"
+          ],
+          "answer": 1,
+          "explanation": "The speaker explicitly distinguishes a checked-out book from evidence of sustained reading."
+        }
+      ],
+      "listeningText": "There is a tempting story in which the new reading programme transforms the whole school. The early figures look encouraging: the participating classes borrowed more books and teachers reported livelier discussion. However, the classes volunteered for the pilot, and their teachers had already been developing reading activities. We cannot tell from this comparison how much improvement belongs to the programme itself. Nor should we dismiss the teachers’ accounts simply because they are not a controlled experiment. Those accounts help us understand how the materials were used and what pupils found engaging. The next stage should combine those insights with a broader comparison, including classes that did not volunteer initially. We should also examine whether increased borrowing leads to sustained reading rather than assuming that a checked-out book has been read. What I am resisting is the demand to choose between celebration and rejection before we have asked a more useful set of questions about the evidence."
+    },
+    {
+      "id": "c2-writing-policy-brief",
+      "level": "c2",
+      "skill": "writing",
+      "title": "Write a decision brief with honest limits",
+      "description": "Connect a recommendation to evidence, alternatives, and conditions.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Lead with the decision required",
+          "text": "A brief serves a reader who must choose an action. State the decision, your recommendation, and the principal reason early. Supply only the context needed to understand that choice. A long introduction can conceal the practical question, while a recommendation without a rationale asks the reader to trust the writer blindly.",
+          "examples": [
+            "Decision: extend the pilot now or after an additional trial.",
+            "Recommendation: extend to two more branches before a full rollout."
+          ]
+        },
+        {
+          "heading": "Expose the trade-off",
+          "text": "Compare realistic alternatives using the same criteria, such as cost, access, and implementation effort. Distinguish observed results from assumptions and estimates. Explain what would change your recommendation, especially when a major unknown affects the decision. Precision includes making uncertainty usable rather than hiding it beneath confident language.",
+          "examples": [
+            "A wider trial costs more now but tests whether the result transfers.",
+            "The attendance gain is observed; the staffing estimate remains provisional."
+          ]
+        },
+        {
+          "heading": "Draft an actionable conclusion",
+          "text": "Use a fictional service pilot to write a short brief containing a recommendation, two supporting observations, a serious alternative, and a review condition. Give the proposed action an owner or decision point when appropriate. Revise any sentence that sounds persuasive but supplies no evidence or practical implication.",
+          "examples": [
+            "Review demand and staffing after the additional trial before committing to all branches.",
+            "Assign the trial review to the service lead before deciding on full expansion."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What belongs near the beginning of a decision brief?",
+          "options": [
+            "A full history unrelated to the choice",
+            "Every raw observation in collection order",
+            "The decision required and a reasoned recommendation",
+            "Only an inspiring quotation"
+          ],
+          "answer": 2,
+          "explanation": "A decision-maker needs to understand the proposed choice and its main rationale quickly."
+        },
+        {
+          "prompt": "Why compare alternatives using the same criteria?",
+          "options": [
+            "To guarantee all options receive identical scores",
+            "To avoid mentioning costs",
+            "To conceal a preferred option",
+            "To make the trade-offs assessable on a consistent basis"
+          ],
+          "answer": 3,
+          "explanation": "Consistent criteria allow the reader to judge meaningful differences rather than incompatible descriptions."
+        },
+        {
+          "prompt": "Which sentence makes uncertainty useful?",
+          "options": [
+            "If staffing costs exceed the estimate, limit expansion and review the model.",
+            "Everything will certainly work.",
+            "There are uncertainties somewhere.",
+            "No observation could change this decision."
+          ],
+          "answer": 0,
+          "explanation": "The sentence connects an uncertain condition with a practical response."
+        }
+      ]
+    },
+    {
+      "id": "c2-writing-editing-logic",
+      "level": "c2",
+      "skill": "writing",
+      "title": "Edit for scope, logic, and reference",
+      "description": "Find meaning errors that a spelling check cannot catch.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Check what each claim commits you to",
+          "text": "A grammatically correct sentence can still overstate its evidence. Check quantifiers, causal verbs, and comparisons before polishing style. “The trial improved every outcome” requires much broader support than “Scores improved on the measured task.” Ask whether the sentence describes the study or a larger population, and whether that extension is justified.",
+          "examples": [
+            "Some respondents preferred the new system.",
+            "The survey does not establish that all users preferred it."
+          ]
+        },
+        {
+          "heading": "Resolve reference and comparison",
+          "text": "Pronouns such as this and they save words but can conceal an unclear referent. Comparisons need a recoverable like-for-like relationship: comparing costs with a manager is mismatched. Ordinary shortened forms such as lower than last year can be understood in context, but restoring the omitted noun may help readers. Rebuild a sentence when its underlying relationships are unclear.",
+          "examples": [
+            "This year’s costs were lower than last year’s costs.",
+            "The revised policy, rather than the old procedure, caused confusion."
+          ]
+        },
+        {
+          "heading": "Use separate revision passes",
+          "text": "Take one paragraph and first audit claims against evidence. Next check references and comparisons. Finally reduce repetition and improve rhythm. Separate passes help you notice meaning problems that become invisible when you only look for spelling. Keep an earlier version so you can explain which revision changed accuracy and which changed presentation.",
+          "examples": [
+            "Replace “This proves success” with the specific observed result and its limit.",
+            "Replace an unclear this with the name of the result or policy it describes."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which claim requires evidence about the entire group?",
+          "options": [
+            "Some respondents preferred it.",
+            "All users preferred the new system.",
+            "Three interviewees liked it.",
+            "The measured task score rose in the pilot."
+          ],
+          "answer": 1,
+          "explanation": "All users is universal, unlike a claim limited to respondents or a measured outcome."
+        },
+        {
+          "prompt": "Which comparison is parallel?",
+          "options": [
+            "This year’s costs are lower than the finance manager.",
+            "The report is shorter than yesterday as a period.",
+            "This year’s costs are lower than last year’s costs.",
+            "The annual cost is cheaper than the support department."
+          ],
+          "answer": 2,
+          "explanation": "Both sides of the correct answer explicitly compare costs. The other options mismatch an amount with a person, an object with a time, or a cost with a department."
+        },
+        {
+          "prompt": "Why separate revision passes?",
+          "options": [
+            "It guarantees no factual checking is needed.",
+            "It removes the need to read the paragraph.",
+            "It makes all long sentences incorrect.",
+            "Each pass can focus attention on a different kind of problem."
+          ],
+          "answer": 3,
+          "explanation": "Distinct passes help identify scope, reference, and style issues without treating them as interchangeable."
+        }
+      ]
+    },
+    {
+      "id": "c2-writing-audience-transfer",
+      "level": "c2",
+      "skill": "writing",
+      "title": "Translate specialist writing for the public",
+      "description": "Preserve the finding while changing terminology and emphasis.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Identify the irreducible meaning",
+          "text": "Before simplifying a technical paragraph, identify its finding, population, uncertainty, and practical relevance. These are meaning-bearing elements, not optional complexity. A public explanation can use familiar words while preserving the difference between an association and a cause, or between a small sample and an entire population.",
+          "examples": [
+            "Technical: the sample may not be representative.",
+            "Public: the people studied may not reflect the wider group."
+          ]
+        },
+        {
+          "heading": "Explain a term by its role",
+          "text": "Keep a specialist term only when the reader needs it, then explain what it does in the argument. An example can clarify an abstract mechanism, but avoid an analogy that introduces a misleading certainty. Lead with what the audience needs to understand, rather than reproducing the original order of methods and definitions.",
+          "examples": [
+            "A comparison group helps show what might have happened without the change.",
+            "An estimate gives a reasoned value, not an exact count."
+          ]
+        },
+        {
+          "heading": "Create two versions and audit them",
+          "text": "Write a technical summary of a fictional survey, then a public version for a community newsletter. Compare each sentence for lost limitations, changed numbers, or invented advice. Ask whether a non-specialist could explain the finding back accurately without remembering the specialist vocabulary. Revise where accessibility has come at the expense of meaning.",
+          "examples": [
+            "Surveyed residents reported shorter journeys; the survey alone cannot show the redesign caused them.",
+            "The survey covered one district, so the finding may not describe the whole city."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What must a public rewrite preserve?",
+          "options": [
+            "The finding and important limits on its meaning",
+            "Every specialist word regardless of need",
+            "The exact original sentence order",
+            "Only the most exciting possible implication"
+          ],
+          "answer": 0,
+          "explanation": "A change in audience justifies presentation changes, while accuracy requires preserving findings and qualifications."
+        },
+        {
+          "prompt": "Which explanation of an estimate is most accurate?",
+          "options": [
+            "A number known to be perfect",
+            "A reasoned approximate value rather than an exact count",
+            "A meaningless random guess in every case",
+            "A guaranteed minimum in all contexts"
+          ],
+          "answer": 1,
+          "explanation": "An estimate is an informed approximation; its precision depends on the method and context."
+        },
+        {
+          "prompt": "Which public summary avoids turning association into causation?",
+          "options": [
+            "The survey proves the redesign caused every change.",
+            "All journeys everywhere are now shorter.",
+            "Residents reported shorter journeys, but the survey alone cannot establish the cause.",
+            "No further explanation could possibly matter."
+          ],
+          "answer": 2,
+          "explanation": "The answer reports the observation and preserves the limit of the survey design."
+        }
+      ]
+    },
+    {
+      "id": "c2-speaking-challenging-premise",
+      "level": "c2",
+      "skill": "speaking",
+      "title": "Answer a question with a flawed premise",
+      "description": "Clarify the assumption, then give a direct useful response.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Hear the assumption inside the question",
+          "text": "A question can assume something that has not been established. “Why did the programme fail?” presupposes failure, even if some outcomes improved. Briefly clarify that assumption before answering the useful underlying issue. Avoid using clarification as a way to evade a reasonable request for judgement.",
+          "examples": [
+            "If by failure you mean low attendance, that was a concern; satisfaction was stronger.",
+            "Before comparing the options, I would separate cost from reliability."
+          ]
+        },
+        {
+          "heading": "Replace a false choice with criteria",
+          "text": "Some questions offer only two options when several approaches are possible. Explain the criterion that makes the distinction meaningful, then state your position. A nuanced answer still needs direction. Excessive qualification can obscure a judgement as easily as excessive certainty can distort it.",
+          "examples": [
+            "I would not choose between access and quality without considering a minimum standard for both.",
+            "I support wider access provided that the service meets an agreed quality threshold."
+          ]
+        },
+        {
+          "heading": "Practise a firm but respectful reply",
+          "text": "Record an answer to “Why should every class replace teachers with software?” Identify the unsupported universal premise, propose a more useful question, and give a clear view. Replay it to check that you responded to educational use rather than simply criticizing the wording. End with one practical condition.",
+          "examples": [
+            "Software may support practice, while teachers remain important for feedback and judgement.",
+            "The useful question is which tasks software can support effectively."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is assumed by “Why did the programme fail”?",
+          "options": [
+            "That all outcomes are unknown",
+            "That success has been clearly defined by both speakers",
+            "That no evaluation exists",
+            "That the programme failed"
+          ],
+          "answer": 3,
+          "explanation": "The question embeds failure as a premise before asking for a reason."
+        },
+        {
+          "prompt": "Which response both clarifies and answers?",
+          "options": [
+            "Attendance was low, although satisfaction improved; I would revise access arrangements first.",
+            "Your wording is imperfect, so I refuse to answer.",
+            "Everything depends on everything.",
+            "Failure means failure and nothing else."
+          ],
+          "answer": 0,
+          "explanation": "The reply qualifies the premise and gives a practical judgement."
+        },
+        {
+          "prompt": "What should follow identifying a false choice?",
+          "options": [
+            "An unrelated story",
+            "A useful criterion and a clear position",
+            "A refusal to discuss any option",
+            "An indefinite series of hedges"
+          ],
+          "answer": 1,
+          "explanation": "Clarification serves the answer when it leads to a reasoned decision rather than replacing it."
+        }
+      ]
+    },
+    {
+      "id": "c2-speaking-explain-complexity",
+      "level": "c2",
+      "skill": "speaking",
+      "title": "Explain a complex idea at two depths",
+      "description": "Offer a clear core explanation, then adapt to follow-up questions.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Give the core before the detail",
+          "text": "When explaining a complex idea, begin with a brief statement of what it is and why it matters. Then offer one mechanism or example. A listener can ask for greater depth once the core is stable. Starting with every exception can make even accurate information difficult to follow.",
+          "examples": [
+            "A comparison group helps us judge what might have happened without the programme.",
+            "It provides a reference point, rather than a perfect duplicate of the participants."
+          ]
+        },
+        {
+          "heading": "Make examples accountable",
+          "text": "An analogy is useful when its similarity supports the intended point. State where the analogy stops if a difference matters. Check understanding with an open question rather than a routine do you understand, which may invite a polite yes. Let the answer guide the amount and vocabulary of the next explanation.",
+          "examples": [
+            "Which part would you like me to unpack?",
+            "The comparison is useful, but the two groups are not identical people."
+          ]
+        },
+        {
+          "heading": "Practise layered explanation",
+          "text": "Explain sampling to a younger learner in a few sentences, then explain the same issue to a colleague who asks about representativeness. Preserve the meaning while changing detail. Record both versions and check whether each has a clear core, a useful example, and an honest limitation.",
+          "examples": [
+            "A sample is a smaller group we study; it may not reflect everyone we want to understand.",
+            "A specialist may also ask how the sample was selected and who was excluded."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What should usually come before technical exceptions?",
+          "options": [
+            "Every rare term in the field",
+            "An assumption that the audience already knows the method",
+            "A clear core explanation of the idea and its relevance",
+            "A list of unrelated caveats"
+          ],
+          "answer": 2,
+          "explanation": "A stable core gives listeners a structure into which later details can fit."
+        },
+        {
+          "prompt": "Which question best invites a useful understanding check?",
+          "options": [
+            "You understand everything, yes?",
+            "There is nothing confusing, correct?",
+            "Can we assume no questions exist?",
+            "How would you describe the comparison in your own words?"
+          ],
+          "answer": 3,
+          "explanation": "An open response reveals the listener’s interpretation instead of encouraging a polite yes."
+        },
+        {
+          "prompt": "What changes across explanations for different audiences?",
+          "options": [
+            "Vocabulary and level of detail while the underlying meaning remains accurate",
+            "The result whenever it is inconvenient",
+            "The uncertainty into certainty",
+            "The facts into a more entertaining story"
+          ],
+          "answer": 0,
+          "explanation": "Audience adaptation changes presentation while preserving the claim and its limits."
+        }
+      ]
+    },
+    {
+      "id": "c2-speaking-diplomatic-synthesis",
+      "level": "c2",
+      "skill": "speaking",
+      "title": "Summarize disagreement into a decision",
+      "description": "Represent competing views fairly and identify the next question.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Summarize interests before positions",
+          "text": "A useful chair distinguishes what participants want to protect from the action they initially propose. One person may request delay to protect quality, while another seeks speed to meet a public commitment. Naming those interests fairly can reveal options that a simple vote on delay would miss.",
+          "examples": [
+            "We agree on the service goal; we differ over how much testing must precede release.",
+            "One group wants a reliable release; another needs a credible public timetable."
+          ]
+        },
+        {
+          "heading": "Keep attribution and agreement distinct",
+          "text": "When summarizing, say who holds a view and invite correction if necessary. Do not announce consensus merely because nobody interrupts. Identify unresolved issues and check the actual decision separately from the reasons people offered. A fair synthesis should be recognizable to participants who disagree with your preferred outcome.",
+          "examples": [
+            "Have I captured your concern accurately?",
+            "We have agreed on testing criteria, but not yet on the release date."
+          ]
+        },
+        {
+          "heading": "Practise a closing turn",
+          "text": "Role-play a discussion about releasing a new service. Give each side a legitimate concern, then record a closing turn that states common ground, the unresolved issue, and one next action with an owner. Use a short pause before the action so listeners can distinguish the discussion summary from the commitment.",
+          "examples": [
+            "Sam will estimate the remaining test work, and we will review the date tomorrow.",
+            "The date remains open until Sam reports the remaining work."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is an interest behind a request to delay?",
+          "options": [
+            "The word delay itself",
+            "Protecting quality before release",
+            "A requirement that every project stop",
+            "An automatic dislike of colleagues"
+          ],
+          "answer": 1,
+          "explanation": "An interest is the underlying concern or goal that a proposed action serves."
+        },
+        {
+          "prompt": "Why invite correction of a summary?",
+          "options": [
+            "To imply no decision can ever occur",
+            "To force everyone to agree with the chair",
+            "To check that competing views have been represented accurately",
+            "To replace the action plan with repetition"
+          ],
+          "answer": 2,
+          "explanation": "A summary supports progress when participants recognize their views in it."
+        },
+        {
+          "prompt": "Which closing turn supplies a concrete next action?",
+          "options": [
+            "There were many interesting opinions.",
+            "We should do something sometime.",
+            "Everyone probably agrees about everything.",
+            "Sam will estimate remaining test work before tomorrow’s review."
+          ],
+          "answer": 3,
+          "explanation": "The statement names an owner, task, and decision point."
+        }
+      ]
+    },
+    {
+      "id": "biz-conditional-commitments",
+      "level": "biz",
+      "skill": "grammar",
+      "title": "Make commitments and conditions explicit",
+      "description": "Distinguish an offer, a possibility, a requirement, and a promise.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Name the strength of a commitment",
+          "text": "Workplace language often depends on how certain a commitment is. We will deliver states a commitment; we expect to deliver expresses a current expectation; we could deliver describes a possibility. Choose the form that reflects your authority and evidence. A polite modal should not accidentally hide an essential requirement.",
+          "examples": [
+            "We expect to finish on Friday, pending the review.",
+            "We will confirm the date after the review."
+          ]
+        },
+        {
+          "heading": "Attach a clear condition",
+          "text": "Use if, provided that, or subject to when an offer depends on an event. Put the condition close to the commitment and state who must act. Unless means if not, so check its logic carefully. Avoid adding several negative conditions that a busy reader could misinterpret.",
+          "examples": [
+            "We can include training provided that the group is confirmed by Monday.",
+            "The date remains provisional unless the supplier confirms capacity."
+          ]
+        },
+        {
+          "heading": "Practise a responsible update",
+          "text": "Rewrite an optimistic update about a delivery whose final approval is still missing. State what is complete, what remains uncertain, and when you will provide a confirmed answer. Read it as the recipient and check whether an expectation could reasonably be mistaken for a guarantee.",
+          "examples": [
+            "The materials are ready; dispatch awaits approval.",
+            "I will send the confirmed schedule after tomorrow’s review."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence expresses an expectation rather than a firm promise?",
+          "options": [
+            "We expect to finish on Friday.",
+            "We guarantee completion on Friday.",
+            "We will definitely finish on Friday.",
+            "Completion on Friday is assured."
+          ],
+          "answer": 0,
+          "explanation": "Expect expresses a current forecast, whereas guarantee and assured signal a stronger commitment."
+        },
+        {
+          "prompt": "“We can include training provided that the group is confirmed” means what?",
+          "options": [
+            "Training is included regardless of confirmation.",
+            "Training depends on confirmation of the group.",
+            "Confirmation must never happen.",
+            "Training has already taken place."
+          ],
+          "answer": 1,
+          "explanation": "Provided that introduces the condition attached to the offer."
+        },
+        {
+          "prompt": "Which update most clearly identifies an unresolved dependency?",
+          "options": [
+            "Everything is basically fine.",
+            "There may be some stuff somewhere.",
+            "Materials are ready; dispatch awaits approval.",
+            "It will certainly ship despite missing approval."
+          ],
+          "answer": 2,
+          "explanation": "The update separates completed work from the approval required before dispatch."
+        }
+      ]
+    },
+    {
+      "id": "biz-operational-vocabulary",
+      "level": "biz",
+      "skill": "vocabulary",
+      "title": "Describe capacity, bottlenecks, and scope",
+      "description": "Use practical operations vocabulary without hiding the action.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Name the constraint accurately",
+          "text": "Capacity is the amount of work a team or system can handle in a given period. A bottleneck is a stage that limits the flow of the wider process. A backlog is unfinished work waiting to be dealt with. These are connected ideas, but they identify different features and require different responses.",
+          "examples": [
+            "The team has capacity for twelve reviews a week.",
+            "Approval is the bottleneck, and the backlog now contains eighteen requests."
+          ]
+        },
+        {
+          "heading": "Separate scope from schedule",
+          "text": "Scope describes what a project includes; schedule describes when activities happen. A dependency is something another task relies on. A deliverable is an agreed output. Adding scope without revising capacity or timing can create an unrealistic plan, so use these nouns to make the practical relationship visible.",
+          "examples": [
+            "The new dashboard is outside the agreed scope.",
+            "Testing depends on access to the completed sample file."
+          ]
+        },
+        {
+          "heading": "Turn jargon into an update",
+          "text": "Write a project update using capacity, dependency, and deliverable. For each term, add a concrete fact that helps a colleague act. Then rewrite the same update without specialist nouns. If the plain version is impossible to produce, you may not yet have identified the actual situation clearly.",
+          "examples": [
+            "We can review twelve files; the client must supply the sample first.",
+            "Our agreed output is a checked sample and a short error report."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which term identifies a stage restricting the flow of a whole process?",
+          "options": [
+            "Deliverable",
+            "Scope",
+            "Schedule",
+            "Bottleneck"
+          ],
+          "answer": 3,
+          "explanation": "A bottleneck constrains throughput, even if other stages could handle more work."
+        },
+        {
+          "prompt": "Adding a new output to a project primarily changes what?",
+          "options": [
+            "Scope",
+            "Only the spelling of the title",
+            "The meaning of yesterday",
+            "The identity of every stakeholder"
+          ],
+          "answer": 0,
+          "explanation": "Scope defines what work or outputs are included; adding one changes that boundary."
+        },
+        {
+          "prompt": "Which update makes a dependency concrete?",
+          "options": [
+            "Testing has a dependency somewhere.",
+            "Testing can start after the client supplies the sample file.",
+            "There are strategic synergies.",
+            "The process is very operational."
+          ],
+          "answer": 1,
+          "explanation": "The statement identifies the required input and the task that depends on it."
+        }
+      ]
+    },
+    {
+      "id": "biz-meeting-status-language",
+      "level": "biz",
+      "skill": "vocabulary",
+      "title": "Report status without vague jargon",
+      "description": "Distinguish proposals, decisions, actions, and unresolved items.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Keep the meeting categories separate",
+          "text": "A proposal is an idea offered for consideration; a decision is an agreed choice; an action item is a task assigned for follow-up. A concern can remain unresolved even after a related decision. Accurate minutes record which category each statement belongs to instead of turning every suggestion into an agreement.",
+          "examples": [
+            "Proposal: trial a shorter review form.",
+            "Decision: run the trial with one team next week."
+          ]
+        },
+        {
+          "heading": "Use ownership and status precisely",
+          "text": "An owner is the person responsible for progressing an action. Pending means awaiting something; deferred means deliberately postponed; approved means accepted through the relevant process. These labels need context. Pending approval does not mean rejected, and deferred does not necessarily mean cancelled. Add the dependency or new decision point.",
+          "examples": [
+            "Pending: Jo is waiting for the supplier’s response.",
+            "Deferred: the equipment choice returns at Friday’s meeting."
+          ]
+        },
+        {
+          "heading": "Write minutes that enable follow-up",
+          "text": "Take a fictional discussion and produce three lines: one decision, one action with an owner and date, and one unresolved issue. Ask whether a colleague absent from the meeting could tell what to do next. Replace labels such as in progress with a concrete description where they hide the important dependency.",
+          "examples": [
+            "Action: Nima will circulate two options by Thursday.",
+            "Open issue: the team has not yet agreed the support hours."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "A suggestion discussed but not accepted should be recorded as what?",
+          "options": [
+            "An approved decision",
+            "A completed action",
+            "A proposal",
+            "A final rejection in every case"
+          ],
+          "answer": 2,
+          "explanation": "Discussion alone does not convert a suggestion into an agreement."
+        },
+        {
+          "prompt": "What does pending approval mean?",
+          "options": [
+            "Already rejected",
+            "Definitely cancelled",
+            "Approved without conditions",
+            "Waiting for approval"
+          ],
+          "answer": 3,
+          "explanation": "Pending identifies an unresolved status; it does not establish the eventual result."
+        },
+        {
+          "prompt": "Which action item is easiest to follow up?",
+          "options": [
+            "Nima will circulate two options by Thursday.",
+            "Options are relevant.",
+            "Someone should do something soon.",
+            "A strategic conversation occurred."
+          ],
+          "answer": 0,
+          "explanation": "The item names an owner, a task, and a time for completion."
+        }
+      ]
+    },
+    {
+      "id": "biz-reading-supplier-options",
+      "level": "biz",
+      "skill": "reading",
+      "title": "Read an offer and its conditions",
+      "description": "Compare total requirements rather than a headline price.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: two workshop offers",
+          "text": "The training team needs a workshop for twenty staff on 14 June. Offer A quotes £900 for an onsite session, including printed materials for up to twenty people. The organization must provide the room and projector. The date is held until 30 April, after which availability must be checked again. Offer B quotes £760 for an online session for up to twenty-five people. A recording is included, but optional printed packs cost £8 per participant. The presenter is unavailable on 14 June and offers 16 June instead. Both offers include a planning call and require confirmation before materials are prepared. The manager has asked for a comparison of cost, date, format, and required equipment. No decision has been made about whether changing the date or moving online would be acceptable.",
+          "examples": [
+            "A matches the requested date and onsite format.",
+            "B has a lower base price but offers a different date."
+          ]
+        },
+        {
+          "heading": "Check constraints before ranking price",
+          "text": "A cheaper quotation is not automatically the best fit. Identify essential requirements and distinguish them from preferences that could change. Calculate optional costs only when the option is actually wanted, and keep stated inclusions separate from assumptions about equipment, travel, or availability.",
+          "examples": [
+            "Twenty printed packs for B would add £160.",
+            "A requires the organization to supply a room and projector."
+          ]
+        },
+        {
+          "heading": "Create a decision-ready comparison",
+          "text": "Write a short recommendation with one conditional branch: what would you recommend if the date is fixed, and what could change if an online session on 16 June is acceptable? Include the hold deadline for A. Do not invent cancellation terms or assume the manager has accepted a changed date.",
+          "examples": [
+            "If 14 June is fixed, A is the offer matching that requirement.",
+            "If the date and format can change, compare B with the desired optional packs included."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which offer explicitly matches the requested date?",
+          "options": [
+            "Offer B",
+            "Offer A",
+            "Both offers",
+            "Neither offer"
+          ],
+          "answer": 1,
+          "explanation": "A holds 14 June; B’s presenter offers 16 June instead."
+        },
+        {
+          "prompt": "What would B cost with printed packs for all twenty staff?",
+          "options": [
+            "£760",
+            "£900",
+            "£920",
+            "£1,000"
+          ],
+          "answer": 2,
+          "explanation": "Twenty packs at £8 add £160 to the £760 base quotation, giving £920."
+        },
+        {
+          "prompt": "What happens after 30 April under Offer A?",
+          "options": [
+            "The price automatically doubles.",
+            "The workshop is definitely cancelled.",
+            "Printed materials become free for unlimited attendees.",
+            "Availability must be checked again."
+          ],
+          "answer": 3,
+          "explanation": "The date hold expires, but the passage does not establish automatic cancellation or a price change."
+        }
+      ]
+    },
+    {
+      "id": "biz-reading-project-report",
+      "level": "biz",
+      "skill": "reading",
+      "title": "Read a project report for the next action",
+      "description": "Separate completed work from a risk and a requested decision.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: project update",
+          "text": "The client portal’s login and document-upload features passed the team’s internal checks on Tuesday. External accessibility testing is scheduled for next week and has not yet begun. The support guide is drafted, but the screenshots must be replaced after the final interface review. A supplier has warned that the optional reporting module may arrive a week later than expected. The core portal does not depend on that module, although the sales demonstration currently includes it. The project lead recommends keeping the core testing schedule and preparing a demonstration that works without the optional module. She requests a decision from sales by Thursday on whether to use that version or move the demonstration. The report does not recommend a public release date until the external test results have been considered.",
+          "examples": [
+            "Completed: internal checks for login and upload.",
+            "Unresolved: external testing and the demonstration choice."
+          ]
+        },
+        {
+          "heading": "Identify the decision boundary",
+          "text": "A report may contain achievements, dependencies, risks, and recommendations in one paragraph. Label each before summarizing. Passing internal checks does not establish that all review is complete, and a delayed optional feature does not automatically delay the core product. Follow the actual dependencies rather than the emotional weight of the warning.",
+          "examples": [
+            "Core testing can continue without the optional module.",
+            "The sales demonstration needs a separate decision."
+          ]
+        },
+        {
+          "heading": "Write a concise response",
+          "text": "Draft a reply from sales that selects one demonstration option, confirms who will update the plan, and acknowledges the pending external review. Avoid announcing a public release date unsupported by the report. Check that your answer addresses the decision requested rather than merely congratulating the team on progress.",
+          "examples": [
+            "Sales will use the core-only demonstration and update the script by Thursday.",
+            "We will await the external test results before discussing a public release commitment."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which work is already complete?",
+          "options": [
+            "Internal checks on login and upload",
+            "External accessibility testing",
+            "Final screenshots after the interface review",
+            "A confirmed public release date"
+          ],
+          "answer": 0,
+          "explanation": "The report states that internal checks passed, while the other items remain pending or unconfirmed."
+        },
+        {
+          "prompt": "What does the delayed optional module directly affect?",
+          "options": [
+            "The existence of the login feature",
+            "The current sales demonstration plan",
+            "The ability to perform any core testing",
+            "The date on which internal checks occurred"
+          ],
+          "answer": 1,
+          "explanation": "The core portal does not depend on the module, but the planned demonstration includes it."
+        },
+        {
+          "prompt": "What decision does the project lead request by Thursday?",
+          "options": [
+            "Cancel external testing.",
+            "Commit publicly to immediate release.",
+            "Use a core-only demonstration or move the demonstration.",
+            "Discard the support guide permanently."
+          ],
+          "answer": 2,
+          "explanation": "The report explicitly offers those two demonstration options for sales to decide."
+        }
+      ]
+    },
+    {
+      "id": "biz-listening-negotiation",
+      "level": "biz",
+      "skill": "listening",
+      "title": "Listen to a conditional negotiation",
+      "description": "Hear the limit, the trade-off, and the commitment the speaker can make.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Identify the constraint and the interest",
+          "text": "A negotiation can reject an offer while recognizing its value. Listen for the hard constraint, the benefit acknowledged, and the alternative requested. Here the speaker separates a budget limit from a desire for reliable support, creating room to alter the package instead of arguing only about the price.",
+          "examples": [
+            "Constraint: the quoted total exceeds the approved budget.",
+            "Interest: access to reliable help during the first week."
+          ]
+        },
+        {
+          "heading": "Separate an offer from authority",
+          "text": "The speaker can take a revised quotation to a manager but cannot promise approval. Note the conditional exchange: a limited support arrangement and clear first-phase price would enable a review. Listening accurately requires preserving that authority boundary, rather than hearing a polite willingness to review as acceptance.",
+          "examples": [
+            "Requested change: phase the service and review support later.",
+            "Promise made: a prompt review, rather than approval."
+          ]
+        },
+        {
+          "heading": "Practise the supplier’s response",
+          "text": "After listening, draft a short supplier reply that confirms the proposed scope, asks one clarification question, and avoids treating the discussion as a signed agreement. Then role-play a follow-up negotiation using your own fictional service. Keep the essential first-week contact separate from the larger support package.",
+          "examples": [
+            "We will price setup, training, and a named first-week contact separately.",
+            "How many users should the first-phase quotation cover?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why can the speaker not accept the current offer?",
+          "options": [
+            "The supplier refuses to provide setup.",
+            "Training has already been cancelled.",
+            "The manager has forbidden any review.",
+            "Its total exceeds the approved budget."
+          ],
+          "answer": 3,
+          "explanation": "The opening explicitly identifies the budget limit."
+        },
+        {
+          "prompt": "Which service does the speaker say must remain?",
+          "options": [
+            "A named contact during the first week",
+            "The full monthly package forever",
+            "Unlimited support with no user limit",
+            "An immediate public announcement"
+          ],
+          "answer": 0,
+          "explanation": "The speaker calls removal of all initial support an unmanageable risk."
+        },
+        {
+          "prompt": "What does the speaker actually promise?",
+          "options": [
+            "Guaranteed approval that day",
+            "A prompt review of a revised offer",
+            "Acceptance of the full package",
+            "Payment before seeing the revised price"
+          ],
+          "answer": 1,
+          "explanation": "The speaker explicitly distinguishes the promise of review from authority to approve."
+        }
+      ],
+      "listeningText": "Thanks for explaining the revised quotation. The total is still above the budget we have approval to use, so I cannot accept it as it stands. I do see why the additional support adds value. Could we separate the initial setup from the monthly support package? If we keep setup and staff training in the first phase, we could review the support level after a month of use. That would let us understand our actual needs before committing to the larger package. We would need a named contact during the first week, though; removing all support would create a risk we cannot manage. If you can provide that limited contact and a clear price for the first phase, I can take the revised offer to our manager tomorrow. I am not promising approval today, but I can promise a prompt review. Please include any assumptions about the number of users so we are comparing the same service."
+    },
+    {
+      "id": "biz-listening-client-handover",
+      "level": "biz",
+      "skill": "listening",
+      "title": "Listen to an account handover",
+      "description": "Track scope, deadlines, and who owns each follow-up.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Create separate status notes",
+          "text": "A handover mixes approvals, new requests, and next steps. Make headings for approved scope, requested change, update time, and ownership before playing the recording. Listen for does not include and rather than, which prevent a request from being mistaken for an agreed addition.",
+          "examples": [
+            "Approved: the design.",
+            "Requested but not automatically included: the data-export feature."
+          ]
+        },
+        {
+          "heading": "Preserve conditional timing",
+          "text": "The speaker asks for an estimate before the scheduled update if engineering can complete it. If not, the client still needs an explanation of outstanding questions. Distinguish this conditional task from a promise that engineering will finish. Record training confirmation as a separate dependency with a different owner.",
+          "examples": [
+            "Wednesday morning is the next scheduled client update.",
+            "Training is reserved, but attendees remain unconfirmed."
+          ]
+        },
+        {
+          "heading": "Confirm the handover aloud",
+          "text": "Record a reply restating the action you own and the task the previous account contact retains. Include what you will communicate if the estimate is incomplete. This confirmation checks the practical meaning of the handover and reduces duplicate requests without needing to repeat every sentence in the recording.",
+          "examples": [
+            "I will follow up the estimate; you will confirm the training names.",
+            "If the estimate is not ready, I will explain the remaining questions."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What did the client’s design approval exclude?",
+          "options": [
+            "All existing design work",
+            "The reserved training room in every case",
+            "The new data-export feature",
+            "The next scheduled update"
+          ],
+          "answer": 2,
+          "explanation": "The speaker explicitly says the new export request is outside that approval."
+        },
+        {
+          "prompt": "If engineering cannot finish the estimate before the update, what should happen?",
+          "options": [
+            "Say nothing until after launch.",
+            "Treat the feature as automatically included.",
+            "Invent a price immediately.",
+            "Explain the remaining questions to the client."
+          ],
+          "answer": 3,
+          "explanation": "The conditional instruction requires an informative update even when the estimate is incomplete."
+        },
+        {
+          "prompt": "Who retains responsibility for checking training names?",
+          "options": [
+            "The speaker handing over the account",
+            "The client’s entire engineering team",
+            "The new contact exclusively",
+            "An unnamed supplier"
+          ],
+          "answer": 0,
+          "explanation": "The speaker says I will remain responsible, while asking the new contact to own the estimate follow-up."
+        }
+      ],
+      "listeningText": "Before I hand the account over, there are three details to keep separate. The client approved the design yesterday, but that approval does not include the new data-export feature. They requested that feature during the call, and I said we would estimate the work rather than include it automatically. Our next scheduled update is Wednesday morning. Please send the client the estimate before then if engineering can complete it, or explain the remaining questions if they cannot. The client also mentioned that two staff members need training before the launch. We have reserved a session, but they have not confirmed the attendees. I will forward the invitation and the design approval after this call. Could you confirm that you will own the estimate follow-up? I will remain responsible for checking the training names, so the client does not receive duplicate requests. We should both update the shared account notes after making contact."
+    },
+    {
+      "id": "biz-writing-recommendation-report",
+      "level": "biz",
+      "skill": "writing",
+      "title": "Write a clear recommendation report",
+      "description": "Use findings, comparisons, and an evidence-backed next step.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Separate finding from recommendation",
+          "text": "A finding reports what you observed; a recommendation proposes what to do. Link them explicitly, but avoid treating a plausible explanation as an established cause. A short report can use a purpose statement, selected findings, comparison of options, and a recommendation without repeating all the raw data.",
+          "examples": [
+            "Finding: six of ten test users could not locate the upload button.",
+            "Recommendation: revise the label and test the change with new users."
+          ]
+        },
+        {
+          "heading": "Make comparisons fair",
+          "text": "Compare options using criteria relevant to the decision, such as effort, usability, and ongoing support. Show whether values are measured or estimated. A precise-looking figure does not make an estimate certain. Include a limitation when it could change the recommendation, and explain a practical review rather than leaving the uncertainty abstract.",
+          "examples": [
+            "Option A is estimated to need two days of work.",
+            "The small test suggests a problem but may not represent all users."
+          ]
+        },
+        {
+          "heading": "Draft a report for a busy colleague",
+          "text": "Using the fictional upload test, write a brief report that presents the finding, compares changing the label with redesigning the full page, and recommends a next step. State what further testing would check. Read the recommendation alone and ensure it names an action rather than merely calling for improvement.",
+          "examples": [
+            "First test a clearer label before committing to a complete page redesign.",
+            "Review task completion with new users after the revised label is introduced."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence is a finding?",
+          "options": [
+            "We should redesign every page immediately.",
+            "Six of ten test users could not locate the upload button.",
+            "Please allocate two developers next month.",
+            "The team ought to change the label."
+          ],
+          "answer": 1,
+          "explanation": "The sentence reports an observed result; the other options propose actions."
+        },
+        {
+          "prompt": "Why label an effort figure as estimated?",
+          "options": [
+            "So it appears identical to a measured result",
+            "So no one can question the plan",
+            "So readers understand its uncertainty and basis",
+            "So the report can omit every assumption"
+          ],
+          "answer": 2,
+          "explanation": "An estimate supports planning while retaining uncertainty about the eventual value."
+        },
+        {
+          "prompt": "Which recommendation follows the limited finding most cautiously?",
+          "options": [
+            "Replace every system without further review.",
+            "Declare all users unable to use the website.",
+            "Ignore the observed difficulty permanently.",
+            "Test a clearer label before committing to a complete redesign."
+          ],
+          "answer": 3,
+          "explanation": "A targeted trial addresses the observed problem while collecting evidence before a larger commitment."
+        }
+      ]
+    },
+    {
+      "id": "biz-speaking-stakeholder-interview",
+      "level": "biz",
+      "skill": "speaking",
+      "title": "Interview a stakeholder without leading them",
+      "description": "Ask neutral questions, probe examples, and confirm the need.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Ask about a real experience",
+          "text": "In a requirements interview, a neutral question elicits the stakeholder’s account rather than suggesting the desired answer. Ask about the last time they completed a task and what happened. A specific experience can reveal constraints that a broad question about ideal features misses. Avoid assuming your preferred solution is already necessary.",
+          "examples": [
+            "Tell me about the last time you submitted a support request.",
+            "What happened after you sent the form?"
+          ]
+        },
+        {
+          "heading": "Probe the problem before the solution",
+          "text": "A request for a new dashboard may reflect a need to know the status of a request. Ask what decision the information would support and what currently makes it difficult. Distinguish the person’s words from your interpretation. A follow-up should clarify the work, not pressure the stakeholder to praise your proposed feature.",
+          "examples": [
+            "What information were you missing at that point?",
+            "How did that affect the next task you needed to do?"
+          ]
+        },
+        {
+          "heading": "Confirm a shared understanding",
+          "text": "End by summarizing the need and checking it with the stakeholder. State an assumption as an assumption, and record unresolved questions rather than inventing agreement. Role-play both interviewer and stakeholder, using one concrete event, two neutral probes, and a final summary that avoids promising a feature before its feasibility is reviewed.",
+          "examples": [
+            "It sounds as though knowing who owns the request matters most. Is that accurate?",
+            "We will examine options; I cannot yet confirm a new dashboard."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which question is least leading?",
+          "options": [
+            "Tell me about the last time you checked a request’s status.",
+            "Would our excellent dashboard solve all your problems?",
+            "You want a new dashboard, do you not?",
+            "Why is our proposed feature clearly necessary?"
+          ],
+          "answer": 0,
+          "explanation": "The neutral question invites an account of experience without supplying the desired answer."
+        },
+        {
+          "prompt": "A stakeholder asks for a dashboard. What should you explore first?",
+          "options": [
+            "How to promise immediate delivery",
+            "The information need and the decision it would support",
+            "Which colour to choose before understanding the task",
+            "How to prevent follow-up questions"
+          ],
+          "answer": 1,
+          "explanation": "Understanding the underlying need helps evaluate solutions rather than prematurely adopting one."
+        },
+        {
+          "prompt": "Which closing summary checks understanding without overpromising?",
+          "options": [
+            "We guarantee a new dashboard tomorrow regardless of review.",
+            "Your request is definitely the only possible solution.",
+            "You need to see request ownership; is that accurate? We will review possible approaches.",
+            "There are no unanswered questions because the interview ended."
+          ],
+          "answer": 2,
+          "explanation": "The summary confirms the need while keeping solution and feasibility questions open."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "ascribe",
+      "meaning": "To regard something as arising from a particular cause or source.",
+      "example": "The researchers ascribe the difference partly to prior experience.",
+      "level": "c1"
+    },
+    {
+      "word": "corroborate",
+      "meaning": "To supply additional evidence supporting a statement or finding.",
+      "example": "The second survey corroborates the interview findings.",
+      "level": "c1"
+    },
+    {
+      "word": "reconcile",
+      "meaning": "To explain how apparently conflicting ideas or observations can fit together.",
+      "example": "The model helps reconcile the two estimates.",
+      "level": "c1"
+    },
+    {
+      "word": "caveat",
+      "meaning": "A warning or limitation that qualifies how a statement should be understood.",
+      "example": "The recommendation includes a caveat about the small sample.",
+      "level": "c1"
+    },
+    {
+      "word": "synthesis",
+      "meaning": "A combined account that connects ideas from different sources.",
+      "example": "Her synthesis identifies a shared principle across the reports.",
+      "level": "c1"
+    },
+    {
+      "word": "tentative",
+      "meaning": "Not final or certain; open to revision.",
+      "example": "We offered a tentative explanation pending further interviews.",
+      "level": "c1"
+    },
+    {
+      "word": "displace",
+      "meaning": "To move something from its usual position, time, or role.",
+      "example": "Evening visits may displace visits that previously occurred in the afternoon.",
+      "level": "c1"
+    },
+    {
+      "word": "representative",
+      "meaning": "Reflecting the relevant characteristics of a wider group.",
+      "example": "The volunteers may not be representative of every class.",
+      "level": "c1"
+    },
+    {
+      "word": "infer",
+      "meaning": "To reach an interpretation from available evidence or reasoning.",
+      "example": "Readers should not infer a cause from this association alone.",
+      "level": "c1"
+    },
+    {
+      "word": "retain",
+      "meaning": "To keep or continue to have something.",
+      "example": "The revised survey will retain the satisfaction questions.",
+      "level": "c1"
+    },
+    {
+      "word": "consensus",
+      "meaning": "General agreement reached by members of a group.",
+      "example": "The panel reached a consensus on the review criteria.",
+      "level": "c1"
+    },
+    {
+      "word": "stumbling block",
+      "meaning": "A difficulty that prevents or slows progress.",
+      "example": "The lack of a suitable room remains a stumbling block.",
+      "level": "c1"
+    },
+    {
+      "word": "on the fence",
+      "meaning": "Undecided between available choices.",
+      "example": "I am still on the fence about the optional course.",
+      "level": "c1"
+    },
+    {
+      "word": "long shot",
+      "meaning": "An attempt or possibility with a low chance of success.",
+      "example": "The application is a long shot, but we will submit it.",
+      "level": "c1"
+    },
+    {
+      "word": "intelligible",
+      "meaning": "Clear enough to be understood.",
+      "example": "Thoughtful pauses make the explanation more intelligible.",
+      "level": "c1"
+    },
+    {
+      "word": "attribution",
+      "meaning": "The act of identifying a source or assigning an outcome to a cause.",
+      "example": "Clear attribution distinguishes the manager’s view from the report’s finding.",
+      "level": "c1"
+    },
+    {
+      "word": "mandative",
+      "meaning": "Expressing a demand, requirement, or recommendation for an action.",
+      "example": "The sentence uses a mandative clause: they require that she be notified.",
+      "level": "c2"
+    },
+    {
+      "word": "ellipsis",
+      "meaning": "Omission of words whose meaning can be recovered from context.",
+      "example": "In Jo can too, ellipsis avoids repeating the verb attend.",
+      "level": "c2"
+    },
+    {
+      "word": "antecedent",
+      "meaning": "An earlier expression to which a later word or omitted phrase refers.",
+      "example": "An unclear antecedent makes the pronoun difficult to interpret.",
+      "level": "c2"
+    },
+    {
+      "word": "presuppose",
+      "meaning": "To take something for granted as a starting assumption.",
+      "example": "Asking why the plan failed presupposes that it failed.",
+      "level": "c2"
+    },
+    {
+      "word": "plausible",
+      "meaning": "Reasonable or credible as a possible explanation.",
+      "example": "The account is plausible, but another explanation remains possible.",
+      "level": "c2"
+    },
+    {
+      "word": "compelling",
+      "meaning": "Strongly persuasive or deserving serious attention.",
+      "example": "The interviews offer compelling reasons to investigate access.",
+      "level": "c2"
+    },
+    {
+      "word": "conclusive",
+      "meaning": "Sufficient to settle a particular question in the relevant context.",
+      "example": "The small pilot did not provide conclusive evidence of a general effect.",
+      "level": "c2"
+    },
+    {
+      "word": "prevalent",
+      "meaning": "Widespread or common within a group or setting.",
+      "example": "The practice was prevalent among the teams surveyed.",
+      "level": "c2"
+    },
+    {
+      "word": "inevitable",
+      "meaning": "Certain to happen or impossible to avoid in the circumstances described.",
+      "example": "A delay is possible, but it is not inevitable.",
+      "level": "c2"
+    },
+    {
+      "word": "understatement",
+      "meaning": "Deliberately expressing something less strongly than its apparent importance or intensity.",
+      "example": "Calling the impossible deadline a little ambitious may be understatement.",
+      "level": "c2"
+    },
+    {
+      "word": "rhetorical",
+      "meaning": "Concerned with how language presents an argument or influences an audience.",
+      "example": "The slogan is a rhetorical frame rather than proof of public participation.",
+      "level": "c2"
+    },
+    {
+      "word": "preserve",
+      "meaning": "To keep an important feature from being lost or altered.",
+      "example": "A public summary must preserve the study’s limitations.",
+      "level": "c2"
+    },
+    {
+      "word": "remit",
+      "meaning": "The area of responsibility or authority assigned to a person or group.",
+      "example": "Approving the final budget falls outside the review panel’s remit.",
+      "level": "c2"
+    },
+    {
+      "word": "proportionate",
+      "meaning": "Appropriate in scale or strength to the relevant need or evidence.",
+      "example": "The response should be proportionate to the demonstrated risk.",
+      "level": "c2"
+    },
+    {
+      "word": "salient",
+      "meaning": "Especially noticeable or relevant in a particular context.",
+      "example": "The rewrite makes the most salient comparison easier to find.",
+      "level": "c2"
+    },
+    {
+      "word": "sustainable",
+      "meaning": "Able to continue over time without exhausting the resources it depends on.",
+      "example": "Repeated exceptional overtime is not a sustainable delivery method.",
+      "level": "c2"
+    },
+    {
+      "word": "capacity",
+      "meaning": "The amount of work a team or system can handle in a given period.",
+      "example": "Our current capacity is twelve reviews per week.",
+      "level": "biz"
+    },
+    {
+      "word": "bottleneck",
+      "meaning": "A stage that limits the flow or output of a wider process.",
+      "example": "Final approval has become the bottleneck.",
+      "level": "biz"
+    },
+    {
+      "word": "backlog",
+      "meaning": "Unfinished work waiting to be dealt with.",
+      "example": "The backlog contains eighteen support requests.",
+      "level": "biz"
+    },
+    {
+      "word": "milestone",
+      "meaning": "A significant stage or checkpoint in a project or process.",
+      "example": "Completing the pilot review is the next project milestone.",
+      "level": "biz"
+    },
+    {
+      "word": "dependency",
+      "meaning": "Something that another task or outcome relies on.",
+      "example": "Access to the sample file is a dependency for testing.",
+      "level": "biz"
+    },
+    {
+      "word": "deliverable",
+      "meaning": "An agreed output that a project or task must produce.",
+      "example": "The main deliverable is a tested prototype.",
+      "level": "biz"
+    },
+    {
+      "word": "stakeholder",
+      "meaning": "A person or group affected by, involved in, or interested in a project or decision.",
+      "example": "We interviewed stakeholders before choosing the new process.",
+      "level": "biz"
+    },
+    {
+      "word": "procurement",
+      "meaning": "The process of obtaining goods or services for an organization.",
+      "example": "The procurement team compared both workshop offers.",
+      "level": "biz"
+    },
+    {
+      "word": "quotation",
+      "meaning": "A stated price and description for proposed goods or services.",
+      "example": "Please send a revised quotation showing optional support separately.",
+      "level": "biz"
+    },
+    {
+      "word": "handover",
+      "meaning": "The transfer of information and responsibility from one person or team to another.",
+      "example": "The account handover clarified ownership of the estimate.",
+      "level": "biz"
+    },
+    {
+      "word": "pending",
+      "meaning": "Waiting for a decision, event, or required input.",
+      "example": "The schedule is pending approval from the manager.",
+      "level": "biz"
+    },
+    {
+      "word": "deferred",
+      "meaning": "Deliberately postponed to a later time or decision point.",
+      "example": "The equipment decision was deferred until Friday.",
+      "level": "biz"
+    },
+    {
+      "word": "action item",
+      "meaning": "A specific task recorded for follow-up after a discussion.",
+      "example": "Each action item needs an owner and a completion date.",
+      "level": "biz"
+    },
+    {
+      "word": "escalate",
+      "meaning": "To refer an issue to someone with greater authority or relevant responsibility.",
+      "example": "Please escalate the unresolved access problem to the service lead.",
+      "level": "biz"
+    },
+    {
+      "word": "trade-off",
+      "meaning": "A choice in which gaining one benefit involves giving up another.",
+      "example": "The team discussed the trade-off between speed and additional testing.",
+      "level": "biz"
+    },
+    {
+      "word": "workable",
+      "meaning": "Practical and capable of being carried out in the circumstances.",
+      "example": "A smaller first phase may provide a workable alternative.",
+      "level": "biz"
+    }
+  ]
+}

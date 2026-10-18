@@ -1,0 +1,2699 @@
+{
+  "lessons": [
+    {
+      "id": "b1-perfect-time-links",
+      "level": "b1",
+      "skill": "grammar",
+      "title": "Connect past actions to now",
+      "description": "Choose perfect or past forms and use since, for, already, and yet.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Finished time or time up to now?",
+          "text": "The past simple places an event in a completed period such as last winter or two days ago. The present perfect connects an event with now without naming a finished past period. Ask whether your time window is closed before choosing the tense. A finished action can still have an important present result.",
+          "examples": [
+            "I lost my keys yesterday.",
+            "I have lost my keys, so I cannot open the door."
+          ]
+        },
+        {
+          "heading": "Duration and present results",
+          "text": "Since names a starting point; for names a length of time. With a continuing state, use the present perfect to connect that start with now. Already often signals completion earlier than expected, while yet commonly appears in questions and negatives. Do not use a present simple form with since for a state continuing to now.",
+          "examples": [
+            "I have lived here since March.",
+            "We have known each other for six years.",
+            "Have you finished yet?"
+          ]
+        },
+        {
+          "heading": "Transfer the time meaning",
+          "text": "Imagine updating a friend about a move. First state a finished event with its date, then explain your situation now. Write four sentences and underline every time expression. Replace an incorrect tense only after deciding whether the expression refers to a closed past period or a continuing connection. This makes your choice depend on meaning.",
+          "examples": [
+            "I moved here in June. I have met several neighbours.",
+            "I have not unpacked the kitchen boxes yet."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence describes a state continuing from 2021 until now?",
+          "options": [
+            "I live here since 2021.",
+            "I have lived here since 2021.",
+            "I lived here yesterday only.",
+            "I am live here for 2021."
+          ],
+          "answer": 1,
+          "explanation": "Have lived with since connects the starting year with the present."
+        },
+        {
+          "prompt": "Choose the best completion: We ___ the museum last Saturday.",
+          "options": [
+            "have visited",
+            "have visit",
+            "visit since",
+            "visited"
+          ],
+          "answer": 3,
+          "explanation": "Last Saturday is a finished past time, so the past simple visited fits."
+        },
+        {
+          "prompt": "You expected the parcel tomorrow, but it is here now. Which sentence fits?",
+          "options": [
+            "The parcel has already arrived.",
+            "The parcel has not arrived yet.",
+            "The parcel arrives last week.",
+            "The parcel has arrived since three days."
+          ],
+          "answer": 0,
+          "explanation": "Already emphasizes completion sooner than expected; the parcel is here now."
+        }
+      ]
+    },
+    {
+      "id": "b1-imagined-choices",
+      "level": "b1",
+      "skill": "grammar",
+      "title": "Imagine different situations",
+      "description": "Use second conditionals and distinguish if from unless.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Imagine an unlikely present",
+          "text": "The second conditional describes an imagined or less likely situation in the present or future. Use if plus past simple for the condition, then would plus the base verb for the result. The past form signals distance from reality here; it does not necessarily describe past time. Could can express an imagined ability or possibility.",
+          "examples": [
+            "If I had a larger kitchen, I would cook for my friends.",
+            "If we lived near the sea, we could swim every day."
+          ]
+        },
+        {
+          "heading": "Choose the condition carefully",
+          "text": "Unless often means if not. It introduces the condition that must change before a result can change. Avoid adding an unnecessary negative after unless. Compare a likely plan using if plus present with an imagined choice using if plus past. Choose the form that reflects your view of the situation, rather than treating all future statements alike.",
+          "examples": [
+            "Unless it rains, we will eat outside.",
+            "If I won a scholarship, I would study abroad."
+          ]
+        },
+        {
+          "heading": "Apply an imagined choice",
+          "text": "Plan an imaginary community project with a limited budget. Give two choices and explain what each would achieve. Read the condition and result together to check their time meaning. For advice, if I were you is a useful conventional expression; many speakers also use was in less formal imagined statements with I or he.",
+          "examples": [
+            "If I were you, I would compare the course schedules.",
+            "If our group had more time, we would interview local residents."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "You do not own a car. Which sentence imagines a different present?",
+          "options": [
+            "If I own a car, I drove.",
+            "If I had a car, I will drive.",
+            "If I had a car, I would drive to work.",
+            "If I have had a car, I drive yesterday."
+          ],
+          "answer": 2,
+          "explanation": "Past simple had marks the imagined condition; would drive gives the imagined result."
+        },
+        {
+          "prompt": "Unless the library is closed, we will study there means:",
+          "options": [
+            "We will study there if it is not closed.",
+            "We will study there only if it is closed.",
+            "The library is definitely closed.",
+            "We studied there yesterday."
+          ],
+          "answer": 0,
+          "explanation": "Unless the library is closed is equivalent here to if the library is not closed."
+        },
+        {
+          "prompt": "Choose the useful advice pattern.",
+          "options": [
+            "If I am you, I studied more.",
+            "If I would be you, I will study.",
+            "If I were you, I would make a weekly plan.",
+            "If I were you, I made a plan yesterday only."
+          ],
+          "answer": 2,
+          "explanation": "If I were you plus would and a base verb is a conventional advice pattern."
+        }
+      ]
+    },
+    {
+      "id": "b1-relative-clause-details",
+      "level": "b1",
+      "skill": "grammar",
+      "title": "Describe the person or thing you mean",
+      "description": "Join ideas using who, which, that, where, and whose.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Identify with a defining clause",
+          "text": "A defining relative clause tells the listener exactly which person or thing you mean. Use who for people and which or that for things. Do not add a second subject pronoun inside the clause. A defining clause normally follows its noun directly and does not need commas because its information identifies the reference.",
+          "examples": [
+            "The woman who teaches our evening class is a writer.",
+            "I found the charger that you lent me."
+          ]
+        },
+        {
+          "heading": "Places, possession, and objects",
+          "text": "Use where for a place when the clause describes something happening there. Whose introduces possession and can refer to people or organizations. When a relative pronoun is the object in a defining clause, it can often be omitted. Keep it when it is the subject, because removing it would leave the clause without a subject.",
+          "examples": [
+            "That is the café where we first met.",
+            "The student whose bag was missing called reception.",
+            "The book I borrowed was useful."
+          ]
+        },
+        {
+          "heading": "Build useful descriptions",
+          "text": "Think of three people or objects a visitor might need to identify. Add a defining clause that distinguishes each one, then check whether the clause needs a subject or an object. Read the whole sentence aloud to find accidental repetition. This technique helps you explain an unfamiliar word without needing a dictionary immediately.",
+          "examples": [
+            "A thermometer is a device that measures temperature.",
+            "Speak to the volunteer who is wearing the green badge."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Choose the accurate description.",
+          "options": [
+            "The teacher who she helped us is here.",
+            "The teacher who helped us is here.",
+            "The teacher which helped us is here.",
+            "The teacher whose helped us is here."
+          ],
+          "answer": 1,
+          "explanation": "Who is the subject of helped, so an additional she would repeat the subject."
+        },
+        {
+          "prompt": "Which sentence uses whose correctly?",
+          "options": [
+            "This is the café whose we met.",
+            "The phone whose I bought is new.",
+            "The woman whose daughter won the prize is smiling.",
+            "The woman whose won the prize is smiling."
+          ],
+          "answer": 2,
+          "explanation": "Whose daughter expresses the relationship of possession or family connection."
+        },
+        {
+          "prompt": "In which sentence can that be omitted without changing the basic structure?",
+          "options": [
+            "The bus that stops here is electric.",
+            "The person that called is my cousin.",
+            "The machine that prints labels is broken.",
+            "The article that I read explains the rules."
+          ],
+          "answer": 3,
+          "explanation": "I is already the clause subject, and that is the object of read, so it can be omitted."
+        }
+      ]
+    },
+    {
+      "id": "b2-past-before-past",
+      "level": "b2",
+      "skill": "grammar",
+      "title": "Organize stories and reported questions",
+      "description": "Show earlier past actions and report questions with statement word order.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Establish an earlier past",
+          "text": "Use the past perfect, had plus past participle, to show an action completed before another past reference point. Once the sequence is clear, past simple can carry the main story. Before and after may already make the sequence obvious, so the past perfect is a tool for clarity rather than a requirement in every sentence.",
+          "examples": [
+            "When we reached the platform, the train had left.",
+            "I opened the document and read the notes."
+          ]
+        },
+        {
+          "heading": "Report questions without inversion",
+          "text": "A reported question uses statement word order: question word, subject, and verb. For a yes-or-no question, use if or whether. After a past reporting verb, tense often shifts back when the viewpoint moves into the past. Pronouns and time words must match the reporting situation, so tomorrow may become the following day.",
+          "examples": [
+            "She asked where I lived.",
+            "He asked whether the parcel had arrived.",
+            "They asked if we could return the following day."
+          ]
+        },
+        {
+          "heading": "Reconstruct a confusing event",
+          "text": "Write a short account of a missed meeting. Put the main events on a timeline, then add one earlier explanation with had. Include a question someone asked afterward. Check that you have removed question inversion and question do from the report. The aim is a reader who can reconstruct events without guessing their order.",
+          "examples": [
+            "I arrived late because I had written down the wrong address.",
+            "The organizer asked why I had gone to the old office."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "The doors were already locked when we arrived. Which sentence expresses that order?",
+          "options": [
+            "The doors had been locked before we arrived.",
+            "The doors will lock before we arrived.",
+            "The doors lock after we arrived.",
+            "The doors have lock before arrival."
+          ],
+          "answer": 0,
+          "explanation": "Had been locked places the locking before the past reference point of our arrival."
+        },
+        {
+          "prompt": "Report: Where do you work? She asked me…",
+          "options": [
+            "where did I work.",
+            "where do I work.",
+            "where I worked.",
+            "where worked I."
+          ],
+          "answer": 2,
+          "explanation": "Reported questions use statement order, I worked, rather than question inversion."
+        },
+        {
+          "prompt": "Report: Has the payment arrived? He asked…",
+          "options": [
+            "had the payment arrived.",
+            "whether the payment had arrived.",
+            "whether had arrived the payment.",
+            "did the payment has arrived."
+          ],
+          "answer": 1,
+          "explanation": "A yes-or-no report can use whether, followed by the subject and verb in statement order."
+        }
+      ]
+    },
+    {
+      "id": "b2-modal-evidence-passives",
+      "level": "b2",
+      "skill": "grammar",
+      "title": "Express deductions and obligations",
+      "description": "Match must, might, cannot, and passive forms to the evidence.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Distinguish inference from fact",
+          "text": "Modal verbs can express how strongly evidence supports a conclusion. Must suggests a strong positive deduction; cannot suggests a strong negative deduction; might and could express possibility. These are judgements from evidence rather than direct observations. For a past deduction, use a modal plus have and a past participle.",
+          "examples": [
+            "The lights are on, so someone might be inside.",
+            "She must have left early; her desk is empty and the guard saw her go."
+          ]
+        },
+        {
+          "heading": "Keep obligation separate",
+          "text": "Must can also express an obligation. Context shows whether it means a requirement or a deduction. Must not prohibits an action, while do not have to means there is no requirement. In passive requirements, use modal plus be plus past participle; for a past action use modal plus have been plus past participle.",
+          "examples": [
+            "Forms must be signed before submission.",
+            "You do not have to print the receipt.",
+            "The message may have been sent to the wrong address."
+          ]
+        },
+        {
+          "heading": "Calibrate a practical update",
+          "text": "Imagine a missing delivery. List what you actually know, then give two possible explanations. Select might when several explanations remain open. Use a passive if the process matters more than the person responsible. Finally state the required next action, making sure the reader can distinguish your inference from the obligation.",
+          "examples": [
+            "The package might have been delivered to reception.",
+            "The tracking number must be checked before we request a replacement."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which statement gives a possible past explanation without claiming certainty?",
+          "options": [
+            "The parcel must deliver now.",
+            "The parcel cannot delivery yesterday.",
+            "The parcel might be deliver.",
+            "The parcel might have been delivered next door."
+          ],
+          "answer": 3,
+          "explanation": "Might have been delivered combines a possible past deduction with a passive action."
+        },
+        {
+          "prompt": "You do not have to attend means:",
+          "options": [
+            "Attendance is optional.",
+            "Attendance is forbidden.",
+            "Attendance happened yesterday.",
+            "Attendance is compulsory."
+          ],
+          "answer": 0,
+          "explanation": "Do not have to removes the requirement; must not would express a prohibition."
+        },
+        {
+          "prompt": "Choose the correct passive requirement.",
+          "options": [
+            "All visitors must to register.",
+            "All visitors must be registered at reception.",
+            "All visitors must been registered.",
+            "All visitors must being registered."
+          ],
+          "answer": 1,
+          "explanation": "A modal passive uses must plus be plus the past participle registered."
+        }
+      ]
+    },
+    {
+      "id": "b2-gerunds-infinitives-meaning",
+      "level": "b2",
+      "skill": "grammar",
+      "title": "Choose verb patterns by meaning",
+      "description": "Use gerunds and infinitives accurately, including stop, remember, and try.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Learn a verb with its pattern",
+          "text": "Some verbs are followed by an ing form, while others take to plus the base verb. Enjoy, avoid, and suggest commonly take ing; decide, hope, and agree commonly take a to-infinitive. After a preposition, an ing form is usual. Record the pattern with an example instead of learning a verb as an isolated translation.",
+          "examples": [
+            "I enjoy working with small groups.",
+            "We agreed to meet at noon.",
+            "She is interested in learning more."
+          ]
+        },
+        {
+          "heading": "Notice a change in meaning",
+          "text": "A few verbs take both patterns with different meanings. Stop doing means end that activity; stop to do means pause another activity for a purpose. Remember doing recalls an earlier event; remember to do means keep a necessary future action in mind. Try doing suggests experimenting with a method; try to do emphasizes an attempt.",
+          "examples": [
+            "He stopped smoking.",
+            "We stopped to buy water.",
+            "I remember locking the door. / Remember to lock the door."
+          ]
+        },
+        {
+          "heading": "Edit according to intention",
+          "text": "Write a short message explaining a study problem and proposing a solution. Decide whether each action is a memory, a future duty, an experiment, or an attempted task. Check the verb pattern against that meaning. A grammatically possible alternative may communicate a different event, so the surrounding context is essential to your decision.",
+          "examples": [
+            "Try reading the instructions aloud if the task feels unclear.",
+            "I tried to open the file, but it was damaged."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "You paused your journey because you wanted coffee. Which sentence fits?",
+          "options": [
+            "We stopped drinking coffee.",
+            "We stopped to buy coffee.",
+            "We stopped buy coffee.",
+            "We avoided to buy coffee."
+          ],
+          "answer": 1,
+          "explanation": "Stopped to buy describes pausing one activity in order to buy coffee."
+        },
+        {
+          "prompt": "Choose the correct pattern after the preposition.",
+          "options": [
+            "She is interested in study abroad.",
+            "She is interested in to study abroad.",
+            "She is interested in studying abroad.",
+            "She is interested in studied abroad."
+          ],
+          "answer": 2,
+          "explanation": "After in, the ing form studying is the natural verb pattern."
+        },
+        {
+          "prompt": "A friend cannot concentrate. Which suggestion presents an experiment?",
+          "options": [
+            "Try studying in a quieter room.",
+            "Remember studying yesterday.",
+            "Avoid to study tonight.",
+            "Agree studying in a room."
+          ],
+          "answer": 0,
+          "explanation": "Try plus ing suggests testing a method to see whether it helps."
+        }
+      ]
+    },
+    {
+      "id": "b1-daily-collocation-choices",
+      "level": "b1",
+      "skill": "vocabulary",
+      "title": "Build natural everyday word partnerships",
+      "description": "Use make, do, take, and have with everyday nouns.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Learn combinations as units",
+          "text": "Common verbs do not combine freely with every noun. We make a mistake or an effort, do homework or the washing, take a break or a seat, and have a conversation or a rest. Learn the entire expression and one useful situation. The combination often matters more than translating the verb separately into another language.",
+          "examples": [
+            "Please take a seat while you wait.",
+            "I made an effort to speak more clearly."
+          ]
+        },
+        {
+          "heading": "Add useful grammar and context",
+          "text": "A collocation also has grammatical details. Homework is normally uncountable, so say some homework rather than a homework. Make an appointment names an arrangement; attend an appointment describes going to it. When you learn a phrase, note an article, a preposition, or an object that it commonly needs. These details improve accuracy immediately.",
+          "examples": [
+            "I need to make an appointment with the adviser.",
+            "We had a conversation about the course."
+          ]
+        },
+        {
+          "heading": "Retrieve rather than reread",
+          "text": "Write a realistic weekday plan with six collocations from this lesson. Cover the verbs and supply them from memory, then check your original sentences. Next say the plan aloud without reading it. Reusing combinations in your own life helps you retrieve them quickly when a conversation gives you little time to plan.",
+          "examples": [
+            "I will do some homework and then take a break.",
+            "I hope to make fewer mistakes in my next email."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which combination is natural?",
+          "options": [
+            "Do an effort",
+            "Take an effort",
+            "Make an effort",
+            "Have an effort"
+          ],
+          "answer": 2,
+          "explanation": "Make an effort is the conventional phrase for trying hard."
+        },
+        {
+          "prompt": "Which sentence is most natural?",
+          "options": [
+            "I have a homework to do.",
+            "I need to do some homework.",
+            "I need to make three homeworks.",
+            "I take homeworking tonight."
+          ],
+          "answer": 1,
+          "explanation": "Homework is normally uncountable and commonly goes with do."
+        },
+        {
+          "prompt": "To arrange a time to see a dentist, you usually…",
+          "options": [
+            "do a seat.",
+            "take a mistake.",
+            "have homework.",
+            "make an appointment."
+          ],
+          "answer": 3,
+          "explanation": "Make an appointment means arrange a meeting at a particular time."
+        }
+      ]
+    },
+    {
+      "id": "b1-phrasal-verbs-real-life",
+      "level": "b1",
+      "skill": "vocabulary",
+      "title": "Handle everyday phrasal verbs",
+      "description": "Understand put off, pick up, run out of, and turn down.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Build meaning through a situation",
+          "text": "Phrasal verbs combine a verb with a particle and sometimes another preposition. Put off can mean postpone; pick up can mean collect; turn down can mean reject or reduce volume. The meaning depends on the sentence. Learn one meaning in a clear situation before adding another, so your examples become reliable memory cues.",
+          "examples": [
+            "We put off the picnic because of rain.",
+            "Could you pick up the parcel after work?",
+            "Please turn down the music."
+          ]
+        },
+        {
+          "heading": "Place the object correctly",
+          "text": "With many separable phrasal verbs, a noun can appear between the verb and particle or after the particle. A personal pronoun such as it normally goes between them. Other expressions cannot be separated: run out of something means have none left, and its object follows of. Check patterns as carefully as meanings.",
+          "examples": [
+            "Turn the radio down. / Turn down the radio.",
+            "Turn it down.",
+            "We have run out of milk."
+          ]
+        },
+        {
+          "heading": "Use a problem-solving dialogue",
+          "text": "Imagine organizing a picnic when the weather changes and supplies are missing. Make a short dialogue using four phrasal verbs. Then replace a repeated noun with it or them and check its position. For a formal notice, a single-word alternative such as postpone may sometimes suit the situation better, while a friendly conversation welcomes put off.",
+          "examples": [
+            "We have run out of cups, so I will pick some up.",
+            "Let us put it off until Sunday."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "We put off the meeting means we…",
+          "options": [
+            "finished it early.",
+            "postponed it.",
+            "recorded it.",
+            "invited more people."
+          ],
+          "answer": 1,
+          "explanation": "Put off means move a planned event to a later time."
+        },
+        {
+          "prompt": "Choose the natural pronoun position.",
+          "options": [
+            "Please turn down it.",
+            "Please down turn it.",
+            "Please turn it down.",
+            "Please it turn down."
+          ],
+          "answer": 2,
+          "explanation": "With the separable phrasal verb turn down, the pronoun it comes between the verb and particle."
+        },
+        {
+          "prompt": "We have run out of paper means…",
+          "options": [
+            "we have no paper left.",
+            "we have extra paper.",
+            "we ran outside holding paper.",
+            "we rejected a paper proposal."
+          ],
+          "answer": 0,
+          "explanation": "Run out of a supply means use it all so that none remains."
+        }
+      ]
+    },
+    {
+      "id": "b1-word-family-tools",
+      "level": "b1",
+      "skill": "vocabulary",
+      "title": "Turn known words into useful families",
+      "description": "Use common noun and adjective endings without guessing spelling.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Choose the grammatical job",
+          "text": "A word family contains related words that do different jobs. Improve is a verb, improvement a noun, and helpful an adjective related to help. Identify the job needed by the sentence before choosing a family member. An article often introduces a noun phrase, while a word describing a person or thing may need an adjective.",
+          "examples": [
+            "The changes improved the lesson.",
+            "We noticed an improvement.",
+            "The instructions were helpful."
+          ]
+        },
+        {
+          "heading": "Use endings with care",
+          "text": "Endings such as ment and tion often form nouns, and ful and less can form adjectives. Careful means showing care; careless means showing too little care. These patterns are useful clues, not automatic rules for every English word. Record the exact spelling and pronunciation, especially when the base changes or the stress moves.",
+          "examples": [
+            "develop → development",
+            "inform → information",
+            "use → useful / useless"
+          ]
+        },
+        {
+          "heading": "Build a personal family notebook",
+          "text": "Choose five words from your study or work and write two family members for each. Use each form in a complete sentence rather than a list alone. Check that the meaning still fits: a person can be helpful, while a suggestion can be useful. Revisit the sentences later and hide the missing family member for retrieval practice.",
+          "examples": [
+            "The teacher explained the process. The explanation was clear.",
+            "Be careful when you enter the information."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "The new bus service is a real ___ .",
+          "options": [
+            "improve",
+            "improvingly",
+            "improvement",
+            "improvedly"
+          ],
+          "answer": 2,
+          "explanation": "After a real, the sentence needs the noun improvement."
+        },
+        {
+          "prompt": "Which adjective describes someone who pays attention to avoid mistakes?",
+          "options": [
+            "Careless",
+            "Careful",
+            "Carelessly",
+            "Care"
+          ],
+          "answer": 1,
+          "explanation": "Careful means showing attention and care; careless expresses the opposite."
+        },
+        {
+          "prompt": "Which sentence uses the correct word-family form?",
+          "options": [
+            "The explain was clear.",
+            "She gave a clear explain.",
+            "She explanation the rule.",
+            "Her explanation of the rule was clear."
+          ],
+          "answer": 3,
+          "explanation": "Explanation is the noun that can function as the subject of was."
+        }
+      ]
+    },
+    {
+      "id": "b2-idioms-with-context",
+      "level": "b2",
+      "skill": "vocabulary",
+      "title": "Understand useful idioms in context",
+      "description": "Interpret expressions and choose when plain wording is clearer.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Use the surrounding situation",
+          "text": "An idiom has a meaning that may not follow from each individual word. If a plan is up in the air, it is undecided; if you are on the same page, you share an understanding. Look at the action and consequence around the expression before choosing a literal interpretation. Learn idioms in ordinary dialogue, not as a long disconnected list.",
+          "examples": [
+            "The date is still up in the air because the venue is unavailable.",
+            "Let us confirm the budget so we are on the same page."
+          ]
+        },
+        {
+          "heading": "Notice attitude and register",
+          "text": "The ball is in your court means the next decision or action belongs to you. A learning curve describes the process of gaining skill, often with challenges. Such expressions suit many conversations, but a formal instruction may be clearer with direct wording. An idiom is useful when the listener knows it and its tone matches the relationship.",
+          "examples": [
+            "I have sent the options; the ball is in your court.",
+            "There was a learning curve when we changed software."
+          ]
+        },
+        {
+          "heading": "Paraphrase and select",
+          "text": "Write a short exchange about a group project using two idioms. Then rewrite the exchange for an international audience using literal wording. Compare whether the action and responsibility remain equally clear. Keep the expression only when it helps the reader or listener understand your message; advanced vocabulary control includes choosing a simple alternative when appropriate.",
+          "examples": [
+            "Up in the air → not yet decided",
+            "On the same page → sharing the same understanding"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "The venue has not confirmed, so our plans are up in the air. The plans are…",
+          "options": [
+            "physically flying.",
+            "completely cancelled.",
+            "not yet settled.",
+            "already completed."
+          ],
+          "answer": 2,
+          "explanation": "The unconfirmed venue supports the idiomatic meaning undecided."
+        },
+        {
+          "prompt": "The ball is in your court most directly means…",
+          "options": [
+            "you must play a sport.",
+            "the next action or decision is yours.",
+            "everyone has already agreed.",
+            "your decision is no longer relevant."
+          ],
+          "answer": 1,
+          "explanation": "The expression passes responsibility for the next move to the listener."
+        },
+        {
+          "prompt": "Which version gives the clearest direct instruction?",
+          "options": [
+            "Please confirm your choice by Friday.",
+            "The ball might bounce in several courts.",
+            "Let us turn every page in the air.",
+            "We are learning a ball of pages."
+          ],
+          "answer": 0,
+          "explanation": "The sentence identifies the required action and deadline without requiring idiom knowledge."
+        }
+      ]
+    },
+    {
+      "id": "b2-word-building-precision",
+      "level": "b2",
+      "skill": "vocabulary",
+      "title": "Build accurate words with prefixes and suffixes",
+      "description": "Control negative prefixes, noun forms, and adjective choices.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Negative prefixes are selective",
+          "text": "Prefixes such as un, in, im, ir, and dis can add negative meaning, but they are not interchangeable. We say unreliable, inaccurate, impossible, irregular, and dishonest. Learn the whole word and its context. A prefix can also change more than simple negation: disinterested means impartial, while uninterested means lacking interest.",
+          "examples": [
+            "The timetable was unreliable.",
+            "An impartial judge should be disinterested in the outcome."
+          ]
+        },
+        {
+          "heading": "Check the required word class",
+          "text": "A sentence may need reliability rather than reliable, or accuracy rather than accurate. The words around a gap provide evidence: an adjective can describe a noun, a noun can follow a possessive, and an adverb can modify a verb. Spelling changes are not always predictable, so consult your notes rather than inventing a form from a familiar pattern.",
+          "examples": [
+            "We questioned the reliability of the figures.",
+            "Please record the figures accurately."
+          ]
+        },
+        {
+          "heading": "Revise a short evaluation",
+          "text": "Describe a service using two positive features and one limitation. Underline each evaluation word and identify whether it is a noun, adjective, or adverb. Replace an absolute criticism with a precise description if the evidence supports only one problem. This exercise combines word formation with fair judgement, helping your vocabulary communicate the right strength of meaning.",
+          "examples": [
+            "The instructions were clear, but delivery was unreliable.",
+            "The report contains an inaccurate total, rather than being entirely useless."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Choose the established negative form of possible.",
+          "options": [
+            "Unpossible",
+            "Dispossible",
+            "Irpossible",
+            "Impossible"
+          ],
+          "answer": 3,
+          "explanation": "Impossible is the established English form; negative prefixes cannot be freely exchanged."
+        },
+        {
+          "prompt": "The ___ of the timetable matters to commuters.",
+          "options": [
+            "reliable",
+            "reliability",
+            "reliably",
+            "rely"
+          ],
+          "answer": 1,
+          "explanation": "The noun reliability is needed as the subject after the."
+        },
+        {
+          "prompt": "A reviewer has no personal stake in the decision and judges fairly. They are…",
+          "options": [
+            "disinterested.",
+            "uninterested in reading anything.",
+            "inaccurately.",
+            "impossibility."
+          ],
+          "answer": 0,
+          "explanation": "Disinterested can mean impartial, which differs from uninterested, lacking interest."
+        }
+      ]
+    },
+    {
+      "id": "b2-precise-verb-noun-pairs",
+      "level": "b2",
+      "skill": "vocabulary",
+      "title": "Choose precise academic word combinations",
+      "description": "Use address, pose, draw, and reach with the right nouns.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Pair an action with its object",
+          "text": "Academic and professional English often uses stable verb–noun combinations. Address a problem means deal with it; pose a threat means create a danger; draw a conclusion means form a judgement from information. The verb carries a relationship, not just a general action. Learn a short context so you can choose the phrase with confidence.",
+          "examples": [
+            "The new route addresses a transport problem.",
+            "Poor drainage poses a threat to the building."
+          ]
+        },
+        {
+          "heading": "Distinguish related actions",
+          "text": "Reach an agreement describes the result of a negotiation; raise a concern introduces a worry; conduct a survey describes carrying out data collection. These expressions are related to communication, but they are not interchangeable. Choose the noun and verb together, then check any following preposition. Draw a conclusion from evidence, and reach an agreement with another party.",
+          "examples": [
+            "The residents raised a concern about noise.",
+            "The teams reached an agreement on the schedule."
+          ]
+        },
+        {
+          "heading": "Write a careful recommendation",
+          "text": "Write five sentences about improving a library or workplace. State a problem, mention a concern, explain what information to collect, and propose a response. Use at least four combinations from this lesson. If you draw a conclusion, identify the supporting information and keep your claim within its limits rather than making your formal wording stronger than the evidence.",
+          "examples": [
+            "We should conduct a survey before changing the hours.",
+            "The results may help us address the main access problem."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which combination means deal with an issue?",
+          "options": [
+            "Pose an agreement",
+            "Draw a threat",
+            "Address a problem",
+            "Conduct a conclusion"
+          ],
+          "answer": 2,
+          "explanation": "Address a problem means consider and take action on that problem."
+        },
+        {
+          "prompt": "The negotiators finally ___ an agreement on delivery dates.",
+          "options": [
+            "posed",
+            "conducted",
+            "drew",
+            "reached"
+          ],
+          "answer": 3,
+          "explanation": "Reach an agreement is the natural combination for arriving at a shared decision."
+        },
+        {
+          "prompt": "Which sentence uses an accurate combination and preposition?",
+          "options": [
+            "We drew a conclusion from the survey responses.",
+            "We conducted a conclusion at the evidence.",
+            "We addressed an agreement from the forms.",
+            "We posed a survey with the conclusion."
+          ],
+          "answer": 0,
+          "explanation": "Draw a conclusion from information is the conventional structure."
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-fridge-project",
+      "level": "b1",
+      "skill": "reading",
+      "title": "Read a community project timeline",
+      "description": "Follow a change of plan and distinguish events from reasons.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Original passage: a community fridge",
+          "text": "The residents of Willow Court wanted to reduce food waste. In April, they put a shared fridge in the entrance hall, but the building manager asked them to move it because deliveries blocked the door. In May, the group found a sheltered corner beside the community kitchen. Volunteers checked the fridge every morning and removed food without a date label. At first, most donations came from residents. In June, a nearby bakery began bringing unsold bread on Fridays. The group now plans to recruit two more volunteers before extending its opening hours. It has not decided whether to accept food from restaurants.",
+          "examples": [
+            "April: entrance hall",
+            "May: beside the kitchen",
+            "June: bakery joins"
+          ]
+        },
+        {
+          "heading": "Separate cause from sequence",
+          "text": "Draw a simple timeline and write a reason beside any change explained in the text. The months show when things happened, while because explains why the first location did not work. A later event is not automatically caused by an earlier one. Support your answer with the exact relationship expressed in the passage.",
+          "examples": [
+            "The fridge moved because deliveries blocked the door.",
+            "The bakery began donating in June."
+          ]
+        },
+        {
+          "heading": "Check a future plan carefully",
+          "text": "Plans are not completed actions. The group intends to extend hours after recruiting more volunteers, but the passage does not say that this has happened. Make two notes headed established and undecided. This habit prevents you from turning a possible future development into a fact when you answer reading questions.",
+          "examples": [
+            "Established: dated food is checked each morning.",
+            "Undecided: accepting restaurant food"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why was the fridge moved from the entrance hall?",
+          "options": [
+            "It was too cold there.",
+            "The bakery needed the space.",
+            "Deliveries blocked the door.",
+            "The volunteers refused to label food."
+          ],
+          "answer": 2,
+          "explanation": "The manager requested the move because deliveries obstructed the door."
+        },
+        {
+          "prompt": "What happened in June?",
+          "options": [
+            "A bakery began donating unsold bread.",
+            "The fridge first opened in the hall.",
+            "Restaurants became the main donors.",
+            "Opening hours were extended."
+          ],
+          "answer": 0,
+          "explanation": "The passage dates the bakery donations to June."
+        },
+        {
+          "prompt": "Which statement is supported?",
+          "options": [
+            "Restaurants already donate every day.",
+            "Two volunteers have already been recruited.",
+            "Food without labels is always kept.",
+            "The group wants more volunteers before extending hours."
+          ],
+          "answer": 3,
+          "explanation": "Recruiting two more volunteers is stated as a step before extending the hours."
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-repair-cafe",
+      "level": "b1",
+      "skill": "reading",
+      "title": "Read for reasons and cautious inference",
+      "description": "Understand why a repair café changes its booking system.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Original passage: a repair café",
+          "text": "Every second Saturday, volunteers at Mill Lane Hall help visitors repair small household items. No repair is guaranteed, and visitors remain with their belongings while work is attempted. Last month, several people waited over an hour, although some repairs took only ten minutes. The organizers realized that a single queue did not match the different skills needed. From next month, visitors will book either a sewing slot or an electrical slot. Walk-in visitors will still be welcome if spaces remain. The café does not charge for volunteers’ time, but visitors must pay for any new parts they approve. The organizers hope the system will reduce waiting, and they will review it after three sessions.",
+          "examples": [
+            "Sewing and electrical repairs need different skills.",
+            "New parts require visitor approval."
+          ]
+        },
+        {
+          "heading": "Identify the actual problem",
+          "text": "The length of a repair and the availability of a suitable volunteer are different issues. Find the organizer’s explanation rather than assuming that all volunteers work slowly. A good answer connects the separate skills to the single queue. A plausible everyday explanation is not enough unless this particular text supports it.",
+          "examples": [
+            "Stated issue: one queue for different repair skills",
+            "Not stated: all volunteers work slowly"
+          ]
+        },
+        {
+          "heading": "Read conditions and promises",
+          "text": "Words such as if and hope limit what is promised. A walk-in visitor may be admitted only when spaces remain, and reduced waiting is a hoped-for outcome. Write a short message explaining what a visitor should expect. Include the cost of approved parts and the absence of a repair guarantee.",
+          "examples": [
+            "A booking offers a relevant slot, not a guaranteed repair.",
+            "Walk-ins depend on remaining space."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why are separate booking categories being introduced?",
+          "options": [
+            "Every repair lasts exactly ten minutes.",
+            "Different repairs need different volunteer skills.",
+            "The hall will close permanently.",
+            "Visitors dislike all electrical repairs."
+          ],
+          "answer": 1,
+          "explanation": "The organizers link the problem to a single queue that does not match the required skills."
+        },
+        {
+          "prompt": "Which cost might a visitor have to pay?",
+          "options": [
+            "An hourly volunteer fee",
+            "A compulsory entrance ticket",
+            "A fee for standing in the queue",
+            "The cost of new parts they approve"
+          ],
+          "answer": 3,
+          "explanation": "Volunteer time is free, but approved replacement parts must be paid for."
+        },
+        {
+          "prompt": "What can a walk-in visitor reasonably expect?",
+          "options": [
+            "A possible place if spaces remain",
+            "A guaranteed immediate repair",
+            "Free replacement parts in every case",
+            "A permanent ban from future sessions"
+          ],
+          "answer": 0,
+          "explanation": "The passage explicitly makes walk-in admission conditional on available spaces."
+        }
+      ]
+    },
+    {
+      "id": "b1-reading-volunteer-fit",
+      "level": "b1",
+      "skill": "reading",
+      "title": "Choose a volunteer role from evidence",
+      "description": "Match availability and preferences to detailed role descriptions.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Original passage: two volunteer roles",
+          "text": "Riverside Learning Centre needs volunteers for two roles. Reading partners meet adults on Tuesday evenings from six to eight. They help learners practise short texts, and they must attend a Saturday training session before starting. No teaching qualification is required, but volunteers must commit to ten weeks. Digital helpers work on Friday mornings, supporting visitors with email and online forms. They need confident basic computer skills and can choose which weeks to attend, although they must tell the coordinator by Wednesday. Both roles take place at the centre, and travel expenses can be claimed with receipts. Volunteers do not give legal or financial advice; they refer those questions to qualified services.",
+          "examples": [
+            "Reading: fixed ten-week commitment",
+            "Digital help: flexible Fridays, notice required"
+          ]
+        },
+        {
+          "heading": "Match requirements before preferences",
+          "text": "Underline the times, minimum commitment, and required preparation for each role. Then compare them with a person’s actual availability. Someone may enjoy reading but still be unable to take the reading role because of the fixed evenings. A role fits only when the practical requirements and the person’s schedule can work together.",
+          "examples": [
+            "Free Tuesday evenings for ten weeks → possible reading partner",
+            "Free occasional Friday mornings → possible digital helper"
+          ]
+        },
+        {
+          "heading": "Notice shared limits",
+          "text": "Both roles share a location, an expenses process, and a boundary on advice. Do not assume that flexibility means working from home or that every travel cost is automatically paid without evidence. Summarize the roles in a comparison table, then explain one recommendation with two supporting details from the passage.",
+          "examples": [
+            "Receipts are needed to claim travel expenses.",
+            "Refer legal questions to qualified services."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "An experienced computer user can volunteer on occasional Friday mornings. Which role best fits?",
+          "options": [
+            "Reading partner because no computer skills are used",
+            "Neither role because both require ten weeks",
+            "Digital helper because attendance can vary with notice",
+            "Reading partner because all training is on Friday"
+          ],
+          "answer": 2,
+          "explanation": "Digital helpers use computer skills and can choose their weeks if they notify the coordinator."
+        },
+        {
+          "prompt": "What must a reading partner do before starting?",
+          "options": [
+            "Complete a teaching degree",
+            "Attend the Saturday training session",
+            "Provide legal advice",
+            "Work remotely for ten weeks"
+          ],
+          "answer": 1,
+          "explanation": "A Saturday training session is required, although a teaching qualification is not."
+        },
+        {
+          "prompt": "Which rule applies to both roles?",
+          "options": [
+            "They require Friday attendance.",
+            "They offer financial advice.",
+            "They guarantee travel payments without receipts.",
+            "They refer legal questions to qualified services."
+          ],
+          "answer": 3,
+          "explanation": "The final sentence sets this advice boundary for volunteers in both roles."
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-library-trial",
+      "level": "b2",
+      "skill": "reading",
+      "title": "Evaluate a library trial report",
+      "description": "Distinguish observed findings, staff explanations, and untested outcomes.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: longer library hours",
+          "text": "During a six-week trial, Northbank Library opened until nine on Wednesdays instead of closing at six. Entry records showed an average of thirty-two visits during the additional hours. A voluntary online questionnaire attracted forty responses, most from people who had attended an evening session. Twenty-eight respondents said the later opening made it easier to study after work. Staff suggested that the quiet atmosphere might explain the popularity of the sessions, but the questionnaire did not ask about noise. Electricity costs rose during the trial; staffing costs were unchanged because existing shifts were rearranged. The report recommends a longer trial that includes an examination period and gathers views from people who did not use the service.",
+          "examples": [
+            "Records: thirty-two extra-hours visits on average",
+            "Questionnaire: forty voluntary responses"
+          ]
+        },
+        {
+          "heading": "Keep sources of knowledge separate",
+          "text": "The passage contains entry records, questionnaire responses, and a staff suggestion. These sources establish different things. Entry records count visits, not necessarily different individuals, while a questionnaire reports what respondents say. A staff explanation may be plausible without being tested. Mark each sentence with its source before forming an overall conclusion about the trial.",
+          "examples": [
+            "Observed cost change: electricity increased.",
+            "Untested explanation: a quiet atmosphere attracted users."
+          ]
+        },
+        {
+          "heading": "Assess the sample and next step",
+          "text": "A voluntary questionnaire mostly answered by users may miss the views of non-users. This does not erase the responses, but it limits how confidently they represent everyone in the area. Explain why an examination period and wider recruitment could improve the next trial. Preserve the difference between extending investigation and recommending permanent adoption immediately.",
+          "examples": [
+            "Most respondents had used an evening session.",
+            "The report recommends further testing and broader feedback."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which claim was suggested but not tested by the questionnaire?",
+          "options": [
+            "The trial lasted six weeks.",
+            "Electricity costs rose.",
+            "The library stayed open until nine on Wednesdays.",
+            "Quiet surroundings helped make the sessions popular."
+          ],
+          "answer": 3,
+          "explanation": "Staff proposed the noise explanation, but the questionnaire did not ask about noise."
+        },
+        {
+          "prompt": "Why should the questionnaire not automatically represent all local residents?",
+          "options": [
+            "It was voluntary and most respondents had used the evening service.",
+            "The library counted no visits.",
+            "Every respondent disliked the service.",
+            "The questionnaire included only staff members."
+          ],
+          "answer": 0,
+          "explanation": "Self-selected responses, mostly from users, may omit views held by non-users."
+        },
+        {
+          "prompt": "Which recommendation matches the report?",
+          "options": [
+            "Make the change permanent immediately.",
+            "Test for longer, including exams, and seek non-user views.",
+            "Close every library after six.",
+            "Replace all staff with a questionnaire."
+          ],
+          "answer": 1,
+          "explanation": "The report proposes a longer trial with another period and a broader range of respondents."
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-competing-headlines",
+      "level": "b2",
+      "skill": "reading",
+      "title": "Compare two accounts of the same study",
+      "description": "Identify framing and preserve the scope of a research finding.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: two news accounts",
+          "text": "A local study invited eighty office workers to attend a lunchtime walking group for four weeks. Fifty-eight completed both the initial and final questionnaires. Those participants reported feeling more alert after lunch at the end of the programme. The study had no comparison group, and it did not measure job performance. One newsletter headline read, “Lunch Walks Make Workers More Productive.” Another read, “Participants Report Greater Alertness After Walking Programme.” The first article included a manager’s opinion that walking might help teamwork, while the second emphasized the missing comparison group. Neither article reported whether participants continued walking after the programme ended. The researchers described their findings as a reason for further investigation, rather than proof of a workplace effect.",
+          "examples": [
+            "Completed questionnaires: fifty-eight",
+            "Measured outcome: self-reported alertness"
+          ]
+        },
+        {
+          "heading": "Compare wording with measurement",
+          "text": "Productivity and alertness are related ideas, but they are not the same measurement. A headline can move from a reported feeling to an objective effect without providing the needed evidence. Compare each headline with the study description. Underline any stronger causal verb or broader population claim, then decide whether the actual design supports it.",
+          "examples": [
+            "Reported feeling more alert does not establish higher productivity.",
+            "No comparison group limits causal interpretation."
+          ]
+        },
+        {
+          "heading": "Avoid filling the information gaps",
+          "text": "The passage does not explain every missing response or describe later habits. You can identify incomplete follow-up without guessing why people left. Write a two-sentence summary that names the participants, reported outcome, and main design limitation. Keep a manager’s suggestion separate from the researchers’ measured result so your summary retains the source of each idea.",
+          "examples": [
+            "The long-term continuation of walking is not reported.",
+            "Further investigation is the researchers’ conclusion."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which headline stays closest to the measured result?",
+          "options": [
+            "Walking Guarantees Better Teamwork",
+            "Lunch Walks Double Office Output",
+            "Participants Report Greater Alertness After Walking Programme",
+            "All Workers Need Daily Walking Groups"
+          ],
+          "answer": 2,
+          "explanation": "It identifies the participants and self-reported alertness without claiming productivity was measured."
+        },
+        {
+          "prompt": "What does the lack of a comparison group mainly limit?",
+          "options": [
+            "The ability to count the questionnaires",
+            "The ability to attribute the change specifically to the programme",
+            "The knowledge that the programme lasted four weeks",
+            "The ability to state that eighty workers were invited"
+          ],
+          "answer": 1,
+          "explanation": "Without a comparison group, other explanations for the reported change remain open."
+        },
+        {
+          "prompt": "Which detail is not established by the passage?",
+          "options": [
+            "Fifty-eight people completed both questionnaires.",
+            "Job performance was not measured.",
+            "A manager offered an opinion about teamwork.",
+            "Participants continued walking for a year afterward."
+          ],
+          "answer": 3,
+          "explanation": "The passage explicitly says continuation after the programme was not reported."
+        }
+      ]
+    },
+    {
+      "id": "b2-reading-policy-conditions",
+      "level": "b2",
+      "skill": "reading",
+      "title": "Read conditions in a policy memo",
+      "description": "Interpret exceptions, obligations, and permission precisely.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Original passage: room-booking memo",
+          "text": "From 1 September, community groups may book the East Room without a hire fee for events open to the public. Private celebrations remain subject to the usual fee. Free bookings are limited to two per group each month and must end by eight in the evening. A refundable deposit is required for every booking, including free ones. It will be returned within ten working days if the room is left clean and no equipment is damaged. Applications normally require seven days’ notice. The centre manager may accept shorter notice when the room would otherwise remain unused, but this exception does not remove the deposit requirement. Groups must cancel at least twenty-four hours in advance to receive their deposit back, unless the centre itself cancels the event.",
+          "examples": [
+            "Hire fee and deposit are separate.",
+            "Short notice requires a manager’s exception."
+          ]
+        },
+        {
+          "heading": "Separate permission from automatic entitlement",
+          "text": "May book and may accept describe permission or discretion. They do not promise that every request will succeed. Identify which requirements remain even when an exception applies. A free hire fee does not mean no money is required initially, because the refundable deposit has a different purpose and a separate set of conditions.",
+          "examples": [
+            "Every booking requires a deposit.",
+            "Short notice does not waive the deposit."
+          ]
+        },
+        {
+          "heading": "Apply rules to realistic cases",
+          "text": "Create three cases: a public meeting, a private birthday party, and a late cancellation. For each one, check the fee, notice, end time, and refund conditions. Quote the exact clause supporting your decision. This method helps you interpret practical documents without letting a familiar word such as free override the rest of the policy.",
+          "examples": [
+            "Public meeting: potentially fee-free, with a deposit",
+            "Private celebration: usual hire fee applies"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "A public event receives a free booking. What payment is still required initially?",
+          "options": [
+            "The usual hire fee",
+            "A refundable deposit",
+            "No payment under any circumstances",
+            "A compulsory equipment purchase"
+          ],
+          "answer": 1,
+          "explanation": "The memo requires a deposit for every booking, including free ones."
+        },
+        {
+          "prompt": "What can the manager do if the room would otherwise be unused?",
+          "options": [
+            "Accept an application with less than seven days’ notice",
+            "Remove every group’s monthly limit permanently",
+            "Guarantee all cancellation refunds",
+            "Allow private celebrations without the usual fee"
+          ],
+          "answer": 0,
+          "explanation": "The stated discretion concerns the normal seven-day notice period."
+        },
+        {
+          "prompt": "A group cancels ten hours before its event, and the centre has not cancelled. Under the stated rule…",
+          "options": [
+            "the hire fee automatically doubles.",
+            "the deposit is returned because every deposit is refundable.",
+            "the group has missed the notice required for a deposit refund.",
+            "the event changes into a public meeting."
+          ],
+          "answer": 2,
+          "explanation": "The rule requires at least twenty-four hours’ cancellation notice, unless the centre cancels."
+        }
+      ]
+    },
+    {
+      "id": "b1-listen-workshop-booking",
+      "level": "b1",
+      "skill": "listening",
+      "title": "Listen: book the right workshop",
+      "description": "Identify a corrected time, preparation task, and backup plan.",
+      "minutes": 18,
+      "listeningText": "Hello, this is a message for everyone coming to Saturday’s photography workshop. We originally advertised a ten o’clock start, but the tutor’s train arrives later than expected, so we will begin at half past ten. Please arrive at the community centre fifteen minutes before that to collect your name badge. You do not need a professional camera; a phone camera is fine. Before Saturday, take three photographs of the same object in different light and bring them with you. We planned to practise in the garden, but heavy rain is forecast. If it rains, we will use the upstairs hall instead. The workshop ends at one, and tea will be available during a short break. Please tell reception today if you can no longer attend.",
+      "content": [
+        {
+          "heading": "Listen for the final arrangement",
+          "text": "First listen for the purpose of the message and identify the event. On the second listen, label each time rather than writing a disconnected list of numbers. An original advertised time may be replaced by a correction. The words but and so help you connect the change to its reason.",
+          "examples": [
+            "Original start: ten o’clock",
+            "Final start: half past ten"
+          ]
+        },
+        {
+          "heading": "Connect instructions to actions",
+          "text": "Separate what participants must bring from what they do not need. A negative instruction can prevent unnecessary preparation, while a before phrase identifies a task to complete in advance. Write your notes as short actions, then replay the relevant sentence to check both the object and the required quantity.",
+          "examples": [
+            "Bring three photographs of one object.",
+            "A phone camera is acceptable."
+          ]
+        },
+        {
+          "heading": "Reconstruct the practical plan",
+          "text": "After listening, explain the plan to a partner without reading the transcript. Include arrival time, preparation, and the weather backup. Distinguish the forecast from a guaranteed outcome: the indoor hall is conditional on rain. Use the transcript afterward to correct missing details and then listen once more at a comfortable speed.",
+          "examples": [
+            "Arrive at ten fifteen for the name badge.",
+            "If it rains, use the upstairs hall."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What time should participants arrive to collect their badge?",
+          "options": [
+            "Ten o’clock",
+            "Ten fifteen",
+            "Ten thirty",
+            "Eleven o’clock"
+          ],
+          "answer": 1,
+          "explanation": "The start is 10:30, and participants should arrive fifteen minutes earlier, at 10:15."
+        },
+        {
+          "prompt": "What should participants prepare before Saturday?",
+          "options": [
+            "A professional camera receipt",
+            "Three pictures of different people only",
+            "Three photographs of the same object in different light",
+            "A printed garden map"
+          ],
+          "answer": 2,
+          "explanation": "The message asks for three photographs of the same object under different lighting."
+        },
+        {
+          "prompt": "What is the backup location if it rains?",
+          "options": [
+            "The tutor’s station",
+            "The centre garden",
+            "The downstairs café",
+            "The upstairs hall"
+          ],
+          "answer": 3,
+          "explanation": "The speaker says the upstairs hall will be used if it rains."
+        }
+      ]
+    },
+    {
+      "id": "b1-listen-rental-repair",
+      "level": "b1",
+      "skill": "listening",
+      "title": "Listen: arrange a household repair",
+      "description": "Track the fault, the appointment window, and who will provide access.",
+      "minutes": 18,
+      "listeningText": "Hi Lina, it is Mark from the housing office. I have spoken to the plumber about the kitchen tap you reported. She thinks the loose handle can probably be repaired, so we are not ordering a new tap yet. She can visit on Thursday between nine and eleven in the morning. I know you said you have a class at ten, but your neighbour Mr Cole has offered to let her in if you leave him the spare key. Please confirm that arrangement with him today. Clear the cupboard under the sink before the visit because the plumber will need access to the pipes. You do not need to turn off the water yourself. If the appointment changes, our office will phone you rather than send an email.",
+      "content": [
+        {
+          "heading": "Identify the problem and proposed response",
+          "text": "Listen once to decide whether this is a new complaint, an appointment update, or a payment request. Then listen for the item needing attention and the proposed repair. Probably signals an initial judgement, not a guarantee. Avoid turning a likely repair into a confirmed replacement when you summarize the message.",
+          "examples": [
+            "Problem: a loose kitchen tap handle",
+            "Proposed response: repair before ordering a new tap"
+          ]
+        },
+        {
+          "heading": "Follow people and responsibilities",
+          "text": "Several people appear in this message, each with a different role. Label your notes with resident, neighbour, plumber, and office. The person receiving a message may not be the person providing access. Notice any if clause because it explains a condition that must be met before a practical arrangement can work.",
+          "examples": [
+            "Neighbour: provide access with the spare key",
+            "Resident: confirm the arrangement and clear the cupboard"
+          ]
+        },
+        {
+          "heading": "Check the final instructions",
+          "text": "Summarize the appointment as a short checklist, including the time window and the way a change will be communicated. Distinguish a task to do from a task explicitly unnecessary. On your final listen, check small negative words carefully, because missing not can reverse an instruction even when you recognize the main vocabulary.",
+          "examples": [
+            "Visit: Thursday, nine to eleven",
+            "No need to turn off the water yourself"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is planned for the tap at this stage?",
+          "options": [
+            "Order an entire new kitchen",
+            "Cancel the plumber",
+            "Try repairing the loose handle",
+            "Replace every pipe immediately"
+          ],
+          "answer": 2,
+          "explanation": "The plumber thinks the handle can probably be repaired, so a new tap has not been ordered."
+        },
+        {
+          "prompt": "How can the plumber enter if Lina is at class?",
+          "options": [
+            "Mr Cole can let her in if he has the spare key.",
+            "The office will remove the door.",
+            "Lina must cancel her course.",
+            "The plumber already has Lina’s own key."
+          ],
+          "answer": 0,
+          "explanation": "The neighbour offered to provide access if Lina leaves him the spare key."
+        },
+        {
+          "prompt": "What should Lina do before the visit?",
+          "options": [
+            "Turn off all water herself",
+            "Wait for a confirmation email about every change",
+            "Move the kitchen sink outside",
+            "Clear the cupboard under the sink"
+          ],
+          "answer": 3,
+          "explanation": "The plumber needs access to the pipes, so the cupboard should be cleared."
+        }
+      ]
+    },
+    {
+      "id": "b1-listen-course-choice",
+      "level": "b1",
+      "skill": "listening",
+      "title": "Listen: compare two study options",
+      "description": "Distinguish a preferred feature from the final practical decision.",
+      "minutes": 18,
+      "listeningText": "I looked at two evening English courses yesterday. The course at Oak Street College has a smaller class, and I liked the idea of getting more individual feedback. However, it finishes at nine thirty, after the last bus to my village. The online course has more students, but the teacher uses small discussion groups during each lesson. I was worried that the lessons would all be recordings, so I called the centre. They confirmed that the classes are live and that recordings are only for review. I have chosen the online course because I can join from home and still practise speaking. It starts next Monday. I need to test my microphone this weekend, and my sister has offered to help me do that.",
+      "content": [
+        {
+          "heading": "Track evaluation and decision",
+          "text": "A speaker can admire one feature while choosing a different option overall. On your first listen, identify the two courses. On your second listen, record one advantage and one constraint for each. The word however may introduce the practical obstacle that outweighs an attractive feature and drives the final decision.",
+          "examples": [
+            "College advantage: smaller class",
+            "College obstacle: last bus leaves before the class finishes"
+          ]
+        },
+        {
+          "heading": "Listen for a corrected assumption",
+          "text": "The speaker initially worries about the online format and then checks it. Separate the original assumption from the information confirmed by the centre. This prevents you from selecting an early concern as if it describes the actual course. Use headings such as worry, checked fact, and decision to organize your notes.",
+          "examples": [
+            "Worry: lessons might all be recordings.",
+            "Confirmed: live classes with recordings for review."
+          ]
+        },
+        {
+          "heading": "Transfer the listening strategy",
+          "text": "Imagine giving a friend advice about these options. Explain the final choice with its main reason and mention the preparation still needed. Check that your summary distinguishes the course feature from the learner’s personal circumstances. Then replay the audio and identify the phrase that most clearly signals the speaker’s final decision.",
+          "examples": [
+            "Chosen: online course, because no return bus journey is needed",
+            "Preparation: test the microphone this weekend"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why does the speaker reject the college course?",
+          "options": [
+            "The classes contain no feedback.",
+            "It ends after the last bus home.",
+            "It has no classroom.",
+            "It begins before the village bus arrives."
+          ],
+          "answer": 1,
+          "explanation": "The 9:30 finish is later than the last bus to the speaker’s village."
+        },
+        {
+          "prompt": "What did the centre confirm about the online course?",
+          "options": [
+            "Every lesson is only a recording.",
+            "Speaking is never practised.",
+            "It has fewer students than the college course.",
+            "Classes are live, with recordings available for review."
+          ],
+          "answer": 3,
+          "explanation": "The centre corrected the worry that all lessons would be recordings."
+        },
+        {
+          "prompt": "What will the speaker do this weekend?",
+          "options": [
+            "Test the microphone with the sister’s help",
+            "Travel to Oak Street for a final exam",
+            "Record every future lesson alone",
+            "Change the village bus timetable"
+          ],
+          "answer": 0,
+          "explanation": "The speaker needs to test the microphone, and the sister has offered to help."
+        }
+      ]
+    },
+    {
+      "id": "b2-listen-transport-consultation",
+      "level": "b2",
+      "skill": "listening",
+      "title": "Listen: understand a transport consultation",
+      "description": "Separate feedback, design changes, and unresolved questions.",
+      "minutes": 22,
+      "listeningText": "Thank you for coming to the cycle-route consultation. The original proposal removed twelve roadside parking spaces along Market Road. After shop owners raised concerns about deliveries, the revised design kept four of those spaces as loading bays before ten in the morning. They would become short-stay parking later in the day. The protected cycle lane itself remains in the proposal, although its junction layout has been adjusted. Some residents have asked whether the scheme will reduce traffic on nearby streets. We cannot answer that from the consultation responses; separate traffic modelling is still underway. Tonight we are asking for comments on the revised layout, not a final vote on construction. The council will publish the modelling results before making its decision. Written comments can be submitted until the end of next Friday.",
+      "content": [
+        {
+          "heading": "Follow proposal and revision",
+          "text": "Listen for the original design, the concern raised, and the revised response. A change to one detail does not imply cancellation of the whole project. Make notes in two columns so you can compare what changed with what remains. Quantities and time conditions should stay attached to the feature they describe.",
+          "examples": [
+            "Original: twelve parking spaces removed",
+            "Revision: four spaces retained for time-limited uses"
+          ]
+        },
+        {
+          "heading": "Identify the source of uncertainty",
+          "text": "Consultation responses describe people’s views, while traffic modelling addresses a different question. The speaker explicitly separates these sources. Listen for cannot answer and still underway to identify the unresolved issue. Do not assume that support or opposition establishes a traffic effect; the speaker says further information is needed before that conclusion.",
+          "examples": [
+            "Unresolved: effect on nearby streets",
+            "Pending evidence: separate traffic modelling"
+          ]
+        },
+        {
+          "heading": "Summarize the requested action",
+          "text": "At the end of a formal update, listen for what the audience is being asked to do now. This meeting seeks comments rather than a construction vote. State the submission deadline and the promised information before a decision. Then explain how that sequencing limits what anyone can claim has already been approved.",
+          "examples": [
+            "Now: comment on the revised layout",
+            "Before decision: publish modelling results"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How would the four retained spaces be used before ten in the morning?",
+          "options": [
+            "As permanent bicycle storage",
+            "As unrestricted private parking",
+            "As loading bays",
+            "As a pedestrian playground"
+          ],
+          "answer": 2,
+          "explanation": "The revised design reserves the four spaces for loading before ten."
+        },
+        {
+          "prompt": "Which issue remains unresolved in the recording?",
+          "options": [
+            "Whether the original proposal mentioned parking",
+            "Whether comments can be written",
+            "Whether shop owners raised delivery concerns",
+            "Whether the scheme reduces traffic on nearby streets"
+          ],
+          "answer": 3,
+          "explanation": "Traffic modelling on that question is still underway."
+        },
+        {
+          "prompt": "What is tonight’s main purpose?",
+          "options": [
+            "To gather comments on the revised layout",
+            "To hold a final construction vote",
+            "To announce completed building works",
+            "To cancel the cycle lane immediately"
+          ],
+          "answer": 0,
+          "explanation": "The speaker explicitly contrasts comments on the revised layout with a final construction vote."
+        }
+      ]
+    },
+    {
+      "id": "b2-listen-remote-study",
+      "level": "b2",
+      "skill": "listening",
+      "title": "Listen: interpret a small study cautiously",
+      "description": "Distinguish a measured association from a wider workplace claim.",
+      "minutes": 22,
+      "listeningText": "Our team surveyed sixty employees who had started working partly from home. Forty-two said their concentration had improved, especially on tasks requiring uninterrupted reading. However, the survey asked employees to compare their current experience with their memory of the previous year; it did not include a separate office-only group. We also found that newer staff were more likely to report difficulty getting informal advice. That does not mean remote working caused the difficulty, since team arrangements differed considerably. The findings suggest two practical steps: protect quiet work time, wherever staff are based, and create regular opportunities for new colleagues to ask questions. We are proposing a three-month trial of these measures, followed by interviews. We are not recommending that every employee work remotely for the same number of days.",
+      "content": [
+        {
+          "heading": "Distinguish findings from explanations",
+          "text": "On the first listen, note the topic and the main reported patterns. On the next listen, identify who supplied the information and how comparisons were made. Self-reported change based on memory differs from a controlled measurement. Write reported beside concentration so you do not silently turn a perception into an objective test score.",
+          "examples": [
+            "Forty-two reported improved concentration.",
+            "Comparison relied on memory of the previous year."
+          ]
+        },
+        {
+          "heading": "Listen for causal caution",
+          "text": "The phrase does not mean marks a boundary on the conclusion. Newer staff reported a difficulty, but differences between teams leave other explanations open. Capture the limitation along with the finding, rather than recording only the more striking result. This helps your later summary preserve how confident the speaker is entitled to be.",
+          "examples": [
+            "Association: newer staff and difficulty getting informal advice",
+            "Caution: team arrangements varied"
+          ]
+        },
+        {
+          "heading": "Recover the actual recommendation",
+          "text": "A recommendation may address a useful need without proving a single cause. Here the proposed steps concern quiet work and access to advice, followed by a trial and interviews. Summarize those actions separately from any policy the speaker explicitly declines to recommend. Check the duration and follow-up method against a final listen.",
+          "examples": [
+            "Trial duration: three months",
+            "Follow-up: interviews after testing the measures"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How was the change in concentration assessed?",
+          "options": [
+            "By a controlled reading exam for every worker",
+            "By employees comparing current experience with memories of the previous year",
+            "By tracking every office-only employee for ten years",
+            "By a computer recording all interruptions"
+          ],
+          "answer": 1,
+          "explanation": "The survey used retrospective self-reports and had no separate office-only comparison group."
+        },
+        {
+          "prompt": "Why does the speaker avoid claiming remote work caused the advice difficulty?",
+          "options": [
+            "No newer employees were surveyed.",
+            "All teams worked identically.",
+            "Team arrangements differed considerably.",
+            "Informal advice was never mentioned."
+          ],
+          "answer": 2,
+          "explanation": "The variation between teams leaves alternative explanations for the reported difficulty."
+        },
+        {
+          "prompt": "Which proposal is actually made?",
+          "options": [
+            "Trial quiet-work protection and advice opportunities for three months",
+            "Require identical remote days for everyone immediately",
+            "Abolish all interviews",
+            "Remove opportunities for new colleagues to ask questions"
+          ],
+          "answer": 0,
+          "explanation": "The two practical measures are to be tested for three months and followed by interviews."
+        }
+      ]
+    },
+    {
+      "id": "b2-listen-project-tradeoff",
+      "level": "b2",
+      "skill": "listening",
+      "title": "Listen: follow a negotiated compromise",
+      "description": "Understand constraints, conditional agreement, and assigned next steps.",
+      "minutes": 22,
+      "listeningText": "Maya: The exhibition panels can be printed by Friday if we approve the files this afternoon. I would prefer a complete set rather than opening with temporary signs. Leon: I agree about the visitor experience, but the final map has not been checked for accessible routes. Printing it now could mean replacing every panel next week. Maya: Could we approve the text panels today and hold the map separately? Leon: That would work if the printer can split the order without an extra setup charge. I will call them before lunch. Maya: Good. I will send the text files to our editor now, but I will wait for your confirmation before authorizing printing. Leon: And I will ask the access adviser to check the map tomorrow morning. We can announce the panel schedule once both checks are complete.",
+      "content": [
+        {
+          "heading": "Identify each person’s priority",
+          "text": "In a negotiation, agreement about the goal does not remove differences in timing or risk. Listen once to identify the shared objective, then assign each concern to its speaker. Maya values a complete visitor experience, while Leon raises a specific unresolved check. Record the reason rather than reducing the exchange to one person agrees and another disagrees.",
+          "examples": [
+            "Maya: complete panels for opening",
+            "Leon: avoid printing an unchecked accessible-route map"
+          ]
+        },
+        {
+          "heading": "Track the condition on agreement",
+          "text": "That would work if introduces conditional acceptance. The split order is a possible compromise only if an extra setup charge can be avoided. Distinguish exploring an option from authorizing the final action. A speaker can prepare files while still withholding approval, and the sequence matters when you explain what has actually been decided.",
+          "examples": [
+            "Possible compromise: text first, map later",
+            "Condition: printer can split the order without an extra setup charge"
+          ]
+        },
+        {
+          "heading": "Map owners to next actions",
+          "text": "Make a short table of person, action, and deadline. Check the pronouns against the previous turns so you assign each action correctly. Then summarize what must happen before a public announcement. This listening technique helps with meetings because the final responsibilities may be spread across several short responses rather than stated in one summary.",
+          "examples": [
+            "Leon: contact printer before lunch",
+            "Maya: send text to the editor; wait before authorizing printing"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What risk does Leon identify?",
+          "options": [
+            "The text contains no words.",
+            "The exhibition has already closed.",
+            "The printer has cancelled every order.",
+            "An unchecked map could require replacing panels later."
+          ],
+          "answer": 3,
+          "explanation": "Leon warns that printing before the accessible-route check could lead to replacements."
+        },
+        {
+          "prompt": "What condition would make the split order acceptable to Leon?",
+          "options": [
+            "The map is deleted permanently.",
+            "There is no additional setup charge.",
+            "Visitors stop using the map.",
+            "Maya approves every file without review."
+          ],
+          "answer": 1,
+          "explanation": "Leon says the compromise works if the printer can split the order without an extra setup charge."
+        },
+        {
+          "prompt": "What will Maya do before authorizing printing?",
+          "options": [
+            "Ignore the editor",
+            "Announce the schedule immediately",
+            "Wait for Leon’s confirmation",
+            "Replace the accessibility adviser"
+          ],
+          "answer": 2,
+          "explanation": "Maya will send files for editing but wait for confirmation before authorizing the print order."
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-clear-complaint",
+      "level": "b1",
+      "skill": "writing",
+      "title": "Write a useful complaint email",
+      "description": "State a problem calmly and request a practical remedy.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Give the reader identifying details",
+          "text": "A complaint works best when the reader can find the transaction and understand the problem quickly. Open with your purpose, then give the item, date, and reference number if available. Describe what happened without insulting the reader. Accurate details are more useful than repeating that a situation is terrible, because they help the recipient investigate.",
+          "examples": [
+            "I am writing about order 417, delivered on 12 May.",
+            "The desk arrived with a cracked leg."
+          ]
+        },
+        {
+          "heading": "Connect the problem to a request",
+          "text": "Explain the effect on you and ask for an achievable remedy. Choose a replacement, repair, refund request, or information according to the situation. Avoid claiming a policy or entitlement you have not checked. If you attach evidence, tell the reader what it shows. End with a clear way to contact you or confirm the next step.",
+          "examples": [
+            "I cannot assemble the desk because the leg is damaged.",
+            "Could you arrange a replacement? I have attached a photograph."
+          ]
+        },
+        {
+          "heading": "Draft and revise your message",
+          "text": "Write 100–130 words to a shop about headphones delivered in the wrong colour. Include an order reference, the difference between what you requested and received, and your preferred solution. Read the draft as a customer-service worker: can you identify the order and know what response is needed? Remove repeated complaints and check that your tone stays specific and polite.",
+          "examples": [
+            "I ordered blue headphones, but the package contained red ones.",
+            "Please let me know how to return the incorrect item."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which opening best helps a shop identify the problem?",
+          "options": [
+            "Your business is always awful.",
+            "I am writing about order 417, delivered on 12 May.",
+            "I have many things in my house.",
+            "You know what happened already."
+          ],
+          "answer": 1,
+          "explanation": "The order reference and date help the reader locate the transaction."
+        },
+        {
+          "prompt": "Which sentence combines a clear problem and a useful request?",
+          "options": [
+            "Everything is bad and everyone is useless.",
+            "I bought something once.",
+            "The left speaker does not work; could you arrange a repair?",
+            "I demand an unknown policy."
+          ],
+          "answer": 2,
+          "explanation": "It names the fault and asks for a specific practical response."
+        },
+        {
+          "prompt": "What should you check before sending?",
+          "options": [
+            "That the problem, order details, and requested next step are clear",
+            "That every sentence repeats the complaint",
+            "That all dates are removed",
+            "That the longest words replace familiar accurate ones"
+          ],
+          "answer": 0,
+          "explanation": "A complaint needs usable facts and an actionable request more than repetition or complex vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-faithful-summary",
+      "level": "b1",
+      "skill": "writing",
+      "title": "Summarize a short informative text",
+      "description": "Select essential points and keep the source’s meaning.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Find the essential information",
+          "text": "Read this source: “Harbour School will replace disposable lunch trays with washable plates next term. The change follows a two-week trial in which kitchen staff recorded fewer rubbish bags but spent longer washing up. The school will buy a more efficient dishwasher before extending the scheme to all classes. Pupils will still bring their own water bottles.” A summary should capture the change, trial findings, and required preparation, rather than listing every noun.",
+          "examples": [
+            "Change: washable plates instead of disposable trays",
+            "Trial: less rubbish, more washing-up time"
+          ]
+        },
+        {
+          "heading": "Condense without changing the claim",
+          "text": "Put the source aside and explain its main message in your own words. Keep the relationships between ideas: a benefit does not erase a practical cost, and a planned action is not already completed. You may retain an essential term when no useful alternative exists. Do not insert your personal opinion or an unreported cause into a neutral summary.",
+          "examples": [
+            "The school plans to introduce reusable plates after a trial.",
+            "A new dishwasher will be bought before expansion."
+          ]
+        },
+        {
+          "heading": "Write and compare",
+          "text": "Write a 45–60 word summary of the source in the first section. Then compare every sentence with the original and check whether it is supported. Remove minor details if they distract from the main change, but preserve the condition before wider adoption. Underline any word such as all, already, or always and verify that its strength matches the source.",
+          "examples": [
+            "Accurate: The trial reduced rubbish but increased washing-up time.",
+            "Unsupported: The trial proved that reusable plates cost nothing."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which point belongs in a short summary?",
+          "options": [
+            "The exact colour of every plate",
+            "The dishwasher’s invented brand name",
+            "The trial reduced rubbish but increased washing-up time.",
+            "The writer’s favourite school lunch"
+          ],
+          "answer": 2,
+          "explanation": "The paired trial findings explain both the benefit and the practical issue."
+        },
+        {
+          "prompt": "Which statement changes the source’s meaning?",
+          "options": [
+            "The school plans washable plates next term.",
+            "A dishwasher will be bought before expansion.",
+            "Pupils will still bring water bottles.",
+            "All classes already use washable plates."
+          ],
+          "answer": 3,
+          "explanation": "The source describes a future change after preparation, not a completed rollout to all classes."
+        },
+        {
+          "prompt": "A neutral summary should usually…",
+          "options": [
+            "add a personal opinion after every source fact.",
+            "retain the main meaning and omit unsupported additions.",
+            "replace every word even when the new word is inaccurate.",
+            "copy the source entirely without selection."
+          ],
+          "answer": 1,
+          "explanation": "A summary selects and condenses essential information while preserving its meaning."
+        }
+      ]
+    },
+    {
+      "id": "b1-writing-editing-workshop",
+      "level": "b1",
+      "skill": "writing",
+      "title": "Edit for complete and connected sentences",
+      "description": "Repair fragments, run-ons, tense shifts, and unclear references.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Give every sentence a main clause",
+          "text": "A complete sentence normally needs a subject and a finite verb expressing a main statement. Because the bus was late is a dependent fragment unless it is joined to a main clause. Two full sentences should not be joined by only a comma. Choose a full stop, a suitable conjunction, or another structure that correctly expresses their relationship.",
+          "examples": [
+            "Because the bus was late, I missed the opening talk.",
+            "The room was crowded, so we opened another room."
+          ]
+        },
+        {
+          "heading": "Keep time and reference clear",
+          "text": "Check that your verbs match the time sequence. A story about yesterday usually uses past forms for its main events. Pronouns should point clearly to the intended person or thing. If two possible references compete, repeat a name or noun. Clarity is more valuable than avoiding every repeated word at the cost of confusing your reader.",
+          "examples": [
+            "Yesterday I arrived early and found a seat.",
+            "Maya called Nina because Nina had the tickets."
+          ]
+        },
+        {
+          "heading": "Use focused revision passes",
+          "text": "Draft 90–110 words about missing a train and finding another route. Make separate revision passes for complete sentences, verb time, and clear references. During the first pass, read aloud and mark where one statement ends. During the next passes, circle time expressions and underline pronouns. This method makes editing manageable because each reading has one concrete purpose.",
+          "examples": [
+            "Fragment repair: After the meeting ended, we walked home.",
+            "Run-on repair: I checked the map. The station was nearby."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which revision turns the fragment into a complete sentence?",
+          "options": [
+            "Because the station was closed.",
+            "Because the station was closed, we took a bus.",
+            "The closed station because.",
+            "Because closed was the station."
+          ],
+          "answer": 1,
+          "explanation": "The revision adds the main clause we took a bus to the because clause."
+        },
+        {
+          "prompt": "Which sentence correctly joins cause and result?",
+          "options": [
+            "It rained, we moved indoors.",
+            "It rained we moved indoors.",
+            "It rained, so we moved indoors.",
+            "It rained because so indoors."
+          ],
+          "answer": 2,
+          "explanation": "So joins the two main clauses and makes the result relationship clear."
+        },
+        {
+          "prompt": "Which version keeps the time sequence consistent?",
+          "options": [
+            "Yesterday I checked the timetable and bought a ticket.",
+            "Yesterday I check the timetable and bought a ticket.",
+            "Yesterday I checking the timetable and buy.",
+            "Yesterday I will check and bought a ticket."
+          ],
+          "answer": 0,
+          "explanation": "Checked and bought consistently describe the finished events yesterday."
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-balanced-argument",
+      "level": "b2",
+      "skill": "writing",
+      "title": "Develop a reasoned opinion essay",
+      "description": "Answer a focused question and build an argument with a counterpoint.",
+      "minutes": 26,
+      "content": [
+        {
+          "heading": "Turn the prompt into a judgement",
+          "text": "Practice prompt: “Should local councils spend more on public parks or indoor community centres?” Identify the choice and the scope before you write. Your position can favour one option while acknowledging conditions. Plan two reasons that actually compare the options. An essay becomes vague if it praises a benefit that both alternatives provide without explaining why one deserves priority.",
+          "examples": [
+            "Position: prioritize parks where indoor facilities already exist.",
+            "Comparison: outdoor access versus reliable use in bad weather"
+          ]
+        },
+        {
+          "heading": "Develop and test your reasons",
+          "text": "Build each body paragraph around a claim, explanation, relevant illustration, and connection to your judgement. Include a counterpoint where it challenges your reasoning meaningfully. Do not invent statistics or studies. An imagined example should be clearly hypothetical, and a genuine factual claim needs appropriate support. Explain why your preferred balance still makes sense after considering the strongest relevant objection.",
+          "examples": [
+            "A covered centre can serve groups during heavy rain.",
+            "However, neighbourhoods without safe outdoor space may gain more from a park."
+          ]
+        },
+        {
+          "heading": "Write, then check task coverage",
+          "text": "Write 220–260 words on the practice prompt. State your overall judgement, compare both options, develop two reasons, and address one objection. During revision, highlight the sentence in each paragraph that helps answer the exact spending question. Remove a paragraph that only repeats your position. Finish with a conclusion that follows from the reasoning rather than introducing a new major argument.",
+          "examples": [
+            "Ask: Why does this reason favour this spending priority?",
+            "Conclude: The best priority depends on existing local provision."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which thesis gives a clear and qualified judgement?",
+          "options": [
+            "Parks and centres are things in towns.",
+            "Everyone always agrees about every council.",
+            "Councils should prioritize parks where safe outdoor space is scarce, while maintaining existing centres.",
+            "This essay has many paragraphs about buildings."
+          ],
+          "answer": 2,
+          "explanation": "The thesis states a spending preference and a condition that makes the judgement precise."
+        },
+        {
+          "prompt": "What makes a counterpoint useful?",
+          "options": [
+            "It challenges a relevant reason and receives a considered response.",
+            "It introduces an unrelated topic with no explanation.",
+            "It proves all positions are identical.",
+            "It replaces the writer’s answer entirely without discussion."
+          ],
+          "answer": 0,
+          "explanation": "A relevant counterpoint tests the argument and helps explain why the final judgement remains justified."
+        },
+        {
+          "prompt": "Which support is appropriate when you have no verified research?",
+          "options": [
+            "A precise invented statistic presented as official",
+            "A clearly framed hypothetical example with an explanation",
+            "A quotation invented for an unnamed expert",
+            "A claim that every resident agrees"
+          ],
+          "answer": 1,
+          "explanation": "A hypothetical example can illustrate reasoning without pretending to be research evidence."
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-complaint-escalation",
+      "level": "b2",
+      "skill": "writing",
+      "title": "Escalate a complaint with a clear record",
+      "description": "Organize a timeline, evidence, impact, and proportionate request.",
+      "minutes": 26,
+      "content": [
+        {
+          "heading": "Make the history easy to verify",
+          "text": "An escalation explains an unresolved issue to someone who may not have seen the earlier correspondence. State the current problem and summarize key contacts in date order. Include the relevant reference numbers and attachments. Select details that explain why further action is needed; a full emotional account of every inconvenience can hide the decision the reader must make.",
+          "examples": [
+            "I reported the damaged cabinet on 3 June under case 812.",
+            "On 7 June, your team confirmed that replacement parts had been requested."
+          ]
+        },
+        {
+          "heading": "Separate the record from interpretation",
+          "text": "Describe observable events and distinguish them from your assumptions about motives. The part has not arrived is a checkable statement; nobody cares is an interpretation. Explain the practical impact and request a response by a reasonable date that fits the situation. Avoid asserting legal obligations or policy promises unless you have verified the source and its applicability.",
+          "examples": [
+            "The cabinet cannot be safely assembled with the damaged bracket.",
+            "Please confirm a delivery date or propose another remedy by Friday."
+          ]
+        },
+        {
+          "heading": "Draft a professional escalation",
+          "text": "Write 160–190 words about an unresolved repair after two contacts. Include a brief timeline, a specific impact, two relevant attachments, and one preferred next step with an alternative. Review whether a new case handler could understand the matter without searching for the main facts. Keep your closing courteous and make the requested response explicit rather than ending only with frustration.",
+          "examples": [
+            "Attached: the order confirmation and a photograph of the bracket.",
+            "My preference is a repair; if parts are unavailable, please discuss a replacement."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence provides the most useful escalation record?",
+          "options": [
+            "Nobody has ever helped anybody.",
+            "On 7 June, support confirmed replacement parts under case 812.",
+            "This is bad, bad, bad.",
+            "You should know every detail already."
+          ],
+          "answer": 1,
+          "explanation": "The dated event and case reference can be checked and explain the complaint history."
+        },
+        {
+          "prompt": "Which statement distinguishes an observable fact from a motive claim?",
+          "options": [
+            "The company clearly hates all customers.",
+            "Everyone is deliberately ignoring me.",
+            "The promised part has not arrived as of 14 June.",
+            "The staff have no interest in any work."
+          ],
+          "answer": 2,
+          "explanation": "The delivery status on a stated date is observable; the alternatives speculate about motives."
+        },
+        {
+          "prompt": "Which closing best supports action?",
+          "options": [
+            "Please confirm a delivery date or propose an alternative remedy by Friday.",
+            "I have nothing specific to request.",
+            "This message ends with more anger.",
+            "Forget the reference number and all dates."
+          ],
+          "answer": 0,
+          "explanation": "The closing specifies the response needed and when it would be useful."
+        }
+      ]
+    },
+    {
+      "id": "b2-writing-source-summary",
+      "level": "b2",
+      "skill": "writing",
+      "title": "Write a precise source-based summary",
+      "description": "Preserve attribution, uncertainty, and contrasting findings.",
+      "minutes": 26,
+      "content": [
+        {
+          "heading": "Read the source for structure",
+          "text": "Practice source: “A neighbourhood survey received 150 responses about a new bus lane. Ninety respondents supported it, mainly because they expected more reliable journey times. Opponents most often mentioned the loss of parking. The survey was advertised through the council website, so residents without regular internet access may be underrepresented. No travel-time measurements were collected. The report recommends combining the feedback with traffic data before making a final decision.” Identify the reported preference, the objection, the sampling limitation, and the recommended next step.",
+          "examples": [
+            "Reported support: ninety of 150 respondents",
+            "No direct journey-time measurements collected"
+          ]
+        },
+        {
+          "heading": "Attribute and preserve uncertainty",
+          "text": "Use phrases such as the report states and respondents expected to show whose position you are summarizing. An expected improvement is not a measured improvement. Keep may when the source indicates uncertainty, and avoid turning a possible sampling gap into proof that the entire survey is worthless. Your wording should neither exaggerate the result nor dismiss it beyond the source.",
+          "examples": [
+            "Respondents expected more reliable journeys.",
+            "Residents without regular internet access may be underrepresented."
+          ]
+        },
+        {
+          "heading": "Produce and audit a compact summary",
+          "text": "Write 70–90 words summarizing the practice source for a local newsletter. Include support, the main objection, the evidence limitation, and the next step. Then label each sentence as a source finding, a source limitation, or a recommendation. Remove your own unsupported opinion. Check the denominator whenever you use a proportion: ninety supporters out of 150 respondents does not mean ninety percent.",
+          "examples": [
+            "Sixty percent of respondents supported the lane.",
+            "The report recommends adding traffic data before a decision."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence preserves the source’s distinction between expectation and measurement?",
+          "options": [
+            "The bus lane definitely reduced journey times.",
+            "Respondents expected more reliable journeys; journey times were not measured.",
+            "Traffic data proved every objection false.",
+            "All residents reported faster journeys."
+          ],
+          "answer": 1,
+          "explanation": "It reports the expectation while explicitly retaining the absence of direct measurements."
+        },
+        {
+          "prompt": "Ninety supporters out of 150 respondents equals…",
+          "options": [
+            "90% of all residents.",
+            "150% of respondents.",
+            "60% of respondents.",
+            "15% of all bus passengers."
+          ],
+          "answer": 2,
+          "explanation": "90 divided by 150 is 0.6, or 60%; the group is respondents, not all residents."
+        },
+        {
+          "prompt": "Which summary conclusion matches the report?",
+          "options": [
+            "The bus lane must be rejected immediately.",
+            "The survey alone proves the lane works.",
+            "All online surveys are worthless.",
+            "Feedback should be combined with traffic data before a final decision."
+          ],
+          "answer": 3,
+          "explanation": "The source recommends combining opinion feedback with traffic measurements before deciding."
+        }
+      ]
+    },
+    {
+      "id": "b1-speaking-stress-rhythm",
+      "level": "b1",
+      "skill": "speaking",
+      "title": "Make key words easy to hear",
+      "description": "Use word stress, sentence stress, and helpful pauses.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Notice the strong syllable",
+          "text": "A stressed syllable is usually more prominent than nearby syllables. Learning the stress as part of a new word can improve recognition as well as speaking. For example, the noun PHOtograph and the noun phoTOGraphy have different stress patterns. Capital letters here show teaching emphasis, not normal spelling. Listen, repeat, and keep all the other syllables audible without giving them equal force.",
+          "examples": [
+            "PHOtograph → phoTOGraphy",
+            "TAble → aBOUT"
+          ]
+        },
+        {
+          "heading": "Highlight the message",
+          "text": "In a neutral sentence, important nouns, main verbs, and descriptive words often carry prominence. Small grammar words are often less prominent, but they become strong when you need a contrast. Pause at a meaning boundary instead of separating every word. Aim for an understandable rhythm that helps your listener follow the idea rather than copying one particular accent.",
+          "examples": [
+            "I need the BLUE folder, please.",
+            "We can meet after lunch / if the room is free."
+          ]
+        },
+        {
+          "heading": "Record and compare",
+          "text": "Prepare a thirty-second introduction to a hobby or useful skill. Mark three important words and two natural pause points before speaking. Record it if possible, then listen for whether the key information stands out. Repeat with one improvement at a time. Keep your voice comfortable: prominence comes from a combination of pitch, duration, and clarity, not simply shouting.",
+          "examples": [
+            "I started gardening / because I wanted to grow herbs.",
+            "The most useful tool / is a SMALL watering can."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "In a neutral request for a blue folder, which word is useful to emphasize when colour matters?",
+          "options": [
+            "The word the in every situation",
+            "Every word equally",
+            "The word blue",
+            "Only the final please"
+          ],
+          "answer": 2,
+          "explanation": "Blue identifies the distinguishing information, so prominence helps the listener choose the right folder."
+        },
+        {
+          "prompt": "Where is a helpful pause in this sentence?",
+          "options": [
+            "We / can / meet / after / lunch",
+            "We can meet after lunch / if the room is free.",
+            "We can meet after / lunch if the / room is free.",
+            "We can meet after lunch if the room / is / free."
+          ],
+          "answer": 1,
+          "explanation": "The pause separates the main proposal from its condition at a natural meaning boundary."
+        },
+        {
+          "prompt": "What is the best goal of this practice?",
+          "options": [
+            "Make key information clear at a comfortable pace",
+            "Shout every syllable equally",
+            "Remove all unstressed syllables",
+            "Use only one permitted English accent"
+          ],
+          "answer": 0,
+          "explanation": "Stress and pausing serve intelligibility; there is no single required accent."
+        }
+      ]
+    },
+    {
+      "id": "b1-speaking-linking-clarity",
+      "level": "b1",
+      "skill": "speaking",
+      "title": "Connect words without losing clarity",
+      "description": "Practise consonant-to-vowel links and ask for precise repetition.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Hear words inside a stream",
+          "text": "In connected speech, words are not always separated by silence. A final consonant can link smoothly to a following vowel, as in pick it up or turn off. The words remain separate grammatical units even when they sound connected. Practise slowly first, then at a natural comfortable speed, keeping the key consonants clear rather than forcing a fast performance.",
+          "examples": [
+            "pick it up → practise as one short group",
+            "turn off the light → link turn and off"
+          ]
+        },
+        {
+          "heading": "Recognize common weaker forms",
+          "text": "Small words such as to, a, and and often have weaker pronunciations in ordinary speech. Their exact sound varies by accent and context, and speakers can use a strong form for contrast. Learn to recognize these patterns while listening, but do not deliberately swallow words you cannot yet say clearly. Clarity and understanding are more important than maximum speed.",
+          "examples": [
+            "I want to ask a question.",
+            "Tea and coffee are available."
+          ]
+        },
+        {
+          "heading": "Repair the exact missing piece",
+          "text": "When a linked phrase is unclear, ask about the part you missed rather than repeatedly requesting the whole message. Practise a dialogue giving an address, collection time, and object. Your partner should ask one focused question, and you should repeat that detail in a clear word group. Check comprehension by having your partner summarize the final arrangement.",
+          "examples": [
+            "Did you say pick it up at eight?",
+            "Could you repeat the street name, please?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which phrase contains a useful final-consonant-to-vowel link?",
+          "options": [
+            "Very blue",
+            "My day",
+            "No rain",
+            "Pick it up"
+          ],
+          "answer": 3,
+          "explanation": "The final consonants of pick and it can link to the following vowel sounds."
+        },
+        {
+          "prompt": "You heard a collection instruction but missed the time. What is the most focused repair?",
+          "options": [
+            "Could you repeat the collection time, please?",
+            "Please repeat every conversation this week.",
+            "I know nothing about anything.",
+            "Never speak with connected words."
+          ],
+          "answer": 0,
+          "explanation": "A focused request identifies the exact information that needs clarification."
+        },
+        {
+          "prompt": "When practising connected speech, you should…",
+          "options": [
+            "speak as fast as possible regardless of clarity.",
+            "keep words understandable and increase speed gradually.",
+            "remove all final consonants.",
+            "assume every accent uses identical weak forms."
+          ],
+          "answer": 1,
+          "explanation": "Connected speech should support natural intelligibility, and patterns vary across speakers."
+        }
+      ]
+    },
+    {
+      "id": "b1-speaking-negotiate-plans",
+      "level": "b1",
+      "skill": "speaking",
+      "title": "Agree on a plan together",
+      "description": "Propose, give a reason, offer an alternative, and confirm.",
+      "minutes": 18,
+      "content": [
+        {
+          "heading": "Offer a specific proposal",
+          "text": "A useful proposal includes an activity, time, and place when they matter. Invite the other person’s view instead of assuming agreement. If you cannot accept a suggestion, give a brief reason and offer an alternative. This keeps the conversation moving toward a workable arrangement rather than ending with a simple refusal.",
+          "examples": [
+            "Shall we practise at the library on Thursday at six?",
+            "I work until six. Could we meet at seven instead?"
+          ]
+        },
+        {
+          "heading": "Explore a workable compromise",
+          "text": "Listen for the underlying need: time, price, travel, or quiet space. Two people may disagree about the first suggestion but share a goal. Use questions to find which details can change. A compromise should address both people’s constraints, not just replace one suggestion with an unrelated idea that leaves the original problem unsolved.",
+          "examples": [
+            "Would an online call save you the bus journey?",
+            "If the library closes early, we could use the community room."
+          ]
+        },
+        {
+          "heading": "Role-play and confirm",
+          "text": "Role-play planning a study session. Person A needs a quiet place and cannot travel far; person B is available only after work. Make two proposals, explain one difficulty each, and agree on an alternative. End by repeating the final time, place, and preparation. Your partner should correct any mismatch before the conversation closes.",
+          "examples": [
+            "So, Thursday at seven in the community room.",
+            "I will bring the reading exercises; can you bring a notebook?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which response keeps negotiation moving?",
+          "options": [
+            "No. That is all.",
+            "Your plan is stupid.",
+            "I cannot come at six; would seven work instead?",
+            "I will ignore the question."
+          ],
+          "answer": 2,
+          "explanation": "It gives a clear constraint and offers a specific alternative."
+        },
+        {
+          "prompt": "One person needs quiet, and the other cannot travel far. What question explores both needs?",
+          "options": [
+            "Why do you dislike every place?",
+            "How many words are in quiet?",
+            "Can we forget the session?",
+            "Is there a quiet room near your home?"
+          ],
+          "answer": 3,
+          "explanation": "The question searches for a location that meets the quiet-space and travel constraints."
+        },
+        {
+          "prompt": "What is the main purpose of a final confirmation?",
+          "options": [
+            "To repeat every rejected suggestion",
+            "To check that both people share the same final arrangement",
+            "To introduce a completely new topic",
+            "To avoid naming the place or time"
+          ],
+          "answer": 1,
+          "explanation": "Repeating the final details catches mismatches before the plan is acted on."
+        }
+      ]
+    },
+    {
+      "id": "b2-speaking-clear-presentation",
+      "level": "b2",
+      "skill": "speaking",
+      "title": "Present a proposal in two minutes",
+      "description": "Organize a claim, support, limitation, and audience question.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Give the listener a route",
+          "text": "A short presentation needs a clear purpose and a manageable structure. Open with the problem and your proposed response, then tell the audience which two points you will explain. Signposts help when they reveal actual relationships between ideas. Avoid spending half your available time announcing a long agenda instead of developing the proposal itself.",
+          "examples": [
+            "I propose a weekly repair session for residents.",
+            "I will explain the need, then outline a small trial."
+          ]
+        },
+        {
+          "heading": "Support and qualify the proposal",
+          "text": "Explain how your idea would address the problem, using a specific illustration or verified evidence. Acknowledge the most important practical limitation and show how a trial could test it. Do not invent statistics to make the presentation sound authoritative. A clear conditional statement is often more useful than an unsupported promise that the proposal will solve every difficulty.",
+          "examples": [
+            "A monthly trial would show whether enough volunteers are available.",
+            "If demand exceeds capacity, bookings could limit waiting."
+          ]
+        },
+        {
+          "heading": "Practise delivery and questions",
+          "text": "Prepare a two-minute proposal for a study club, repair session, or community event. Use brief notes with one main idea per line. Mark pauses after the problem, the supporting reason, and the final recommendation. Finish with a direct question inviting the kind of feedback you need, then practise answering a concern by acknowledging it and explaining a relevant adjustment.",
+          "examples": [
+            "Which evening would make this accessible to the most residents?",
+            "That capacity concern is useful; we could begin with ten bookings."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which opening most clearly states a purpose?",
+          "options": [
+            "There are many things and this is a presentation.",
+            "I propose a four-week trial of a community study club.",
+            "My slides contain several colours.",
+            "Before anything, here are twenty unrelated definitions."
+          ],
+          "answer": 1,
+          "explanation": "The opening names a concrete proposal and a scope for testing it."
+        },
+        {
+          "prompt": "Which response handles a concern constructively?",
+          "options": [
+            "Every concern is wrong by definition.",
+            "There can never be any limitation.",
+            "That concern is useful; a booking limit could help us test capacity.",
+            "I will repeat my title instead of answering."
+          ],
+          "answer": 2,
+          "explanation": "It acknowledges the relevant concern and offers a specific way to address it."
+        },
+        {
+          "prompt": "What should brief presentation notes mainly contain?",
+          "options": [
+            "An entire essay to read without looking up",
+            "Only unfamiliar idioms",
+            "Every possible fact about the topic",
+            "Main ideas and cues that support the structure"
+          ],
+          "answer": 3,
+          "explanation": "Brief idea cues help you maintain a logical route while speaking to the audience."
+        }
+      ]
+    },
+    {
+      "id": "b2-speaking-negotiate-tradeoffs",
+      "level": "b2",
+      "skill": "speaking",
+      "title": "Negotiate a fair practical trade-off",
+      "description": "Separate positions from needs and make conditional offers.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Find the need behind the position",
+          "text": "A position is what someone initially asks for; an underlying need explains why it matters. A team asking for a Friday deadline may need time for review, while another asking for Wednesday may need to reserve equipment. Ask an open clarification question before defending your first proposal. Understanding the reason can reveal an option both sides had missed.",
+          "examples": [
+            "What needs to happen before your team can approve it?",
+            "Is the main constraint the review time or the printing slot?"
+          ]
+        },
+        {
+          "heading": "Offer a conditional exchange",
+          "text": "Use if, provided that, or as long as to connect a concession with a necessary condition. State what you can offer and what must happen in return. Check that a conditional offer is not being heard as unconditional agreement. Keep the action, owner, and timing explicit so the compromise can be evaluated rather than remaining a polite but vague intention.",
+          "examples": [
+            "We can send the draft on Wednesday if feedback arrives by Thursday noon.",
+            "I can reduce the order provided that delivery remains on Monday."
+          ]
+        },
+        {
+          "heading": "Role-play and close clearly",
+          "text": "Negotiate an event plan with a partner: one person needs a low cost, and the other needs a reliable indoor space. Identify the needs, exchange two options, and make one conditional offer. Finish with a short spoken summary of responsibilities and unresolved items. Invite a correction so both sides can distinguish a firm agreement from a detail still awaiting confirmation.",
+          "examples": [
+            "Agreed: use the smaller hall; I will check availability today.",
+            "The price is still provisional until the venue confirms."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which question explores the reason behind a deadline request?",
+          "options": [
+            "Why are you always difficult?",
+            "Can we ignore your team?",
+            "What review steps must you complete before approval?",
+            "Will you agree without any information?"
+          ],
+          "answer": 2,
+          "explanation": "The question investigates the underlying process rather than attacking the stated position."
+        },
+        {
+          "prompt": "We can deliver Friday provided that approval arrives Wednesday means…",
+          "options": [
+            "Friday delivery depends on Wednesday approval.",
+            "Friday delivery is guaranteed regardless of approval.",
+            "Wednesday approval is forbidden.",
+            "No delivery is possible under any condition."
+          ],
+          "answer": 0,
+          "explanation": "Provided that introduces the condition required for the offer to apply."
+        },
+        {
+          "prompt": "What should a closing negotiation summary distinguish?",
+          "options": [
+            "Only the longest words used",
+            "Personal preferences unrelated to the task",
+            "The people who spoke fastest",
+            "Agreed actions and details still awaiting confirmation"
+          ],
+          "answer": 3,
+          "explanation": "A useful summary records commitments while keeping unresolved items visible."
+        }
+      ]
+    },
+    {
+      "id": "b2-speaking-contrast-emphasis",
+      "level": "b2",
+      "skill": "speaking",
+      "title": "Use emphasis to show the intended contrast",
+      "description": "Control prominent words, thought groups, and careful clarification.",
+      "minutes": 22,
+      "content": [
+        {
+          "heading": "Move prominence to change the contrast",
+          "text": "Sentence prominence can show which part of a message corrects an assumption. Compare I ordered the BLUE folder with I ORDERED the blue folder. The first contrasts colours; the second can contrast ordering with receiving or borrowing. Context is essential: prominence suggests the focus, while the surrounding exchange helps the listener interpret the exact contrast.",
+          "examples": [
+            "I said MONDAY, not Tuesday.",
+            "MAYA sent the file, not Leon."
+          ]
+        },
+        {
+          "heading": "Group complex ideas for the listener",
+          "text": "Divide a longer turn into thought groups, with each group carrying one useful step in the reasoning. Pause before a qualification or a contrasting point when that helps comprehension. Avoid treating every comma as an obligatory long silence. Test your delivery by asking a partner to summarize the main claim and the limitation after one listen.",
+          "examples": [
+            "The trial reduced waiting / but only during quieter mornings.",
+            "If the room is available / we can move the workshop indoors."
+          ]
+        },
+        {
+          "heading": "Clarify without implying blame",
+          "text": "Practise correcting a misunderstanding about a booking time, a project result, or a responsibility. Emphasize the corrected detail and state it plainly. A neutral phrase such as to clarify can reduce tension, but tone and the whole message matter. Record two versions and check whether the second is both clear and respectful rather than merely louder or more forceful.",
+          "examples": [
+            "To clarify, the figure refers to VISITS, not individual visitors.",
+            "I meant the draft is ready for REVIEW, not publication."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "To correct Tuesday to Monday, which word should receive the key prominence?",
+          "options": [
+            "The word I only",
+            "The word said only",
+            "Every word equally",
+            "Monday"
+          ],
+          "answer": 3,
+          "explanation": "Prominence on Monday highlights the corrected day."
+        },
+        {
+          "prompt": "The trial reduced waiting, but only during quieter mornings. Which summary preserves the limitation?",
+          "options": [
+            "Waiting fell in every situation.",
+            "Waiting fell during quieter mornings; other periods are not established.",
+            "The trial proved mornings are always quiet.",
+            "Waiting was never measured in any form."
+          ],
+          "answer": 1,
+          "explanation": "The summary retains the restricted time context rather than extending the result."
+        },
+        {
+          "prompt": "Which clarification is precise and respectful?",
+          "options": [
+            "You clearly understand nothing at all.",
+            "To clarify, the count refers to visits, not different visitors.",
+            "I will shout the same unclear number.",
+            "Everyone should guess what I meant."
+          ],
+          "answer": 1,
+          "explanation": "The sentence corrects the specific distinction without assigning blame to the listener."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "appointment",
+      "meaning": "An arrangement to meet someone at a particular time.",
+      "example": "I made an appointment with the course adviser.",
+      "level": "b1"
+    },
+    {
+      "word": "effort",
+      "meaning": "The physical or mental energy used to do something.",
+      "example": "She made an effort to learn every classmate’s name.",
+      "level": "b1"
+    },
+    {
+      "word": "postpone",
+      "meaning": "To arrange for an event to happen at a later time.",
+      "example": "We postponed the picnic because heavy rain was forecast.",
+      "level": "b1"
+    },
+    {
+      "word": "reliable",
+      "meaning": "Able to be trusted to work well or behave as expected.",
+      "example": "A reliable bus service helps people arrive on time.",
+      "level": "b1"
+    },
+    {
+      "word": "improvement",
+      "meaning": "A change that makes something better.",
+      "example": "There was a clear improvement in the organization of his essay.",
+      "level": "b1"
+    },
+    {
+      "word": "volunteer",
+      "meaning": "A person who offers to do something without being forced and often without payment.",
+      "example": "A volunteer checked the community fridge each morning.",
+      "level": "b1"
+    },
+    {
+      "word": "replacement",
+      "meaning": "A person or thing that takes the place of another.",
+      "example": "The shop sent a replacement for the damaged chair.",
+      "level": "b1"
+    },
+    {
+      "word": "refund",
+      "meaning": "Money returned to someone after a purchase or payment.",
+      "example": "I requested a refund because the class was cancelled.",
+      "level": "b1"
+    },
+    {
+      "word": "permission",
+      "meaning": "Agreement that allows someone to do something.",
+      "example": "Please ask permission before recording the discussion.",
+      "level": "b1"
+    },
+    {
+      "word": "confirm",
+      "meaning": "To state that an arrangement or piece of information is correct or definite.",
+      "example": "Could you confirm the meeting time by email?",
+      "level": "b1"
+    },
+    {
+      "word": "repair",
+      "meaning": "To make a damaged or broken thing work properly again.",
+      "example": "The volunteer helped repair my lamp.",
+      "level": "b1"
+    },
+    {
+      "word": "commitment",
+      "meaning": "An agreed responsibility or promise to give time or effort.",
+      "example": "The reading role requires a ten-week commitment.",
+      "level": "b1"
+    },
+    {
+      "word": "access",
+      "meaning": "The ability or opportunity to enter a place or use something.",
+      "example": "The plumber needs access to the pipes under the sink.",
+      "level": "b1"
+    },
+    {
+      "word": "label",
+      "meaning": "A small piece of writing that identifies or describes something.",
+      "example": "Write the preparation date on the food label.",
+      "level": "b1"
+    },
+    {
+      "word": "alternative",
+      "meaning": "Another possible choice or course of action.",
+      "example": "An online meeting is an alternative to travelling across town.",
+      "level": "b1"
+    },
+    {
+      "word": "accurate",
+      "meaning": "Correct in its details and free from important errors.",
+      "example": "Check that your order number is accurate before sending the email.",
+      "level": "b1"
+    },
+    {
+      "word": "constraint",
+      "meaning": "A limit or condition that restricts what can be done.",
+      "example": "The last bus home was the main constraint on her course choice.",
+      "level": "b2"
+    },
+    {
+      "word": "compromise",
+      "meaning": "An agreement in which people adjust their demands to reach a workable result.",
+      "example": "They reached a compromise by using a smaller hall for less money.",
+      "level": "b2"
+    },
+    {
+      "word": "underrepresented",
+      "meaning": "Included in smaller numbers than would fairly reflect a wider group.",
+      "example": "People without internet access may be underrepresented in the online survey.",
+      "level": "b2"
+    },
+    {
+      "word": "attribute",
+      "meaning": "To regard something as having a particular cause or source.",
+      "example": "We cannot attribute the change to the course without considering other explanations.",
+      "level": "b2"
+    },
+    {
+      "word": "discretion",
+      "meaning": "The freedom to decide what should be done in a particular situation.",
+      "example": "The manager has discretion to accept a late booking.",
+      "level": "b2"
+    },
+    {
+      "word": "refundable",
+      "meaning": "Able to be paid back under stated conditions.",
+      "example": "The deposit is refundable if the room is left clean.",
+      "level": "b2"
+    },
+    {
+      "word": "impartial",
+      "meaning": "Fair and not favouring one person or side.",
+      "example": "An impartial reviewer considers the strengths of both proposals.",
+      "level": "b2"
+    },
+    {
+      "word": "concession",
+      "meaning": "Something accepted or given up to help reach an agreement.",
+      "example": "Offering a later deadline was an important concession in the negotiation.",
+      "level": "b2"
+    },
+    {
+      "word": "implementation",
+      "meaning": "The process of putting a plan or decision into effect.",
+      "example": "The report recommends another trial before full implementation.",
+      "level": "b2"
+    },
+    {
+      "word": "causal",
+      "meaning": "Relating to whether one thing produces an effect on another.",
+      "example": "The survey does not establish a causal link between the policy and the result.",
+      "level": "b2"
+    },
+    {
+      "word": "retrospective",
+      "meaning": "Looking back at or describing past events.",
+      "example": "The questionnaire relied on retrospective accounts of last year’s working conditions.",
+      "level": "b2"
+    },
+    {
+      "word": "perception",
+      "meaning": "The way someone notices, understands, or experiences something.",
+      "example": "The report measured staff perceptions rather than task performance.",
+      "level": "b2"
+    },
+    {
+      "word": "remedy",
+      "meaning": "An action that corrects or improves an undesirable situation.",
+      "example": "A replacement part may be an appropriate remedy for the fault.",
+      "level": "b2"
+    },
+    {
+      "word": "discrepancy",
+      "meaning": "A difference between things that are expected to match.",
+      "example": "There is a discrepancy between the invoice total and the amount charged.",
+      "level": "b2"
+    },
+    {
+      "word": "conditional",
+      "meaning": "Depending on a particular requirement or situation.",
+      "example": "Their agreement is conditional on approval of the final map.",
+      "level": "b2"
+    },
+    {
+      "word": "scope",
+      "meaning": "The range of matters or situations included in something.",
+      "example": "Keep your conclusion within the scope of the evidence.",
+      "level": "b2"
+    }
+  ]
+}

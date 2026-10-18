@@ -1,0 +1,4191 @@
+{
+  "lessons": [
+    {
+      "id": "a0-my-your-his-her",
+      "level": "a0",
+      "skill": "grammar",
+      "title": "My bag, your book",
+      "description": "Use subject words and possessive words to identify people and belongings.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Choose the person word",
+          "text": "A subject word tells us who a sentence is about. Use I for yourself and you for the person you are speaking to. Use he or she for a person when those are their pronouns. Use we for a group including you.",
+          "examples": [
+            "I am here.",
+            "You are my teacher.",
+            "They are my friends."
+          ]
+        },
+        {
+          "heading": "Show who something belongs to",
+          "text": "Put my, your, his, her, our, or their before a thing to show its owner. These words do not change when the thing is plural. Compare a person word with an owner word. Her book means the book belonging to her.",
+          "examples": [
+            "She is Ana. This is her book.",
+            "We have our bags.",
+            "They have their pencils."
+          ]
+        },
+        {
+          "heading": "Build a small classroom conversation",
+          "text": "Choose three things in your room and name their owners. First say the person, then the belonging. Ask a partner about one item and listen to their reply. Do not add a or the directly before my or your in these simple phrases.",
+          "examples": [
+            "I am Ravi. This is my pen.",
+            "Is this your notebook?",
+            "Yes, it is my notebook."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Ana has a bag. This is ___ bag.",
+          "options": [
+            "she",
+            "they",
+            "he",
+            "her"
+          ],
+          "answer": 3,
+          "explanation": "Her goes before a noun to show that the bag belongs to Ana."
+        },
+        {
+          "prompt": "Which sentence uses an owner word correctly?",
+          "options": [
+            "We have our books.",
+            "We have we books.",
+            "We have us books.",
+            "We have ours books."
+          ],
+          "answer": 0,
+          "explanation": "Our goes before books; we is a subject word."
+        },
+        {
+          "prompt": "You are talking about yourself. Which sentence fits?",
+          "options": [
+            "This is my pen.",
+            "This is I pen.",
+            "This is me pen.",
+            "This is the my pen."
+          ],
+          "answer": 0,
+          "explanation": "Use my before a belonging. Do not put the before my."
+        }
+      ]
+    },
+    {
+      "id": "a0-this-that-these-those",
+      "level": "a0",
+      "skill": "grammar",
+      "title": "This, that, and more than one",
+      "description": "Point to nearby and distant things using articles and demonstratives.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Point to one thing",
+          "text": "Use this for one thing near you and that for one thing farther away. Use is after both words when identifying a single thing. Point while saying the sentence so that distance and meaning work together. Start with objects you can easily see.",
+          "examples": [
+            "This is a cup.",
+            "That is a door.",
+            "Is this a key?"
+          ]
+        },
+        {
+          "heading": "Point to two or more things",
+          "text": "Use these for several things near you and those for several things farther away. Use are and a plural noun. Many plurals add s, but some words change differently. A and an only introduce one countable thing, so do not use them before plural nouns.",
+          "examples": [
+            "These are cups.",
+            "Those are children.",
+            "a key → two keys"
+          ]
+        },
+        {
+          "heading": "Choose a or an by sound",
+          "text": "Use a before a consonant sound and an before a vowel sound when introducing one thing. Listen to the beginning of the spoken word. Read a short description of your desk, then change from one object to several objects and check the verb.",
+          "examples": [
+            "This is an orange.",
+            "That is a pencil.",
+            "These are oranges."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "You hold two keys. What can you say?",
+          "options": [
+            "This are keys.",
+            "These are keys.",
+            "These is a key.",
+            "That is keys."
+          ],
+          "answer": 1,
+          "explanation": "Several nearby things take these, are, and a plural noun."
+        },
+        {
+          "prompt": "One chair is on the other side of the room. Choose the best sentence.",
+          "options": [
+            "These is a chair.",
+            "Those is chair.",
+            "That is a chair.",
+            "This are chairs."
+          ],
+          "answer": 2,
+          "explanation": "That points to one thing farther away, and one chair takes is."
+        },
+        {
+          "prompt": "Which phrase correctly introduces one orange?",
+          "options": [
+            "a orange",
+            "an oranges",
+            "an orange",
+            "a oranges"
+          ],
+          "answer": 2,
+          "explanation": "Orange begins with a vowel sound, so use an with the singular noun."
+        }
+      ]
+    },
+    {
+      "id": "a0-there-is-room",
+      "level": "a0",
+      "skill": "grammar",
+      "title": "What is in the room?",
+      "description": "Say what exists and describe simple positions.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Introduce something you can see",
+          "text": "Use there is to say that one thing is present in a place. Use there are for two or more things. There does not name a person; it introduces what exists. Follow it with the thing and, when useful, its position.",
+          "examples": [
+            "There is a clock.",
+            "There are two windows.",
+            "There is a bag on the chair."
+          ]
+        },
+        {
+          "heading": "Put things in a position",
+          "text": "In means inside a space. On means touching a surface, often the top. Under means below something. These short words can completely change a message. Move a pen around a box and describe each position slowly, checking that your words match what you see.",
+          "examples": [
+            "The pen is in the box.",
+            "The pen is on the box.",
+            "The pen is under the box."
+          ]
+        },
+        {
+          "heading": "Ask and answer about a room",
+          "text": "Start a question with is there for one thing or are there for several things. A short answer can use yes or no plus the matching form of be. Draw a simple room and use questions to help another learner draw the same room.",
+          "examples": [
+            "Is there a table? Yes, there is.",
+            "Are there two doors? No, there aren’t.",
+            "There is a lamp on the table."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Choose the correct sentence about two windows.",
+          "options": [
+            "There are two windows.",
+            "There is two windows.",
+            "There am two windows.",
+            "There be two windows."
+          ],
+          "answer": 0,
+          "explanation": "Two windows is plural, so use there are."
+        },
+        {
+          "prompt": "A key is inside a bag. Where is it?",
+          "options": [
+            "On the bag.",
+            "In the bag.",
+            "Under the bag.",
+            "Behind the bag."
+          ],
+          "answer": 1,
+          "explanation": "In describes a position inside something."
+        },
+        {
+          "prompt": "Which question asks about one table?",
+          "options": [
+            "Are there a table?",
+            "There a table is?",
+            "Is there a table?",
+            "Am there table?"
+          ],
+          "answer": 2,
+          "explanation": "Use is there followed by the singular noun phrase a table."
+        }
+      ]
+    },
+    {
+      "id": "a0-colours-and-clothes",
+      "level": "a0",
+      "skill": "vocabulary",
+      "title": "Colours and clothes you wear",
+      "description": "Describe familiar clothes with a colour and a simple noun.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Name useful clothes",
+          "text": "Learn clothes by pointing to real items: a shirt, a dress, a skirt, a coat, and shoes. Say each word with the item in your hand or in a picture. Some clothes usually appear as plurals, such as trousers and shorts.",
+          "examples": [
+            "This is a shirt.",
+            "These are shoes.",
+            "I have a coat."
+          ]
+        },
+        {
+          "heading": "Put the colour before the thing",
+          "text": "A colour describes a noun. In a simple English phrase, place the colour before the noun: a blue shirt. The colour word stays the same for one thing and several things. Learn red, blue, green, yellow, black, and white with objects around you.",
+          "examples": [
+            "a green dress",
+            "two black shoes",
+            "a white shirt"
+          ]
+        },
+        {
+          "heading": "Use a description to find something",
+          "text": "Imagine choosing clothes from a bag. Name the item and its colour so a partner can find it. If two items look similar, add a number or point clearly. Make a small drawing and label each item with the full phrase rather than a colour alone.",
+          "examples": [
+            "My coat is blue.",
+            "Where is the red shirt?",
+            "These are my black shoes."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which phrase puts the colour in the usual position?",
+          "options": [
+            "a shirt blue",
+            "blue a shirt",
+            "a blue shirt",
+            "a blue shirts"
+          ],
+          "answer": 2,
+          "explanation": "A colour normally goes before the noun: a blue shirt."
+        },
+        {
+          "prompt": "Which item do you normally wear on your feet?",
+          "options": [
+            "Shoes",
+            "A coat",
+            "A skirt",
+            "A shirt"
+          ],
+          "answer": 0,
+          "explanation": "Shoes cover your feet."
+        },
+        {
+          "prompt": "Choose the correct description of two green coats.",
+          "options": [
+            "two greens coats",
+            "two green coats",
+            "two green coat",
+            "a two green coats"
+          ],
+          "answer": 1,
+          "explanation": "The noun becomes plural, but the colour word stays green."
+        }
+      ]
+    },
+    {
+      "id": "a0-body-and-feelings",
+      "level": "a0",
+      "skill": "vocabulary",
+      "title": "Your body and simple feelings",
+      "description": "Name body parts and say how you feel in a clear sentence.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Start with visible body parts",
+          "text": "Learn head, face, eye, ear, hand, arm, leg, and foot. Point to each part while saying the word. A person usually has two hands and two feet. Notice that foot changes to feet when you mean more than one.",
+          "examples": [
+            "This is my hand.",
+            "I have two ears.",
+            "one foot, two feet"
+          ]
+        },
+        {
+          "heading": "Use be for simple feelings",
+          "text": "Say I am happy, sad, tired, hungry, or thirsty to describe how you feel. Hungry means you want food; thirsty means you want a drink. These words describe a person, so put them after am, is, or are in your first sentences.",
+          "examples": [
+            "I am thirsty.",
+            "She is tired.",
+            "We are happy."
+          ]
+        },
+        {
+          "heading": "Connect a feeling to a small request",
+          "text": "A feeling can explain what you need. Say your feeling, then make a simple polite request. Practice choosing the right word for a picture or real situation. Avoid assuming another person’s feelings just from a picture; ask them when you can.",
+          "examples": [
+            "I am thirsty. Water, please.",
+            "Are you tired?",
+            "Yes, I am. A chair, please."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "You want a drink. Which sentence fits?",
+          "options": [
+            "I am an ear.",
+            "I am hungry.",
+            "I am thirsty.",
+            "I am a hand."
+          ],
+          "answer": 2,
+          "explanation": "Thirsty describes wanting or needing a drink."
+        },
+        {
+          "prompt": "What is the usual plural of foot?",
+          "options": [
+            "Foots",
+            "Feet",
+            "Feets",
+            "Footes"
+          ],
+          "answer": 1,
+          "explanation": "Foot has the irregular plural feet."
+        },
+        {
+          "prompt": "Which question asks about a feeling?",
+          "options": [
+            "Are you tired?",
+            "Is this your shoe?",
+            "Where is the pen?",
+            "What colour is it?"
+          ],
+          "answer": 0,
+          "explanation": "Tired describes how a person feels."
+        }
+      ]
+    },
+    {
+      "id": "a0-days-dates-numbers",
+      "level": "a0",
+      "skill": "vocabulary",
+      "title": "Days, numbers, and simple times",
+      "description": "Recognize weekday names, useful numbers, and clock times.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Learn days in a useful order",
+          "text": "A week has seven days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday. Day names begin with capital letters. Use on before a named day. Say your real study days so the words connect to a routine you understand.",
+          "examples": [
+            "I study on Monday.",
+            "The class is on Friday.",
+            "Saturday and Sunday are weekend days in many places."
+          ]
+        },
+        {
+          "heading": "Distinguish numbers that look similar",
+          "text": "Build numbers from eleven to twenty, then learn twenty, thirty, and forty. Thirteen and thirty are different numbers. Write the digits beside each word and say them slowly. For phone numbers, say one digit at a time rather than combining them into a large number.",
+          "examples": [
+            "thirteen = 13",
+            "thirty = 30",
+            "Phone ending 2 8 4: two, eight, four."
+          ]
+        },
+        {
+          "heading": "Give an easy clock time",
+          "text": "Use at before a clock time. O’clock names an exact hour, such as three o’clock. For this lesson, read digital times as separate numbers when needed: three fifteen. Draw three clocks and write one clear sentence for each. Add a day to make a complete plan.",
+          "examples": [
+            "The class is at two o’clock.",
+            "Meet me on Tuesday at four.",
+            "The bus is at three fifteen."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which number is thirty?",
+          "options": [
+            "30",
+            "13",
+            "3",
+            "33"
+          ],
+          "answer": 0,
+          "explanation": "Thirty means 30; thirteen means 13."
+        },
+        {
+          "prompt": "Choose the correct phrase.",
+          "options": [
+            "in Monday",
+            "at Monday",
+            "Monday on",
+            "on Monday"
+          ],
+          "answer": 3,
+          "explanation": "Use on before the name of a day."
+        },
+        {
+          "prompt": "Which sentence gives a clock time correctly?",
+          "options": [
+            "The class is on three o’clock.",
+            "The class is at three o’clock.",
+            "The class is in three o’clock.",
+            "The class is three on o’clock."
+          ],
+          "answer": 1,
+          "explanation": "Use at before a clock time."
+        }
+      ]
+    },
+    {
+      "id": "a0-signs-at-centre",
+      "level": "a0",
+      "skill": "reading",
+      "title": "Read signs at a learning centre",
+      "description": "Use short signs to choose the correct action.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Read the signs",
+          "text": "At the learning centre, you see these signs: “WELCOME. Office: room 1. English class: room 3. Toilets: beside room 2. Please close the classroom door. No food in the computer room.” Read slowly and connect each message with a place or action.",
+          "examples": [
+            "The office is in room 1.",
+            "English class is in room 3.",
+            "Food is not allowed in the computer room."
+          ]
+        },
+        {
+          "heading": "Notice words that direct you",
+          "text": "A sign may give a place, ask you to do something, or say something is not allowed. Please makes a short request polite. No before an activity or thing often marks a rule. Do not assume every room follows a rule that names only one room.",
+          "examples": [
+            "Please close the classroom door.",
+            "No food in the computer room.",
+            "Toilets are beside room 2."
+          ]
+        },
+        {
+          "heading": "Use the information in order",
+          "text": "Imagine you arrive for English class. First find the room number, then follow the request about the door. If you need the office, check its own line again. Practice explaining one sign to a new visitor using a complete, short sentence with a clear location.",
+          "examples": [
+            "Go to room 3 for English.",
+            "The office is in room 1.",
+            "Please close this door."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which room is for English class?",
+          "options": [
+            "Room 1",
+            "Room 2",
+            "Room 3",
+            "The office"
+          ],
+          "answer": 2,
+          "explanation": "The English class sign says room 3."
+        },
+        {
+          "prompt": "What should you do with the classroom door?",
+          "options": [
+            "Paint it.",
+            "Close it.",
+            "Open it all day.",
+            "Take it away."
+          ],
+          "answer": 1,
+          "explanation": "The sign asks visitors to close the classroom door."
+        },
+        {
+          "prompt": "Where does the sign say food is not allowed?",
+          "options": [
+            "In every room.",
+            "Beside room 2.",
+            "In the computer room.",
+            "In the office only."
+          ],
+          "answer": 2,
+          "explanation": "The rule specifically names the computer room."
+        }
+      ]
+    },
+    {
+      "id": "a0-shopping-note",
+      "level": "a0",
+      "skill": "reading",
+      "title": "A small shopping note",
+      "description": "Read a short list and a note without adding missing information.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Read the note carefully",
+          "text": "Read this note from a brother: “Hi Nila. Please buy two apples, one loaf of bread, and a bottle of water. The bag is on the kitchen chair. There is money in the bag. Thank you! —Danu.” Picture each item before answering questions.",
+          "examples": [
+            "Two apples are on the list.",
+            "The bag is on the kitchen chair.",
+            "Danu wrote the note."
+          ]
+        },
+        {
+          "heading": "Match a number with its item",
+          "text": "A shopping note often has several numbers close together. Pair each number with the noun directly after it. Two belongs to apples, not to bottles. A loaf is a way to count a whole piece of bread made for slicing. A bottle holds a drink.",
+          "examples": [
+            "two apples",
+            "one loaf of bread",
+            "a bottle of water"
+          ]
+        },
+        {
+          "heading": "Separate a fact from a guess",
+          "text": "The note says where the bag and money are, but it does not name a shop or a shopping time. Return to the exact line when you need an answer. Explain the instructions aloud, then write a similar note using three items from your own home.",
+          "examples": [
+            "The money is in the bag.",
+            "The note does not name a shop.",
+            "Please buy one banana and two eggs."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How many apples should Nila buy?",
+          "options": [
+            "One",
+            "Three",
+            "Four",
+            "Two"
+          ],
+          "answer": 3,
+          "explanation": "The note asks for two apples."
+        },
+        {
+          "prompt": "Where is the money?",
+          "options": [
+            "Under the chair.",
+            "In the shop.",
+            "In the bag.",
+            "On the bread."
+          ],
+          "answer": 2,
+          "explanation": "The note says there is money in the bag."
+        },
+        {
+          "prompt": "Which detail is NOT given in the note?",
+          "options": [
+            "The number of apples.",
+            "The name of the shop.",
+            "The place of the bag.",
+            "The drink to buy."
+          ],
+          "answer": 1,
+          "explanation": "The note names items and a bag location, but no particular shop."
+        }
+      ]
+    },
+    {
+      "id": "a0-pet-club-profile",
+      "level": "a0",
+      "skill": "reading",
+      "title": "Meet a member of the pet club",
+      "description": "Find people, animals, and favourite things in a short profile.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Read Mina’s profile",
+          "text": "“My name is Mina. I am ten. I live with my mother and my brother. My brother is six. We have a small brown dog. His name is Pip. Pip likes his red ball. I like books about animals.” Read once to meet the people and animal.",
+          "examples": [
+            "Mina is ten.",
+            "Her brother is six.",
+            "Pip is a dog."
+          ]
+        },
+        {
+          "heading": "Follow a name and its pronoun",
+          "text": "A writer can replace a repeated name with he, she, or it when the meaning is clear. In this profile, his name and his red ball both refer to the dog. Connect each fact to the correct person or animal instead of choosing the nearest number.",
+          "examples": [
+            "Pip has a red ball.",
+            "Mina likes animal books.",
+            "Her brother is younger than Mina."
+          ]
+        },
+        {
+          "heading": "Collect evidence before answering",
+          "text": "Use a small table with the labels person, age, and favourite thing. Copy only information the profile gives. The mother’s age is not stated, so leave that space empty. Make your own short profile with two facts about yourself and two facts about a real or imaginary animal.",
+          "examples": [
+            "Mina: ten; animal books.",
+            "Brother: six; favourite thing not given.",
+            "Pip: small, brown dog."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How old is Mina’s brother?",
+          "options": [
+            "Ten",
+            "Two",
+            "Six",
+            "The text says twelve."
+          ],
+          "answer": 2,
+          "explanation": "The profile says, “My brother is six.”"
+        },
+        {
+          "prompt": "What colour is Pip’s ball?",
+          "options": [
+            "Brown",
+            "Blue",
+            "Red",
+            "Green"
+          ],
+          "answer": 2,
+          "explanation": "Pip is brown, but his ball is red."
+        },
+        {
+          "prompt": "Which statement matches the profile?",
+          "options": [
+            "Mina likes books about animals.",
+            "Mina has a brown cat.",
+            "Mina lives with her father only.",
+            "Pip is Mina’s brother."
+          ],
+          "answer": 0,
+          "explanation": "The final sentence says Mina likes books about animals."
+        }
+      ]
+    },
+    {
+      "id": "a0-listen-classroom-items",
+      "level": "a0",
+      "skill": "listening",
+      "title": "Listen: get ready for class",
+      "description": "Hear a short instruction and identify useful classroom items.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Hear the whole instruction first",
+          "text": "Play the message once and listen for the situation. The speaker is helping a class get ready. Try to catch familiar objects such as book, pen, and bag before worrying about every little word. A clear idea of the situation makes the details easier to organize.",
+          "examples": [
+            "Listen for things you can hold.",
+            "Listen for a room number.",
+            "Ask yourself: what must the learners do?"
+          ]
+        },
+        {
+          "heading": "Sort the details into small groups",
+          "text": "Listen again with three labels: bring, put, and room. Write a noun or a number under each label. An instruction can name an object without asking you to bring it. Notice the action word immediately before the object so you understand what to do.",
+          "examples": [
+            "Bring a book.",
+            "Put a bag under a chair.",
+            "Room numbers identify places."
+          ]
+        },
+        {
+          "heading": "Act out the instruction",
+          "text": "Use a real bag, book, and pen to act out the speaker’s requests. Replay a sentence if its meaning is unclear. Afterward, explain the instructions in your own words. This physical practice can help you connect a position word such as under with an action you remember.",
+          "examples": [
+            "My bag is under my chair.",
+            "I have my blue book.",
+            "I am ready for class."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What colour book should learners bring?",
+          "options": [
+            "Blue",
+            "Red",
+            "Green",
+            "Black"
+          ],
+          "answer": 0,
+          "explanation": "The speaker asks for a blue book."
+        },
+        {
+          "prompt": "Where should learners put their bags?",
+          "options": [
+            "On the door.",
+            "In room nine.",
+            "Under their chairs.",
+            "On their heads."
+          ],
+          "answer": 2,
+          "explanation": "The instruction says to put bags under chairs."
+        },
+        {
+          "prompt": "Which room is the class in?",
+          "options": [
+            "Room two",
+            "Room three",
+            "Room ten",
+            "Room twelve"
+          ],
+          "answer": 0,
+          "explanation": "The script says the class is in room two."
+        }
+      ],
+      "listeningText": "Good morning, everyone. Our English class is in room two today. Please bring your blue book and a pen. Put your bags under your chairs. There is water on the small table. The lesson starts at ten. Thank you. Are you ready?"
+    },
+    {
+      "id": "a0-listen-phone-number",
+      "level": "a0",
+      "skill": "listening",
+      "title": "Listen: leave a phone number",
+      "description": "Identify a name, a phone ending, and a meeting place.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Predict the kind of information",
+          "text": "Before listening, look at the lesson title and expect to hear a name and numbers. A phone number is usually spoken one digit at a time. Listen for the start of the number rather than trying to turn separate digits into a large number.",
+          "examples": [
+            "Two, six, one means 2 6 1.",
+            "A name tells you who is speaking.",
+            "A place tells you where to meet."
+          ]
+        },
+        {
+          "heading": "Keep the order of the digits",
+          "text": "Write the digits in the same order you hear them. Do not exchange their positions when repeating the number. The speaker gives only the last three digits in this practice message, so do not invent a complete phone number from information you have not heard.",
+          "examples": [
+            "Listen, write, then replay.",
+            "1 6 2 is different from 2 6 1.",
+            "Repeat slowly to check."
+          ]
+        },
+        {
+          "heading": "Connect the message to an action",
+          "text": "After writing the details, decide what the listener needs to do. This short message includes an afternoon arrangement as well as a number. Make a note with a name, a place, a time, and the phone ending. Check each part in a separate listening pass.",
+          "examples": [
+            "Name: the person calling.",
+            "Place: where the people will meet.",
+            "Time: when to go there."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Who is speaking?",
+          "options": [
+            "Nila",
+            "Ben",
+            "Lena",
+            "Ravi"
+          ],
+          "answer": 2,
+          "explanation": "The speaker begins by saying her name is Lena."
+        },
+        {
+          "prompt": "What are the last three phone digits?",
+          "options": [
+            "2 1 6",
+            "6 2 1",
+            "1 6 2",
+            "2 6 1"
+          ],
+          "answer": 3,
+          "explanation": "The digits are spoken in the order two, six, one."
+        },
+        {
+          "prompt": "Where will the people meet?",
+          "options": [
+            "At the bus station.",
+            "At the school gate.",
+            "At the library door.",
+            "At the shop."
+          ],
+          "answer": 1,
+          "explanation": "Lena asks the listener to meet her at the school gate."
+        }
+      ],
+      "listeningText": "Hello, this is Lena. Please call me after lunch. The last three numbers of my phone number are two, six, one. I am at home now. We can meet at the school gate at four this afternoon. Please bring your English book. Thank you."
+    },
+    {
+      "id": "a0-listen-picnic-bag",
+      "level": "a0",
+      "skill": "listening",
+      "title": "Listen: pack a picnic bag",
+      "description": "Hear what is inside a bag and what is still at home.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Listen for the things in the bag",
+          "text": "First listen without writing. Imagine the speaker opening a bag and naming its contents. The situation is a picnic, so food and drinks are useful clues. A familiar setting helps you follow a message even if you do not know every connecting word.",
+          "examples": [
+            "Picture a bag and some food.",
+            "Listen for a drink.",
+            "Listen for the picnic place."
+          ]
+        },
+        {
+          "heading": "Pay attention to a negative",
+          "text": "A speaker may say an item is not present before explaining where it is. Not changes the meaning of the whole sentence. During your second listening, separate things in the bag from things somewhere else. Draw two boxes and put each named object in the correct box.",
+          "examples": [
+            "In the bag: write confirmed items.",
+            "At home: write items left there.",
+            "Do not ignore the word not."
+          ]
+        },
+        {
+          "heading": "Check your picture against the message",
+          "text": "Draw a very simple picnic bag with the items you heard. Replay the recording and correct your drawing. Then explain the bag using there is and there are. If you practice with a partner, ask them to name one thing you have deliberately left outside the bag.",
+          "examples": [
+            "There are two apples in the bag.",
+            "There is water in the bag.",
+            "The cups are at home."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How many apples are in the bag?",
+          "options": [
+            "Three",
+            "One",
+            "Two",
+            "Four"
+          ],
+          "answer": 2,
+          "explanation": "The speaker names two apples."
+        },
+        {
+          "prompt": "What is at home?",
+          "options": [
+            "The bread",
+            "The apples",
+            "The water",
+            "The cups"
+          ],
+          "answer": 3,
+          "explanation": "The speaker says the cups are at home on the kitchen table."
+        },
+        {
+          "prompt": "Where is the picnic?",
+          "options": [
+            "At school.",
+            "At the beach.",
+            "At the station.",
+            "At the park."
+          ],
+          "answer": 3,
+          "explanation": "The message ends by saying the picnic is at the park."
+        }
+      ],
+      "listeningText": "This is our picnic bag. There are two apples and some bread in it. There is a bottle of water, too. The cups are not in the bag. They are at home on the kitchen table. Our picnic is at the park today."
+    },
+    {
+      "id": "a0-fill-simple-form",
+      "level": "a0",
+      "skill": "writing",
+      "title": "Fill in a simple learner form",
+      "description": "Write names, places, and numbers in the correct spaces.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Read the label before writing",
+          "text": "A form collects information in separate spaces. A label tells you what to put in each space. Full name means your complete name as you normally give it. City asks for a place, not your age. Read all the labels before you begin to avoid shifting answers into the wrong lines.",
+          "examples": [
+            "Full name: Maya Silva",
+            "City: Galle",
+            "Age: 18"
+          ]
+        },
+        {
+          "heading": "Make letters and numbers clear",
+          "text": "Use a capital at the beginning of a person’s name and a city name. Keep other letters easy to read. Check numbers one at a time, especially in a phone number. In a practice form, use invented contact details rather than posting personal information in a public place.",
+          "examples": [
+            "Name: Ravi Fernando",
+            "City: Kandy",
+            "Phone ending: 428"
+          ]
+        },
+        {
+          "heading": "Check a completed practice form",
+          "text": "Draw a form with four labels: full name, city, age, and class. Fill it in for an imaginary student. Cover the labels and read the answers to a partner; can they identify each kind of information? Finally, uncover the labels and check every answer against the correct space.",
+          "examples": [
+            "Full name: Nila Perera",
+            "Age: 21",
+            "Class: English A"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What belongs in a space labelled City?",
+          "options": [
+            "Twenty",
+            "English A",
+            "Kandy",
+            "Nila Perera"
+          ],
+          "answer": 2,
+          "explanation": "Kandy is a city; the other options give different kinds of information."
+        },
+        {
+          "prompt": "Which name is capitalized correctly?",
+          "options": [
+            "Maya Silva",
+            "maya silva",
+            "Maya silva",
+            "maya Silva"
+          ],
+          "answer": 0,
+          "explanation": "Both parts of this name begin with capital letters."
+        },
+        {
+          "prompt": "What should you do before writing in a form space?",
+          "options": [
+            "Copy any nearby number.",
+            "Write your age everywhere.",
+            "Read its label.",
+            "Ignore the instructions."
+          ],
+          "answer": 2,
+          "explanation": "The label tells you which information the space requires."
+        }
+      ]
+    },
+    {
+      "id": "a0-make-checklist",
+      "level": "a0",
+      "skill": "writing",
+      "title": "Write a useful checklist",
+      "description": "Use singular and plural nouns to make a clear list.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Give your list a purpose",
+          "text": "A checklist helps you remember things to bring or tasks to do. Start with a short title such as My class bag. Put each item on a separate line so you can check it easily. A list can use short noun phrases instead of complete sentences.",
+          "examples": [
+            "My class bag",
+            "one notebook",
+            "two pens"
+          ]
+        },
+        {
+          "heading": "Check quantities and spelling",
+          "text": "Use a number when the amount matters. Write one pencil but two pencils. Look at the spelling carefully instead of adding an extra s to every word; water is normally uncountable. A bottle of water makes the container countable and tells your reader how much to bring.",
+          "examples": [
+            "one pencil / three pencils",
+            "a bottle of water",
+            "one lunch box"
+          ]
+        },
+        {
+          "heading": "Read the list while packing",
+          "text": "Write five things for a class or picnic. Match each written item to a real object or picture, then mark it when it is packed. If you find an unclear phrase, add the missing detail. Compare bring a bottle with bring a bottle of water to see the difference.",
+          "examples": [
+            "Check the notebook when it is packed.",
+            "Write two pens if you need a spare.",
+            "Use a clear title: Picnic bag."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which line clearly asks for three pencils?",
+          "options": [
+            "three pencil",
+            "a three pencil",
+            "three pencilses",
+            "three pencils"
+          ],
+          "answer": 3,
+          "explanation": "After three, the countable noun pencil takes its plural form pencils."
+        },
+        {
+          "prompt": "Which is the clearest list title for school supplies?",
+          "options": [
+            "Yesterday was sunny",
+            "Who are you?",
+            "My class bag",
+            "Blue and slowly"
+          ],
+          "answer": 2,
+          "explanation": "My class bag tells the reader what the listed items are for."
+        },
+        {
+          "prompt": "Which phrase gives a clear quantity of water?",
+          "options": [
+            "a water of bottle",
+            "three water",
+            "a bottle of water",
+            "one waters"
+          ],
+          "answer": 2,
+          "explanation": "The countable container bottle gives a practical amount of water."
+        }
+      ]
+    },
+    {
+      "id": "a0-question-marks-and-spelling",
+      "level": "a0",
+      "skill": "writing",
+      "title": "Write short questions and check spelling",
+      "description": "Use question marks, capitals, and a careful checking routine.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Show when you are asking",
+          "text": "End a written question with a question mark. A full stop normally ends a statement. The final mark helps the reader know whether you are giving information or asking for it. Begin both kinds of sentence with a capital letter and leave spaces between the words.",
+          "examples": [
+            "What is your name?",
+            "My name is Sita.",
+            "Are you ready?"
+          ]
+        },
+        {
+          "heading": "Keep common short words accurate",
+          "text": "Short words such as is, am, my, and your appear often. Copy each word carefully, cover it, and write it again from memory. Check the order of the letters against your model. Remember that English I is always a capital letter when it means the speaker.",
+          "examples": [
+            "I am here.",
+            "Is this your pen?",
+            "My name is Arun."
+          ]
+        },
+        {
+          "heading": "Use a three-step editing routine",
+          "text": "Write two questions and two answers about an imaginary learner. First read for meaning: does each answer match its question? Next check capitals and spaces. Finally check the final punctuation and the spelling of names. Correct one kind of mistake at a time so you can notice it clearly.",
+          "examples": [
+            "Where is Ravi? He is at school.",
+            "Is she a teacher? Yes, she is.",
+            "Check a name against its model."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence needs a question mark?",
+          "options": [
+            "My name is Sara",
+            "I am a student",
+            "This is my book",
+            "What is your name"
+          ],
+          "answer": 3,
+          "explanation": "What is your name asks for information."
+        },
+        {
+          "prompt": "Which version is correctly written?",
+          "options": [
+            "i am here.",
+            "I am here.",
+            "I amhere.",
+            "I here am."
+          ],
+          "answer": 1,
+          "explanation": "I is capitalized, the words have spaces, and the statement ends with a full stop."
+        },
+        {
+          "prompt": "Which answer matches “Where is Ravi?”",
+          "options": [
+            "His name is Ravi.",
+            "He is ten.",
+            "He is happy.",
+            "He is at school."
+          ],
+          "answer": 3,
+          "explanation": "Where asks about a place, so at school answers the question."
+        }
+      ]
+    },
+    {
+      "id": "a0-clear-p-and-b",
+      "level": "a0",
+      "skill": "speaking",
+      "title": "Say pen and Ben clearly",
+      "description": "Practice the p and b contrast with short, meaningful phrases.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Notice the difference with your voice",
+          "text": "Put your lips together to start p and b. For b, your voice vibrates as the sound begins. For p at the start of a stressed word, English often has a small puff of air. Hold a hand near your mouth and try pen and Ben slowly.",
+          "examples": [
+            "pen / Ben",
+            "pat / bat",
+            "pack / back"
+          ]
+        },
+        {
+          "heading": "Keep the whole word clear",
+          "text": "Do not focus only on the first sound. Keep the vowel and final sound clear enough to recognize the word. Alternate pairs slowly, then place one word in a short sentence. The aim is an understandable difference; every speaker does not need to sound identical.",
+          "examples": [
+            "This is my pen.",
+            "Ben is my friend.",
+            "Put it in the pack."
+          ]
+        },
+        {
+          "heading": "Ask for a word when unsure",
+          "text": "A listener can ask you to repeat a word or spell a name. Practice being both the speaker and listener. Say a sentence, pause for a reply, and repeat only the unclear word when asked. Use patient, friendly language and give the listener time to respond.",
+          "examples": [
+            "Did you say pen or Ben?",
+            "Pen. P-E-N.",
+            "Thank you. I understand."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which word begins with a voiced b sound?",
+          "options": [
+            "Pen",
+            "Ten",
+            "Sun",
+            "Ben"
+          ],
+          "answer": 3,
+          "explanation": "Ben begins with b, made with voice vibration."
+        },
+        {
+          "prompt": "Which phrase checks the sound you heard?",
+          "options": [
+            "How old is the book?",
+            "I am a student.",
+            "It is Monday.",
+            "Did you say pen or Ben?"
+          ],
+          "answer": 3,
+          "explanation": "The question directly checks the two possible words."
+        },
+        {
+          "prompt": "What is a helpful first practice step?",
+          "options": [
+            "Speak as fast as possible.",
+            "Say pen and Ben slowly and compare their beginnings.",
+            "Leave off all final sounds.",
+            "Whisper every word forever."
+          ],
+          "answer": 1,
+          "explanation": "Slow comparison helps you notice how the sounds are made before using them in phrases."
+        }
+      ]
+    },
+    {
+      "id": "a0-stress-your-name",
+      "level": "a0",
+      "skill": "speaking",
+      "title": "Make a name easy to hear",
+      "description": "Use syllables, a clear voice, and polite name checks.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Break a word into spoken beats",
+          "text": "A syllable is a beat in a word. Some names have one beat and others have several. Clap gently while you say your name naturally. Names can have different pronunciations, so the person who uses the name is the best guide to how they want it said.",
+          "examples": [
+            "Sam: one beat.",
+            "Maya: often two beats.",
+            "Ask the person how to say their name."
+          ]
+        },
+        {
+          "heading": "Make the important beat clear",
+          "text": "In many English words, one syllable is stronger than the others. Do not make every beat equally strong when practicing a familiar word. Listen to a model and repeat it. In TEAcher, the first beat is usually stronger; the large letters here show stress, not ordinary spelling.",
+          "examples": [
+            "TEAcher",
+            "STUdent",
+            "heLLO"
+          ]
+        },
+        {
+          "heading": "Introduce and confirm a name",
+          "text": "Give your name, pause, and let the other person repeat it. If they are unsure, say it again slowly or spell it. Ask politely before correcting someone’s pronunciation of their own name. Practice the exchange twice so both people have a turn speaking and listening.",
+          "examples": [
+            "My name is Maya.",
+            "Could you say your name again?",
+            "Is that right? Yes, thank you."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does a syllable mean in this lesson?",
+          "options": [
+            "A punctuation mark.",
+            "A spoken beat in a word.",
+            "A kind of notebook.",
+            "A silent full stop."
+          ],
+          "answer": 1,
+          "explanation": "Syllables are the spoken beats that make up a word."
+        },
+        {
+          "prompt": "Which syllable is usually stronger in teacher?",
+          "options": [
+            "The last sound r only.",
+            "Both must always be shouted.",
+            "The first: TEA.",
+            "There is no spoken beat."
+          ],
+          "answer": 2,
+          "explanation": "Teacher normally has stress on its first syllable."
+        },
+        {
+          "prompt": "Who is the best guide to pronouncing a person’s own name?",
+          "options": [
+            "The youngest listener every time.",
+            "The person who uses the name.",
+            "A guess based only on spelling.",
+            "The person speaking fastest."
+          ],
+          "answer": 1,
+          "explanation": "Names vary, so respectfully follow the person’s own pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "a0-ask-for-classroom-help",
+      "level": "a0",
+      "skill": "speaking",
+      "title": "Ask for help in class",
+      "description": "Use a polite request and allow your partner to answer.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Start a request clearly",
+          "text": "You can ask for help before you know many words. Begin with excuse me to get attention politely. Say what you need in a short sentence. Please can make a request friendly, but a clear voice and patient turn-taking matter too. Practice with a book or pen.",
+          "examples": [
+            "Excuse me. A pen, please.",
+            "Can you help me, please?",
+            "What does this mean?"
+          ]
+        },
+        {
+          "heading": "Ask for repetition or slower speech",
+          "text": "When speech is too fast, ask the speaker to slow down. If you miss one part, ask them to repeat it. You do not have to say you understand when you are unsure. Use one useful request, then listen to the new explanation before speaking again.",
+          "examples": [
+            "Again, please.",
+            "Slowly, please.",
+            "Could you repeat that?"
+          ]
+        },
+        {
+          "heading": "Finish a short exchange",
+          "text": "A conversation needs time for both people. After asking, pause and look ready to listen. Respond to the answer with thank you or a short check. Practice a three-turn exchange: request, response, thanks. Change the object or problem and repeat with the roles reversed.",
+          "examples": [
+            "Can you help me, please?",
+            "Yes. This word is book.",
+            "Thank you. Book."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "You cannot follow fast speech. What can you say?",
+          "options": [
+            "I have a blue shoe.",
+            "Slowly, please.",
+            "Good night, chair.",
+            "You are a notebook."
+          ],
+          "answer": 1,
+          "explanation": "Slowly, please asks the speaker to reduce their speed."
+        },
+        {
+          "prompt": "What should you do after asking someone a question?",
+          "options": [
+            "Pause and listen to their answer.",
+            "Immediately ask five more questions.",
+            "Speak over every word.",
+            "Walk away before they reply."
+          ],
+          "answer": 0,
+          "explanation": "A pause gives the other person a turn to respond."
+        },
+        {
+          "prompt": "Which phrase politely begins a request for attention?",
+          "options": [
+            "Never speak.",
+            "Go away now.",
+            "Excuse me.",
+            "My pencil is green."
+          ],
+          "answer": 2,
+          "explanation": "Excuse me is commonly used to get someone’s attention politely."
+        }
+      ]
+    },
+    {
+      "id": "a1-present-continuous-now",
+      "level": "a1",
+      "skill": "grammar",
+      "title": "What is happening now?",
+      "description": "Describe current actions and spell common ing forms.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Build the present continuous",
+          "text": "Use am, is, or are plus a verb ending in ing to describe an action happening now. The first verb agrees with the subject. The ing form stays the same. Look around and choose an action you can actually observe before writing your sentence.",
+          "examples": [
+            "I am reading.",
+            "She is cooking.",
+            "They are waiting outside."
+          ]
+        },
+        {
+          "heading": "Spell common ing forms",
+          "text": "Most verbs simply add ing. A verb ending in silent e often loses that e first: make becomes making. In a short verb with a short stressed vowel and one final consonant, that consonant often doubles: sit becomes sitting. Learn each change with an example.",
+          "examples": [
+            "read → reading",
+            "make → making",
+            "sit → sitting"
+          ]
+        },
+        {
+          "heading": "Make a question or a negative",
+          "text": "Move am, is, or are before the subject to ask a question. Put not after the same verb to make a negative. Practice describing a picture with two true sentences and one negative. Check that every sentence contains both a form of be and an ing verb.",
+          "examples": [
+            "Are you listening?",
+            "He is not sleeping.",
+            "We are studying, but we are not writing."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Look! Sara ___ a picture now.",
+          "options": [
+            "draw",
+            "draws yesterday",
+            "are drawing",
+            "is drawing"
+          ],
+          "answer": 3,
+          "explanation": "A current action with Sara takes is plus drawing."
+        },
+        {
+          "prompt": "Which ing form is spelled correctly?",
+          "options": [
+            "makeing",
+            "makking",
+            "making",
+            "makeeing"
+          ],
+          "answer": 2,
+          "explanation": "Make loses its silent final e before adding ing."
+        },
+        {
+          "prompt": "Which question is correct?",
+          "options": [
+            "Are they waiting?",
+            "They are waiting are?",
+            "Do they waiting?",
+            "Is they waiting?"
+          ],
+          "answer": 0,
+          "explanation": "Put are before they to ask a present continuous question."
+        }
+      ]
+    },
+    {
+      "id": "a1-some-any-much-many",
+      "level": "a1",
+      "skill": "grammar",
+      "title": "How much and how many?",
+      "description": "Ask about quantities and distinguish countable from uncountable nouns.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Decide whether you can count it",
+          "text": "Countable nouns have singular and plural forms, such as one egg and two eggs. Uncountable food words such as milk and rice usually describe a substance. To count an amount, use a container or measure. Learn the noun and a common quantity phrase together.",
+          "examples": [
+            "two eggs",
+            "some milk",
+            "three bags of rice"
+          ]
+        },
+        {
+          "heading": "Ask with much or many",
+          "text": "Use how many with plural countable nouns. Use how much with uncountable nouns. How much also asks for a price, so listen to the whole question. When shopping, name the item clearly so your question gives the seller enough information to answer.",
+          "examples": [
+            "How many eggs do we need?",
+            "How much milk is left?",
+            "How much is this bag?"
+          ]
+        },
+        {
+          "heading": "Use some and any naturally",
+          "text": "Some is common in positive statements; any is common in negative statements and neutral questions. Some can also appear in offers and requests when something is expected. Make a shopping dialogue from a nearly empty kitchen and check both the noun type and the sentence type.",
+          "examples": [
+            "We have some rice.",
+            "We don’t have any eggs.",
+            "Would you like some water?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which question is correct?",
+          "options": [
+            "How much apples do we need?",
+            "How many apples do we need?",
+            "How many milk do we need?",
+            "How much eggs do we need?"
+          ],
+          "answer": 1,
+          "explanation": "Apples is a plural countable noun, so use how many."
+        },
+        {
+          "prompt": "Complete the neutral question: “Do we have ___ rice?”",
+          "options": [
+            "any",
+            "many",
+            "an",
+            "a"
+          ],
+          "answer": 0,
+          "explanation": "Any works in this neutral question, and rice is normally uncountable."
+        },
+        {
+          "prompt": "Which phrase counts a quantity of milk clearly?",
+          "options": [
+            "two milkses",
+            "a milk of bottles",
+            "two bottles of milk",
+            "many milk"
+          ],
+          "answer": 2,
+          "explanation": "Bottle is countable, so two bottles of milk gives a clear quantity."
+        }
+      ]
+    },
+    {
+      "id": "a1-can-and-classroom-rules",
+      "level": "a1",
+      "skill": "grammar",
+      "title": "What can you do here?",
+      "description": "Express ability, ask permission, and understand simple instructions.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Describe an ability with can",
+          "text": "Use can plus the base form of a verb to say someone has an ability. The form can stays the same with I, she, and they. Do not add to or s after can. A negative uses cannot or its short form can’t.",
+          "examples": [
+            "I can swim.",
+            "She can speak Tamil.",
+            "They can’t drive."
+          ]
+        },
+        {
+          "heading": "Ask a practical permission question",
+          "text": "Can I asks for permission to do something. Can you often requests help or asks about ability. Context tells you which meaning is intended. Add please when useful and listen for the response before acting. A permission question should name the action you want to take.",
+          "examples": [
+            "Can I open the window?",
+            "Can you help me, please?",
+            "Yes, you can sit here."
+          ]
+        },
+        {
+          "heading": "Understand short rules and instructions",
+          "text": "An imperative often starts with a base verb and leaves out you. Use don’t plus a base verb for a negative instruction. Compare what someone is able to do with what a place allows. Write three instructions for a classroom and read them aloud with a calm tone.",
+          "examples": [
+            "Please close the door.",
+            "Don’t run in the corridor.",
+            "You can use a pencil here."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence describes ability correctly?",
+          "options": [
+            "She cans swim.",
+            "She can to swim.",
+            "She can swims.",
+            "She can swim."
+          ],
+          "answer": 3,
+          "explanation": "Can is followed by the base verb swim and does not take s."
+        },
+        {
+          "prompt": "Which sentence asks permission?",
+          "options": [
+            "I opened the window.",
+            "The window is blue.",
+            "She can sing.",
+            "Can I open the window?"
+          ],
+          "answer": 3,
+          "explanation": "Can I plus an action asks whether the speaker is allowed to do it."
+        },
+        {
+          "prompt": "Which instruction tells someone NOT to run?",
+          "options": [
+            "Not running you.",
+            "Doesn’t run you.",
+            "To don’t running.",
+            "Don’t run."
+          ],
+          "answer": 3,
+          "explanation": "Use don’t plus the base form for a negative imperative."
+        }
+      ]
+    },
+    {
+      "id": "a1-kitchen-actions",
+      "level": "a1",
+      "skill": "vocabulary",
+      "title": "Cook with useful action words",
+      "description": "Learn clear cooking verbs and common kitchen tools.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Match the action to the tool",
+          "text": "Cooking instructions use action words such as wash, peel, cut, mix, and boil. A knife cuts food, while a spoon can stir a mixture. Learn each verb with a familiar ingredient. The action should make sense for the food and the tool in the sentence.",
+          "examples": [
+            "Wash the tomatoes.",
+            "Peel the banana.",
+            "Cut the carrot with a knife."
+          ]
+        },
+        {
+          "heading": "Notice stages in a simple recipe",
+          "text": "Recipes normally tell you what to do in order. First prepare the ingredients, then cook or combine them. Mix means put things together; boil means heat a liquid until it bubbles strongly. Do not confuse pour, which moves a liquid, with cut, which divides something into pieces.",
+          "examples": [
+            "Mix the rice and vegetables.",
+            "Pour the water into a pan.",
+            "Boil the water."
+          ]
+        },
+        {
+          "heading": "Explain an everyday preparation",
+          "text": "Choose a simple cold snack you know how to make. List its ingredients and describe three actions with the correct tools. Use first, next, and finally to organize your explanation. If you do not cook, practice with pictures and write clear instructions for assembling a fruit bowl.",
+          "examples": [
+            "First, wash the fruit.",
+            "Next, cut it into small pieces.",
+            "Finally, mix it in a bowl."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which action removes the skin from a banana?",
+          "options": [
+            "Boil it.",
+            "Peel it.",
+            "Pour it.",
+            "Stir it."
+          ],
+          "answer": 1,
+          "explanation": "Peel means remove the outer skin."
+        },
+        {
+          "prompt": "Which tool is normally used for cutting a carrot?",
+          "options": [
+            "A cup",
+            "A plate",
+            "A knife",
+            "A napkin"
+          ],
+          "answer": 2,
+          "explanation": "A knife is a kitchen tool for cutting food."
+        },
+        {
+          "prompt": "Which action means moving water from a jug into a glass?",
+          "options": [
+            "Peeling",
+            "Pouring",
+            "Slicing",
+            "Frying"
+          ],
+          "answer": 1,
+          "explanation": "Pour means make a liquid flow from one container into another."
+        }
+      ]
+    },
+    {
+      "id": "a1-weather-and-seasons",
+      "level": "a1",
+      "skill": "vocabulary",
+      "title": "Talk about weather and seasons",
+      "description": "Describe today’s weather and choose practical clothing words.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Use a useful weather pattern",
+          "text": "Say it is plus an adjective to describe weather: sunny, cloudy, windy, hot, or cold. Use it is raining when rain is falling now. Weather describes conditions at a particular time and place, so give a location or time when you need to be clear.",
+          "examples": [
+            "It is windy today.",
+            "It is raining in Galle.",
+            "The morning is cool."
+          ]
+        },
+        {
+          "heading": "Know that seasons vary by place",
+          "text": "Some places describe spring, summer, autumn, and winter. Other places commonly talk about wet and dry seasons. Do not assume every country has the same weather in the same month. Read the actual weather description when making a plan rather than relying only on a season name.",
+          "examples": [
+            "It is winter there, but summer here.",
+            "The wet season brings frequent rain.",
+            "Autumn is also called fall in American English."
+          ]
+        },
+        {
+          "heading": "Link weather to an everyday decision",
+          "text": "Use weather words to explain what to bring or wear. A forecast describes expected weather, so a plan may change later. Practice a short conversation about meeting outdoors. Say the weather, suggest a useful item, and ask whether the other person agrees with the plan.",
+          "examples": [
+            "It may rain. Bring an umbrella.",
+            "It is cold. Wear a coat.",
+            "It is sunny. Shall we sit outside?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence describes wind?",
+          "options": [
+            "It is windy today.",
+            "It is a winter yesterday.",
+            "It is umbrella.",
+            "It is raining coldly sun."
+          ],
+          "answer": 0,
+          "explanation": "Windy is the adjective for weather with noticeable wind."
+        },
+        {
+          "prompt": "What is another common name for autumn?",
+          "options": [
+            "Rise",
+            "Fall",
+            "Heat",
+            "Breeze"
+          ],
+          "answer": 1,
+          "explanation": "Fall is the usual American English name for autumn."
+        },
+        {
+          "prompt": "What is a sensible item to bring when rain is expected?",
+          "options": [
+            "A frying pan",
+            "An umbrella",
+            "A library card only",
+            "A plate"
+          ],
+          "answer": 1,
+          "explanation": "An umbrella helps keep rain off you outdoors."
+        }
+      ]
+    },
+    {
+      "id": "a1-jobs-and-workplaces",
+      "level": "a1",
+      "skill": "vocabulary",
+      "title": "People and their workplaces",
+      "description": "Describe common jobs and distinguish a job from its workplace.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Learn a job with an action",
+          "text": "A job name is easier to remember when you connect it to what the person does. A nurse cares for patients, a mechanic repairs vehicles, and a baker makes bread. Use a or an when saying one person’s job in a simple sentence.",
+          "examples": [
+            "She is a nurse.",
+            "He is a mechanic.",
+            "My uncle is a baker."
+          ]
+        },
+        {
+          "heading": "Name the workplace separately",
+          "text": "A workplace tells you where someone works. A baker may work in a bakery, a nurse may work in a hospital, and a mechanic may work in a garage. These are common examples, but people can work in different places. Do not treat a typical workplace as the only possible one.",
+          "examples": [
+            "A bakery sells bread.",
+            "A hospital provides medical care.",
+            "A garage can repair cars."
+          ]
+        },
+        {
+          "heading": "Ask about work politely",
+          "text": "Ask What do you do? when the context makes it clear you mean someone’s work. Where do you work? asks for a place. A person may study, care for family, or be between jobs. Practice giving an answer and asking a follow-up without demanding private details.",
+          "examples": [
+            "I work in a bakery.",
+            "What do you do there?",
+            "I make bread in the morning."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Who normally repairs vehicles?",
+          "options": [
+            "A baker",
+            "A mechanic",
+            "A waiter",
+            "A singer"
+          ],
+          "answer": 1,
+          "explanation": "Repairing cars and other vehicles is a mechanic’s work."
+        },
+        {
+          "prompt": "Which word names a workplace rather than a person’s job?",
+          "options": [
+            "Baker",
+            "Nurse",
+            "Mechanic",
+            "Bakery"
+          ],
+          "answer": 3,
+          "explanation": "A bakery is a place; a baker is a person who makes bread."
+        },
+        {
+          "prompt": "Which question asks about a workplace?",
+          "options": [
+            "What time is lunch?",
+            "Where do you work?",
+            "Are you hungry?",
+            "How old is the bread?"
+          ],
+          "answer": 1,
+          "explanation": "Where asks for the location of someone’s work."
+        }
+      ]
+    },
+    {
+      "id": "a1-club-timetable",
+      "level": "a1",
+      "skill": "reading",
+      "title": "Choose a class from a timetable",
+      "description": "Match days, times, and requirements to your own needs.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Read the club timetable",
+          "text": "“Community Club: Art, Monday 4–5 p.m., room 2; bring pencils. Dance, Wednesday 5–6 p.m., hall; wear comfortable shoes. Reading Circle, Saturday 10–11 a.m., library; bring any short book. Each activity is free. Register at the office before your first session.” Start by finding the activity names.",
+          "examples": [
+            "Art meets on Monday.",
+            "Dance uses the hall.",
+            "The Reading Circle meets in the library."
+          ]
+        },
+        {
+          "heading": "Match each item to its row",
+          "text": "A timetable presents several plans close together. Track the complete row for your activity so you do not take a time from another class. Notice both where you go and what you need. Bring pencils belongs to art, while comfortable shoes belongs to dance.",
+          "examples": [
+            "Art: room 2, pencils.",
+            "Dance: hall, comfortable shoes.",
+            "Reading Circle: Saturday, short book."
+          ]
+        },
+        {
+          "heading": "Check the condition before attending",
+          "text": "The final line applies to every activity. Even though the sessions are free, a new participant needs to register first. Practice choosing an activity for someone available only on Saturday morning. Give the day, place, required item, and registration step using details from the notice.",
+          "examples": [
+            "All activities are free.",
+            "Register before your first session.",
+            "Saturday morning matches the Reading Circle."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which activity is on Saturday morning?",
+          "options": [
+            "Art",
+            "Dance",
+            "Reading Circle",
+            "None of them"
+          ],
+          "answer": 2,
+          "explanation": "The Reading Circle is listed for Saturday, 10–11 a.m."
+        },
+        {
+          "prompt": "What should a learner bring to Art?",
+          "options": [
+            "A short book",
+            "A dance ticket",
+            "A uniform",
+            "Pencils"
+          ],
+          "answer": 3,
+          "explanation": "The Art line specifically says bring pencils."
+        },
+        {
+          "prompt": "What must a new participant do before the first session?",
+          "options": [
+            "Register at the office.",
+            "Pay for all three clubs.",
+            "Buy a long novel.",
+            "Call the dance teacher."
+          ],
+          "answer": 0,
+          "explanation": "The notice tells every new participant to register at the office."
+        }
+      ]
+    },
+    {
+      "id": "a1-fruit-yogurt-recipe",
+      "level": "a1",
+      "skill": "reading",
+      "title": "Follow a simple snack recipe",
+      "description": "Read ingredients, order words, and a final serving instruction.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Read the recipe",
+          "text": "“Fruit Yogurt for Two. You need one banana, one small apple, two cups of plain yogurt, and a bowl. First, wash the apple. Next, cut the apple and banana into small pieces. Put the fruit in the bowl. Add the yogurt and mix gently. Serve immediately. Do not add sugar.”",
+          "examples": [
+            "The recipe makes two servings.",
+            "It uses plain yogurt.",
+            "The fruit goes in a bowl."
+          ]
+        },
+        {
+          "heading": "Follow the order, not just the words",
+          "text": "First and next show the order of actions. Washing the apple comes before cutting it. Adding yogurt comes after the fruit is in the bowl. Identify action words and the object of each action. This helps you follow instructions even when a recipe contains several familiar ingredients.",
+          "examples": [
+            "Wash the apple first.",
+            "Cut both kinds of fruit.",
+            "Add yogurt after the fruit."
+          ]
+        },
+        {
+          "heading": "Notice limits and missing steps",
+          "text": "The instruction says not to add sugar and to serve immediately. It does not ask you to cook the snack or leave it overnight. Answer questions from the recipe rather than adding your own cooking habits. Summarize the method in three short sentences, keeping the original order.",
+          "examples": [
+            "No sugar is required.",
+            "Serve as soon as it is ready.",
+            "No cooking step is given."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How many people does the recipe serve?",
+          "options": [
+            "One",
+            "Four",
+            "Six",
+            "Two"
+          ],
+          "answer": 3,
+          "explanation": "The title is Fruit Yogurt for Two."
+        },
+        {
+          "prompt": "What comes before cutting the apple?",
+          "options": [
+            "Adding sugar.",
+            "Washing it.",
+            "Heating the yogurt.",
+            "Serving the bowl."
+          ],
+          "answer": 1,
+          "explanation": "The first step is washing the apple; cutting comes next."
+        },
+        {
+          "prompt": "Which instruction is in the recipe?",
+          "options": [
+            "Do not add sugar.",
+            "Cook for twenty minutes.",
+            "Leave it overnight.",
+            "Use three bananas."
+          ],
+          "answer": 0,
+          "explanation": "The final sentence explicitly says not to add sugar."
+        }
+      ]
+    },
+    {
+      "id": "a1-book-swap-poster",
+      "level": "a1",
+      "skill": "reading",
+      "title": "Read a book-swap poster",
+      "description": "Find the purpose, rules, and alternatives in an event notice.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Read the event notice",
+          "text": "“BOOK SWAP! Sunday, 11 a.m.–1 p.m., Riverside School hall. Bring up to three clean books and exchange them for other books. No textbooks, please. You can also come without a book and buy one for £1. Children must come with an adult. Tea is available; bring your own cup.”",
+          "examples": [
+            "The event is at Riverside School.",
+            "It lasts two hours.",
+            "People can exchange books."
+          ]
+        },
+        {
+          "heading": "Understand up to and without",
+          "text": "Up to three means a maximum of three; one or two books are also acceptable. Without a book means you arrive carrying no book for exchange. The poster gives a different option for that situation. Look for rules that apply to the things people bring and to who can attend.",
+          "examples": [
+            "Three is the maximum for exchange.",
+            "A book costs £1 if you do not exchange.",
+            "Children need an accompanying adult."
+          ]
+        },
+        {
+          "heading": "Make a plan from the poster",
+          "text": "Imagine you want to take two clean storybooks to the event. Check the day, opening time, place, and allowed type of book. If you want tea, notice the cup instruction. Explain your plan to a friend using only information that appears in the notice.",
+          "examples": [
+            "I can bring two storybooks.",
+            "I must leave textbooks at home.",
+            "I will bring my own cup."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is the maximum number of books to bring for exchange?",
+          "options": [
+            "Three",
+            "One",
+            "Five",
+            "Ten"
+          ],
+          "answer": 0,
+          "explanation": "Up to three sets a maximum of three books."
+        },
+        {
+          "prompt": "Can someone attend without a book to exchange?",
+          "options": [
+            "Yes, and they can buy a book for £1.",
+            "No, everyone must bring three.",
+            "Yes, but only at 2 p.m.",
+            "No, only teachers can attend."
+          ],
+          "answer": 0,
+          "explanation": "The poster explicitly offers a £1 purchase option to people without a book."
+        },
+        {
+          "prompt": "Which item is not accepted for exchange?",
+          "options": [
+            "A clean storybook",
+            "A clean poetry book",
+            "A textbook",
+            "A clean picture book"
+          ],
+          "answer": 2,
+          "explanation": "The poster says, “No textbooks, please.”"
+        }
+      ]
+    },
+    {
+      "id": "a1-listen-market-change",
+      "level": "a1",
+      "skill": "listening",
+      "title": "Listen: a market purchase",
+      "description": "Follow quantities, a price, and a corrected choice in a short exchange.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Identify the buying situation",
+          "text": "Listen once and decide what the customer wants to buy. A market conversation often contains quantities, prices, and changes of choice. You do not need to write every word. Begin by noting the items, then check which item the speaker finally chooses.",
+          "examples": [
+            "Listen for fruit names.",
+            "A price tells you a cost.",
+            "A later choice can replace an earlier one."
+          ]
+        },
+        {
+          "heading": "Listen for a changed decision",
+          "text": "But, instead, and actually often signal a change. A customer may mention one quantity and then choose another. Keep the final decision rather than copying the first number you hear. On your second listening, write a short final shopping list and cross out any rejected choice.",
+          "examples": [
+            "I’ll take two instead.",
+            "The final request matters.",
+            "Keep quantities beside the matching food."
+          ]
+        },
+        {
+          "heading": "Separate payment from price",
+          "text": "The money a customer gives may be more than the total price. Change is the money returned. In this recording, focus on the total the seller states and what is inside the final order. Repeat the order aloud as if you are checking it with the seller.",
+          "examples": [
+            "The total is the cost of the order.",
+            "A five-pound note is a payment.",
+            "Check both the items and their quantities."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How many oranges does the customer finally buy?",
+          "options": [
+            "Three",
+            "Four",
+            "Two",
+            "One"
+          ],
+          "answer": 2,
+          "explanation": "The customer changes the original request to two oranges."
+        },
+        {
+          "prompt": "Which extra item does the customer buy?",
+          "options": [
+            "One apple",
+            "A bottle of water",
+            "One banana",
+            "Two pears"
+          ],
+          "answer": 2,
+          "explanation": "After changing the orange quantity, the customer adds one banana."
+        },
+        {
+          "prompt": "What is the total cost?",
+          "options": [
+            "Five pounds",
+            "Two pounds",
+            "Three pounds",
+            "Four pounds"
+          ],
+          "answer": 2,
+          "explanation": "The seller states the total is three pounds; five pounds is the amount handed over."
+        }
+      ],
+      "listeningText": "Customer: Good morning. I would like three oranges, please. Seller: These oranges are one pound each. Customer: They are quite big. I will take two instead, and one banana. Seller: The banana is one pound too, so that is three pounds altogether. Customer: Here is five pounds. Seller: Thank you. Here are your fruit and two pounds change. Customer: Thanks. I do not need a bag today."
+    },
+    {
+      "id": "a1-listen-haircut-appointment",
+      "level": "a1",
+      "skill": "listening",
+      "title": "Listen: make an appointment",
+      "description": "Distinguish an unavailable time from a confirmed appointment.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Listen for the purpose of the call",
+          "text": "Before playing the recording, predict what people say when making an appointment. They often name a service, ask about a day, and choose a time. On the first listening, identify why the caller is calling. This gives the later numbers and names a clear purpose.",
+          "examples": [
+            "A haircut is a service.",
+            "An appointment is an agreed time.",
+            "The caller may reject an unsuitable time."
+          ]
+        },
+        {
+          "heading": "Track offered and accepted times",
+          "text": "Not every time you hear becomes the final appointment. Draw two columns labelled offered and accepted. Listen for phrases such as that works or I can’t come then. The accepted time is the one both speakers agree on near the end of the exchange.",
+          "examples": [
+            "An available time may be unsuitable.",
+            "The final agreement is the booking.",
+            "Note a day beside the time."
+          ]
+        },
+        {
+          "heading": "Confirm details before finishing",
+          "text": "The recording includes a name and an arrival request. Check these after you have the correct appointment time. In your own practice call, repeat the day and time before saying goodbye. This simple confirmation helps both people notice a mistake while they can still correct it.",
+          "examples": [
+            "So that is Friday at two.",
+            "Please arrive a little early.",
+            "Thank you. See you then."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What does the caller want?",
+          "options": [
+            "An English class",
+            "A train ticket",
+            "A haircut",
+            "A table for lunch"
+          ],
+          "answer": 2,
+          "explanation": "The caller begins by asking to book a haircut."
+        },
+        {
+          "prompt": "Which appointment is finally agreed?",
+          "options": [
+            "Friday at two",
+            "Thursday at eleven",
+            "Friday at eleven",
+            "Thursday at two"
+          ],
+          "answer": 0,
+          "explanation": "Thursday is unsuitable, and both speakers settle on Friday at two."
+        },
+        {
+          "prompt": "What does the receptionist ask the caller to do?",
+          "options": [
+            "Arrive five minutes early.",
+            "Bring three books.",
+            "Call again on Monday.",
+            "Pay by phone now."
+          ],
+          "answer": 0,
+          "explanation": "The receptionist asks for arrival five minutes before the appointment."
+        }
+      ],
+      "listeningText": "Receptionist: Hello, Green Street Hair. Caller: Hello. Can I book a haircut this week? Receptionist: We have Thursday at eleven. Caller: I work on Thursday. Is Friday possible? Receptionist: Yes, Friday at two is free. Caller: That is good, thank you. My name is Dina Moss. Receptionist: Thank you, Dina. Please arrive five minutes early. Caller: Friday at two. I will be there. Receptionist: Lovely. See you then."
+    },
+    {
+      "id": "a1-listen-weekend-weather",
+      "level": "a1",
+      "skill": "listening",
+      "title": "Listen: choose a picnic day",
+      "description": "Connect a simple forecast to a changed weekend plan.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Expect a comparison across days",
+          "text": "The recording compares weather on two days. Make a small table with one line for each day before you listen. Catch a broad description first, such as wet or sunny. You can add the time of day and the practical plan during a later listening.",
+          "examples": [
+            "Saturday: listen for the weather.",
+            "Sunday: listen for a contrast.",
+            "The best picnic day may be mentioned last."
+          ]
+        },
+        {
+          "heading": "Listen beyond one familiar word",
+          "text": "Sun, rain, and warm are useful clues, but their day and time matter. Do not choose a day just because you hear the word sunny somewhere in the message. Connect the weather phrase to the day it describes, and notice whether the speaker changes the original plan.",
+          "examples": [
+            "Rain on Saturday affects Saturday’s plan.",
+            "Sunday morning is a specific period.",
+            "But often introduces a contrast."
+          ]
+        },
+        {
+          "heading": "Turn the forecast into a short message",
+          "text": "After listening, write a two-sentence message to a friend with the chosen day, meeting place, and item to bring. Read it aloud and check it against the recording. A forecast is an expectation rather than a guarantee, so people may need to check conditions again later.",
+          "examples": [
+            "Let’s meet on the chosen day.",
+            "Add the meeting place.",
+            "Mention the practical item to bring."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What weather is expected on Saturday afternoon?",
+          "options": [
+            "Rain",
+            "Snow",
+            "Hot sunshine",
+            "Strong frost"
+          ],
+          "answer": 0,
+          "explanation": "The speaker says rain is expected on Saturday afternoon."
+        },
+        {
+          "prompt": "When do the friends plan to have the picnic?",
+          "options": [
+            "Saturday afternoon",
+            "Sunday morning",
+            "Monday evening",
+            "Friday morning"
+          ],
+          "answer": 1,
+          "explanation": "The speaker suggests Sunday morning instead of Saturday."
+        },
+        {
+          "prompt": "What should the listener bring?",
+          "options": [
+            "A light jacket",
+            "A large suitcase",
+            "A textbook",
+            "A bicycle helmet"
+          ],
+          "answer": 0,
+          "explanation": "The message asks for a light jacket because it will be cool early on."
+        }
+      ],
+      "listeningText": "Hi Sam. I checked the weekend weather. Saturday morning will be cloudy, and there will be rain in the afternoon. Sunday looks better: it will be dry and sunny in the morning. Let us have our picnic on Sunday instead. We can meet at the park gate at ten. Bring a light jacket because it will be cool early on. I will bring sandwiches. Please bring some fruit and water."
+    },
+    {
+      "id": "a1-holiday-postcard",
+      "level": "a1",
+      "skill": "writing",
+      "title": "Write a short holiday postcard",
+      "description": "Describe a place, a current activity, and a friendly closing.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Choose details your reader can picture",
+          "text": "A postcard is a short friendly message from a place you are visiting. Begin with a greeting and say where you are. Add one concrete detail about the place rather than a long list of adjectives. Imagine a friend who has never seen the place.",
+          "examples": [
+            "Dear Imran,",
+            "I am in a small town by the sea.",
+            "Our hotel is near the beach."
+          ]
+        },
+        {
+          "heading": "Use the right time for each idea",
+          "text": "Use the present simple for a general fact and the present continuous for what is happening now. A time phrase can help. You can also describe a regular holiday activity. Keep the same person and place clear so the reader understands who is doing each action.",
+          "examples": [
+            "The town has a busy market.",
+            "I am sitting in a café now.",
+            "We walk by the sea every morning."
+          ]
+        },
+        {
+          "heading": "Finish and check your message",
+          "text": "Write about fifty words with a greeting, location, two details, and a closing. Check that names and places begin with capitals. Read each verb and ask whether it describes a general fact or a current activity. Finish with a friendly line that suits your relationship with the reader.",
+          "examples": [
+            "See you soon!",
+            "Best wishes, Maya",
+            "I hope you are well."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence describes an action happening now?",
+          "options": [
+            "The town has a market.",
+            "I visit every year.",
+            "The hotel is near the beach.",
+            "I am sitting in a café now."
+          ],
+          "answer": 3,
+          "explanation": "Am sitting is present continuous and now identifies the current action."
+        },
+        {
+          "prompt": "Which detail helps a reader picture the location?",
+          "options": [
+            "It is nice nice nice.",
+            "There are things there.",
+            "I am somewhere.",
+            "The hotel is beside a quiet river."
+          ],
+          "answer": 3,
+          "explanation": "A quiet river beside the hotel gives a specific visual detail."
+        },
+        {
+          "prompt": "Which ending suits a friendly postcard?",
+          "options": [
+            "To the accounts department,",
+            "See you soon!",
+            "Payment overdue immediately.",
+            "Reference number only."
+          ],
+          "answer": 1,
+          "explanation": "See you soon is a natural friendly closing."
+        }
+      ]
+    },
+    {
+      "id": "a1-weekday-paragraph",
+      "level": "a1",
+      "skill": "writing",
+      "title": "Write about a weekday",
+      "description": "Organize a short routine paragraph with times and linking words.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Choose one typical day",
+          "text": "Write about a normal weekday rather than every possible activity in your life. Use the present simple for routines. Select a few actions that help the reader follow your day from morning to evening. A clear first sentence tells the reader what the paragraph is about.",
+          "examples": [
+            "My weekdays are usually busy.",
+            "I wake up at six.",
+            "I take the bus to college."
+          ]
+        },
+        {
+          "heading": "Add times and order words",
+          "text": "Use first, then, after that, and finally to show an order. Do not begin every sentence with then when a time phrase can be clearer. Put at before a clock time and in before a part of the day, except at night.",
+          "examples": [
+            "At seven, I have breakfast.",
+            "In the afternoon, I study English.",
+            "After dinner, I read for twenty minutes."
+          ]
+        },
+        {
+          "heading": "Check the reader’s route through the day",
+          "text": "Write six to eight sentences and read them in order. Can a reader follow what happens first and last? Check third-person s if you describe another person, and use the base verb after don’t or doesn’t. Add one reason with because to make the paragraph more personal.",
+          "examples": [
+            "I go to bed early because I start work at seven.",
+            "She studies after dinner.",
+            "She doesn’t watch television on weekdays."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which tense normally describes a regular weekday routine?",
+          "options": [
+            "Present simple",
+            "Past perfect only",
+            "Future perfect only",
+            "Present continuous in every sentence"
+          ],
+          "answer": 0,
+          "explanation": "The present simple describes repeated activities and routines."
+        },
+        {
+          "prompt": "Which phrase gives a clock time correctly?",
+          "options": [
+            "in seven",
+            "at seven",
+            "on seven",
+            "by seven o’clock yesterday only"
+          ],
+          "answer": 1,
+          "explanation": "At is the normal preposition for the time an activity happens."
+        },
+        {
+          "prompt": "Which sentence gives a reason?",
+          "options": [
+            "I sleep early and work.",
+            "I sleep early because I start work at seven.",
+            "First I sleep.",
+            "My work starts at seven."
+          ],
+          "answer": 1,
+          "explanation": "Because introduces the reason for sleeping early."
+        }
+      ]
+    },
+    {
+      "id": "a1-simple-directions-steps",
+      "level": "a1",
+      "skill": "writing",
+      "title": "Write clear step-by-step instructions",
+      "description": "Use action verbs, sequence words, and useful checks.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Tell the reader the goal",
+          "text": "Instructions help someone complete a task. Start with a clear title, such as How to join the reading club. Give one action in each step and use a base verb at the start. Avoid hiding an important action inside a long sentence with several unrelated ideas.",
+          "examples": [
+            "How to join the reading club",
+            "First, open the club page.",
+            "Next, choose a meeting day."
+          ]
+        },
+        {
+          "heading": "Choose words the reader can act on",
+          "text": "A useful step names both an action and its object. Click is less helpful than Click Join the club. If the reader needs to type something, state exactly what kind of information is needed. Use a warning or negative instruction only when it is relevant to the task.",
+          "examples": [
+            "Type your first name.",
+            "Choose one day from the list.",
+            "Don’t leave the name box empty."
+          ]
+        },
+        {
+          "heading": "Try your steps as a new learner",
+          "text": "Write four steps for a simple task on paper or a familiar device. Follow only the words you wrote, without filling gaps from memory. Add a missing detail when you get stuck. Finish with a check that tells the reader whether the task has succeeded.",
+          "examples": [
+            "Finally, press Save.",
+            "Check that your chosen day appears.",
+            "If it is wrong, choose the day again."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which instruction gives the clearest action?",
+          "options": [
+            "Click Save to keep your choice.",
+            "Do the thing.",
+            "It happens over there.",
+            "Maybe this is good."
+          ],
+          "answer": 0,
+          "explanation": "The instruction names the action, the control, and its purpose."
+        },
+        {
+          "prompt": "What is a good way to organize simple instructions?",
+          "options": [
+            "Put every action into one long sentence.",
+            "Remove all action words.",
+            "Start with the final result and omit the process.",
+            "One clear action in each step."
+          ],
+          "answer": 3,
+          "explanation": "Separate steps help the reader follow the sequence."
+        },
+        {
+          "prompt": "Which word normally introduces the last step?",
+          "options": [
+            "Yesterday",
+            "Finally",
+            "Usually",
+            "Because"
+          ],
+          "answer": 1,
+          "explanation": "Finally signals the last step in a sequence."
+        }
+      ]
+    },
+    {
+      "id": "a1-ship-and-sheep-vowels",
+      "level": "a1",
+      "skill": "speaking",
+      "title": "Hear and say ship and sheep",
+      "description": "Make two common vowel sounds clearer in useful short phrases.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Compare two vowel sounds",
+          "text": "Ship and sheep have different vowel sounds in many English accents. Sheep has a longer vowel with the tongue relatively high and forward. Ship has a shorter, more relaxed vowel. Listen to a model, then alternate the words slowly. Length helps, but tongue position also matters.",
+          "examples": [
+            "ship / sheep",
+            "sit / seat",
+            "live / leave"
+          ]
+        },
+        {
+          "heading": "Practice inside a meaningful phrase",
+          "text": "A sound contrast becomes more useful when a listener can identify the intended word in a sentence. Keep the rest of the sentence steady and change only the target word. Record a short phrase if possible, then decide whether the whole word is clear, not whether your accent is perfect.",
+          "examples": [
+            "This is a ship.",
+            "This is a sheep.",
+            "Please sit in this seat."
+          ]
+        },
+        {
+          "heading": "Check understanding through a choice",
+          "text": "With a partner, point to pictures or write the two words on paper. Say one phrase and let the listener choose the word they heard. If they choose differently, repeat slowly and check the vowel. Swap roles and keep the exchange relaxed; the purpose is understandable communication.",
+          "examples": [
+            "Did you say ship or sheep?",
+            "I said sheep, the animal.",
+            "Thank you. That is clear now."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which pair practices the same vowel contrast as ship and sheep?",
+          "options": [
+            "sit and seat",
+            "cat and cut",
+            "coat and caught",
+            "pen and Ben"
+          ],
+          "answer": 0,
+          "explanation": "Sit has the vowel of ship; seat has the vowel of sheep in many accents."
+        },
+        {
+          "prompt": "Which extra information clarifies sheep?",
+          "options": [
+            "The boat.",
+            "The animal.",
+            "The chair.",
+            "The address."
+          ],
+          "answer": 1,
+          "explanation": "Naming the animal meaning helps distinguish sheep from ship."
+        },
+        {
+          "prompt": "What is the purpose of this pronunciation practice?",
+          "options": [
+            "Make the intended word easier to understand.",
+            "Make all speakers have an identical accent.",
+            "Remove every pause.",
+            "Speak faster than the listener can follow."
+          ],
+          "answer": 0,
+          "explanation": "Clear distinctions support communication; an identical accent is unnecessary."
+        }
+      ]
+    },
+    {
+      "id": "a1-stress-in-everyday-words",
+      "level": "a1",
+      "skill": "speaking",
+      "title": "Find the strong beat in a word",
+      "description": "Notice word stress in familiar words and new vocabulary.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Listen for a stronger syllable",
+          "text": "A word with several syllables usually has one main stressed syllable. It may sound longer, clearer, or stronger than the others. Listen before looking only at spelling. Clap the syllables and then make one beat stronger. Capital letters in the examples mark stress for practice, not normal writing.",
+          "examples": [
+            "TAble",
+            "beGIN",
+            "aBOUT"
+          ]
+        },
+        {
+          "heading": "Learn stress with the whole word",
+          "text": "Write a new word with its meaning and mark the stressed syllable in your notes. Stress is part of pronunciation, just like the sounds. Do not assume all two-syllable words follow the same pattern. A dictionary audio model can help when you are unsure of a particular word.",
+          "examples": [
+            "DOCtor",
+            "hoTEL",
+            "toDAY"
+          ]
+        },
+        {
+          "heading": "Use the word in a short exchange",
+          "text": "Choose three words from this lesson and put each into a useful sentence. Keep the word’s stressed beat clear, then speak the sentence at a comfortable pace. Ask a listener which key word they heard. Repeat only the unclear part and let them confirm the meaning.",
+          "examples": [
+            "The hotel is near the station.",
+            "I need a doctor.",
+            "Can we begin now?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which syllable normally carries the main stress in hotel?",
+          "options": [
+            "The first: HO.",
+            "Both must be shouted equally.",
+            "Only the final letter l.",
+            "The second: TEL."
+          ],
+          "answer": 3,
+          "explanation": "Hotel usually has main stress on its second syllable."
+        },
+        {
+          "prompt": "How should you learn stress for a new word?",
+          "options": [
+            "Assume every first syllable is stressed.",
+            "Listen to the whole word and mark its stressed syllable.",
+            "Ignore pronunciation completely.",
+            "Add a new written letter."
+          ],
+          "answer": 1,
+          "explanation": "Learning a word with its stress helps you recognize and say it clearly."
+        },
+        {
+          "prompt": "What do the capitals mean in beGIN here?",
+          "options": [
+            "The word must always be written that way.",
+            "The word is a person’s name.",
+            "The second syllable has the main stress.",
+            "The first syllable is silent."
+          ],
+          "answer": 2,
+          "explanation": "The capitalized part shows the stressed syllable for pronunciation practice."
+        }
+      ]
+    },
+    {
+      "id": "a1-share-a-conversation",
+      "level": "a1",
+      "skill": "speaking",
+      "title": "Keep a short conversation going",
+      "description": "Ask a follow-up, show interest, and give the other person a turn.",
+      "minutes": 10,
+      "content": [
+        {
+          "heading": "Give more than a one-word answer",
+          "text": "A conversation is easier when an answer gives a small detail the other person can respond to. You do not need a long speech. Answer the question, add one true detail, and stop. This makes room for another turn while offering a useful topic.",
+          "examples": [
+            "Do you like music? Yes, I like jazz.",
+            "Where do you study? At the college near the park.",
+            "I read short stories after dinner."
+          ]
+        },
+        {
+          "heading": "Ask a connected follow-up question",
+          "text": "A follow-up question uses information the speaker just gave. If they mention jazz, ask about a singer or when they listen. Do not jump straight to an unrelated personal question. A simple really or that sounds interesting can show attention before the follow-up.",
+          "examples": [
+            "Who is your favourite singer?",
+            "When do you usually listen?",
+            "That sounds interesting. Tell me more."
+          ]
+        },
+        {
+          "heading": "Invite your partner into the exchange",
+          "text": "If you have spoken for a while, ask and you or what about you to return the turn. Listen until your partner finishes before replying. Practice a one-minute exchange about a hobby with equal time for both people. End naturally when the activity or conversation is finished.",
+          "examples": [
+            "I like reading. What about you?",
+            "Sorry, please finish your idea.",
+            "It was nice talking with you."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Someone says, “I like jazz.” Which follow-up stays on the topic?",
+          "options": [
+            "Where is my blue pen?",
+            "How much is the bread?",
+            "Is the train cancelled?",
+            "Who is your favourite jazz singer?"
+          ],
+          "answer": 3,
+          "explanation": "The question develops the music topic the speaker introduced."
+        },
+        {
+          "prompt": "Which phrase invites the other person to speak?",
+          "options": [
+            "Listen only to me.",
+            "I will not stop.",
+            "What about you?",
+            "Your answer is unnecessary."
+          ],
+          "answer": 2,
+          "explanation": "What about you returns the question or topic to the other person."
+        },
+        {
+          "prompt": "Which response best supports a short conversation?",
+          "options": [
+            "Give a twenty-minute speech immediately.",
+            "Answer and add one relevant detail.",
+            "Interrupt every sentence.",
+            "Ignore every answer."
+          ],
+          "answer": 1,
+          "explanation": "A relevant detail gives the partner something to respond to while leaving room for turns."
+        }
+      ]
+    },
+    {
+      "id": "a2-present-perfect-experiences",
+      "level": "a2",
+      "skill": "grammar",
+      "title": "Experiences up to now",
+      "description": "Use the present perfect for experiences without a finished past time.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Connect experience with the present",
+          "text": "Use have or has plus a past participle to talk about an experience at an unspecified time before now. Use have with I, you, we, and they; use has with he, she, and it. Common participles include visited, seen, eaten, and been.",
+          "examples": [
+            "I have visited Jaffna.",
+            "She has seen that film.",
+            "We have eaten there before."
+          ]
+        },
+        {
+          "heading": "Ask about experience with ever",
+          "text": "Ever in a question means at any time before now. Never means not at any time before now, so do not add another negative to it. Ask about an experience first, then use the past simple if you give a specific finished time for it.",
+          "examples": [
+            "Have you ever ridden a horse?",
+            "I have never flown in a plane.",
+            "Yes, I rode a horse last year."
+          ]
+        },
+        {
+          "heading": "Choose between a life experience and a dated event",
+          "text": "Compare I have seen that film with I saw that film on Monday. The first tells you about experience; the second places the event at a finished time. Write three true or imaginary experiences and add a separate past-simple sentence with details for one of them.",
+          "examples": [
+            "I have been to Galle.",
+            "I went there in June.",
+            "I haven’t tried sushi yet."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence correctly describes an experience without a finished date?",
+          "options": [
+            "She have visited Nepal.",
+            "She has visited Nepal.",
+            "She has visit Nepal.",
+            "She visited Nepal tomorrow."
+          ],
+          "answer": 1,
+          "explanation": "She takes has, followed by the past participle visited."
+        },
+        {
+          "prompt": "Choose the correct sentence about a finished day.",
+          "options": [
+            "I have seen that film yesterday.",
+            "I saw that film yesterday.",
+            "I has seen that film yesterday.",
+            "I see that film yesterday."
+          ],
+          "answer": 1,
+          "explanation": "Yesterday is a finished past time, so the past simple saw fits."
+        },
+        {
+          "prompt": "What does “I have never flown” mean?",
+          "options": [
+            "At no time before now have I flown.",
+            "I fly every week.",
+            "I am flying now.",
+            "I flew yesterday only."
+          ],
+          "answer": 0,
+          "explanation": "Never means not at any time before now in this experience statement."
+        }
+      ]
+    },
+    {
+      "id": "a2-past-continuous-background",
+      "level": "a2",
+      "skill": "grammar",
+      "title": "What was happening then?",
+      "description": "Describe an action in progress when a shorter past event happened.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Build a past action in progress",
+          "text": "Use was or were plus an ing form to describe something happening at a particular past moment. Use was with I, he, she, and it, and were with you, we, and they. The sentence looks back at an activity while it was still in progress.",
+          "examples": [
+            "At eight, I was cooking.",
+            "They were waiting outside.",
+            "She wasn’t sleeping."
+          ]
+        },
+        {
+          "heading": "Add a shorter past event",
+          "text": "A past continuous action can provide the background for a past simple event. When often introduces the event that happened during the longer activity. Keep the event order clear: the background activity was already happening. The sentence does not always say whether it stopped afterward.",
+          "examples": [
+            "I was reading when the phone rang.",
+            "We were walking when it started to rain.",
+            "He was cooking when I arrived."
+          ]
+        },
+        {
+          "heading": "Describe a scene, then a change",
+          "text": "Picture a room or street at a past time. Write two sentences about what people were doing and one sentence about a sudden event. Check was and were, then check your irregular past-simple forms. Read the result aloud and ask whether the background and the new event are easy to separate.",
+          "examples": [
+            "The children were playing.",
+            "Their father was making tea.",
+            "Then the lights went out."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "At nine yesterday, they ___ for the bus.",
+          "options": [
+            "was waiting",
+            "were waiting",
+            "are wait",
+            "waiting were"
+          ],
+          "answer": 1,
+          "explanation": "They takes were, followed by the ing form waiting."
+        },
+        {
+          "prompt": "Which sentence shows a background action and a shorter event?",
+          "options": [
+            "I read every day.",
+            "I will read tomorrow.",
+            "I was reading when the phone rang.",
+            "I have a phone."
+          ],
+          "answer": 2,
+          "explanation": "Was reading gives the action in progress; rang gives the event that happened during it."
+        },
+        {
+          "prompt": "Complete the past scene: “She ___ making tea.”",
+          "options": [
+            "were",
+            "are",
+            "does",
+            "was"
+          ],
+          "answer": 3,
+          "explanation": "She takes was in the past continuous."
+        }
+      ]
+    },
+    {
+      "id": "a2-advice-and-obligation",
+      "level": "a2",
+      "skill": "grammar",
+      "title": "Advice, rules, and things you don’t need",
+      "description": "Distinguish should, have to, mustn’t, and don’t have to.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Give advice with should",
+          "text": "Use should plus a base verb to recommend an action. Shouldn’t recommends avoiding an action. Advice offers a good idea; it does not automatically describe a rule. Add a reason so the listener understands why you recommend it, and choose a polite tone for personal suggestions.",
+          "examples": [
+            "You should check the address before leaving.",
+            "You shouldn’t leave your bag open.",
+            "We should arrive early because the queue is long."
+          ]
+        },
+        {
+          "heading": "Describe a requirement with have to",
+          "text": "Have to often expresses a requirement or necessity. Use has to with he, she, and it. In questions and negatives, use do or does followed by have to. A clear requirement tells a person what is necessary in that particular situation.",
+          "examples": [
+            "Visitors have to sign in.",
+            "She has to bring her ID.",
+            "Do we have to book first?"
+          ]
+        },
+        {
+          "heading": "Separate forbidden from unnecessary",
+          "text": "Mustn’t means an action is not allowed. Don’t have to means it is not necessary, but it may still be allowed. Confusing these changes a rule. Write two rules for an imaginary library and one optional action, then explain which actions are required, forbidden, or simply optional.",
+          "examples": [
+            "You mustn’t eat in this room.",
+            "You don’t have to bring a pen; we provide one.",
+            "You have to return books on time."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "“You don’t have to bring a pen” means what?",
+          "options": [
+            "Bringing a pen is forbidden.",
+            "Bringing a pen is not necessary.",
+            "You must buy three pens.",
+            "You must leave every pen outside."
+          ],
+          "answer": 1,
+          "explanation": "Don’t have to removes the necessity; it does not forbid the action."
+        },
+        {
+          "prompt": "Which sentence gives advice?",
+          "options": [
+            "The train left at six.",
+            "This is a train station.",
+            "You should check the train time.",
+            "I checked the time yesterday."
+          ],
+          "answer": 2,
+          "explanation": "Should plus a base verb expresses a recommendation."
+        },
+        {
+          "prompt": "Which sentence means eating is forbidden?",
+          "options": [
+            "You don’t have to eat here.",
+            "You should eat here.",
+            "You can eat here.",
+            "You mustn’t eat here."
+          ],
+          "answer": 3,
+          "explanation": "Mustn’t expresses prohibition: the action is not allowed."
+        }
+      ]
+    },
+    {
+      "id": "a2-health-appointment-words",
+      "level": "a2",
+      "skill": "vocabulary",
+      "title": "Explain a health concern in English",
+      "description": "Describe common symptoms and understand appointment language.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Name what you are experiencing",
+          "text": "A symptom is a change you notice in your body, such as a cough or a headache. English uses have with many symptom nouns. Hurt can describe a painful body part. Learn the language to report your experience clearly rather than using these words to diagnose a condition.",
+          "examples": [
+            "I have a headache.",
+            "My throat hurts.",
+            "I have had a cough since Monday."
+          ]
+        },
+        {
+          "heading": "Understand common service words",
+          "text": "An appointment is an agreed time to see someone. A receptionist helps organize bookings. A prescription is an authorized instruction for supplying a medicine. A pharmacy is a place where medicines are supplied. The words describe different parts of a visit and should not be treated as interchangeable.",
+          "examples": [
+            "I would like to make an appointment.",
+            "The receptionist confirmed my time.",
+            "I took the prescription to a pharmacy."
+          ]
+        },
+        {
+          "heading": "Prepare a clear language summary",
+          "text": "For a speaking exercise, invent a non-urgent situation and give the symptom, when it began, and a question for the appointment desk. Use since with the starting point and for with a duration. This lesson practices communication and does not decide what treatment a person needs.",
+          "examples": [
+            "It started yesterday.",
+            "I have felt tired for two days.",
+            "Is an appointment available this afternoon?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence clearly reports a symptom?",
+          "options": [
+            "My throat hurts.",
+            "My appointment is a chair.",
+            "I prescription yesterday.",
+            "The cough is a receptionist."
+          ],
+          "answer": 0,
+          "explanation": "My throat hurts identifies a body part and the discomfort."
+        },
+        {
+          "prompt": "Who commonly helps organize an appointment at a clinic?",
+          "options": [
+            "A passenger",
+            "A mechanic",
+            "A receptionist",
+            "A gardener"
+          ],
+          "answer": 2,
+          "explanation": "Organizing bookings is a common receptionist task."
+        },
+        {
+          "prompt": "Which phrase correctly describes a duration?",
+          "options": [
+            "since two days",
+            "at two days",
+            "on two days ago",
+            "for two days"
+          ],
+          "answer": 3,
+          "explanation": "Use for with a length of time such as two days."
+        }
+      ]
+    },
+    {
+      "id": "a2-feelings-and-reactions",
+      "level": "a2",
+      "skill": "vocabulary",
+      "title": "Say how an experience made you feel",
+      "description": "Distinguish feelings from the things that cause them.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Name a feeling precisely",
+          "text": "Excited describes positive energy about something, worried describes concern, disappointed describes an unmet hope, and relieved describes feeling better after a worry ends. Choose the word that matches the situation instead of using good or bad every time. A short reason helps the listener follow your meaning.",
+          "examples": [
+            "I am excited about the trip.",
+            "She is worried about the delay.",
+            "We felt relieved when the key was found."
+          ]
+        },
+        {
+          "heading": "Compare ed and ing adjectives",
+          "text": "An ed adjective often describes a person’s feeling, while the related ing adjective describes what causes the feeling. I am bored describes me; the film is boring describes the film’s effect. These are useful patterns, but learn whole examples rather than changing every adjective ending mechanically.",
+          "examples": [
+            "The lesson is interesting. I am interested.",
+            "The journey was tiring. We were tired.",
+            "The noise was annoying. He was annoyed."
+          ]
+        },
+        {
+          "heading": "Use feelings without guessing for others",
+          "text": "Describe your own reaction and give its cause. When talking about another person, use what they told you or ask how they feel instead of assuming. Write three short sentences about an imaginary event, each with a different feeling and a concrete reason.",
+          "examples": [
+            "I was disappointed because the concert was cancelled.",
+            "How did you feel about the result?",
+            "I was relieved because I passed."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence describes the person’s feeling correctly?",
+          "options": [
+            "I was interested in the story.",
+            "I was interesting in the story.",
+            "The story was interested to me.",
+            "I was interest in the story."
+          ],
+          "answer": 0,
+          "explanation": "Interested describes how the person feels; interesting describes the story’s effect."
+        },
+        {
+          "prompt": "You were worried, but the missing key is now found. Which feeling fits?",
+          "options": [
+            "Disappointed",
+            "Bored",
+            "Jealous",
+            "Relieved"
+          ],
+          "answer": 3,
+          "explanation": "Relieved describes the positive feeling when a worry is removed."
+        },
+        {
+          "prompt": "Which pair uses the adjectives naturally?",
+          "options": [
+            "The walk was tired, so I felt tiring.",
+            "The walk was tiring, so I felt tired.",
+            "The walk was tiring, so I felt tiring.",
+            "The walk tired was, so tired I."
+          ],
+          "answer": 1,
+          "explanation": "Tiring describes the activity’s effect; tired describes the person’s feeling."
+        }
+      ]
+    },
+    {
+      "id": "a2-word-families-and-opposites",
+      "level": "a2",
+      "skill": "vocabulary",
+      "title": "Build vocabulary from word families",
+      "description": "Recognize useful prefixes, suffixes, and changes in word type.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Notice a base word and its relatives",
+          "text": "A word family includes related words with different forms or jobs. Teach is a verb and teacher is a noun for a person. Help can become helpful. Learn the meaning and grammar of the new form together; a familiar base does not guarantee you know how to use every relative.",
+          "examples": [
+            "She teaches English.",
+            "She is an English teacher.",
+            "Your explanation is helpful."
+          ]
+        },
+        {
+          "heading": "Use common negative prefixes carefully",
+          "text": "Un often changes an adjective to its opposite, as in happy and unhappy. Other words use different prefixes, such as possible and impossible. A prefix is a clue, not a rule that works with every word. Check a dictionary example before inventing a new opposite.",
+          "examples": [
+            "kind → unkind",
+            "possible → impossible",
+            "correct → incorrect"
+          ]
+        },
+        {
+          "heading": "Choose the form that fits the sentence",
+          "text": "Look at the word’s position. After a or an, you often need a noun naming a person or thing. Before a noun, you may need an adjective. Build a small notebook table with base word, new form, meaning, and an original sentence that shows the right grammar.",
+          "examples": [
+            "He is a careful driver.",
+            "She drives carefully.",
+            "This is a useful guide."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which word names a person who teaches?",
+          "options": [
+            "Teachly",
+            "Teachingful",
+            "Teachness",
+            "Teacher"
+          ],
+          "answer": 3,
+          "explanation": "Teacher is the person noun formed from teach."
+        },
+        {
+          "prompt": "Which is the normal opposite of possible?",
+          "options": [
+            "Unpossible",
+            "Dispossible",
+            "Impossible",
+            "Notpossible"
+          ],
+          "answer": 2,
+          "explanation": "Possible normally takes the negative prefix im: impossible."
+        },
+        {
+          "prompt": "Choose the word that fits: “This is a ___ guide.”",
+          "options": [
+            "usefully",
+            "using",
+            "useful",
+            "uses"
+          ],
+          "answer": 2,
+          "explanation": "Useful is an adjective that can describe the noun guide."
+        }
+      ]
+    },
+    {
+      "id": "a2-volunteer-email",
+      "level": "a2",
+      "skill": "reading",
+      "title": "Read a volunteer’s first-day email",
+      "description": "Find changed arrangements, required items, and a reason.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Read the organizer’s message",
+          "text": "“Hello volunteers, thank you for helping with Saturday’s river clean-up. We planned to meet at the bridge, but the path there is being repaired. Please meet outside the sports centre at 8:30 instead. We will walk to the river together. We provide gloves and collection bags. Bring drinking water and wear strong shoes. The work ends at 11. If heavy rain is forecast, we will email you by 7 on Saturday morning. —Asha”",
+          "examples": [
+            "The meeting place has changed.",
+            "Gloves are provided.",
+            "The work ends at 11."
+          ]
+        },
+        {
+          "heading": "Connect a change to its reason",
+          "text": "The bridge is the original plan, and instead marks the replacement. A reader who stops at the first place name will go to the wrong location. Notice why the change happened. It is a repaired path, rather than bad weather, that causes this particular change of meeting place.",
+          "examples": [
+            "Original place: the bridge.",
+            "Final place: outside the sports centre.",
+            "Reason: the path is being repaired."
+          ]
+        },
+        {
+          "heading": "Separate what is provided from what to bring",
+          "text": "Make two lists: the organizer’s supplies and the volunteer’s own items. Then add the meeting time and the possible weather message. The email does not say the event is already cancelled. Explain your first-day plan in three sentences using only confirmed information from the email.",
+          "examples": [
+            "Provided: gloves and collection bags.",
+            "Bring: drinking water; wear strong shoes.",
+            "A rain-related update may arrive by 7."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Where should volunteers meet?",
+          "options": [
+            "At the bridge.",
+            "Inside the library.",
+            "At the train station.",
+            "Outside the sports centre."
+          ],
+          "answer": 3,
+          "explanation": "The message replaces the bridge meeting with the sports centre."
+        },
+        {
+          "prompt": "Why has the meeting place changed?",
+          "options": [
+            "The path near the bridge is being repaired.",
+            "Heavy rain has already cancelled the event.",
+            "The gloves are missing.",
+            "The sports centre is closing."
+          ],
+          "answer": 0,
+          "explanation": "The email specifically identifies path repairs as the reason."
+        },
+        {
+          "prompt": "Which item should a volunteer bring?",
+          "options": [
+            "Collection bags",
+            "Gloves",
+            "Drinking water",
+            "A repair tool"
+          ],
+          "answer": 2,
+          "explanation": "Water is requested; gloves and collection bags are provided."
+        }
+      ]
+    },
+    {
+      "id": "a2-cycle-hire-questions",
+      "level": "a2",
+      "skill": "reading",
+      "title": "Understand a cycle-hire FAQ",
+      "description": "Read conditions, exceptions, and responsibility in practical questions and answers.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Read the hire information",
+          "text": "“Town Cycle Hire. Who can hire? Adults aged 18 or over with photo ID. How long? Standard hire is four hours. Return before 6 p.m., even if four hours have not passed. What is included? A helmet and a lock. Can I cancel? Cancel by 5 p.m. the previous day for a full refund. Later cancellations receive no refund, except when the shop closes because of unsafe weather.”",
+          "examples": [
+            "Photo ID is required.",
+            "A helmet and lock are included.",
+            "The daily return limit is 6 p.m."
+          ]
+        },
+        {
+          "heading": "Read the rule and its limit together",
+          "text": "Four hours sounds like the normal hire length, but before 6 p.m. adds a separate limit. A person starting at 4 p.m. cannot keep the bicycle until 8 p.m. Words such as even if prevent a general rule from being applied in the wrong situation.",
+          "examples": [
+            "A 4 p.m. hire must still end before 6 p.m.",
+            "Standard hire does not override closing time.",
+            "Both age and ID conditions must be met."
+          ]
+        },
+        {
+          "heading": "Notice the refund exception",
+          "text": "A full refund normally requires cancellation by 5 p.m. on the previous day. A late cancellation usually receives none, but the shop closing for unsafe weather is an exception. Practice explaining one ordinary case and one exception. Do not assume any mention of rain automatically means the shop is closed.",
+          "examples": [
+            "Cancel the previous day before the deadline.",
+            "Unsafe-weather shop closure is a stated exception.",
+            "Ordinary late cancellation has no refund."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "A customer hires at 4 p.m. When must the bicycle be returned?",
+          "options": [
+            "Before 6 p.m.",
+            "At 8 p.m.",
+            "At midnight.",
+            "At 5 p.m. the next day."
+          ],
+          "answer": 0,
+          "explanation": "The before-6-p.m. limit applies even when four hours have not passed."
+        },
+        {
+          "prompt": "Which item is included with hire?",
+          "options": [
+            "A lock",
+            "A photo ID",
+            "A raincoat",
+            "A new bicycle to keep"
+          ],
+          "answer": 0,
+          "explanation": "The FAQ lists a helmet and a lock as included items."
+        },
+        {
+          "prompt": "Which late cancellation can receive a refund under the stated exception?",
+          "options": [
+            "When the customer wakes up late.",
+            "When the customer forgets photo ID.",
+            "When the customer chooses a different café.",
+            "When the shop closes because of unsafe weather."
+          ],
+          "answer": 3,
+          "explanation": "The only stated late-cancellation exception is an unsafe-weather shop closure."
+        }
+      ]
+    },
+    {
+      "id": "a2-saved-garden-story",
+      "level": "a2",
+      "skill": "reading",
+      "title": "Read a story about a shared garden",
+      "description": "Follow cause, response, and a change in someone’s view.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Read the short story",
+          "text": "“When a small plot beside their building became empty, Noor suggested a shared garden. Her neighbour Tomas said he had no time for plants. Noor planted tomatoes anyway and left a watering can by the door. One hot evening, she came home late and found the soil wet. Tomas was putting the can away. ‘I only gave them a little water,’ he said. By August, he was checking the plants each morning. At the first harvest, he brought bread so the neighbours could share tomato sandwiches.”",
+          "examples": [
+            "Noor suggests the garden.",
+            "Tomas is doubtful at first.",
+            "The neighbours share the harvest."
+          ]
+        },
+        {
+          "heading": "Look for actions that show a change",
+          "text": "The story does not directly say Tomas changed his mind, but his repeated actions support that conclusion. At first he says he has no time. Later he waters the plants, checks them each morning, and brings bread. These details make a stronger inference than a guess about his personality.",
+          "examples": [
+            "Initial statement: no time for plants.",
+            "Later action: daily checks.",
+            "Final contribution: bread for shared sandwiches."
+          ]
+        },
+        {
+          "heading": "Explain a conclusion with a detail",
+          "text": "When answering an inference question, connect your conclusion to a specific action from the story. Avoid conclusions the story cannot support, such as Tomas became a professional gardener. Write a three-sentence summary covering the idea, Tomas’s response, and the final shared meal. Keep the sequence clear.",
+          "examples": [
+            "Tomas becomes involved in the garden.",
+            "His morning checks support that conclusion.",
+            "The story does not mention a gardening job."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Who first suggests making a shared garden?",
+          "options": [
+            "Tomas",
+            "The building manager",
+            "Noor",
+            "A shopkeeper"
+          ],
+          "answer": 2,
+          "explanation": "The opening sentence names Noor as the person who suggests the idea."
+        },
+        {
+          "prompt": "Which action best shows Tomas’s growing involvement?",
+          "options": [
+            "He checks the plants each morning.",
+            "He says he has no time.",
+            "He leaves the building permanently.",
+            "He buys the whole plot."
+          ],
+          "answer": 0,
+          "explanation": "Regular morning checks show ongoing participation after his initial doubt."
+        },
+        {
+          "prompt": "Why does Tomas bring bread at the harvest?",
+          "options": [
+            "To sell gardening tools.",
+            "To stop Noor planting.",
+            "So the neighbours can share tomato sandwiches.",
+            "To feed a pet mentioned in the story."
+          ],
+          "answer": 2,
+          "explanation": "The final sentence explicitly gives the purpose of the bread."
+        }
+      ]
+    },
+    {
+      "id": "a2-listen-lost-backpack",
+      "level": "a2",
+      "skill": "listening",
+      "title": "Listen: describe a lost backpack",
+      "description": "Identify distinguishing features, a location, and the next step.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Organize the description before listening",
+          "text": "A lost-property conversation includes the object, its appearance, where it was last seen, and a way to check ownership. Prepare those labels in your notes. Listen once for the general problem. On a second pass, add distinguishing details rather than trying to write the whole conversation.",
+          "examples": [
+            "Object: what is missing?",
+            "Appearance: colour and special features.",
+            "Next step: what should the caller do?"
+          ]
+        },
+        {
+          "heading": "Use differences to reject a near match",
+          "text": "The staff member mentions a similar item that does not match the caller’s description. Do not choose the first object found simply because one feature matches. A useful description combines colour, a visible mark, and something inside. Listen for the contrast that explains why the offered item is wrong.",
+          "examples": [
+            "A similar colour is not enough.",
+            "A badge can distinguish one bag.",
+            "Contents may support an ownership check."
+          ]
+        },
+        {
+          "heading": "Check the practical follow-up",
+          "text": "At the end, the staff member explains the next action. Label who will call whom and what the caller should have ready. Practice a thirty-second description of an imaginary lost object using three identifying details, then ask what you should do next. Keep private contact details out of a public practice message.",
+          "examples": [
+            "I lost a blue backpack.",
+            "It has a star badge.",
+            "What should I do next?"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is on the caller’s backpack?",
+          "options": [
+            "A red flower badge",
+            "A silver bell",
+            "A yellow star badge",
+            "A green stripe"
+          ],
+          "answer": 2,
+          "explanation": "The caller identifies a yellow star badge on the front."
+        },
+        {
+          "prompt": "Where did the caller last see the backpack?",
+          "options": [
+            "Under a seat on the number twelve bus.",
+            "At the ticket office.",
+            "Beside a café door.",
+            "In a library classroom."
+          ],
+          "answer": 0,
+          "explanation": "The caller last saw it under a seat on the number twelve bus."
+        },
+        {
+          "prompt": "Why is the black bag not the caller’s?",
+          "options": [
+            "The caller did not lose any bag.",
+            "The black bag is empty and every bag must be empty.",
+            "The caller only owns a suitcase.",
+            "The caller’s bag is blue and has a star badge."
+          ],
+          "answer": 3,
+          "explanation": "The caller rejects the black bag because the missing backpack is blue with a yellow star badge."
+        }
+      ],
+      "listeningText": "Caller: Hello. I left my backpack on the number twelve bus this morning. Staff: Can you describe it? Caller: It is blue, with a yellow star badge on the front. Inside there is a green notebook and a lunch box. I last saw it under my seat near the back. Staff: We have a black bag here. Caller: That is not mine. Staff: The driver is still checking the bus. Please call us again after three. Have your ticket ready so we can check the journey details. Caller: Thank you. I will call after three this afternoon."
+    },
+    {
+      "id": "a2-listen-library-radio",
+      "level": "a2",
+      "skill": "listening",
+      "title": "Listen: a library on wheels",
+      "description": "Understand the main idea and practical details in a short local report.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Start with the main purpose",
+          "text": "A short report may begin with a new service and then explain how it works. Listen first for what the service does and who it helps. The title gives you a useful prediction, but the recording supplies the facts. Do not treat every named place as the service’s destination.",
+          "examples": [
+            "A mobile library takes books to people.",
+            "Listen for its purpose.",
+            "Keep the main idea separate from small details."
+          ]
+        },
+        {
+          "heading": "Catch the schedule and borrowing rule",
+          "text": "Write three headings before replaying: visits, borrowing, and registration. The report includes different numbers for different purposes. Match a number to its label before answering a question. A visit frequency is not the same thing as the length of time a person can keep a book.",
+          "examples": [
+            "Frequency: how often the van comes.",
+            "Loan period: how long a book may be kept.",
+            "Limit: how many books may be borrowed."
+          ]
+        },
+        {
+          "heading": "Retell the report for a neighbour",
+          "text": "Imagine explaining the service to someone who missed the report. Give the purpose, visit day, and one useful rule. Check the registration requirement separately. A brief summary should preserve the key facts without copying every sentence. Leave out details you did not hear rather than filling them with assumptions.",
+          "examples": [
+            "The van visits on a regular day.",
+            "Mention the borrowing limit.",
+            "Explain how a new member registers."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Why was the mobile library introduced?",
+          "options": [
+            "Some residents cannot easily reach the town library.",
+            "The town has banned reading.",
+            "All schools have closed.",
+            "Only tourists want books."
+          ],
+          "answer": 0,
+          "explanation": "The report says it helps residents who find travel to the town library difficult."
+        },
+        {
+          "prompt": "How often does the van visit each village?",
+          "options": [
+            "Every second Wednesday",
+            "Every day",
+            "Every Sunday",
+            "Once a year"
+          ],
+          "answer": 0,
+          "explanation": "The stated schedule is every second Wednesday."
+        },
+        {
+          "prompt": "How many books may each member borrow at a time?",
+          "options": [
+            "Two",
+            "Six",
+            "Four",
+            "Ten"
+          ],
+          "answer": 2,
+          "explanation": "Members may borrow up to four books at a time."
+        }
+      ],
+      "listeningText": "A new mobile library began visiting local villages this month. The small van carries novels, children’s stories, and books about gardening. The council introduced it because some residents cannot easily travel to the town library. The van visits each village every second Wednesday and stops near the community hall from two until four. Members can borrow up to four books and keep them until the next visit. Joining is free. New members should bring proof of their address when they register. The driver also accepts book returns, but the van does not provide a printing service at present."
+    },
+    {
+      "id": "a2-listen-cottage-booking",
+      "level": "a2",
+      "skill": "listening",
+      "title": "Listen: confirm a cottage booking",
+      "description": "Track a revised duration, included services, and a check-in arrangement.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Expect a final booking summary",
+          "text": "Accommodation calls often contain old information, a change, and a final summary. Listen for the booking name and broad request first. The guest may correct the length of the stay, so avoid writing the first number as your final answer before the call has finished.",
+          "examples": [
+            "A booking may be changed.",
+            "A summary confirms the final arrangement.",
+            "Listen for what is included in the price."
+          ]
+        },
+        {
+          "heading": "Distinguish an included item from an extra",
+          "text": "Included means covered by the stated price. An optional extra costs more or requires another arrangement. In this call, the guest asks about several useful services. Put them in separate columns after listening. Do not assume that every facility mentioned is automatically part of the booking.",
+          "examples": [
+            "Included: no extra fee stated.",
+            "Extra: an additional charge is named.",
+            "An available service is not always included."
+          ]
+        },
+        {
+          "heading": "Check arrival instructions in detail",
+          "text": "The call finishes with a plan for arriving after the reception desk closes. Note what the guest will receive and how they will enter. Practice confirming a booking in three sentences: dates or nights, important inclusions, and arrival plan. Keep your summary consistent with the final agreement.",
+          "examples": [
+            "Confirm the number of nights.",
+            "Check whether breakfast is included.",
+            "Explain the key collection arrangement."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How many nights is the final booking for?",
+          "options": [
+            "Three",
+            "Two",
+            "Four",
+            "One"
+          ],
+          "answer": 0,
+          "explanation": "The guest changes the original two-night booking to three nights."
+        },
+        {
+          "prompt": "What is included in the cottage price?",
+          "options": [
+            "Breakfast",
+            "Parking",
+            "Bicycle hire",
+            "A guided tour"
+          ],
+          "answer": 1,
+          "explanation": "Parking is included; breakfast costs extra."
+        },
+        {
+          "prompt": "How will the guest get the key after reception closes?",
+          "options": [
+            "From the train driver.",
+            "From a key box using a code sent by text.",
+            "By waiting until the next morning.",
+            "From a café that is never mentioned."
+          ],
+          "answer": 1,
+          "explanation": "The host will text a code for the key box beside the door."
+        }
+      ],
+      "listeningText": "Host: Hello, Willow Cottages. Guest: I have a booking under Patel for two nights from Friday. Could I stay until Monday instead? Host: Yes, I can change it to three nights. Guest: Thank you. Is breakfast included? Host: No, breakfast is eight pounds extra per person, but parking is included. Guest: We will cook our own breakfast. Our train arrives late, so we may reach you at nine. Host: Reception closes at eight. I will text you a code for the key box beside the door. Guest: Perfect. Please confirm the three nights by email as well. Host: Certainly."
+    },
+    {
+      "id": "a2-opinion-paragraph",
+      "level": "a2",
+      "skill": "writing",
+      "title": "Write an opinion with a reason and example",
+      "description": "Build one focused paragraph about a familiar choice.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "State one clear opinion",
+          "text": "An opinion paragraph tells the reader what you think about a focused topic. Choose a familiar question, such as whether studying in the morning suits you. Start with your answer rather than an unrelated history of the topic. Use I think when it helps make the personal viewpoint clear.",
+          "examples": [
+            "I prefer studying in the morning.",
+            "For me, a quiet library is a good place to learn.",
+            "I think walking is the best way to explore my town."
+          ]
+        },
+        {
+          "heading": "Support the idea with a concrete example",
+          "text": "A reason explains why you hold the opinion. An example shows the reason in a particular situation. Because can connect the opinion and reason; for example introduces a detail. Do not simply repeat the same statement with different adjectives, because the reader still needs supporting information.",
+          "examples": [
+            "I study early because I feel more alert.",
+            "For example, I can read a short article before work.",
+            "Later in the day, I am often tired."
+          ]
+        },
+        {
+          "heading": "End with a connected final sentence",
+          "text": "Write seventy to ninety words with an opinion, a reason, a concrete example, and a final sentence. Keep all the sentences connected to the same main idea. Read the paragraph and underline the reason and example. If you cannot find them, add a detail that helps the reader understand your choice.",
+          "examples": [
+            "That is why mornings work well for me.",
+            "Different learners may prefer a different time.",
+            "My choice fits my daily routine."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which sentence gives a clear personal opinion?",
+          "options": [
+            "The page has four corners.",
+            "Yesterday was Tuesday.",
+            "I prefer studying in the morning.",
+            "There are ten pencils."
+          ],
+          "answer": 2,
+          "explanation": "Prefer directly states the writer’s choice."
+        },
+        {
+          "prompt": "Which detail best supports preferring morning study?",
+          "options": [
+            "I feel alert then and finish reading before work.",
+            "My bag is red.",
+            "The bus has wheels.",
+            "My neighbour has a cat."
+          ],
+          "answer": 0,
+          "explanation": "The detail explains why morning study fits the writer’s energy and schedule."
+        },
+        {
+          "prompt": "What should an example do in this paragraph?",
+          "options": [
+            "Show the reason in a specific situation.",
+            "Introduce a completely unrelated topic.",
+            "Repeat the title without adding detail.",
+            "Replace every verb."
+          ],
+          "answer": 0,
+          "explanation": "A specific example helps the reader see how the reason works in practice."
+        }
+      ]
+    },
+    {
+      "id": "a2-balanced-place-review",
+      "level": "a2",
+      "skill": "writing",
+      "title": "Write a useful place review",
+      "description": "Describe an experience, give evidence, and recommend fairly.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Give the reader a clear context",
+          "text": "A review helps another person decide whether a place may suit them. Name the kind of place and say when you visited. Choose details a reader can use, such as service, noise, access, or value. Do not present one visit as proof that every visit will be identical.",
+          "examples": [
+            "I visited the Garden Café on Saturday afternoon.",
+            "It was busy, but we found a table outside.",
+            "We ordered two sandwiches and tea."
+          ]
+        },
+        {
+          "heading": "Support praise and criticism with details",
+          "text": "An adjective such as excellent or terrible is more useful with an example. Explain what happened instead of attacking the people who work there. A balanced review can mention a strength and a limitation, but it should not invent a problem just to sound balanced.",
+          "examples": [
+            "The server brought water without being asked.",
+            "Our food took twenty minutes to arrive.",
+            "The outdoor tables were beside a noisy road."
+          ]
+        },
+        {
+          "heading": "Make a recommendation for a particular reader",
+          "text": "Finish by explaining whom the place may suit and why. Write eighty to one hundred words with two specific details from an imaginary or real visit. Check past tenses for your visit and present forms for cautiously stated general features. Remove personal information about staff or other customers.",
+          "examples": [
+            "I would recommend it for a quick lunch.",
+            "Choose an indoor table if you want a quieter conversation.",
+            "I would visit again on a less busy day."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which detail gives useful evidence about service?",
+          "options": [
+            "Everything was everything.",
+            "Good good good.",
+            "The server brought water without being asked.",
+            "The café exists somewhere."
+          ],
+          "answer": 2,
+          "explanation": "The specific action helps a reader understand what the service was like."
+        },
+        {
+          "prompt": "Which ending gives a useful targeted recommendation?",
+          "options": [
+            "Everyone must love it for every reason.",
+            "Choose an indoor table if you want a quieter conversation.",
+            "No one can ever disagree with me.",
+            "The end of words."
+          ],
+          "answer": 1,
+          "explanation": "The recommendation names a reader’s need and a practical choice."
+        },
+        {
+          "prompt": "Which statement fairly limits a review to the writer’s experience?",
+          "options": [
+            "The food is always late for everyone forever.",
+            "All workers everywhere are the same.",
+            "Nobody has ever enjoyed this place.",
+            "The food took twenty minutes during my Saturday visit."
+          ],
+          "answer": 3,
+          "explanation": "The selected statement reports a specific observation without an unsupported universal claim."
+        }
+      ]
+    },
+    {
+      "id": "a2-polite-problem-email",
+      "level": "a2",
+      "skill": "writing",
+      "title": "Write a polite email about a problem",
+      "description": "Explain what happened and request a specific solution.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Identify the item and the problem",
+          "text": "A helpful problem email names the item or service, gives a date or reference when relevant, and explains the issue. Keep the opening calm and specific. The reader needs enough information to identify the case before deciding what action is possible. Use imaginary details for this practice.",
+          "examples": [
+            "Subject: Missing notebook from order 246",
+            "I ordered two notebooks on 8 June.",
+            "Only one notebook arrived in the package."
+          ]
+        },
+        {
+          "heading": "State the facts in a clear order",
+          "text": "Explain what you expected and what actually happened. Add a relevant detail, such as the package appearing undamaged, only if it is true in your scenario. Avoid guessing who caused the problem. The past simple describes completed events; the present simple can describe the current situation.",
+          "examples": [
+            "The package arrived yesterday.",
+            "It contained one notebook instead of two.",
+            "I still need the second notebook for my class."
+          ]
+        },
+        {
+          "heading": "Ask for one practical next step",
+          "text": "Say what solution you would like and invite a reply. A polite, specific request is easier to act on than an angry general complaint. Write eighty to one hundred words with a subject, greeting, facts, request, and closing. Check the reference number and make sure the request matches the problem.",
+          "examples": [
+            "Could you send the missing notebook, please?",
+            "Please let me know when it can be sent.",
+            "Thank you for your help. Kind regards, Nila"
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which subject line best identifies the problem?",
+          "options": [
+            "Hello things",
+            "Missing notebook from order 246",
+            "Everything now",
+            "No subject about anything"
+          ],
+          "answer": 1,
+          "explanation": "The line names both the issue and an identifying order reference."
+        },
+        {
+          "prompt": "Which sentence states a fact without guessing blame?",
+          "options": [
+            "Your worker definitely stole it.",
+            "Everyone at the company is careless.",
+            "The package contained one notebook instead of two.",
+            "You always make mistakes."
+          ],
+          "answer": 2,
+          "explanation": "The selected sentence describes the observable problem and avoids unsupported blame."
+        },
+        {
+          "prompt": "Which request directly matches a missing notebook?",
+          "options": [
+            "Could you send the missing notebook, please?",
+            "Could you repaint the station?",
+            "Please explain the weather.",
+            "Could you change my neighbour’s job?"
+          ],
+          "answer": 0,
+          "explanation": "The requested action resolves the specific item that was not delivered."
+        }
+      ]
+    },
+    {
+      "id": "a2-past-ed-endings",
+      "level": "a2",
+      "skill": "speaking",
+      "title": "Say regular past endings clearly",
+      "description": "Practice the three common pronunciations of ed in regular past verbs.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Listen to the final sound of the base verb",
+          "text": "The spelling ed has three common pronunciations in regular past verbs. After many voiceless sounds, it sounds like t, as in walked. After many voiced sounds, it sounds like d, as in played. The base verb’s final sound matters more than its final written letter.",
+          "examples": [
+            "walk → walked: t ending",
+            "play → played: d ending",
+            "wash → washed: t ending"
+          ]
+        },
+        {
+          "heading": "Add a syllable after t or d",
+          "text": "After a base verb ending in a t or d sound, ed adds an extra syllable, often sounding like id. Wanted and needed each have an extra beat compared with want and need. Do not add that extra beat to every regular past verb; played normally stays one syllable.",
+          "examples": [
+            "want → wanted",
+            "need → needed",
+            "play → played, not play-id"
+          ]
+        },
+        {
+          "heading": "Keep the ending in a short story",
+          "text": "Choose three past actions from yesterday or an imaginary day, with one example of each ending type. Say the sentences slowly and keep the final sounds audible. Then join them with natural pauses. Ask a partner to identify whether you are talking about yesterday or a regular daily habit.",
+          "examples": [
+            "I walked to the shop.",
+            "I played a game.",
+            "I wanted a quiet evening."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which verb normally has an extra syllable in its ed ending?",
+          "options": [
+            "Played",
+            "Walked",
+            "Wanted",
+            "Washed"
+          ],
+          "answer": 2,
+          "explanation": "Want ends in a t sound, so wanted adds an extra syllable."
+        },
+        {
+          "prompt": "What mainly determines the pronunciation of a regular ed ending?",
+          "options": [
+            "The number of letters in the subject.",
+            "The colour of the page.",
+            "The first letter of the sentence.",
+            "The final sound of the base verb."
+          ],
+          "answer": 3,
+          "explanation": "The base verb’s final sound determines which common ed pronunciation follows."
+        },
+        {
+          "prompt": "Which word normally ends in a t sound?",
+          "options": [
+            "Played",
+            "Walked",
+            "Needed",
+            "Wanted"
+          ],
+          "answer": 1,
+          "explanation": "Walked has a voiceless final consonant before ed, so the ending is pronounced t."
+        }
+      ]
+    },
+    {
+      "id": "a2-make-suggestions-agree",
+      "level": "a2",
+      "skill": "speaking",
+      "title": "Make a plan together",
+      "description": "Offer a suggestion, respond politely, and settle on a practical arrangement.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Offer an activity with a clear phrase",
+          "text": "Use Let’s plus a base verb to suggest a shared action. Shall we plus a base verb is another common suggestion. Add enough information for your partner to react, such as the activity and a possible time. Speak with a friendly tone rather than treating a suggestion as an order.",
+          "examples": [
+            "Let’s study together on Friday.",
+            "Shall we meet at the library?",
+            "How about going for a walk?"
+          ]
+        },
+        {
+          "heading": "Accept or suggest an alternative",
+          "text": "A positive response can be short, but add a useful detail to move the plan forward. If the suggestion does not suit you, give a brief reason and offer an alternative. You do not need a long apology. The goal is an arrangement that works for both people.",
+          "examples": [
+            "That sounds good. What time?",
+            "I can’t on Friday. How about Saturday?",
+            "I prefer the café because it is nearer."
+          ]
+        },
+        {
+          "heading": "Confirm the final plan clearly",
+          "text": "Once you agree, summarize the activity, place, and time. Stress the important words gently so the listener notices them. Ask a short confirmation question if any detail is uncertain. Practice a one-minute exchange in which the first suggestion changes before you agree on a final plan.",
+          "examples": [
+            "So, Saturday at ten in the library.",
+            "Is that the library near the park?",
+            "Yes. See you there."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Which phrase makes a shared suggestion correctly?",
+          "options": [
+            "Let’s to meeting at library.",
+            "Let’s meet at the library.",
+            "Let’s meets at the library.",
+            "Let us meeting library."
+          ],
+          "answer": 1,
+          "explanation": "Let’s takes the base verb meet."
+        },
+        {
+          "prompt": "Which response politely offers an alternative?",
+          "options": [
+            "Your plan is stupid.",
+            "I will never listen.",
+            "I can’t on Friday. How about Saturday?",
+            "No, and I refuse to explain anything."
+          ],
+          "answer": 2,
+          "explanation": "The response gives a brief limit and another possible day."
+        },
+        {
+          "prompt": "Which details should a final plan usually confirm?",
+          "options": [
+            "Only the colour of a pen.",
+            "Every person’s entire history.",
+            "Activity, place, and time.",
+            "An unrelated weather event from last year."
+          ],
+          "answer": 2,
+          "explanation": "Those practical details let both people act on the agreement."
+        }
+      ]
+    },
+    {
+      "id": "a2-repair-and-rephrase",
+      "level": "a2",
+      "skill": "speaking",
+      "title": "Explain again when a word is missing",
+      "description": "Use descriptions, clarification, and polite repair to keep speaking.",
+      "minutes": 12,
+      "content": [
+        {
+          "heading": "Describe a word you cannot remember",
+          "text": "If you forget a word, explain its purpose, appearance, or category. Use simple language you already know instead of stopping completely. The listener may help with the word. A clear description can communicate successfully even when it is longer than the exact word you wanted.",
+          "examples": [
+            "It is the thing you use to open a bottle.",
+            "It is a place where you borrow books.",
+            "It is round and you kick it in a game."
+          ]
+        },
+        {
+          "heading": "Check the part you did not understand",
+          "text": "Ask a focused question rather than repeating I don’t understand for the whole conversation. You can ask what a word means or check one detail. Repeat the interpretation you think is right and let the speaker confirm or correct it. This gives both people a way forward.",
+          "examples": [
+            "What does platform mean here?",
+            "Do you mean the station entrance?",
+            "Did you say fifteen or fifty?"
+          ]
+        },
+        {
+          "heading": "Correct yourself in a short, calm way",
+          "text": "A repair is a small correction during speaking. Use sorry, I mean to replace an incorrect detail without restarting the entire conversation. Practice describing an object, clarifying one number, and correcting one date. Pause between ideas so your listener has enough time to follow the new information.",
+          "examples": [
+            "We meet on Monday—sorry, I mean Tuesday.",
+            "It costs fifteen, not fifty.",
+            "Let me say that another way."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "You forget the word library. Which description helps?",
+          "options": [
+            "A person who repairs cars.",
+            "A drink made from fruit.",
+            "A place where you borrow books.",
+            "A thing you wear on your feet."
+          ],
+          "answer": 2,
+          "explanation": "The description gives the defining everyday purpose of a library."
+        },
+        {
+          "prompt": "Which phrase politely corrects your own mistake?",
+          "options": [
+            "You never listen to anything.",
+            "Sorry, I mean Tuesday.",
+            "Forget every word forever.",
+            "This conversation has no words."
+          ],
+          "answer": 1,
+          "explanation": "I mean introduces the corrected detail without restarting the whole message."
+        },
+        {
+          "prompt": "Which question checks an unclear number?",
+          "options": [
+            "What is your favourite fruit?",
+            "Did you say fifteen or fifty?",
+            "Can you cook rice?",
+            "Where is my jacket?"
+          ],
+          "answer": 1,
+          "explanation": "The question isolates the number contrast that needs clarification."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "window",
+      "meaning": "An opening with glass that lets light into a room.",
+      "example": "Please open the window.",
+      "level": "a0"
+    },
+    {
+      "word": "key",
+      "meaning": "A small object used to open a lock.",
+      "example": "My key is in my bag.",
+      "level": "a0"
+    },
+    {
+      "word": "table",
+      "meaning": "A piece of furniture with a flat top.",
+      "example": "The book is on the table.",
+      "level": "a0"
+    },
+    {
+      "word": "shoe",
+      "meaning": "Something you wear on a foot.",
+      "example": "This shoe is black.",
+      "level": "a0"
+    },
+    {
+      "word": "shirt",
+      "meaning": "A piece of clothing for the upper part of the body.",
+      "example": "I have a blue shirt.",
+      "level": "a0"
+    },
+    {
+      "word": "red",
+      "meaning": "The colour of a ripe tomato.",
+      "example": "Her bag is red.",
+      "level": "a0"
+    },
+    {
+      "word": "hand",
+      "meaning": "The body part at the end of your arm.",
+      "example": "This is my left hand.",
+      "level": "a0"
+    },
+    {
+      "word": "feet",
+      "meaning": "The plural of foot; the body parts you stand on.",
+      "example": "My feet are cold.",
+      "level": "a0"
+    },
+    {
+      "word": "hungry",
+      "meaning": "Wanting or needing food.",
+      "example": "I am hungry after class.",
+      "level": "a0"
+    },
+    {
+      "word": "thirsty",
+      "meaning": "Wanting or needing a drink.",
+      "example": "He is thirsty and wants water.",
+      "level": "a0"
+    },
+    {
+      "word": "Monday",
+      "meaning": "The day after Sunday and before Tuesday.",
+      "example": "Our class is on Monday.",
+      "level": "a0"
+    },
+    {
+      "word": "today",
+      "meaning": "The day that is happening now.",
+      "example": "Today is Friday.",
+      "level": "a0"
+    },
+    {
+      "word": "under",
+      "meaning": "In a position below something.",
+      "example": "The bag is under the chair.",
+      "level": "a0"
+    },
+    {
+      "word": "near",
+      "meaning": "A short distance away.",
+      "example": "My home is near the school.",
+      "level": "a0"
+    },
+    {
+      "word": "please",
+      "meaning": "A word used to make a request polite.",
+      "example": "A pen, please.",
+      "level": "a0"
+    },
+    {
+      "word": "ready",
+      "meaning": "Prepared to do something.",
+      "example": "We are ready for class.",
+      "level": "a0"
+    },
+    {
+      "word": "peel",
+      "meaning": "To remove the outer skin of a fruit or vegetable.",
+      "example": "Peel the banana before eating it.",
+      "level": "a1"
+    },
+    {
+      "word": "pour",
+      "meaning": "To make a liquid flow into or out of a container.",
+      "example": "Pour the water into a glass.",
+      "level": "a1"
+    },
+    {
+      "word": "stir",
+      "meaning": "To move a spoon or similar tool around in a liquid or mixture.",
+      "example": "Stir the soup with a spoon.",
+      "level": "a1"
+    },
+    {
+      "word": "cloudy",
+      "meaning": "Having many clouds in the sky.",
+      "example": "It is cloudy this morning.",
+      "level": "a1"
+    },
+    {
+      "word": "umbrella",
+      "meaning": "An object held above you to protect you from rain.",
+      "example": "Bring an umbrella because rain is expected.",
+      "level": "a1"
+    },
+    {
+      "word": "season",
+      "meaning": "One of the periods into which a year is divided by weather or daylight patterns.",
+      "example": "This is the wet season here.",
+      "level": "a1"
+    },
+    {
+      "word": "mechanic",
+      "meaning": "A person whose work is repairing machines or vehicles.",
+      "example": "A mechanic repaired our car.",
+      "level": "a1"
+    },
+    {
+      "word": "bakery",
+      "meaning": "A place where bread and similar foods are made or sold.",
+      "example": "I buy fresh bread at the bakery.",
+      "level": "a1"
+    },
+    {
+      "word": "patient",
+      "meaning": "A person receiving care from a medical professional.",
+      "example": "The nurse spoke to the patient.",
+      "level": "a1"
+    },
+    {
+      "word": "receptionist",
+      "meaning": "A person who welcomes visitors and helps organize appointments.",
+      "example": "The receptionist confirmed my haircut time.",
+      "level": "a1"
+    },
+    {
+      "word": "register",
+      "meaning": "To put your name on an official list for an activity or service.",
+      "example": "Please register before your first class.",
+      "level": "a1"
+    },
+    {
+      "word": "exchange",
+      "meaning": "To give one thing and receive another in return.",
+      "example": "We exchange books at the club.",
+      "level": "a1"
+    },
+    {
+      "word": "instead",
+      "meaning": "In place of another person, thing, or action.",
+      "example": "I cannot come on Friday; let us meet on Saturday instead.",
+      "level": "a1"
+    },
+    {
+      "word": "altogether",
+      "meaning": "In total, after everything is included.",
+      "example": "The fruit costs three pounds altogether.",
+      "level": "a1"
+    },
+    {
+      "word": "immediately",
+      "meaning": "Without waiting; at once.",
+      "example": "Serve the snack immediately.",
+      "level": "a1"
+    },
+    {
+      "word": "finally",
+      "meaning": "After everything else; at the last step.",
+      "example": "Finally, press Save.",
+      "level": "a1"
+    },
+    {
+      "word": "symptom",
+      "meaning": "A physical or mental change that may indicate a health condition.",
+      "example": "A cough can be a symptom of several different conditions.",
+      "level": "a2"
+    },
+    {
+      "word": "prescription",
+      "meaning": "An authorized instruction for supplying a medicine.",
+      "example": "The pharmacist checked the prescription.",
+      "level": "a2"
+    },
+    {
+      "word": "relieved",
+      "meaning": "Feeling better because a worry or difficulty has ended.",
+      "example": "I felt relieved when I found my keys.",
+      "level": "a2"
+    },
+    {
+      "word": "disappointed",
+      "meaning": "Unhappy because something was not as good as you hoped.",
+      "example": "She was disappointed when the concert was cancelled.",
+      "level": "a2"
+    },
+    {
+      "word": "annoying",
+      "meaning": "Causing someone to feel slightly angry or bothered.",
+      "example": "The repeated noise was annoying.",
+      "level": "a2"
+    },
+    {
+      "word": "helpful",
+      "meaning": "Giving useful support or information.",
+      "example": "The clear map was helpful.",
+      "level": "a2"
+    },
+    {
+      "word": "requirement",
+      "meaning": "Something that is necessary or demanded by a rule.",
+      "example": "Photo ID is a requirement for this hire service.",
+      "level": "a2"
+    },
+    {
+      "word": "proof",
+      "meaning": "Information or material used to show that something is true.",
+      "example": "New members need proof of their address.",
+      "level": "a2"
+    },
+    {
+      "word": "gloves",
+      "meaning": "Clothing that covers the hands and usually has separate parts for the fingers.",
+      "example": "The organizer provides gloves for the river clean-up.",
+      "level": "a2"
+    },
+    {
+      "word": "harvest",
+      "meaning": "The act or time of collecting a crop that is ready to use.",
+      "example": "The neighbours shared tomatoes at the first harvest.",
+      "level": "a2"
+    },
+    {
+      "word": "optional",
+      "meaning": "Available to choose, but not required.",
+      "example": "Breakfast is an optional extra.",
+      "level": "a2"
+    },
+    {
+      "word": "included",
+      "meaning": "Provided as part of something, such as a price or service.",
+      "example": "Parking is included in the cottage price.",
+      "level": "a2"
+    },
+    {
+      "word": "badge",
+      "meaning": "A small sign or decoration attached to clothing or an object.",
+      "example": "The backpack has a yellow star badge.",
+      "level": "a2"
+    },
+    {
+      "word": "rephrase",
+      "meaning": "To express the same meaning using different words.",
+      "example": "Could you rephrase the question more simply?",
+      "level": "a2"
+    },
+    {
+      "word": "clarify",
+      "meaning": "To make a meaning or detail easier to understand.",
+      "example": "Could you clarify whether breakfast is included?",
+      "level": "a2"
+    },
+    {
+      "word": "recommend",
+      "meaning": "To suggest that someone or something is a good choice.",
+      "example": "I recommend the indoor tables for a quiet conversation.",
+      "level": "a2"
+    }
+  ]
+}
