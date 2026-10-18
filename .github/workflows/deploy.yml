@@ -1,0 +1,80 @@
+name: Deploy Fluently to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      pages_enabled: ${{ steps.pages.outputs.enabled }}
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v6
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          package-manager-cache: false
+      - name: Compile learning curriculum
+        run: node scripts/compile-curriculum.mjs
+      - name: Verify learning content
+        run: node --test tests/*.test.mjs
+      - name: Build static website
+        run: node scripts/build.mjs
+      - name: Check whether GitHub Pages is configured
+        id: pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.error
+          request = urllib.request.Request(
+              os.environ['GITHUB_API_URL'] + '/repos/' + os.environ['GITHUB_REPOSITORY'] + '/pages',
+              headers={'Authorization': 'Bearer ' + os.environ['GITHUB_TOKEN'], 'Accept': 'application/vnd.github+json'},
+          )
+          try:
+              with urllib.request.urlopen(request, timeout=30) as response:
+                  enabled = json.load(response).get('build_type') == 'workflow'
+          except urllib.error.HTTPError as error:
+              if error.code != 404:
+                  raise
+              enabled = False
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write('enabled=' + str(enabled).lower() + '\n')
+          if not enabled:
+              print('Build verified. Pages deployment is skipped until Settings > Pages uses GitHub Actions on a supported plan.')
+          PY
+      - name: Configure GitHub Pages
+        if: steps.pages.outputs.enabled == 'true'
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        if: steps.pages.outputs.enabled == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    if: needs.build.outputs.pages_enabled == 'true'
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
