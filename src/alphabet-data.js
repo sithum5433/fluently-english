@@ -21,7 +21,7 @@ const guide = (strokes, instructions) => ({ strokes, instructions });
 
 export const ALPHABET = [
   {
-    letter: 'A', word: 'apple', emoji: '🍎',
+    letter: 'A', word: 'apple', emoji: '🍎', sound: '/æ/', soundCue: 'ah, like in apple',
     upper: guide([
       line([200, 60], [125, 240]),
       line([200, 60], [275, 240]),
@@ -33,7 +33,7 @@ export const ALPHABET = [
     ], ['Start on the right and curve round to make a little circle.', 'Start at the top right and draw a line down.']),
   },
   {
-    letter: 'B', word: 'ball', emoji: '⚽',
+    letter: 'B', word: 'ball', emoji: '⚽', sound: '/b/', soundCue: 'b, like in ball',
     upper: guide([
       line([140, 60], [140, 240]),
       join(curve([140, 60], [290, 60], [290, 150], [140, 150]),
@@ -45,14 +45,14 @@ export const ALPHABET = [
     ], ['Draw a tall line down.', 'Start halfway down and curve right, round, and back to the line.']),
   },
   {
-    letter: 'C', word: 'cat', emoji: '🐱',
+    letter: 'C', word: 'cat', emoji: '🐱', sound: '/k/', soundCue: 'k, like in cat',
     upper: guide([arc(205, 150, 75, 90, -40, -320)],
       ['Start near the top right. Curve left, down, and round. Leave a gap.']),
     lower: guide([arc(205, 180, 55, 60, -40, -320)],
       ['Make a little curve left, down, and round. Leave a gap.']),
   },
   {
-    letter: 'D', word: 'dog', emoji: '🐶',
+    letter: 'D', word: 'dog', emoji: '🐶', sound: '/d/', soundCue: 'd, like in dog',
     upper: guide([
       line([140, 60], [140, 240]),
       curve([140, 60], [310, 60], [310, 240], [140, 240]),
@@ -63,7 +63,7 @@ export const ALPHABET = [
     ], ['Curve round to make a little circle.', 'Start high on the right and draw a tall line down.']),
   },
   {
-    letter: 'E', word: 'egg', emoji: '🥚',
+    letter: 'E', word: 'egg', emoji: '🥚', sound: '/e/', soundCue: 'eh, like in egg',
     upper: guide([
       line([140, 60], [140, 240]),
       line([140, 60], [265, 60]),
@@ -77,7 +77,7 @@ export const ALPHABET = [
     ], ['Go right across the middle, curve up and round, then finish with a smile.']),
   },
   {
-    letter: 'F', word: 'fish', emoji: '🐟',
+    letter: 'F', word: 'fish', emoji: '🐟', sound: '/f/', soundCue: 'f, like in fish',
     upper: guide([
       line([140, 60], [140, 240]),
       line([140, 60], [265, 60]),
@@ -89,7 +89,7 @@ export const ALPHABET = [
     ], ['Curve over the top, then draw a tall line down.', 'Draw a little bridge across.']),
   },
   {
-    letter: 'G', word: 'grapes', emoji: '🍇',
+    letter: 'G', word: 'grapes', emoji: '🍇', sound: '/ɡ/', soundCue: 'g, like in grapes',
     upper: guide([
       join(arc(200, 150, 75, 90, -40, -360), line([275, 150], [220, 150])),
     ], ['Curve left, down, and round. Go up the right side, then draw a little line left.']),
@@ -101,7 +101,7 @@ export const ALPHABET = [
     ], ['Curve round to make a little circle.', 'Draw down the right side, below the line, then curl left.']),
   },
   {
-    letter: 'H', word: 'hat', emoji: '🎩',
+    letter: 'H', word: 'hat', emoji: '🎩', sound: '/h/', soundCue: 'h, like in hat',
     upper: guide([
       line([135, 60], [135, 240]), line([265, 60], [265, 240]), line([135, 150], [265, 150]),
     ], ['Draw a tall line down on the left.', 'Draw a tall line down on the right.', 'Join them with a bridge across the middle.']),
@@ -111,7 +111,7 @@ export const ALPHABET = [
     ], ['Draw a tall line down.', 'Start halfway down, curve up and over, then draw down.']),
   },
   {
-    letter: 'I', word: 'ice cream', emoji: '🍦',
+    letter: 'I', word: 'igloo', emoji: '🛖', sound: '/ɪ/', soundCue: 'ih, like in igloo and in',
     upper: guide([
       line([200, 60], [200, 240]), line([150, 60], [250, 60]), line([150, 240], [250, 240]),
     ], ['Draw a tall line down.', 'Draw a little hat across the top.', 'Draw a little foot across the bottom.']),
@@ -120,7 +120,7 @@ export const ALPHABET = [
     ], ['Draw a short line down.', 'Add a little dot above it.']),
   },
   {
-    letter: 'J', word: 'juice', emoji: '🧃',
+    letter: 'J', word: 'juice', emoji: '🧃', sound: '/dʒ/', soundCue: 'j, like in juice',
     upper: guide([
       join(line([245, 60], [245, 185]), curve([245, 185], [245, 258], [140, 258], [140, 195])),
       line([180, 60], [280, 60]),
@@ -131,7 +131,7 @@ export const ALPHABET = [
     ], ['Draw down below the line, then curl left.', 'Add a little dot above it.']),
   },
   {
-    letter: 'K', word: 'kite', emoji: '🪁',
+    letter: 'K', word: 'kite', emoji: '🪁', sound: '/k/', soundCue: 'k, like in kite',
     upper: guide([
       line([140, 60], [140, 240]), line([265, 60], [140, 160]), line([190, 120], [270, 240]),
     ], ['Draw a tall line down.', 'Start at the top right and slide to the middle of the tall line.', 'Start on the sloping arm and slide down to the right.']),
@@ -140,13 +140,13 @@ export const ALPHABET = [
     ], ['Draw a tall line down.', 'Slide from the right to the middle of the tall line.', 'Slide down to the right to make a little leg.']),
   },
   {
-    letter: 'L', word: 'lion', emoji: '🦁',
+    letter: 'L', word: 'lion', emoji: '🦁', sound: '/l/', soundCue: 'l, like in lion',
     upper: guide([line([140, 60], [140, 240], [270, 240])],
       ['Draw a tall line down, then turn right along the bottom.']),
     lower: guide([line([200, 60], [200, 240])], ['Draw one tall line from top to bottom.']),
   },
   {
-    letter: 'M', word: 'moon', emoji: '🌙',
+    letter: 'M', word: 'moon', emoji: '🌙', sound: '/m/', soundCue: 'm, like in moon',
     upper: guide([
       line([125, 60], [125, 240]), line([125, 60], [200, 170], [275, 60], [275, 240]),
     ], ['Draw a tall line down.', 'Go back to the top. Slide down to the middle, up to the right, then straight down.']),
@@ -157,7 +157,7 @@ export const ALPHABET = [
     ], ['Draw a short line down.', 'Make one little hill, then draw down.', 'Make a second little hill, then draw down.']),
   },
   {
-    letter: 'N', word: 'nest', emoji: '🪺',
+    letter: 'N', word: 'nest', emoji: '🪺', sound: '/n/', soundCue: 'n, like in nest',
     upper: guide([
       line([135, 60], [135, 240]), line([135, 60], [265, 240]), line([265, 60], [265, 240]),
     ], ['Draw a tall line down.', 'Go back to the top and slide down to the right.', 'Draw another tall line down on the right.']),
@@ -167,14 +167,14 @@ export const ALPHABET = [
     ], ['Draw a short line down.', 'Make a little hill, then draw down.']),
   },
   {
-    letter: 'O', word: 'orange', emoji: '🍊',
+    letter: 'O', word: 'orange', emoji: '🍊', sound: '/ɒ/', soundCue: 'o, like in orange',
     upper: guide([arc(200, 150, 75, 90, -90, -450)],
       ['Start at the top. Curve left, down, and all the way round.']),
     lower: guide([arc(200, 180, 50, 60, -90, -450)],
       ['Start at the top and curve all the way round to make a little circle.']),
   },
   {
-    letter: 'P', word: 'penguin', emoji: '🐧',
+    letter: 'P', word: 'penguin', emoji: '🐧', sound: '/p/', soundCue: 'p, like in penguin',
     upper: guide([
       line([140, 60], [140, 240]),
       curve([140, 60], [300, 60], [300, 160], [140, 160]),
@@ -185,7 +185,7 @@ export const ALPHABET = [
     ], ['Draw a line down below the baseline.', 'Start near the top and curve right, round, and back to the line.']),
   },
   {
-    letter: 'Q', word: 'queen', emoji: '👑',
+    letter: 'Q', word: 'queen', emoji: '👸', sound: '/kw/', soundCue: 'kw, like in queen (q and u together)',
     upper: guide([
       arc(195, 145, 70, 85, -90, -450), line([215, 195], [275, 240]),
     ], ['Start at the top and curve all the way round.', 'Add a little tail sloping down to the right.']),
@@ -194,7 +194,7 @@ export const ALPHABET = [
     ], ['Curve round to make a little circle.', 'Draw down the right side and keep going below the baseline.']),
   },
   {
-    letter: 'R', word: 'rainbow', emoji: '🌈',
+    letter: 'R', word: 'rainbow', emoji: '🌈', sound: '/r/', soundCue: 'r, like in rainbow',
     upper: guide([
       line([140, 60], [140, 240]),
       curve([140, 60], [295, 60], [295, 155], [140, 155]),
@@ -205,7 +205,7 @@ export const ALPHABET = [
     ], ['Draw a short line down.', 'Start halfway down and curve up and over to make a little shoulder.']),
   },
   {
-    letter: 'S', word: 'sun', emoji: '☀️',
+    letter: 'S', word: 'sun', emoji: '☀️', sound: '/s/', soundCue: 's, like in sun',
     upper: guide([
       join(curve([265, 90], [215, 25], [115, 65], [140, 125]),
         curve([140, 125], [155, 160], [265, 145], [265, 200]),
@@ -218,7 +218,7 @@ export const ALPHABET = [
     ], ['Make a little curve at the top, slide through the middle, and curve back at the bottom.']),
   },
   {
-    letter: 'T', word: 'turtle', emoji: '🐢',
+    letter: 'T', word: 'turtle', emoji: '🐢', sound: '/t/', soundCue: 't, like in turtle',
     upper: guide([
       line([200, 60], [200, 240]), line([125, 60], [275, 60]),
     ], ['Draw a tall line down.', 'Draw a wide hat across the top.']),
@@ -228,7 +228,7 @@ export const ALPHABET = [
     ], ['Draw down, then curl a little to the right.', 'Draw a little bridge across near the top.']),
   },
   {
-    letter: 'U', word: 'umbrella', emoji: '☂️',
+    letter: 'U', word: 'umbrella', emoji: '☂️', sound: '/ʌ/', soundCue: 'uh, like in umbrella',
     upper: guide([
       join(line([135, 60], [135, 185]), curve([135, 185], [135, 258], [265, 258], [265, 185]),
         line([265, 185], [265, 60])),
@@ -240,21 +240,21 @@ export const ALPHABET = [
     ], ['Draw down, curve round, and go back up.', 'Draw down again on the right.']),
   },
   {
-    letter: 'V', word: 'violin', emoji: '🎻',
+    letter: 'V', word: 'violin', emoji: '🎻', sound: '/v/', soundCue: 'v, like in violin',
     upper: guide([line([125, 60], [200, 240], [275, 60])],
       ['Slide down to a point, then slide up to the right.']),
     lower: guide([line([145, 120], [200, 240], [255, 120])],
       ['Slide down to a little point, then slide up to the right.']),
   },
   {
-    letter: 'W', word: 'whale', emoji: '🐋',
+    letter: 'W', word: 'whale', emoji: '🐋', sound: '/w/', soundCue: 'w, like in whale',
     upper: guide([line([120, 60], [155, 240], [200, 120], [245, 240], [280, 60])],
       ['Slide down, up, down, and up again. Make two points.']),
     lower: guide([line([120, 120], [155, 240], [200, 155], [245, 240], [280, 120])],
       ['Slide down, up, down, and up to make two little points.']),
   },
   {
-    letter: 'X', word: 'xylophone', emoji: '🎵',
+    letter: 'X', word: 'box', emoji: '📦', soundPosition: 'end', sound: '/ks/', soundCue: 'ks, like at the end of box and six',
     upper: guide([
       line([130, 60], [270, 240]), line([270, 60], [130, 240]),
     ], ['Slide from the top left to the bottom right.', 'Cross over from the top right to the bottom left.']),
@@ -263,7 +263,7 @@ export const ALPHABET = [
     ], ['Slide from the top left to the bottom right.', 'Cross over from the top right to the bottom left.']),
   },
   {
-    letter: 'Y', word: 'yo-yo', emoji: '🪀',
+    letter: 'Y', word: 'yo-yo', emoji: '🪀', sound: '/j/', soundCue: 'y, like in yo-yo',
     upper: guide([
       line([125, 60], [200, 150]), line([275, 60], [200, 150], [200, 240]),
     ], ['Slide from the top left to the middle.', 'Slide from the top right to the middle, then draw straight down.']),
@@ -272,7 +272,7 @@ export const ALPHABET = [
     ], ['Slide down from the left to the baseline.', 'Slide down from the right and keep going below the baseline.']),
   },
   {
-    letter: 'Z', word: 'zebra', emoji: '🦓',
+    letter: 'Z', word: 'zebra', emoji: '🦓', sound: '/z/', soundCue: 'z, like in zebra',
     upper: guide([line([130, 60], [270, 60], [130, 240], [270, 240])],
       ['Go right across the top, slide down to the left, then go right across the bottom.']),
     lower: guide([line([145, 120], [255, 120], [145, 240], [255, 240])],

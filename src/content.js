@@ -11755,11 +11755,11 @@ export const LESSONS = [
       },
       {
         "heading": "Justifying the Cost",
-        "text": "Do not just ask for money; explain why it is an investment. Use data-driven language. Instead of \"It will be better,\" use \"It will increase efficiency by 20%.\" Contrast the cost of the solution with the cost of doing nothing (the cost of inaction).",
+        "text": "Do not just ask for money; explain why it is an investment. Use data-driven language, but ensure numerical claims are supported by evidence or stated assumptions. Distinguish measured pilot results from realistic estimates and unsupported promises. Instead of vague opinions (\"It will be much better\") or unbacked promises (\"Sales will double\"), use evidence-based projections: \"Based on our two-week pilot, we estimate a 20% gain in processing efficiency.\" Contrast the cost of the solution with the risk of doing nothing (the cost of inaction).",
         "examples": [
-          "Investment: £5,000 for new software.",
-          "Gain: 10 hours of saved labor per week.",
-          "Risk of inaction: Continued data errors and lost revenue."
+          "Investment: £5,000 for order-processing software.",
+          "Gain: Estimated 10 hours of saved labor per week, based on our team's two-week pilot trial.",
+          "Risk of inaction: Continued manual data errors costing approximately £1,200 each quarter in refunds."
         ]
       }
     ],
@@ -11779,12 +11779,12 @@ export const LESSONS = [
         "prompt": "Which statement is more persuasive in a proposal?",
         "options": [
           "This software is really good and we like it.",
-          "This software will reduce manual entry errors by 30%.",
+          "Based on our two-week pilot, we estimate the software will reduce manual entry errors by 30%.",
           "We think the software might help us.",
           "The software is very expensive but nice."
         ],
         "answer": 1,
-        "explanation": "Data-driven claims (30% reduction) are more persuasive than subjective opinions."
+        "explanation": "Numerical claims are most persuasive when supported by evidence or stated assumptions (such as pilot results), rather than unsupported promises or subjective opinions."
       },
       {
         "prompt": "What does “ROI” stand for in a business context?",
