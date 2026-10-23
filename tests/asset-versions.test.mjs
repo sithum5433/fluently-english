@@ -3,9 +3,12 @@ import assert from 'node:assert/strict';
 import { versionApplicationAssets } from '../scripts/asset-versions.mjs';
 
 const sources = () => ({
-  'index.html': '<script src="./src/boot.js?v=local" defer></script>',
+  'styles.css': '.test { color: green; }',
+  'src/alphabet-data.js': 'export const ALPHABET = [];',
+  'src/primary.js': "import { ALPHABET } from './alphabet-data.js?v=local';",
+  'index.html': '<link rel="stylesheet" href="./styles.css?v=local"><script src="./src/boot.js?v=local" defer></script>',
   'src/boot.js': "import('./app.js?v=local').catch(showLoadError);",
-  'src/app.js': "import { LESSONS } from './content.js?v=local';\nimport { renderPractice } from './practice.js?v=local';",
+  'src/app.js': "import { renderPrimary } from './primary.js?v=local';\nimport { LESSONS } from './content.js?v=local';\nimport { renderPractice } from './practice.js?v=local';",
   'src/content.js': 'export const LESSONS = ["First lesson"];',
   'src/practice.js': 'export function renderPractice() {}',
 });
@@ -40,4 +43,22 @@ test('changing either imported module refreshes its own URL and every parent URL
 
 test('a missing dependency reference stops a build instead of shipping unversioned modules', () => {
   assert.throws(() => versionApplicationAssets({ ...sources(), 'src/boot.js': '/* no import */' }), /Missing \.\/app\.js reference/);
+});
+
+
+test('alphabet changes invalidate the activity module and application chain', () => {
+  const original = sources();
+  const before = versionApplicationAssets(original);
+  const after = versionApplicationAssets({ ...original, 'src/alphabet-data.js': 'export const ALPHABET = ["A"];' });
+  for (const filename of ['src/primary.js', 'src/app.js', 'src/boot.js', 'index.html']) {
+    assert.notEqual(after[filename], before[filename], `${filename} must refresh when alphabet data changes.`);
+  }
+});
+
+test('stylesheet changes refresh the stylesheet URL in the built HTML', () => {
+  const original = sources();
+  const before = versionApplicationAssets(original);
+  const after = versionApplicationAssets({ ...original, 'styles.css': '.test { color: blue; }' });
+  assert.notEqual(after['index.html'], before['index.html']);
+  assert.equal(after['src/app.js'], before['src/app.js']);
 });

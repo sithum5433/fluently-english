@@ -19,6 +19,9 @@ function updateReference(source, reference, version, filename) {
 export function versionApplicationAssets(sources) {
   const files = { ...sources };
   const dependencies = [
+    ['src/primary.js', './alphabet-data.js', 'src/alphabet-data.js'],
+    ['src/app.js', './primary.js', 'src/primary.js'],
+    ['index.html', './styles.css', 'styles.css'],
     ['src/app.js', './content.js', 'src/content.js'],
     ['src/app.js', './practice.js', 'src/practice.js'],
     ['src/boot.js', './app.js', 'src/app.js'],

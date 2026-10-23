@@ -17,11 +17,11 @@ for (const entry of required) {
 }
 
 // Stop before replacing a working build if a learning module cannot load.
-for (const entry of ['src/boot.js', 'src/app.js', 'src/content.js', 'src/practice.js']) {
+for (const entry of ['src/boot.js', 'src/app.js', 'src/content.js', 'src/practice.js', 'src/primary.js', 'src/alphabet-data.js']) {
   execFileSync(process.execPath, ['--check', path.join(root, entry)], { stdio: 'inherit' });
 }
 
-const moduleFiles = ['index.html', 'src/boot.js', 'src/app.js', 'src/content.js', 'src/practice.js'];
+const moduleFiles = ['index.html', 'styles.css', 'src/boot.js', 'src/app.js', 'src/content.js', 'src/practice.js', 'src/primary.js', 'src/alphabet-data.js'];
 const sources = Object.fromEntries(await Promise.all(moduleFiles.map(async (entry) => [entry, await readFile(path.join(root, entry), 'utf8')])));
 const versioned = versionApplicationAssets(sources);
 
